@@ -30,10 +30,19 @@ Con el aporte de experiencia técnica y habilidades blandas por parte de cada un
 
 - **How Much:** Este problema afecta a muchos consumidores que buscan obtener productos al mejor precio posible. Así mismo, las empresas pequeñas y medianas se ven afectadas ya que muchas de ellas ofrecen buenas ofertas o valor agregado a un producto pero por la poca visibilidad del negocio no tienen los márgenes de ganacia esperados. 
 
+1.2.2.3. Lean UX Hypothesis Statements
+
+
+
+1.2.2.4. Lean UX Canvas
+
+
 
 ### 1.3. Segmentos objetivo
 
 En base al perfil de nuestro proyecto, hemos decidido que nuestros segmentos objetivo constarán de dos principales clientes:
 
 - Compradores: Los cuales serán personas que buscan ahorrar dinero en sus compras y que valoran la conveniencia de encontrar las mejores ofertas en el menor tiempo posible.
-- Dueños de locales: Viendo que podrían necesitar un impulso para sus negocios, y la oportunidad de ofrecer descuentos puede resultar una forma efectiva de reunir clientes
+- Dueños de locales: Este segmento puede verse beneficiado con el servicio de nuestro emprendimiento, puesto que le ayudaría a comparar sus precios con posibles competencias cercanas y de ser posible mejorar su servicio.
+
+Estos segmentos comprenderían a personas de todas las edades, tomando en cuenta sus posibles preferencias en materia de precios de productos y de distancia entre cada uno de los locales registrados en la aplicación. 
