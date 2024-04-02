@@ -1,31 +1,63 @@
-  <tr>
-    <div align='center'>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png">
-      </div>
+<tr>
+  <div align='center'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
+    </div>
 </tr>
-
-<br>
+<center>
 
 # Universidad Peruana de Ciencias Aplicadas
+
 ### Ingeniería de Software
 ### Desarrollo de Aplicaciones Open Source
 ### WS51
-### Profesor Flores Moroco, Juan Antonio 
----
-
-# Proyecto del Curso.
-
-
-## TF REPORT
-
-### StartUp Name
-
+### Juan Antonio Flores Moroco 
+### " Informe del trabajo final "
+### nombre del StarUp
+### Nombre del Producto
 ### Team Members
 
 |   Members     |   User    |
 |:-------------:|:---------:|
-|Ballona Blas, Naggit German        |u20201b895|
-|Collantes Artola, Marco Antonio |u201410183|
+|Ballona Blas, Naggit German  |u20201b895|
+ 
+
+</center>
+<br><br>
+
+# Registros de versiones del Informe
+
+ <br>
+
+<table align="center">
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+    <tr>
+        <td>Aca va el criterio </td>
+          <td><strong>Nombre</strong><br>
+          <strong>TB1:</strong><br> 
+          aca se escribeawdasdawdawd <br><br> 
+      <td><strong>TB1:</strong><br>
+        Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
+    </td>
+    </tr>
+    
+  </tr>
+  
+</table>
+<br><br>
+
+# Project Report Collaboration Insights
+
+
+<br><br>
+
+# Contenido
+
+
+<br><br>
 
 # Índice
 
@@ -164,28 +196,136 @@
 
 <br><br>
 
- # Registros de versiones del Informe
+# Student Outcome
 
- <br>
 
-<table align="center">
-    <tr>
-      <th>Criterio específico</th>
-      <th>Acciones Realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-    <tr>
-        <td>Aca va el criterio </td>
-          <td><strong>Nombre</strong><br>
-          <strong>TB1:</strong><br> 
-          aca se escribeawdasdawdawd <br><br> 
-      <td><strong>TB1:</strong><br>
-        Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
+
+<br>
+
+## CAPITULO 1: INTRODUCCIÓN
+
+### 1.1. Startup Profile
+#### 1.1.1. Descripción de la Startup
+#### 1.1.2. Perfiles de integrantes del equipo
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Foto</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miembro</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
+  </tr> 
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://cdn.discordapp.com/attachments/891176117204054068/1224808657422782484/pp.jfif?ex=661ed6f3&is=660c61f3&hm=7b81fee336888290bdf6c399c602bb01e0efcd56404f38080c518f8e46ffeccd&" width="100" height="100" style="border-radius: 25%;">
     </td>
-    </tr>
-    
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201b895</td>
   </tr>
-  
 </table>
-<br><br>
 
+### 1.2. Solution Profile
+#### 1.2.1 Antecedentes y problemática
+#### 1.2.2 Lean UX Process.
+#### 1.2.2.1. Lean UX Problem Statements. 
+#### 1.2.2.2. Lean UX Assumptions.
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+#### 1.2.2.4. Lean UX Canvas.
+### 1.3. Segmentos objetivo.
+
+
+<br>
+
+## CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS
+
+### 2.1. Competidores.
+#### 2.1.1. Análisis competitivo.
+#### 2.1.2. Estrategias y tácticas frente a competidores.
+### 2.2. Entrevistas.
+#### 2.2.1. Diseño de entrevistas.
+#### 2.2.2. Registro de entrevistas.
+#### 2.2.3. Análisis de entrevistas.
+### 2.3. Needfinding.
+#### 2.3.1. User Personas.
+#### 2.3.2. User Task Matrix.
+#### 2.3.3. User Journey Mapping.
+#### 2.3.4. Empathy Mapping.
+#### 2.3.5. As-is Scenario Mapping.
+### 2.4. Ubiquitous Language.
+
+<br>
+
+## CAPÍTULO 3: REQUIREMENTS SPECIFICATION
+
+### 3.1. To-Be Scenario Mapping.
+### 3.2. User Stories.
+### 3.3. Impact Mapping.
+### 3.4. Product Backlog.
+
+<br>
+
+## CAPÍTULO 4: PRODUCT DESIGN
+
+### 4.1. Style Guidelines.
+#### 4.1.1. General Style Guidelines.
+#### 4.1.2. Web Style Guidelines.
+### 4.2. Information Architecture.
+#### 4.2.1. Organization Systems.
+#### 4.2.2. Labeling Systems.
+#### 4.2.3. SEO Tags and Meta Tags
+#### 4.2.4. Searching Systems.
+#### 4.2.5. Navigation Systems.
+### 4.3. Landing Page UI Design.
+#### 4.3.1. Landing Page Wireframe.
+#### 4.3.2. Landing Page Mock-up. 
+### 4.4. Web Applications UX/UI Design.
+#### 4.4.1. Web Applications Wireframes.
+#### 4.4.2. Web Applications Wireflow Diagrams.
+#### 4.4.2. Web Applications Mock-ups.
+#### 4.4.3. Web Applications User Flow Diagrams.
+### 4.5. Web Applications Prototyping.
+### 4.6. Domain-Driven Software Architecture.
+#### 4.6.1. Software Architecture Context Diagram.
+#### 4.6.2. Software Architecture Container Diagrams.
+#### 4.6.3. Software Architecture Components Diagrams.
+### 4.7. Software Object-Oriented Design.
+#### 4.7.1. Class Diagrams.
+#### 4.7.2. Class Dictionary.
+### 4.8. Database Design.
+#### 4.8.1. Database Diagram.
+
+<br>
+
+## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+
+### 5.1. Software Configuration Management.
+#### 5.1.1. Software Development Environment Configuration.
+#### 5.1.2. Source Code Management.
+#### 5.1.3. Source Code Style Guide & Conventions.
+#### 5.1.4. Software Deployment Configuration.
+### 5.2. Landing Page, Services & Applications Implementation.
+#### 5.2.1. Sprint n
+#### 5.2.1.1. Sprint Planning n.
+#### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+<br>
+
+## Conclusiones
+
+### Conclusiones y recomendaciones.
+### Video About-the-Team.
+
+<br>
+
+## Bibliografía
+
+<br>
+
+## Anexos
