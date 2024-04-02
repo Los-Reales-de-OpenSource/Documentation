@@ -19,6 +19,7 @@
 |   Members     |   User    |
 |:-------------:|:---------:|
 |Ballona Blas, Naggit German  |u20201b895|
+|Collantes Artola, Marco Antonio|u201410183|
  
 
 </center>

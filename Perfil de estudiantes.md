@@ -3,7 +3,7 @@
 <table>
 <tr>
 <th colspan="1" valign="top">Marco Collantes Artola (u201410183)</th>
-<th colspan="1" rowspan="2" valign="top">![](images/FotoCollantes.png)</th>
+<th colspan="1" rowspan="2" valign="top">![Marco Collantes](./images/FotoCollantes.jpg)</th>
 </tr>
 <tr>
 <td colspan="1" valign="top">
