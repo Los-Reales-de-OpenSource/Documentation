@@ -1,9 +1,8 @@
-# TechSolutions-Origin-Report
   <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155584159062949959/UPC_logo.png">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png">
       </div>
-  </tr>
+</tr>
 
 <br>
 
