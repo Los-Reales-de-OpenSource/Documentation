@@ -98,112 +98,6 @@
 
 ## 5. Capítulo V: Product Implementation, Validation & Deployment
 
-- [TechSolutions-Origin-Report](#techsolutions-origin-report)
-- [Universidad Peruana de Ciencias Aplicadas.](#universidad-peruana-de-ciencias-aplicadas)
-    - [Ingeniería de Software.](#ingeniería-de-software)
-    - [Desarrollo de Aplicaciones Open Source.](#desarrollo-de-aplicaciones-open-source)
-    - [WS51](#ws51)
-      - [Angel Augusto Velasquez Nuñez](#angel-augusto-velasquez-nuñez)
-- [Proyecto del Curso.](#proyecto-del-curso)
-  - [TF REPORT](#tf-report)
-    - [StartUp Name](#startup-name)
-    - [Team Members](#team-members)
-      - [Ciclo 2023 - 02](#ciclo-2023---02)
-  - [Registros de versiones del Informe](#registros-de-versiones-del-informe)
-    - [Project Report Colaborations Insights](#project-report-colaborations-insights)
-- [Índice](#índice)
-  - [1. Capítulo I: Introducción](#1-capítulo-i-introducción)
-  - [2. Capítulo II: Requirements Elicitation \& Analysis](#2-capítulo-ii-requirements-elicitation--analysis)
-  - [3. Capítulo III: Requirements Specification](#3-capítulo-iii-requirements-specification)
-  - [4. Capítulo IV: Product Design](#4-capítulo-iv-product-design)
-  - [5. Capítulo V: Product Implementation, Validation \& Deployment](#5-capítulo-v-product-implementation-validation--deployment)
-- [Student Outcome](#student-outcome)
-- [Capitulo 1: Introducción](#capitulo-1-introducción)
-  - [1.1 Startup Profile](#11-startup-profile)
-    - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
-      - [Misión](#misión)
-      - [Visión](#visión)
-    - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process.](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
-        - [BUSINESS OUTCOMES](#business-outcomes)
-        - [USER BENEFITS](#user-benefits)
-        - [FEATURES](#features)
-        - [SUPUESTOS DEL NEGOCIO](#supuestos-del-negocio)
-        - [SUPUESTOS DEL USUARIO](#supuestos-del-usuario)
-        - [USUARIO](#usuario)
-        - [CARACTERÍSITCAS](#caracterísitcas)
-      - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores.](#21-competidores)
-    - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas.](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
-    - [Segmento 1: Clientes que suelen ir a frecuentar un bar](#segmento-1-clientes-que-suelen-ir-a-frecuentar-un-bar)
-    - [Entrevista 1:](#entrevista-1)
-    - [Entrevista 2:](#entrevista-2)
-    - [Segmento 2: Empresarios del manejo bares](#segmento-2-empresarios-del-manejo-bares)
-    - [Entrevista 3:](#entrevista-3)
-    - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding.](#23-needfinding)
-    - [2.3.1. User Personas.](#231-user-personas)
-      - [2.3.1.1 Segmento Objetivo 1: Cliente](#2311-segmento-objetivo-1-cliente)
-      - [2.3.1.2 Segmento Objetivo 1: Empresario](#2312-segmento-objetivo-1-empresario)
-    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
-      - [Cliente: Carlos P. Foner.](#cliente-carlos-p-foner)
-      - [Empresario: Carmen R.Greco](#empresario-carmen-rgreco)
-    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
-    - [Usuario (Cliente):](#usuario-cliente)
-    - [Empresa (Dueño del Bar):](#empresa-dueño-del-bar)
-  - [3.2. User Stories.](#32-user-stories)
-  - [3.3. Impact Mapping.](#33-impact-mapping)
-    - [User Cliente:](#user-cliente)
-    - [User Cliente:](#user-cliente-1)
-    - [User Bar:](#user-bar)
-  - [3.4. Product Backlog.](#34-product-backlog)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines.](#41-style-guidelines)
-    - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
-  - [4.2. Information Architecture.](#42-information-architecture)
-    - [4.2.1. Organization Systems.](#421-organization-systems)
-    - [4.2.2. Labeling Systems.](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-      - [Para el sitio web (Landing Page)](#para-el-sitio-web-landing-page)
-      - [Para el aplicativo móvil:](#para-el-aplicativo-móvil)
-    - [4.2.4. Searching Systems.](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
-    - [Segmento objetivo Usuario:](#segmento-objetivo-usuario)
-    - [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams.](#471-class-diagrams)
-    - [4.7.2. Class Dictionary.](#472-class-dictionary)
-  - [4.8. Database Design.](#48-database-design)
-    - [4.8.1. Database Diagram.](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management.](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
       - [Project Mangement](#project-mangement)
@@ -267,11 +161,31 @@
     - [Evaluaciones según heurísticas.](#evaluaciones-según-heurísticas)
   - [5.4. Video About-The-Product.](#54-video-about-the-product)
     - [Video About-the-Product.](#video-about-the-product)
-  - [Conclusiones](#conclusiones)
-  - [Video About-the-Team.](#video-about-the-team)
-  - [Bibliografía](#bibliografía)
-  - [Anexos](#anexos) 
 
+<br><br>
+
+ # Registros de versiones del Informe
+
+ <br>
+
+<table align="center">
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+    <tr>
+        <td>Aca va el criterio </td>
+          <td><strong>Nombre</strong><br>
+          <strong>TB1:</strong><br> 
+          aca se escribeawdasdawdawd <br><br> 
+      <td><strong>TB1:</strong><br>
+        Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
+    </td>
+    </tr>
+    
+  </tr>
   
-<br>
-<div align='justify'>
+</table>
+<br><br>
+
