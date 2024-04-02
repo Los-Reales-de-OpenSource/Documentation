@@ -10,7 +10,7 @@
 ### Ingeniería de Software.
 ### Desarrollo de Aplicaciones Open Source.
 ### WS51
-#### Angel Augusto Velasquez Nuñez
+#### Profesor .. .. . .. .. . 
 ---
 
 # Proyecto del Curso.
