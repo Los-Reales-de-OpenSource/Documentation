@@ -4,7 +4,31 @@
 
 4.1.1 General Style Guidelines
 
+Tipografía:
+Para el desarrollo de nuestro proyecto, en el apartado de la tipografía de los textos de la aplicación web y el landing page, utilizaremos dos de las fuentes más populares en la industria del diseño: Montserrat (como fuente principal) y Roboto (como fuente secundaria). 
+
+Montserrat nos dará una mejor visibilidad para la aplicación ya sea vista en una PC o dispositivo móvil, además que su diseño distintivo ayudará con la imagen general del producto.
+
+![Ejm Montserrat](./images/Montserrat.jpg)
+
+Por su parte, Roboto nos ofrece una fuente adaptable capaz de ser usada en diferentes partes de la aplicación, y dará a los usuarios en potencia una experiencia agradable y familiar
+
+![Ejm Roboto](./images/Roboto.jpg)
+
+Colores:
+Para el desarrollo de la aplicación, optamos por colores que apoyen a la confianza del usuario en el producto y garanticen una vista agradable para todos los involucrados. Hemos optado por:
+
+- Los colores hexadecimales #99D9F2, #4A90E2, #0073B1, #C9E7FC, y #F1F9FF para el cuerpo general de la aplicación (siendo estos diferentes tonos de azul)
+- Los colores hexadecimales #F1F9FF y #333333 para los textos principales y secundarios de la aplicación y el landing page (al ser estos fáciles de resaltar en comparación de los colores del cuerpo)
+
+![Paleta de colores](./images/ColorPalette.jpg)
+
+Lenguaje:
+Nos decidimos por usar un nivel de lenguaje informal y entusiasta para nuestra aplicación, enfocado en crear una conexión emocional con el usuario. La idea es llegar al usuario de una forma fácil de entender y sin usar demasiados tecnicismos, asegurándose de que cualquier usuario pueda entender la aplicación sin importar su nivel de experiencia tecnológica. Es importante que el lenguaje utilizado en nuestra aplicación sea directo y conciso para que los usuarios puedan comprender fácilmente las funciones de la aplicación y la información proporcionada. Los mensajes de la aplicación deben ser claros y breves, evitando cualquier ambigüedad o confusión. El uso de un lenguaje claro y sencillo también puede ayudar a aumentar la accesibilidad de la aplicación para un público más amplio.
+
 4.1.2. Web Style Guidelines
+
+
 
 ### 4.2. Information Architecture
 
