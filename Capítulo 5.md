@@ -8,8 +8,6 @@ Se detallarán las herramientas necesarias para gestionar y controlar los cambio
 
 En esta sección se definirá las herramientas y productos de software que se utilizará por cada uno de los integrantes para colaborar en la elaboración de esta plataforma. Se tomará en cuenta cada una de las fases del software , desde el nacimiento de la idea y documentación del proyecto hasta el despliegue de la plataforma.
 
-- Gestión de Proyectos: 
-
 | Herramienta | Propósito | Ruta de Descarga/Referencia |
 |-------------|-----------|----------------------------|
 | Git         | Control de versiones y colaboración en el código fuente del proyecto | [Git](https://git-scm.com/) |
