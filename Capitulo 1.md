@@ -41,7 +41,9 @@ Para el caso de nuestro proyecto actual, hemos planteado las siguientes hipótes
 
 1.2.2.4. Lean UX Canvas
 
+Procederemos entonces a presentar el Lean UX Canvas de nuestro futuro producto, y esperamos que se pueda lograr cumplir con todas nuestras expectativas durante los sprint de trabajo venideros.
 
+![Lean Ux Canvas](./images/Lean%20UX%20Canvas.png)
 
 ### 1.3. Segmentos objetivo
 
