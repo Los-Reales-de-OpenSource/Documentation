@@ -27,6 +27,17 @@
 
 # Registros de versiones del Informe
 
+| Versión | Fecha | Autor | Descripción |
+|---------|-------|-------|-------------|
+|1.0.0|26/03/2023|Todos|Primera versión del documento|
+|1.0.1| | | |
+|1.0.2| | | |
+|1.0.3| | | | 
+|1.0.4| | | |
+|1.0.5| | | |
+|1.0.6| | | |
+
+# Student Outcome
  <br>
 
 <table align="center">
