@@ -28,7 +28,14 @@ Con el aporte de experiencia técnica y habilidades blandas por parte de cada un
 
 - **How:** Nuestra solución consiste en proporcionar una plataforma didáctica que permita a los consumidores comparar precios de productos de manera rápida y precisa. De esta manera, resultan beneficiados los usuarios finales y las empresas que buscan darle visibilidad a sus negocios.
 
-- **How Much:** Este problema afecta a muchos consumidores que buscan obtener productos al mejor precio posible. Así mismo, las empresas pequeñas y medianas se ven afectadas ya que muchas de ellas ofrecen buenas ofertas o valor agregado a un producto pero por la poca visibilidad del negocio no tienen los márgenes de ganacia esperados. 
+- **How Much:** Este problema afecta a muchos consumidores que buscan obtener productos al mejor precio posible. Así mismo, las empresas pequeñas y medianas se ven afectadas ya que muchas de ellas ofrecen buenas ofertas o valor agregado a un producto pero por la poca visibilidad del negocio no tienen los márgenes de ganacia esperados.
+
+1.2.2. Lean UX Process
+
+1.2.2.1 Lean UX Problem Statements
+
+- **Problema 1:** ComPeru se dedica a presentar las diferentes ofertas que tienen diferentes productos ofrecidos por múltiples emprendimientos. Los usuarios podrían encontrar abrumadora la cantidad de información presentada sobre las ofertas de productos, esto los dificultaria al momento de su elección sobre uno de estos. Por ello, se implementará un sistema de filtrado y organización, así como un diferente algoritmo de recomendación sobre ciertos productos para dentro de una interfaz sencilla y minimalista para facilitarle la navegación al usuario y mejorar su experiencia con nuestro servicio.
+- **Problema 2:** En ComPeru, muchos emprendimientos y/o emprendedores empiezan a ofrecer diferentes productos en diferentes precios. Los usuarios tendrián un problema de desconfianza en la precisión o autenticidad de los precios y ofertas presentadas. Para solucionar este problema, se implementará una verificación de emprendedores y de pagos. Además se incluirá un sistema de calificaciones ehacia los emprendimietos, lo que los ayudará a ganar fama y buena reputación dentro de nuestro servicio.
 
 1.2.2.3. Lean UX Hypothesis Statements
 
