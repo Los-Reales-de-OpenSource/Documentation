@@ -3,6 +3,20 @@
 
 ### 2.2 Entrevistas
 
+2.2.1. Diseño de entrevistas
+
+2.2.2. Registro de entrevistas
+
+Entrevista #1:
+
+![]()
+
+Entrevista en el minuto xx:xx de:
+
+Resumen:
+
+2.2.3. Análisis de entrevistas
+
 ### 2.3 Needfinding
 
 2.3.1. User Personas
