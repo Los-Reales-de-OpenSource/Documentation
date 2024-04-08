@@ -90,5 +90,10 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 - **Navegación por Breadcrumbs:** Implementaremos una navegación por breadcrumbs la cual mostrará al usuario la ruta de navegación a través de la plataforma. Al desarrollar esta funcionalidad buscamos orientar al usuario mientras este explora la plataforma y accede a la información
 
 - **Enlaces de acceso rápido:** Estos enlaces serian funcionalidades recurrentes que el usuario utiliza en la plataforma (carrito de compras, lista de deseo, perfil, configuración, cuenta, etc ). 
+### 4.3. Landing Page UI Design
+4.3.1 Landing Page Wireframes
+4.3.1 Landing Page Mock-up
+
+### 4.4. Web Applications UX/UI Design
 
 ### 4.6. Domain-Driven Software Architecture
