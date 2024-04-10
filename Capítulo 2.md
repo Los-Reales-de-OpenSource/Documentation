@@ -50,10 +50,6 @@ Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221
 
 ### 2.4 Ubiquitous Language
 
-### Ubiquitous Language
-
-### Ubiquitous Language
-
 | Término    | Definición |
 |---------------------|------------|
 | Product           | El artículo que ofrece ComPeru para su venta. |
