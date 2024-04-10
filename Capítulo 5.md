@@ -20,14 +20,36 @@ En esta sección se definirá las herramientas y productos de software que se ut
 
 
 ### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1 
+El principal objetivo de este Sprint es crear la página de inicio de la aplicación "ComPeru". Esta será la primera experiencia que los usuarios tendrán con nuestra aplicación, por lo que es crucial que sea fácil de usar, atractiva y funcional. Nuestro propósito es atraer a los usuarios y motivarlos a utilizar nuestra aplicación para comparar precios de productos en su localidad.
 
-5.2.1.3. Development Evidence for Sprint Review
+Para gestionar las actividades de este Sprint, hemos optado por utilizar Trello como herramienta de organización:
+https://trello.com/invite/b/6dcm5XQp/ATTI472b8eb797d7cc57e64d4c5795279999D890E498/comperu-sprint-1
+
+<a href="https://ibb.co/L14TpYQ"><img src="https://i.ibb.co/3ctxh4f/Captura-de-pantalla-2024-04-05-000337.png" alt="Captura-de-pantalla-2024-04-05-000337" border="0"></a>
+
+##### 5.2.1.1. Sprint Backlog 1 
+Ahora presentaremos la primera tabla de los sprints backlogs:
+
+**Sprint 1: Desarrollo de una primera versión del Landing Page**
+| Work-Item / Task | User Story ID | Description | Estimation (Hours) | Assigned To | Status |
+|------------------|---------------|-------------|---------------------|-------------|--------|
+| US01             | 01            | Como usuario, quiero poder ver un resumen claro y conciso de lo que hace la aplicación en la landing page. | 12 | Eduardo | Done |
+| US01             | 02            | Como usuario, quiero ver en la landing page cómo la aplicación puede ayudarme a ahorrar dinero. | 6 | Blanca | Done |
+| US01             | 03            | Como usuario, quiero que la landing page sea atractiva y fácil de navegar. | 4 | Jorge | Done |
+| US01             | 04            | Como usuario quiero probar la landing page en varios navegadores (Chrome, Firefox, Safari, etc.). | 4 | Jorge | To-Review |
+| US01             | 05            | Como usuario quiero que la landing page sea responsiva y funcione correctamente en dispositivos móviles y de escritorio. | 6 | Anthony | To-Review |
+| US01             | 06            | Como usuario, quiero ver testimonios de otros usuarios en la landing page. | 8 | Naggit | InProcess |
+
+
+#####5.2.1.3. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 | | | | | | |
 
-5.2.1.4. Testing Suite Evidence for Sprint Review
+#####5.2.1.4. Testing Suite Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|

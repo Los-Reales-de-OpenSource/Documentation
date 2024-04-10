@@ -18,10 +18,23 @@ La Sra Artola es un ama de casa de Pueblo Libre que constantemente hace uso de s
 
 **Entrevista #2:**
 
+---
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wL9JQkC/Captura-de-pantalla-2024-04-09-003920.png" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+- Nombre y apellidos: Pablo Alejandro Mendez Urbano
+- Edad:  21
+- Ubicación: Huaral, Lima
+- Duración de la entrevista: 4.38 minutos
+- Breve descripción: 
+	Pablo es un joven de 23 años de edad que actualmente trabaja como profesor de musica, me comenta que actualmente usa aplicaciones de compra online ya que le facilita mucho en distintos aspectos. Por lo que quisiera una aplicacion enfocada a la comparacion de distintas ofertas que se puedan presentar para ciertos productos, en su caso el interes por productos tecnologicos.
+
+Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EQ5PIUxVThNHlhK9fCt5iGwB9hxa3UWU9tz0APBI81jGFA?e=z8L3Kl
+
 **Entrevista #3:**
 
 2.2.3. Análisis de entrevistas
 
+- **Análisis 2**
+  Analizando la entrevista al sujeto observe el interes por nuestra debido a que seria de mucha ayuda tener una aplicacion que presente multiples opciones en cuanto a productos y en su caso para el rubro de la tecnologia, y que esta cuente con un metodo de pago de su preferencia.
 ### 2.3 Needfinding
 
 2.3.1. User Personas
