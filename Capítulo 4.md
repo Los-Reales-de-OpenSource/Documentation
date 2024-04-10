@@ -90,5 +90,80 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 - **Navegación por Breadcrumbs:** Implementaremos una navegación por breadcrumbs la cual mostrará al usuario la ruta de navegación a través de la plataforma. Al desarrollar esta funcionalidad buscamos orientar al usuario mientras este explora la plataforma y accede a la información
 
 - **Enlaces de acceso rápido:** Estos enlaces serian funcionalidades recurrentes que el usuario utiliza en la plataforma (carrito de compras, lista de deseo, perfil, configuración, cuenta, etc ). 
+### 4.3. Landing Page UI Design
+
+4.3.1 Landing Page Wireframes
+![Landin Mockup 1](./images/imagen_2024-04-08_001658989.png)
+4.3.1 Landing Page Mock-up
+
+### 4.4. Web Applications UX/UI Design
 
 ### 4.6. Domain-Driven Software Architecture
+Para el modelo de negocio que utilizaremos para desarrollar nuestro software complejo que se centra en la problematica que abordamos. para ello utilizaremos la tecnica de modelado C4 Model.
+#### 4.6.1. Software Architecture Context Diagram
+Este es el diagrama de Contexto de nuestro sistema:
+<a href="https://ibb.co/Zm3Nf9V"><img src="https://i.ibb.co/vYbDc9H/structurizr-90643-System-Context-001.png" alt="structurizr-90643-System-Context-001" border="0"></a>
+
+#### 4.6.1. Software Architecture Container Diagram
+Este es el diagrama de Contenedores de nuestro sistema:
+<a href="https://ibb.co/KymLx8r"><img src="https://i.ibb.co/vzDQ4Mj/structurizr-90643-Container-001.png" alt="structurizr-90643-Container-001" border="0"></a>
+
+#### 4.6.1. Software Architecture Components Diagram
+Esto son los diagramas de componentes de nuestro sistema:
+
+<a href="https://ibb.co/1n2h4f5"><img src="https://i.ibb.co/qn1X2Mf/structurizr-90643-Component-001.png" alt="structurizr-90643-Component-001" border="0"></a>
+
+<a href="https://ibb.co/GPvm614"><img src="https://i.ibb.co/9Y9PDfk/structurizr-90643-Component-002.png" alt="structurizr-90643-Component-002" border="0"></a>
+
+<a href="https://ibb.co/jvCWv7S"><img src="https://i.ibb.co/MDzGDqm/structurizr-90643-Component-003.png" alt="structurizr-90643-Component-003" border="0"></a>
+
+
+<a href="https://ibb.co/KD2LhvT"><img src="https://i.ibb.co/MfcGS0F/structurizr-90643-Component-004.png" alt="structurizr-90643-Component-004" border="0"></a>
+
+#### 4.7. Software Object-Oriented Design
+##### 4.7.1. Class Diagrams
+Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
+
+Diagrama de clases:
+<a href="https://ibb.co/TRMxMMt"><img src="https://i.ibb.co/q9Y3YYp/DIAGRAMA-DE-CLASES.png" alt="DIAGRAMA-DE-CLASES" border="0"></a>
+
+
+
+##### 4.7.2. Class Dictionary
+Utilizamos la clase UserInterface la cual ayuda como padre para las clases Store, Customer, Admin, esta clase actua para modficar visualizar al usuario.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1RpctQ2/Captura-de-pantalla-2024-04-04-222019.png" alt="Captura-de-pantalla-2024-04-04-222019" border="0"></a>
+
+Tenemos la clase EntrepreneurContact que es el contacto ente usuario y la tienda para cualquier ayuda, actuando como personal de la tienda.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wMT9FzY/Captura-de-pantalla-2024-04-04-222057.png" alt="Captura-de-pantalla-2024-04-04-222057" border="0"></a>
+
+La clase *ShoppingCart* de compra esta clase es la que contendrá una relación de todos los productos que se van seleccionando a la hora de llevar a cabo la compra en la página web.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Y8LsBZv/Captura-de-pantalla-2024-04-04-222123.png" alt="Captura-de-pantalla-2024-04-04-222123" border="0"></a>
+
+La clase Order encargada de representar la materialización, en compra, de un carrito que contiene productos y al que se le han añadido los datos del comprador en cuestión.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5Fmm8Lc/Captura-de-pantalla-2024-04-04-222256.png" alt="Captura-de-pantalla-2024-04-04-222256" border="0"></a>
+#### 4.7. Database desing
+##### 4.7.1 Database Diagrams
+Para nuestro sistema, también hemos implementado un diagrama de base de datos. Este diagrama proporciona una representación visual de la estructura de nuestra base de datos, incluyendo tablas, columnas y relaciones entre ellas. Es una herramienta clave para comprender la arquitectura de datos de nuestro sistema y cómo se relacionan entre sí las entidades de nuestra aplicación.
+
+
+<a href="https://ibb.co/VqmKcBc"><img src="https://i.ibb.co/FDVPL7L/Database-Diagram.png" alt="Database-Diagram" border="0"></a>
+
+Para explicar nuestro sistema tenemos que entender que nuestras entidades son creadas con un fin que es dar un recibo al cliente.Para ello contamos con distitnas entidades que lo nutren que son Orders, Products, Stores, Customers, ademas, de un atributo SubTotal que es el del valor total de todos los productos.
+
+<a href="https://ibb.co/LrQBJ8S"><img src="https://i.ibb.co/tzZnx4B/Captura-de-pantalla-2024-04-05-004010.png" alt="Captura-de-pantalla-2024-04-05-004010" border="0"></a>
+
+Contamos con una entidad ComparateProducts que indica la constante comparacion de los productos.
+
+<a href="https://ibb.co/R2tSrbW"><img src="https://i.ibb.co/xhws9LQ/Captura-de-pantalla-2024-04-05-004105.png" alt="Captura-de-pantalla-2024-04-05-004105" border="0"></a>
+
+Ademas, contamos con una entidad validateStock que es para verificar si el stock de X producto.
+
+<a href="https://ibb.co/zfx8hMg"><img src="https://i.ibb.co/VB9HW1G/Captura-de-pantalla-2024-04-05-004108.png" alt="Captura-de-pantalla-2024-04-05-004108" border="0"></a>
+
+Por ultimo, tenemos la entidad supportChat que ayuda como data de chats de respuesta.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/KxJ9mz7/Captura-de-pantalla-2024-04-05-004111.png" alt="Captura-de-pantalla-2024-04-05-004111" border="0"></a>

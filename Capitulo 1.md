@@ -28,7 +28,21 @@ Con el aporte de experiencia técnica y habilidades blandas por parte de cada un
 
 - **How:** Nuestra solución consiste en proporcionar una plataforma didáctica que permita a los consumidores comparar precios de productos de manera rápida y precisa. De esta manera, resultan beneficiados los usuarios finales y las empresas que buscan darle visibilidad a sus negocios.
 
-- **How Much:** Este problema afecta a muchos consumidores que buscan obtener productos al mejor precio posible. Así mismo, las empresas pequeñas y medianas se ven afectadas ya que muchas de ellas ofrecen buenas ofertas o valor agregado a un producto pero por la poca visibilidad del negocio no tienen los márgenes de ganacia esperados. 
+- **How Much:** Este problema afecta a muchos consumidores que buscan obtener productos al mejor precio posible. Así mismo, las empresas pequeñas y medianas se ven afectadas ya que muchas de ellas ofrecen buenas ofertas o valor agregado a un producto pero por la poca visibilidad del negocio no tienen los márgenes de ganacia esperados.
+
+1.2.2. Lean UX Process
+
+1.2.2.1 Lean UX Problem Statements
+
+- **Problema 1:** ComPeru se dedica a presentar las diferentes ofertas que tienen diferentes productos ofrecidos por múltiples emprendimientos. Los usuarios podrían encontrar abrumadora la cantidad de información presentada sobre las ofertas de productos, esto los dificultaria al momento de su elección sobre uno de estos. Por ello, se implementará un sistema de filtrado y organización, así como un diferente algoritmo de recomendación sobre ciertos productos para dentro de una interfaz sencilla y minimalista para facilitarle la navegación al usuario y mejorar su experiencia con nuestro servicio.
+- **Problema 2:** En ComPeru, muchos emprendimientos y/o emprendedores empiezan a ofrecer diferentes productos en diferentes precios. Los usuarios tendrián un problema de desconfianza en la precisión o autenticidad de los precios y ofertas presentadas. Para solucionar este problema, se implementará una verificación de emprendedores y de pagos. Además se incluirá un sistema de calificaciones ehacia los emprendimietos, lo que los ayudará a ganar fama y buena reputación dentro de nuestro servicio.
+
+1.2.2.2. Lean UX Assumptions
+
+- Los usuarios aprecian la posibilidad de comparar rápidamente los precios y ofertas de distintos negocios para tomar decisiones de compra bien fundamentadas.
+- Los usuarios confían en la veracidad y transparencia de la información sobre precios y ofertas que se muestra en la app, lo que les brinda la seguridad necesaria al momento de decidir qué comprar.
+- Los usuarios tienen diversas preferencias de productos que incluyen tecnología, alimentos y otros rubros, lo que subraya la importancia de contar con una plataforma que permita comparaciones en múltiples categorías.
+- Los usuarios se sienten motivados por la posibilidad de hallar ofertas exclusivas y descuentos especiales a través de la aplicación, lo que los impulsa a utilizarla como su principal fuente de compras en línea.
 
 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -41,7 +55,9 @@ Para el caso de nuestro proyecto actual, hemos planteado las siguientes hipótes
 
 1.2.2.4. Lean UX Canvas
 
+Procederemos entonces a presentar el Lean UX Canvas de nuestro futuro producto, y esperamos que se pueda lograr cumplir con todas nuestras expectativas durante los sprint de trabajo venideros.
 
+![Lean Ux Canvas](./images/Lean%20UX%20Canvas.png)
 
 ### 1.3. Segmentos objetivo
 

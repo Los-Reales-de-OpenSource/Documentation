@@ -20,13 +20,24 @@
 |:-------------:|:---------:|
 |Ballona Blas, Naggit German  |u20201b895|
 |Collantes Artola, Marco Antonio|u201410183|
- 
+|Reyes Trujillano, Fabian Alonso|u202218233| 
 
 </center>
 <br><br>
 
 # Registros de versiones del Informe
 
+| Versión | Fecha | Autor | Descripción |
+|---------|-------|-------|-------------|
+|1.0.0|26/03/2023|Todos|Primera versión del documento|
+|1.0.1| | | |
+|1.0.2| | | |
+|1.0.3| | | | 
+|1.0.4| | | |
+|1.0.5| | | |
+|1.0.6|07/04/2023|Marco Collantes|1er Registro de entrevistas|
+
+# Student Outcome
  <br>
 
 <table align="center">
