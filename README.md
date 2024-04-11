@@ -258,6 +258,23 @@
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas.
 #### 2.2.2. Registro de entrevistas.
+
+
+---
+ **Entrevista #1:**
+
+<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1227948320513851492/image.png?ex=662a42fd&is=6617cdfd&hm=373e3829b0f26bfd477bfc1e864c12b4a2c24af98c3d9ad9c775340bc7b564c9&" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+
+- Nombre y apellidos: Khaterine Melissa Bautista Cruz
+- Edad:  23
+- Ubicación: Lima - Callao
+- Duración de la entrevista: 4.28 minutos
+- Breve descripción: <br><br>
+	 katherine, de 23 años, es una usuaria activa de tecnología que busca productos de calidad a precios asequibles. Prefiere comprar en tiendas como Ripley o Saga, pero a veces encuentra los precios altos. También compra en locales de abarrotes y busca opciones más económicas, incluyendo productos de emprendedores locales. Le gusta pagar a través de plataformas digitales como Yape o Plin. Estaría interesada en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo productos de emprendedores locales.<br><br>
+
+
+Link de la entrevista:   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EQ5PIUxVThNHlhK9fCt5iGwB9hxa3UWU9tz0APBI81jGFA?e=z8L3Kl
+
 #### 2.2.3. Análisis de entrevistas.
 ### 2.3. Needfinding.
 #### 2.3.1. User Personas.
