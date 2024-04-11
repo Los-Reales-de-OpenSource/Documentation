@@ -299,6 +299,11 @@ Esta plataforma debería tener una interfaz fácil de usar y aceptar métodos de
  ---
 
 ### 2.3. Needfinding.
+
+<div align='justify'>
+En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin,  y As-Is Scenario Mapping. 
+</div>
+
 #### 2.3.1. User Personas.
 #### 2.3.2. User Task Matrix.
 #### 2.3.3. User Journey Mapping.
