@@ -276,6 +276,28 @@
 Link de la entrevista:   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EQ5PIUxVThNHlhK9fCt5iGwB9hxa3UWU9tz0APBI81jGFA?e=z8L3Kl
 
 #### 2.2.3. Análisis de entrevistas.
+
+#### Entrevista 1
+
+Perfil y comportamiento de consumo:
+
+Catherine es una mujer joven de 23 años.
+Es una usuaria activa de tecnología, utilizando frecuentemente su celular y computadora para diversas actividades, como estudiar y ver contenido en línea.
+Tiene preferencia por comprar ropa en tiendas como Ripley o Saga, pero a veces se siente insatisfecha con los precios.
+Para otros productos, como abarrotes, compra en varios locales y a veces busca opciones más económicas.
+
+Factores de decisión de compra:
+
+Catherine valora tanto el precio como la calidad al tomar decisiones de compra. Está dispuesta a explorar diferentes opciones para encontrar el mejor valor por su dinero. Muestra interés en apoyar a emprendedores locales al buscar productos más económicos y diversificar sus compras.
+Ella prefiere métodos de pago digitales como Yape o Plin.
+
+Necesidades y oportunidades de mejora:
+
+Catherine expresó interés en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo opciones de emprendedores locales.
+Esta plataforma debería tener una interfaz fácil de usar y aceptar métodos de pago digital para adaptarse a sus preferencias.
+ 
+ ---
+
 ### 2.3. Needfinding.
 #### 2.3.1. User Personas.
 #### 2.3.2. User Task Matrix.
