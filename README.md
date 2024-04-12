@@ -311,7 +311,11 @@ Entrevista en el minuto xx:xx de:
 ### 3.2. User Stories.
 ### 3.3. Impact Mapping.
 
-![Impact Map]()
+Una vez registradas las user stories de nuestra aplicación, procederemos a analizar los impactos más probables del mismo por medio de mapas de impacto y el planteamiento de metas para el negocio.
+
+![Impact Map Comprador](./images/ImpactMap1.png)
+
+![Impact Map Emprendedor](./images/ImpactMap2.png)
 
 ### 3.4. Product Backlog.
 
