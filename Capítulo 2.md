@@ -45,6 +45,7 @@ Teniendo en cuenta a nuestros competidores potenciales identificados, podemos co
 2.2.2. Registro de entrevistas
 
 **Entrevista #1:**
+---
 
 ![Primer entrevistada](./images/Entrevistada%201.png)
 
@@ -102,7 +103,33 @@ Link de la entrevista:   https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022
 
 - **Análisis 2**
   Analizando la entrevista al sujeto observe el interes por nuestra debido a que seria de mucha ayuda tener una aplicacion que presente multiples opciones en cuanto a productos y en su caso para el rubro de la tecnologia, y que esta cuente con un metodo de pago de su preferencia.
-### 2.3 Needfinding
+
+#### Entrevista 4
+
+Perfil y comportamiento de consumo:
+
+Catherine es una mujer joven de 23 años.
+Es una usuaria activa de tecnología, utilizando frecuentemente su celular y computadora para diversas actividades, como estudiar y ver contenido en línea.
+Tiene preferencia por comprar ropa en tiendas como Ripley o Saga, pero a veces se siente insatisfecha con los precios.
+Para otros productos, como abarrotes, compra en varios locales y a veces busca opciones más económicas.
+
+Factores de decisión de compra:
+
+Catherine valora tanto el precio como la calidad al tomar decisiones de compra. Está dispuesta a explorar diferentes opciones para encontrar el mejor valor por su dinero. Muestra interés en apoyar a emprendedores locales al buscar productos más económicos y diversificar sus compras.
+Ella prefiere métodos de pago digitales como Yape o Plin.
+
+Necesidades y oportunidades de mejora:
+
+Catherine expresó interés en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo opciones de emprendedores locales.
+Esta plataforma debería tener una interfaz fácil de usar y aceptar métodos de pago digital para adaptarse a sus preferencias.
+ 
+ ---
+
+### 2.3. Needfinding.
+
+<div align='justify'>
+En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin,  y As-Is Scenario Mapping. 
+</div>
 
 2.3.1. User Personas
 
