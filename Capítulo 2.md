@@ -29,7 +29,19 @@ La Sra Artola es un ama de casa de Pueblo Libre que constantemente hace uso de s
 
 Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EQ5PIUxVThNHlhK9fCt5iGwB9hxa3UWU9tz0APBI81jGFA?e=z8L3Kl
 
-**Entrevista #3:**
+**Entrevista #3: Segmento Emprendedor**
+
+
+![Entrevista Segmento Emprendedor](./images/img-entrevista_segmento_emprendedor.png)
+
+- Nombre y apellidos: Iván Lavado Vallejos
+- Edad:  19
+- Ubicación: Chiclayo, Lambayeque
+- Duración de la entrevista: 4.10 minutos
+- Breve descripción: 
+  Iván es un emprendedor pequeño, él está en el rubro de la venta de accesorios para hombres. Nos comenta que sus principales estrategias para dar a conocer su marca son las redes sociales y la asistencia a ferias de artesanía. Él está convencido de que una aplicación de comparación de precios sería una buena opción para dar a conocer sus propuestas de valor y ofertas. Tiene en claro que funcionalidades como la conversación directa con sus clientes son fundamentales para el crecimiento de su negocio.
+
+[Entrevista Segmento Emprendedor](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/ETJ73sWZD91Gg0vHXXUKlAcBVY-A75zfcc1z5Q1kdtPiXA?e=XZCLrp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 2.2.3. Análisis de entrevistas
 

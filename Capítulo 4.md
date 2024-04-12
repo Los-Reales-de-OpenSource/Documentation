@@ -104,20 +104,23 @@ Para el modelo de negocio que utilizaremos para desarrollar nuestro software com
 Este es el diagrama de Contexto de nuestro sistema:
 <a href="https://ibb.co/Zm3Nf9V"><img src="https://i.ibb.co/vYbDc9H/structurizr-90643-System-Context-001.png" alt="structurizr-90643-System-Context-001" border="0"></a>
 
-#### 4.6.1. Software Architecture Container Diagram
+#### 4.6.2. Software Architecture Container Diagram
 Este es el diagrama de Contenedores de nuestro sistema:
 <a href="https://ibb.co/KymLx8r"><img src="https://i.ibb.co/vzDQ4Mj/structurizr-90643-Container-001.png" alt="structurizr-90643-Container-001" border="0"></a>
 
-#### 4.6.1. Software Architecture Components Diagram
+#### 4.6.3. Software Architecture Components Diagram
 Esto son los diagramas de componentes de nuestro sistema:
 
+##### Diagrama de componentes #1:
 <a href="https://ibb.co/1n2h4f5"><img src="https://i.ibb.co/qn1X2Mf/structurizr-90643-Component-001.png" alt="structurizr-90643-Component-001" border="0"></a>
 
+##### Diagrama de componentes #2:
 <a href="https://ibb.co/GPvm614"><img src="https://i.ibb.co/9Y9PDfk/structurizr-90643-Component-002.png" alt="structurizr-90643-Component-002" border="0"></a>
 
+##### Diagrama de componentes #3:
 <a href="https://ibb.co/jvCWv7S"><img src="https://i.ibb.co/MDzGDqm/structurizr-90643-Component-003.png" alt="structurizr-90643-Component-003" border="0"></a>
 
-
+##### Diagrama de componentes #4:
 <a href="https://ibb.co/KD2LhvT"><img src="https://i.ibb.co/MfcGS0F/structurizr-90643-Component-004.png" alt="structurizr-90643-Component-004" border="0"></a>
 
 #### 4.7. Software Object-Oriented Design

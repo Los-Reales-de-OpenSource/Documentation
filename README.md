@@ -7,6 +7,7 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 
+<<<<<<< HEAD
 ### Ingeniería de Software
 ### Desarrollo de Aplicaciones Open Source
 ### WS51
@@ -342,3 +343,6 @@
 <br>
 
 ## Anexos
+=======
+### Ingeniería de Software
+>>>>>>> 9d17d5998f13f69c72b60a6f93f848fae16da201
