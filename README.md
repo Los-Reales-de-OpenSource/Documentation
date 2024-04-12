@@ -50,7 +50,7 @@
       <th>Conclusiones</th>
     </tr>
     <tr>
-        <td>Aca va el criterio </td>
+        <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
           <td><strong>Nombre</strong><br>
           <strong>TB1:</strong><br> 
           aca se escribeawdasdawdawd <br><br> 
@@ -58,7 +58,15 @@
         Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
     </td>
     </tr>
-    
+    <tr>
+        <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+          <td><strong>Nombre</strong><br>
+          <strong>TB1:</strong><br> 
+          aca se escribeawdasdawdawd <br><br> 
+      <td><strong>TB1:</strong><br>
+        Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
+    </td>
+    </tr>    
   </tr>
   
 </table>
