@@ -96,7 +96,7 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 4.3.1 Landing Page Mock-up
 
 ![Landin Mockup 1](./images/imagen_2024-04-08_001658989.png)
-
+![Landin Mockup 2](./images/Mock-up 2.png)
 
 ### 4.4. Web Applications UX/UI Design
 
