@@ -316,6 +316,16 @@ Entrevista en el minuto xx:xx de:
 
 ### 3.4. Product Backlog.
 
+A continuación, procederemos a detallar el product backlog de nuestras user stories en donde analizaremos su importancia para el proyecto y los puntos que estaremos cubriendo en cada uno de los sprints de trabajo durante este ciclo.
+
+| #Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
+|--------|---------------|--------|-------------|--------------------------|
+|1|---------------|--------|-------------|--------------------------|
+|2|---------------|--------|-------------|--------------------------|
+|3|---------------|--------|-------------|--------------------------|
+|4|---------------|--------|-------------|--------------------------|
+|5|---------------|--------|-------------|--------------------------|
+
 <br>
 
 ## CAPÍTULO 4: PRODUCT DESIGN
