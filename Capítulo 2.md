@@ -1,5 +1,42 @@
 ## CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS
 ### 2.1 Competidores
+Rakuten: Es una plataforma japonesa de compras en línea que ofrece una amplia gama de productos, desde electrónica hasta ropa y productos para el hogar. A través de Rakuten, los usuarios pueden comprar productos en múltiples tiendas y comparar precios. 
+							
+Wish: Es una aplicación de compras en línea que ofrece una amplia gama de productos a precios muy bajos. Wish se enfoca en productos directamente desde los fabricantes chinos y asiáticos, lo que significa que los productos pueden tardar más en llegar a los consumidores peruanos.
+			
+ShopSavvy: Es una aplicación de comparación de precios que permite a los usuarios escanear códigos de barras y buscar productos para encontrar el mejor precio disponible en línea o en tiendas cercanas. ShopSavvy puede ser una herramienta útil para los consumidores peruanos que buscan encontrar el mejor precio en tiendas cercanas.
+			
+#### 2.1.1. Analisis Competitivo
+
+| Aspecto | LosReales | Wish | Rakuten | ShopSavvy |
+|---------|-----------|------|---------|-----------|
+| **Nombre y Logo** | LosReales | Wish | Rakuten | ShopSavvy |
+| **Perfil** | 
+| Overview | Plataforma de comparación de productos en Perú | Plataforma de compras en línea con una amplia variedad de productos | Marketplace global que ofrece productos de diversos vendedores | Aplicación que permite comparar precios y encontrar ofertas |
+| **Ventaja Competitiva** | 
+| Valor para los clientes | Comparación de precios locales, acceso a productos locales | Precios bajos y gran selección de productos | Variedad de productos de diferentes vendedores | Comparación de precios y ofertas |
+| **Perfil de Marketing** |
+| Mercado Objetivo | Consumidores en Perú buscando productos locales | Usuarios interesados en productos a bajo precio | Consumidores buscando productos de diversas categorías | Personas que buscan ofertas y comparan precios |
+| Estrategias de Marketing | Promoción de productos locales, colaboraciones con tiendas locales | Descuentos, promociones especiales | Variedad de productos, promoción de vendedores | Comparación de precios, ofertas exclusivas |
+| **Perfil del Producto** |
+| Productos & Servicios | Comparación de productos locales en diversas categorías | Amplia variedad de productos en múltiples categorías | Marketplace con productos de diversos vendedores | Comparación de precios y búsqueda de ofertas |
+| Precios & Costos | Gratis para usuarios, modelo de negocio basado en publicidad y colaboraciones | Precios competitivos, costos de envío | Comisión por ventas, tarifas de transacción | Gratis para usuarios, publicidad y asociaciones con tiendas |
+| Canales de Distribución | Aplicación móvil y web | Plataforma móvil y web | Plataforma móvil y web | Aplicación móvil |
+| **Análisis SWOT** |
+| Fortalezas | Comparación de productos locales, enfoque en mercado específico | Gran selección de productos, precios bajos | Variedad de vendedores, alcance global | Comparación de precios, búsqueda de ofertas |
+| Debilidades | Dependencia del mercado local, competencia con otras plataformas similares | Calidad variable de productos, largos tiempos de envío | Dependencia de vendedores externos, falta de control en calidad | Dependencia de datos de tiendas, competencia con otras aplicaciones similares |
+| Oportunidades | Crecimiento del comercio electrónico en Perú, expansión a otros mercados locales | Crecimiento del comercio electrónico, expansión internacional | Diversificación de productos, alianzas con más vendedores | Aumento de usuarios interesados en ofertas y comparación de precios |
+| Amenazas | Competencia con otras plataformas locales y globales, cambios en el mercado local | Competencia con otras plataformas, reputación por productos de baja calidad | Cambios en regulaciones comerciales, competencia con otras plataformas | Cambios en comportamiento del consumidor, competencia con otras aplicaciones de comparación de precios |
+
+
+
+### 2.1.2. Estrategias y tácticas frente a competidores. 
+
+Teniendo en cuenta a nuestros competidores potenciales identificados, podemos considerar las siguientes estrategias y tácticas para diferenciarnos y destacar nosotros dentro del mercado:
+- Ofrecer recomendaciones personalizadas: Para diferenciarnos de nuestros competidores, podemos utilizar la tecnología de inteligencia artificial para ofrecer recomendaciones personalizadas de productos y ofertas basadas en los hábitos de compra del usuario y su ubicación geográfica.
+- Ofrecer una experiencia única al usuario con respecto a nuestra plataforma: Se podría enfocar en ofrecer una experiencia de usuario única y excepcional para diferenciarnos de la competencia. Esto incluiría un diseño atractivo, fácil de usar y rápido de cargar, así como un servicio al cliente excepcional para resolver cualquier problema o duda de los usuarios.
+- Ofrecer un programa de lealtad hacia nuestros usuarios: Un programa de lealtad efectivo podría ser una forma de atraer y fidelizar a los usuarios. Esto podría incluir descuentos exclusivos para miembros, envío gratuito, regalos y otros beneficios.
+- Establecer acuerdos con tiendas locales: Para diferenciarse de los competidores en línea, se podría establecer acuerdos con tiendas locales y pequeñas empresas para ofrecer productos y ofertas exclusivas a los usuarios. Esto ayudaría a promover el comercio local y generar lealtad de los consumidores.
 
 ### 2.2 Entrevistas
 
