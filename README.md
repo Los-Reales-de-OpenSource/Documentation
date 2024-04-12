@@ -259,10 +259,118 @@
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas.
 #### 2.2.2. Registro de entrevistas.
+
+
+---
+ **Entrevista #1:**
+
+<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1227948320513851492/image.png?ex=662a42fd&is=6617cdfd&hm=373e3829b0f26bfd477bfc1e864c12b4a2c24af98c3d9ad9c775340bc7b564c9&" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+
+- Nombre y apellidos: Khaterine Melissa Bautista Cruz
+- Edad:  23
+- Ubicación: Lima - Callao
+- Duración de la entrevista: 4.28 minutos
+- Breve descripción: <br><br>
+	 katherine, de 23 años, es una usuaria activa de tecnología que busca productos de calidad a precios asequibles. Prefiere comprar en tiendas como Ripley o Saga, pero a veces encuentra los precios altos. También compra en locales de abarrotes y busca opciones más económicas, incluyendo productos de emprendedores locales. Le gusta pagar a través de plataformas digitales como Yape o Plin. Estaría interesada en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo productos de emprendedores locales.<br><br>
+
+
+Link de la entrevista:   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EQ5PIUxVThNHlhK9fCt5iGwB9hxa3UWU9tz0APBI81jGFA?e=z8L3Kl
+
 #### 2.2.3. Análisis de entrevistas.
+
+#### Entrevista 1
+
+Perfil y comportamiento de consumo:
+
+Catherine es una mujer joven de 23 años.
+Es una usuaria activa de tecnología, utilizando frecuentemente su celular y computadora para diversas actividades, como estudiar y ver contenido en línea.
+Tiene preferencia por comprar ropa en tiendas como Ripley o Saga, pero a veces se siente insatisfecha con los precios.
+Para otros productos, como abarrotes, compra en varios locales y a veces busca opciones más económicas.
+
+Factores de decisión de compra:
+
+Catherine valora tanto el precio como la calidad al tomar decisiones de compra. Está dispuesta a explorar diferentes opciones para encontrar el mejor valor por su dinero. Muestra interés en apoyar a emprendedores locales al buscar productos más económicos y diversificar sus compras.
+Ella prefiere métodos de pago digitales como Yape o Plin.
+
+Necesidades y oportunidades de mejora:
+
+Catherine expresó interés en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo opciones de emprendedores locales.
+Esta plataforma debería tener una interfaz fácil de usar y aceptar métodos de pago digital para adaptarse a sus preferencias.
+ 
+ ---
+
 ### 2.3. Needfinding.
+
+<div align='justify'>
+En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin,  y As-Is Scenario Mapping. 
+</div>
+
 #### 2.3.1. User Personas.
+
+En esta sección presentaremos dos fichas de User Persona para nuestro producto,
+el cual se enfoca en el cliente que va buscar productos en nuestra pagina y en las grandes y/o pequeñas Empresa y emprendedores. Estas
+fichas están basadas en las principales características y necesidades identificadas
+en el análisis de entrevistas y de la competencia.
+
+#### Segmento objetivo 1 :  Cliente<br><br>
+
+<tr>
+  <div align='center'>
+    <img src="https://cdn.discordapp.com/attachments/891176117204054068/1227956714142433280/image.png?ex=662a4ace&is=6617d5ce&hm=bc33e8c0171fbf92c714d6a716218b96dbfea9f2f15073659bb57f01ecaa3431&">
+  </div>
+</tr>
+<br>
+
+#### Segmento objetivo 1 :  Empresas<br><br>
+
+<tr>
+  <div align='center'>
+    <img src="https://cdn.discordapp.com/attachments/891176117204054068/1227959062138978374/image.png?ex=662a4cfe&is=6617d7fe&hm=2a573262d9aad50511ed62e230ec2a5ca45b1b6910ff5536e11f9c75e36851a1& ">
+  </div>
+</tr>
+<br>
+
 #### 2.3.2. User Task Matrix.
+
+Esta sección llamada User Task Matrix es una herramienta que nos sirve para
+poder entender las tareas y objetivos que cada User Persona desea lograr a la
+hora de utilizar nuestro producto. En esta sección, se presentarán las matrices de
+tareas para los User Personas previamente definidos.
+
+
+#### Cliente: Katherine M. Bautista Cruz
+
+| Tarea / Aspecto | Frecuencia | Importancia |
+|-----------------|------------|-------------|
+| 1. Búsqueda de productos | Often | High |
+| 2. Experiencia con diversas tiendas ( por departamento y/o emprendimientos) | Always | High | 
+| 4. Soporte y Ayuda | Often | Medium |
+| 5. Experiencia en el Sitio Web | Always | High |
+| 6. Exploración de tiendas de emprendedores | Often | High |
+| 7. Interacción Social | Often | Low |
+| 8. Reservas de productos mediante la app | Rarely | High |
+| 9. Recopilación de Experiencias | Often | Low |
+| 10. Exploración de Promociones | Often | Low |
+| 11. Métodos de Pago | Rarely | High |
+| 12. Personalización de Notificaciones | Rarely | High |
+| 13. Exploración de tiendas cercanas | Rarely | High |
+
+#### Empresario: Maria Parra
+
+| Tarea / Aspecto | Frecuencia | Importancia |
+|-----------------|------------|-------------|
+| Estrategias de Promoción | Always | High |
+| Uso de Digital Marketing | Often | High |
+| Promoción de Ofertas y Fechas Especiales | Often | High |
+| Gestión de Promociones | Often | High |
+| Sistema de Gestión de Inventarios | Often | High |
+| Opinión sobre el Startup | - | - |
+| Registro y Promociones para Clientes Nuevos | Sometimes | High |  
+| Sugerencias para el Sitio Web | - | - |
+| Facilidad de Uso del Sistema de Gestión de Inventarios | - | - |
+| Accesibilidad Multiplataforma del Sitio Web | - | - |
+| Soporte y Resolución de Problemas | - | - |
+
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.

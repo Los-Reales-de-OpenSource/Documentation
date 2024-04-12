@@ -43,16 +43,24 @@ Ahora presentaremos la primera tabla de los sprints backlogs:
 | US01             | 06            | Como usuario, quiero ver testimonios de otros usuarios en la landing page. | 8 | Naggit | InProcess |
 
 
-#####5.2.1.3. Development Evidence for Sprint Review
+##### 5.2.1.3. Development Evidence for Sprint Review
+
+Presentamos en esta ocasión, los commit correspondientes al desarrollo del landing page:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 | | | | | | |
 
-#####5.2.1.4. Testing Suite Evidence for Sprint Review
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 | | | | | | |
 
-5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Podemos apreciar el landing page en funcionamiento en la siguiente captura: 
+
+![]()
+
+

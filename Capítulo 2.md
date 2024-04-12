@@ -7,14 +7,17 @@
 
 2.2.2. Registro de entrevistas
 
-**Entrevista #1: Sra Martha Artola Solis (54 años)**
+**Entrevista #1:**
 
 ![Primer entrevistada](./images/Entrevistada%201.png)
 
+- Nombre y apellidos: Martha Artola Solis
+- Edad: 54 años
+- Ubicación: Pueblo Libre, Lima
+- Breve resumen:
+    La Sra Artola es un ama de casa de Pueblo Libre que constantemente hace uso de su teléfono para diferentes tareas, desde las comunicaciones más básicas y entretenimiento hasta las compras en línea que son nuestro punto de enfoque para la aplicación en desarrollo. El hecho de que esté al pendiente de diferentes artículos en línea, además de siempre estar al tanto de cualquier posible oferta que se le presente, ya muestra como nuestros futuros usuarios se podrían beneficiar de la aplicación y de como un correcto desarrollo puede llevar a tener un público asegurado para comenzar a destacar entre la competencia.
+    
 Entrevista en el minuto xx:xx de:
-
-Resumen:
-La Sra Artola es un ama de casa de Pueblo Libre que constantemente hace uso de su teléfono para diferentes tareas, desde las comunicaciones más básicas y entretenimiento hasta las compras en línea que son nuestro punto de enfoque para la aplicación en desarrollo. El hecho de que esté al pendiente de diferentes artículos en línea, además de siempre estar al tanto de cualquier posible oferta que se le presente, ya muestra como nuestros futuros usuarios se podrían beneficiar de la aplicación y de como un correcto desarrollo puede llevar a tener un público asegurado para comenzar a destacar entre la competencia.
 
 **Entrevista #2:**
 
