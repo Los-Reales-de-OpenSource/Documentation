@@ -307,30 +307,6 @@ En esta sección se presentan los artefactos del proceso de análisis de la info
 </div>
 
 #### 2.3.1. User Personas.
-
-En esta sección presentaremos dos fichas de User Persona para nuestro producto,
-el cual se enfoca en el cliente que va buscar productos en nuestra pagina y en las grandes y/o pequeñas Empresa y emprendedores. Estas
-fichas están basadas en las principales características y necesidades identificadas
-en el análisis de entrevistas y de la competencia.
-
-#### Segmento objetivo 1 :  Cliente<br><br>
-
-<tr>
-  <div align='center'>
-    <img src="https://cdn.discordapp.com/attachments/891176117204054068/1227956714142433280/image.png?ex=662a4ace&is=6617d5ce&hm=bc33e8c0171fbf92c714d6a716218b96dbfea9f2f15073659bb57f01ecaa3431&">
-  </div>
-</tr>
-<br>
-
-#### Segmento objetivo 1 :  Empresas<br><br>
-
-<tr>
-  <div align='center'>
-    <img src="https://cdn.discordapp.com/attachments/891176117204054068/1227959062138978374/image.png?ex=662a4cfe&is=6617d7fe&hm=2a573262d9aad50511ed62e230ec2a5ca45b1b6910ff5536e11f9c75e36851a1& ">
-  </div>
-</tr>
-<br>
-
 #### 2.3.2. User Task Matrix.
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
