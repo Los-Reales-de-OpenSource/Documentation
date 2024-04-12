@@ -319,25 +319,25 @@ A continuación, procederemos a detallar el product backlog de nuestras user sto
 
 | #Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
 |--------|---------------|--------|-------------|--------------------------|
-|1|US01|Búsqueda de productos de palabra clave|Como usuario quiero poder buscar productos por palabra clave para encontrar productos específicos|8|
-|2|US02|Filtrado de resultados por precios|Como usuario quiero poder filtrar los resultados de búsqueda por precio para encontrar productos que se ajusten a mi presupuesto|--------------------------|
-|3|US03|Guardar productos en lista de deseos|Como usuario quiero poder guardar productos en una lista de deseos para volver a ellos más tarde|--------------------------|
-|4|US04|Ordenamiento de resultados por popularidad|Como usuario quiero poder ordenar los resultados de búsqueda por popularidad para ver los productos más populares primeros |--------------------------|
-|5|US05|Comparación de precios|Como usuario quiero poder comparar precios de un mismo producto en diferentes tiendas para encontrar la mejor opción de compra|--------------------------|
-|6|US06|Notificaciones de precios|Como usuario quiero recibir notificaciones cuando los productos que estoy buscando estén disponibles o en oferta|--------------------------|
-|7|US07|Búsqueda de tiendas cercanas|Como usuario quiero poder buscar tiendas cercanas a mi ubicación para poder encontrar fácilmente una tienda donde comprar el producto que necesito|--------------------------|
-|8|US08|Comentarios y reseñas de productos|Como usuario quiero poder leer comentarios y reseñas de otros usuarios sobre un producto para tomar una decisión de compra informada|--------------------------|
-|9|US09|Opciones de pago|Como usuario quiero ver las opciones de pago disponibles en cada tienda para poder elegir la más conveniente|--------------------------|
-|10|US10|Lista de compras|Como usuario quiero poder crear listas de compras para organizar mis productos y encontrarlos más fácilmente|--------------------------|
-|11|US11|Historial de precios|Como usuario quiero poder ver el historial de precios de un productor para decidir si espero a que baje de precio o lo compro ahora|--------------------------|
-|12|US12|Ofertas destacadas|Como usuario quiero poder ver las ofertas más destacadas de la semana para aprovechar los mejores precios|--------------------------|
-|13|US13|Alertas de precios|Como usuario quiero recibir alertas de precio para los productos que me interesan saber cuando bajan de precio|--------------------------|
-|14|US14|Compartir productos|Como usuario quiero poder compartir productos que encuentro en la app con amigos y familiares para obtener sus opiniones|--------------------------|
-|15|US15|Códigos de descuento|Como usuario quiero poder encontrar y aplicar códigos de descuento para ahorrar dinero en mis compras|--------------------------|
-|16|US16|Cambio de contraseñas|Como usuario quiero que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad|--------------------------|
-|17|US17|Búsqueda avanzada|Como usuario quiero poder analizar una búsqueda avanzada con filtros para poder encontrar productos específicos de manera mas fácil y rápida|--------------------------|
-|18|US18|Búsqueda por voz|Como usuario quiero poder buscar productos en la app utilizando comando de voz para una experiencia más práctica y fácil|--------------------------|
-|19|US19|Compras en grupo|Como usuario quiero poder crear y unirse a compras en grupo con amigos o familiares para obtener descuentos en productos|--------------------------|
+|01|US01|Búsqueda de productos de palabra clave|Como usuario quiero poder buscar productos por palabra clave para encontrar productos específicos|8|
+|02|US05|Comparación de precios|Como usuario quiero poder comparar precios de un mismo producto en diferentes tiendas para encontrar la mejor opción de compra|8|
+|03|US17|Búsqueda avanzada|Como usuario quiero poder analizar una búsqueda avanzada con filtros para poder encontrar productos específicos de manera mas fácil y rápida|8|
+|04|US02|Filtrado de resultados por precios|Como usuario quiero poder filtrar los resultados de búsqueda por precio para encontrar productos que se ajusten a mi presupuesto|5|
+|05|US03|Guardar productos en lista de deseos|Como usuario quiero poder guardar productos en una lista de deseos para volver a ellos más tarde|5|
+|06|US07|Búsqueda de tiendas cercanas|Como usuario quiero poder buscar tiendas cercanas a mi ubicación para poder encontrar fácilmente una tienda donde comprar el producto que necesito|5|
+|07|US09|Opciones de pago|Como usuario quiero ver las opciones de pago disponibles en cada tienda para poder elegir la más conveniente|5|
+|08|US10|Lista de compras|Como usuario quiero poder crear listas de compras para organizar mis productos y encontrarlos más fácilmente|5|
+|09|US16|Cambio de contraseñas|Como usuario quiero que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad|5|
+|10|US04|Ordenamiento de resultados por popularidad|Como usuario quiero poder ordenar los resultados de búsqueda por popularidad para ver los productos más populares primeros |3|
+|11|US06|Notificaciones de precios|Como usuario quiero recibir notificaciones cuando los productos que estoy buscando estén disponibles o en oferta|3|
+|12|US08|Comentarios y reseñas de productos|Como usuario quiero poder leer comentarios y reseñas de otros usuarios sobre un producto para tomar una decisión de compra informada|3|
+|13|US11|Historial de precios|Como usuario quiero poder ver el historial de precios de un productor para decidir si espero a que baje de precio o lo compro ahora|3|
+|14|US12|Ofertas destacadas|Como usuario quiero poder ver las ofertas más destacadas de la semana para aprovechar los mejores precios|3|
+|15|US13|Alertas de precios|Como usuario quiero recibir alertas de precio para los productos que me interesan saber cuando bajan de precio|3|
+|16|US14|Compartir productos|Como usuario quiero poder compartir productos que encuentro en la app con amigos y familiares para obtener sus opiniones|3|
+|17|US15|Códigos de descuento|Como usuario quiero poder encontrar y aplicar códigos de descuento para ahorrar dinero en mis compras|3|
+|18|US19|Compras en grupo|Como usuario quiero poder crear y unirse a compras en grupo con amigos o familiares para obtener descuentos en productos|3|
+|19|US18|Búsqueda por voz|Como usuario quiero poder buscar productos en la app utilizando comando de voz para una experiencia más práctica y fácil|1|
 |20|US20|Chat con la tienda|Como usuario quiero poder comunicarme con la tienda sobre un producto para hacer preguntas y aclarar mis dudas antes de realizar la compra|1|
 
 <br>
@@ -410,9 +410,9 @@ Gracias a un diseño responsivo, y el uso de elementos gráficos que no sean dem
 #### 5.1.3. Source Code Style Guide & Conventions.
 #### 5.1.4. Software Deployment Configuration.
 ### 5.2. Landing Page, Services & Applications Implementation.
-#### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n.
-#### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.2. Sprint Backlog 1.
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 Presentamos en esta ocasión, los commit correspondientes al desarrollo del landing page:
