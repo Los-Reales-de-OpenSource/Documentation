@@ -70,8 +70,6 @@ JavaScript: Principales buenas prácticas:
 - Uso de ```try-catch``` para manejar y gestionar errores.
 - Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
 
-Gherking : Lenguaje de dominio especializado utilizado en el Behavior Driven Development (BDD), diseñado para mejorar la comunicación entre equipos de negocios y técnicos al abordar problemas específicos. Emplea saltos de línea y palabras clave como "Given", "When", "Then" y "And" para mejorar la legibilidad y la organización de los escenarios en BDD, facilitando la estructuración clara y efectiva de diferentes tipos de casos. Estas prácticas nos ayudan a estructurar de manera clara y efectiva los diferentes tipos de escenarios en BDD.
-
 ### 5.2. Landing Page, Services & Applications Implementation
 
 5.2.1.3. Development Evidence for Sprint Review
