@@ -2,7 +2,7 @@
 
 ### 3.1. To-Be Scenario Mapping
 
-![To-be scenario mapping](./images/Captura de pantalla 2024-04-12 a la(s) 07.40.52.png}
+![To-be scenario mapping](./images/Captura de pantalla 2024-04-12 a la(s) 07.40.52.png)
 
 
 ### 3.2. User Stories
