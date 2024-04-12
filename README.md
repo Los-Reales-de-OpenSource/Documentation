@@ -22,7 +22,7 @@
 |Ballona Blas, Naggit German  |u20201b895|
 |Collantes Artola, Marco Antonio|u201410183|
 |Reyes Trujillano, Fabian Alonso|u202218233| 
-|Valenzuela Vallejos, Alessandro Stefabi|u202214695| 
+|Valenzuela Vallejos, Alessandro Stefano|u202214695| 
 
 </center>
 <br><br>
