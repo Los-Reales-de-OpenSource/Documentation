@@ -23,6 +23,7 @@
 |Collantes Artola, Marco Antonio|u201410183|
 |Reyes Trujillano, Fabian Alonso|u202218233| 
 |Valenzuela Vallejos, Alessandro Stefano|u202214695| 
+|Vasquez Villalobos, Elverth Jair|u202213070| 
 
 </center>
 <br><br>
