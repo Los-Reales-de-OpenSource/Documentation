@@ -399,9 +399,26 @@ Gracias a un diseño responsivo, y el uso de elementos gráficos que no sean dem
 #### 5.2.1. Sprint n
 #### 5.2.1.1. Sprint Planning n.
 #### 5.2.1.2. Sprint Backlog n.
-#### 5.2.1.3. Development Evidence for Sprint Review.
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-#### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+Presentamos en esta ocasión, los commit correspondientes al desarrollo del landing page:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| | | | | | |
+
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| | | | | | |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Podemos apreciar el landing page en funcionamiento en la siguiente captura: 
+
+![]()
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
