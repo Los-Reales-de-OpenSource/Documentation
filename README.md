@@ -245,9 +245,29 @@
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
 #### 1.2.2.2. Lean UX Assumptions.
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-#### 1.2.2.4. Lean UX Canvas.
-### 1.3. Segmentos objetivo.
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+Para el caso de nuestro proyecto actual, hemos planteado las siguientes hipótesis con respecto a la implementación de nuestro proyecto:
+
+- Creemos que si proporcionamos los usuarios de una aplicación web que les permita comparar precios de productos en diferentes tiendas, ellos utilizarán activamente la función de búsqueda de precios para encontrar el precio más bajo y tomar decisiones informadas de compra. Sabremos que es cierto, cuando nuestra aplicación sea usada para ello en un 65% de los casos.
+- Creemos que si ofrecemos a los usuarios una función de recomendación de tiendas cercanas, así como opciones de pago en la aplicación web, encontrarán útil esta información y la utilizarán para seleccionar la tienda más conveniente y adecuada para sus necesidades de compra. Sabremos que es verdad al ver un incremento de esta función en una escala del 45 al 60% tras el lanzamiento oficial de la aplicación. 
+- Creemos que si ofrecemos a los usuarios una función de búsqueda de promociones y descuentos por medio de la aplicación web, entonces ellos utilizarán activamente esta función para encontrar ofertas exclusivas y ahorrar dinero en sus compras. Sabremos que es verdad tras ver si esta función es de las más solicitadas por más del 50% de nuestros futuros usuarios, así como los comentarios de los mismos.
+- Creemos que si proporcionamos a los usuarios una función de lista de compras en la aplicación, entonces los usuarios utilizarán esta función para organizar los productos que desean, además de recibir notificaciones sobre posibles cambios de precio o disponibilidad. Sabremos que es verdad cuando notemos un aumento significativo, estimado en un 55%, del uso de la app con este motivo.
+
+#### 1.2.2.4. Lean UX Canvas
+
+Procederemos entonces a presentar el Lean UX Canvas de nuestro futuro producto, y esperamos que se pueda lograr cumplir con todas nuestras expectativas durante los sprint de trabajo venideros.
+
+![Lean Ux Canvas](./images/Lean%20UX%20Canvas.png)
+
+### 1.3. Segmentos objetivo
+
+En base al perfil de nuestro proyecto, hemos decidido que nuestros segmentos objetivo constarán de dos principales clientes:
+
+- Compradores: Los cuales serán personas que buscan ahorrar dinero en sus compras y que valoran la conveniencia de encontrar las mejores ofertas en el menor tiempo posible.
+- Emprendedores: Este segmento puede verse beneficiado con el servicio de nuestro emprendimiento, puesto que le ayudaría a comparar sus precios con posibles competencias cercanas y de ser posible mejorar su servicio.
+
+Estos segmentos comprenderían a personas de todas las edades, tomando en cuenta sus posibles preferencias en materia de precios de productos y de distancia entre cada uno de los locales registrados en la aplicación. 
 
 
 <br>
