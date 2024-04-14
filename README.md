@@ -341,6 +341,22 @@ Teniendo en cuenta a nuestros competidores potenciales identificados, podemos co
 
 ### 2.2 Entrevistas
 #### 2.2.1. Diseño de entrevistas
+Este el diseño de entrevistas a los usuarios para definir los estandares y preferencias que se va a tener en cuenta para el desarrollo de nuestra aplicacion.
+PREGUNTAS GENERALES
+•	¿Cuál es su nombre?
+•	¿ Cuántos años tiene?
+•	¿A qué se dedica?
+•	¿Dirección actual?
+
+PREGUNTAS PARA LA EVALUACIÓN DEL USUARIO
+•	¿Con qué frecuencia utiliza su teléfono o computadora ?¿Para qué actividades lo utiliza? ¿Qué aplicaciones utiliza habitualmente?
+•	¿Alguna vez verificaste en una página el precio de un producto?¿Que productos compra habitualmente
+•	¿Con qué frecuencia busca productos en páginas de internet para consultar precio o comprar online?
+•	¿Tienes alguna tienda o centro comercial preferencial para hacer tus compras?¿Por qué no buscar otro ?
+•	De acuerdo al precio de los productos. ¿El precio de los productos que adquiere es bueno para usted? ¿por qué?
+•	¿Cual es su método de pago habitual?
+•	(EXPLICACION PREVIA DEL PRODUCTO)¿Estarías interesado en conocer este sitio web que logre encontrar el producto comparando otros productos?
+•	¿Si encuentras el producto que necesitas a un precio módico en el website y recomienda una tienda confiable, recomendarías el sitio web que te ayude en tu compra?
 
 #### 2.2.2. Registro de entrevistas
 Hemos realizado el registro de las entrevistas realizadas a distinto tipo de usuarios.
@@ -888,7 +904,7 @@ JavaScript: Principales buenas prácticas:
 - Uso de ```try-catch``` para manejar y gestionar errores.
 - Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
 
-5.1.4
+#### 5.1.4 Software Deployment Configuration
 Para desplegar el landing page resultó necesario cumplir una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos (se utilizará la plataforma Github Pages y Github Actions, para la implementación y despegue). Cumplido lo anterior, será posible comenzar el despliegue de la landing page. Estos son los pasos a seguir:
 
 <ol>
@@ -898,6 +914,7 @@ Para desplegar el landing page resultó necesario cumplir una serie de requisito
   </li>
   <li>Cargar los archivos mediante un push a la rama main del repositorio.</li>
   <li>Verificar que se haya desplegado correctamente.</li>
+	
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1 
