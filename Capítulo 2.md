@@ -81,6 +81,7 @@ Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221
 - Duración de la entrevista: 6:13 minutos
 - Breve decripción:
   Ernesto es un estudiante de 19 años, él es un comprador usual online. Nos comenta que habitualmente compra videojeugos, consolas y múltiples accesorios tecnológicos. Él nos afirma que una aplicación de comparación de precios sería ideal para sus necesidades. Además, esta de acuerdo a que los vendedores sean diferentes emprendimientos; ya que, piensa que en su mayoría las tiendas por departamento tienden a vender los productos a precios más inflados y también siente que estaría apoyando a algun vendedor independiente.
+  Link de la entrevista: https://drive.google.com/file/d/1cmiM2d8wfilqQR2ncczkOEUAF3aFP1SS/view?usp=drive_link
   
 **Entrevista #4: Segmento Emprendedor**
 
