@@ -229,6 +229,12 @@
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+
+Somos una Startup peruana conformada por un equipo de cinco integrantes emprendedores apasinados por la tecnología y la innovación. 
+Nuestra misión es proporcionar herramientas tecnológicas para impulscar el comercio local. Uno de nuestros objetivos es facilitar el crecimiento de pequeños y medianos emprendedores brindandoles la oportunidad de competir en el mercado digital.
+
+Con el aporte de experiencia técnica y habilidades blandas por parte de cada uno de los miembros de este equipo estamos comprometidos con brindar una buena experiencia a cada uno de nuestros usuarios, así como garantizar el éxito de los proyectos de cada uno de ellos.
+
 #### 1.1.2. Perfiles de integrantes del equipo
 
 |   |   |
@@ -239,8 +245,25 @@
 | <p>Elverth Vásquez Villalobos (u202213070)</p> <p>Carrera: Ing. de Software, </p> <p>Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde hasta encontrar una solución. Considero que tengo una buena capacidad de análisis al momento de realizar algoritmos necesarios para el funcionamiento de algunos requerimientos en el software. Así mismo, me gusta siempre estar en comunicación con mi equipo de trabajo de una manera asertiva. Me apasiona el mundo de la tecnología y el emprendimiento, por ello trato de aportar al desarrollo del startup con mis habilidades en programación e investigación.</p> | ![Elverth Vasquez](./images/foto-Vasquez.jpg) |
 | <p>Ballona Blas, Naggit German (u20201b895)</p> <p>Carrera: Ing. de Software</p> <p>Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</p>|<img src="https://cdn.discordapp.com/attachments/891176117204054068/1224808657422782484/pp.jfif?ex=661ed6f3&is=660c61f3&hm=7b81fee336888290bdf6c399c602bb01e0efcd56404f38080c518f8e46ffeccd&" width="100" height="100" style="border-radius: 25%;">|
 
+
 ### 1.2. Solution Profile
+
 #### 1.2.1 Antecedentes y problemática
+
+- **What:** La problematica que se quiere afrontar es la falta de acceso a comparaciones de precios precisas y actualizadas de pequeños y medianos emprendedores en nuestro país. Lo que resulta en un problema para los usuarios finales que enfrentan la dificultad de comparar precios con diferentes negocios, ello puede llevar a generar gastos innecesarios.
+
+- **When:** Este problema surge durante el proceso de toma de decisiones de compra en el usuario final. Muchos de ellos se ven en la necesidad de compara precios en diferentes sitios web, redes sociales o tiendas físicas, para encontrar las mejores ofertas.
+
+- **Where:** El problema afecta a los usuarios finales que buscan las mejores ofertas para los productos de su interes. Así mismo, los emprendedores también se ven afectados ante la poca visibilidad de sus productos y el valor agregado que ofrecen al mercado peruano.
+
+- **Who:** Los principales afectados son las pequeñas y medianas empresas que buscan maximizar sus ganancias y los usuarios finales que desean adquirir el mejor producto al mejor precio.
+
+- **Why:** La causa principal de este problema resulta en la falta de acceso a información actualizada de los precios de los productos. 
+
+- **How:** Nuestra solución consiste en proporcionar una plataforma didáctica que permita a los consumidores comparar precios de productos de manera rápida y precisa. De esta manera, resultan beneficiados los usuarios finales y las empresas que buscan darle visibilidad a sus negocios.
+
+- **How Much:** Este problema afecta a muchos consumidores que buscan obtener productos al mejor precio posible. Así mismo, las empresas pequeñas y medianas se ven afectadas ya que muchas de ellas ofrecen buenas ofertas o valor agregado a un producto pero por la poca visibilidad del negocio no tienen los márgenes de ganacia esperados.
+
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
 #### 1.2.2.2. Lean UX Assumptions.
@@ -708,12 +731,68 @@ Una aplicación como la nuestra depende explicitamente que sea lo más sencilla 
 Gracias a un diseño responsivo, y el uso de elementos gráficos que no sean demasiado rígidos a la vista, se espera que la aplicación de una buena imagen para mantener al usuario interesado y al mismo tiempo bien informado de todo el funcionamiento interno de la aplicación.
 
 #### 4.1.2. Web Style Guidelines.
+
+
 ### 4.2. Information Architecture.
-#### 4.2.1. Organization Systems.
-#### 4.2.2. Labeling Systems.
+
+#### 4.2.1. Organization System
+
+En esta sección se definirá los sistemas de organización que permitirán estructurar y etiquetar el contenido de manera que resulte comprensible y fácil de encontrar para los usuarios.
+
+- **Jerarquia de contenido:** Diseñaremos una jerarquía de contenido que refleje las distintas categorías de productos ofrecidos en la plataforma. Se estableceran secciones principales como : electronica, moda, deportes, entretenimiento, etc. Así mismo, en cada una de estas categorías existirán diferentes subcategorías según se considere necesario (electrodomésticos, ropa de niños, fútbol, etc).
+
+- **Categorización:** Se estableceran grupos de productos en distintas categorías coherentes para mejorar la navegación de los usuarios. Se utilizarán criterios como la marca u otras características importantes. 
+
+- **Funcionalidad de comparación:** Desarrollaremos una funcionalidad de comparación que permita a los usuarios comparar facilmente caracteristicas, precios y otros atributos importantes de los productos de su interes.
+
+#### 4.2.2. Labelling System
+
+En esta seccion se describe el sistema de etiquetado utilizado para nombrar elementos dentro de la plataforma.
+
+- **Etiquetas de menú:** Realizaremos etiquetas que representen cada uno de los menús de nuestra plataforma. Se vera representado cada una de las herramientas y funciones en la plataforma. 
+
+- **Etiquetado descriptivo:** Cada producto estará etiquetado con información descriptiva de manera clara y precisa. Se incluirá detalles como nombre del producto, marca, modelo, tamaño, color , etc. 
+
+- **Etiquetas de categoría:** Se utilizará etiquetas de categorías para organizar todos los productos disponibles en la plataforma de manera que facilite la navegación y búsqueda por parte de los usuarios. 
+
+- **Etiquetas de estado:** Aquí se implementan etiquetas que representen el estado y disponibilidad de los productos (Descuentos, promociones, disponibilidad limitada, etc). 
+
+
 #### 4.2.3. SEO Tags and Meta Tags
-#### 4.2.4. Searching Systems.
-#### 4.2.5. Navigation Systems.
+
+- **Etiqueta de titulo:** Las etiquetas de título en el proyecto deben ser descriptivas y precisas , debe incluir palabras claves relevantes y tener una longitud adecuada para aparecer de forma correcta en los resultados de búsqueda.
+
+- **Meta Description:** La meta descripcion al igual que los titulos debe ser clara, precisa y describir el contenido correctamente. Adicinonalmente, debe motivar a los usuarios a ingresar al sitio web para explorar la plataforma.
+
+- **Meta Keywords:** Asignaremos palabras claves relevantes y específicas para el contenido de la página. 
+
+- **Accesibilidad en la plataforma:** Incluiremos etiquetas que brinden accesibilidad para todo tipos usuarios. Una de las etiquetas mas significativas serian las Alt Tags  que sirven para describir el contenido de una imagen, lo cual resulta útil para los motores de búsqueda y es una ayuda importante para aquellos usuarios con discapacidad.  
+
+#### 4.2.4. Searching System
+
+Se definirá los sistemas de búsqueda que se utilizarán en la plataforma para que el usuario pueda acceder a la información de manera rápido y sencilla.
+
+- **Barra de búsqueda accesible:** Añadiremos una barra de búsqueda que sea notable en la interfaz del usuario (por lo general en la parte superior de la página). En esta funcionalidad los usuarios podran acceder a todo el contenido que la plataforma ofrece.
+
+- **Filtros de búsqueda:** Incluiremos filtros de búsqueda que permitan a los usuarios encontrar lo que necesitan siguiendo diferentes criterios como el precio, marca, disponibilidad, categoría, etc.
+
+- **Búsqueda por palabras claves:** Esta funcionalidad permitirá al usuario ingresar palabras claves para acceder a la información que desean.
+
+- **Sugerencias de Búsqueda y autocompletado:** Se diseñará sugerencias de búsqueda y autompletado que ayudará a los usuarios a tener una búsqueda mucho más rápido y de esa manera crear una buena experiencia al momento de hacer uso de la plataforma. 
+
+
+#### 4.2.5. Navigation System
+
+Se diseñará un sistema de navegación que proporcionará a los usuarios una experiencia de navegación intuitiva y eficiente.
+
+- **Menú de navegación:** Incluiremos un menú de navegación que sea visible para el usuario. En este menú, el usario podrá acceder fácilmente a las herramientas y secciones principales que ofrece la página.
+
+- **Navegación por categorías:** Diseñaremos una navegación por categorías en la plataforma. Estas categorías estarán etiquetadas y organizadas jerárquicamente tal y como se mencionó en el punto Organization System, lo cual hará la búsqueda una experiencia más agradable y rápida.
+
+- **Navegación por Breadcrumbs:** Implementaremos una navegación por breadcrumbs la cual mostrará al usuario la ruta de navegación a través de la plataforma. Al desarrollar esta funcionalidad buscamos orientar al usuario mientras este explora la plataforma y accede a la información
+
+- **Enlaces de acceso rápido:** Estos enlaces serian funcionalidades recurrentes que el usuario utiliza en la plataforma (carrito de compras, lista de deseo, perfil, configuración, cuenta, etc ). 
+
 ### 4.3. Landing Page UI Design.
 #### 4.3.1. Landing Page Wireframe.
 #### 4.3.2. Landing Page Mock-up. 
