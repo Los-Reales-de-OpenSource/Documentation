@@ -51,16 +51,22 @@
     </tr>
     <tr>
         <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-          <td><strong>Nombre</strong><br>
+          <td><strong>Collantes Artola, Marco Antonio</strong><br>
           <strong>TB1:</strong><br> 
-          aca se escribeawdasdawdawd <br><br> 
+          Durante esta entrega me centré en comunicarles a mis compañeros sobre las mejores maneras para realizar los items de esta entrega, aunque admito que experimenté complicaciones para adaptarme a su estilo de trabajo<br><br> 
+          <strong>Nombre</strong><br>
+          <strong>TB1:</strong><br> 
+          aca se escribeawdasdawdawd<br><br> 
       <td><strong>TB1:</strong><br>
         Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
     </td>
     </tr>
     <tr>
         <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-          <td><strong>Nombre</strong><br>
+          <td><strong>Collantes Artola, Marco Antonio</strong><br>
+          <strong>TB1:</strong><br> 
+          Me aseguré de redactar los items que me fueron asignados en el documento, así como informar a mis compañeros de cualquier avance o mejora que pude haber hecho respecto a la idea base del proyecto<br><br>
+          <strong>Nombre</strong><br>
           <strong>TB1:</strong><br> 
           aca se escribeawdasdawdawd <br><br> 
       <td><strong>TB1:</strong><br>
