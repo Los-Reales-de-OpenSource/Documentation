@@ -7,7 +7,6 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 
-<<<<<<< HEAD
 ### Ingeniería de Software
 ### Desarrollo de Aplicaciones Open Source
 ### WS51
@@ -341,10 +340,11 @@ Teniendo en cuenta a nuestros competidores potenciales identificados, podemos co
 - Establecer acuerdos con tiendas locales: Para diferenciarse de los competidores en línea, se podría establecer acuerdos con tiendas locales y pequeñas empresas para ofrecer productos y ofertas exclusivas a los usuarios. Esto ayudaría a promover el comercio local y generar lealtad de los consumidores.
 
 ### 2.2 Entrevistas
+#### 2.2.1. Diseño de entrevistas
 
-2.2.1. Diseño de entrevistas
-
-2.2.2. Registro de entrevistas
+#### 2.2.2. Registro de entrevistas
+Hemos realizado el registro de las entrevistas realizadas a distinto tipo de usuarios.
+Link de todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0
 
 **Entrevista #1:**
 ---
