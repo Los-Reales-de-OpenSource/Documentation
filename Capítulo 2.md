@@ -70,7 +70,19 @@ Entrevista en el minuto xx:xx de:
 
 Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EQ5PIUxVThNHlhK9fCt5iGwB9hxa3UWU9tz0APBI81jGFA?e=z8L3Kl
 
-**Entrevista #3: Segmento Emprendedor**
+**Entrevista #3:**
+
+---
+![Entrevista 3](./images/imagen_2024-04-14_123154626.png)
+
+- Nombre y apellidos: Ernestos Casaverde
+- Edad: 19
+- Ubicación: Lima, Perú
+- Duración de la entrevista: 6:13 minutos
+- Breve decripción:
+  Ernesto es un estudiante de 19 años, él es un comprador usual online. Nos comenta que habitualmente compra videojeugos, consolas y múltiples accesorios tecnológicos. Él nos afirma que una aplicación de comparación de precios sería ideal para sus necesidades. Además, esta de acuerdo a que los vendedores sean diferentes emprendimientos; ya que, piensa que en su mayoría las tiendas por departamento tienden a vender los productos a precios más inflados y también siente que estaría apoyando a algun vendedor independiente.
+  
+**Entrevista #4: Segmento Emprendedor**
 
 
 ![Entrevista Segmento Emprendedor](./images/img-entrevista_segmento_emprendedor.png)
@@ -84,7 +96,7 @@ Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221
 
 [Entrevista Segmento Emprendedor](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/ETJ73sWZD91Gg0vHXXUKlAcBVY-A75zfcc1z5Q1kdtPiXA?e=XZCLrp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
- **Entrevista #4:**
+ **Entrevista #5:**
 
 <a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1227948320513851492/image.png?ex=662a42fd&is=6617cdfd&hm=373e3829b0f26bfd477bfc1e864c12b4a2c24af98c3d9ad9c775340bc7b564c9&" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
 
