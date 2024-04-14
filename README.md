@@ -32,7 +32,7 @@
 | Versión | Fecha | Autor | Descripción |
 |---------|-------|-------|-------------|
 |1.0.0|26/03/2023|Todos|Primera versión del documento|
-|1.0.1| | | |
+|1.0.1|14.04.2024|Alessandro Valenzuela | Partes realizadas: Capítulo 2:  2.1; Capítulo 4: 4.6, 4.7, 4.8; Capítulo 5: 5.2.1.1, 5.2.2.2  |
 |1.0.2| | | |
 |1.0.3| | | | 
 |1.0.4| | | |
