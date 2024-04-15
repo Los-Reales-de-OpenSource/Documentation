@@ -858,7 +858,14 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 ![Landin Mockup 6](./images/WISHLIST.jpg)
 
 ### 4.4. Web Applications UX/UI Design.
-#### 4.4.1. Web Applications Wireframes.
+#### 4.4.1. Web Applications Wireframes.   
+
+![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420116194889798/image.png?ex=662f9db5&is=661d28b5&hm=c05b900cf69300fabe87127f8c254e68dd3af8db4a4431b4b9350c3a56ffe3c5& )
+![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420226584645652/image.png?ex=662f9dcf&is=661d28cf&hm=edfd909a58130da6cdde51210e6448201e600bc3de3bb7a067281bc78a15025f& )
+![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420262043418654/image.png?ex=662f9dd7&is=661d28d7&hm=90d31322264ee7d015da2ce16e5dd36f3bce5602a11080d81dcc19ff8a2b1907& )
+![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420301960351804/image.png?ex=662f9de1&is=661d28e1&hm=3ee64c5e147b1cdf040de8cc71e0dc22b1e8b912785c9d0a2ba9b7f4a56daa87& )
+![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420365298794647/image.png?ex=662f9df0&is=661d28f0&hm=446d73944724d2af977c46ebff834e3edffb28e7038d5f0703a476eb3af90d25& )
+
 #### 4.4.2. Web Applications Wireflow Diagrams.
 
 
