@@ -997,7 +997,15 @@ En el alcance del presente sprint, no se han utilizado servicios de web ya que s
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Para el desarrollo del Landing Page  se ha utilizado los siguientes lenguajes:
 
+Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
+Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
+Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
+
+Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
+GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
+Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
