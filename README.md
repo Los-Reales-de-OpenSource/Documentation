@@ -868,6 +868,12 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
 
+![ Wirefram Diagram ](  https://cdn.discordapp.com/attachments/891176117204054068/1229424614573211660/image.png?ex=662fa1e5&is=661d2ce5&hm=0f4f9b1ec03d268cff7e82d6c8ee9e8f97bc5ff76147333482ada32fecc84b0e&)
+![ Wirefram Diagram ](https://cdn.discordapp.com/attachments/891176117204054068/1229424709347709028/image.png?ex=662fa1fc&is=661d2cfc&hm=869c4ca5d3d547c54fedc201e55c9c8b1858356b27c7d0d0afb69b14b255f1b4&  )
+![ Wirefram Diagram ](  https://cdn.discordapp.com/attachments/891176117204054068/1229424744705560618/image.png?ex=662fa204&is=661d2d04&hm=8514aebf20196c2115e279fa5860b09ce047c209b480b3672bc959f98e080a3d&)
+![ Wirefram Diagram ]( https://cdn.discordapp.com/attachments/891176117204054068/1229424785801613343/image.png?ex=662fa20e&is=661d2d0e&hm=e729c010b6d0cecb891786fcb346afebf27a8ae13d963374c32137304874cb7a& )
+![ Wirefram Diagram ](  https://cdn.discordapp.com/attachments/891176117204054068/1229424852910346340/image.png?ex=662fa21e&is=661d2d1e&hm=b0c14ff8508724f59177485243c42fffe73f484b87e740c15225918ec9dbe039&)
+![ Wirefram Diagram ]( https://cdn.discordapp.com/attachments/891176117204054068/1229424667400601610/image.png?ex=662fa1f2&is=661d2cf2&hm=57873aba5a32f69eb276e5f6fa9e447b257ddbe9875e1280a42b3c313cc01ed9& )
 
 #### 4.4.3. Web Applications Mock-ups.
 
