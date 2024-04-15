@@ -860,8 +860,35 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
 #### 4.4.2. Web Applications Wireflow Diagrams.
-#### 4.4.2. Web Applications Mock-ups.
-#### 4.4.3. Web Applications User Flow Diagrams.
+
+
+#### 4.4.3. Web Applications Mock-ups.
+
+Para la implementación de los Mock-ups de las aplicaciones web, se siguieron los principios de diseño, elementos de diseño, diseño inclusivo y arquitectura de información que se planteó en puntos anteriores. El cual implican los siguientes aspectos:
+
+Sencillez: Se utilizó un diseño simple y limpio para que el usuario pueda navegar fácilmente por la aplicación.
+
+Consistencia: Se utilizó un diseño consistente en para mejorar la experiencia de usuario. Esto ayuda a los usuarios a identificar elementos familiares y entender mejor la jerarquía de la información.
+
+Jerarquía Visual: Se utilizó un diseño que permite a los usuarios identificar fácilmente los elementos más importantes de la aplicación. Esto ayuda a los usuarios a comprender mejor la información y a tomar decisiones más rápidas.
+
+Feedback: Se utilizó un diseño que proporciona comentarios visuales a los usuarios para que sepan que sus acciones se han realizado correctamente. Esto ayuda a los usuarios a comprender mejor el sistema y a evitar errores.
+
+Diseño Inclusivo: Se utilizó un diseño que permite a los usuarios personalizar la aplicación según sus necesidades. Esto ayuda a los usuarios a sentirse más cómodos y a disfrutar de una experiencia de usuario más agradable.
+
+Accesibilidad: Se utilizó un diseño que permite a los usuarios acceder a la aplicación desde cualquier dispositivo. Esto ayuda a los usuarios a utilizar la aplicación en cualquier momento y lugar.
+
+Web Application Mock-up para Desktop
+
+![Landin Mockup 1](./images/main.jpg)
+![Landin Mockup 2](./images/PRODUCTOS.jpg)
+![Landin Mockup 3](./images/NOSOTROS.jpg)
+![Landin Mockup 4](./images/LOGIN.jpg)
+![Landin Mockup 5](./images/CONTACTO.jpg)
+![Landin Mockup 6](./images/WISHLIST.jpg)
+
+
+#### 4.4.4. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
 
 ![Landin Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1229413638876561408/image.png?ex=662f97ac&is=661d22ac&hm=057b0c3e2115d5a6e12102df204f75182e40d535c93ddfff37dc5258d5d55c0f&)
