@@ -33,7 +33,7 @@
 |---------|-------|-------|-------------|
 |1.0.0|26/03/2023|Todos|Primera versión del documento|
 |1.0.1|14.04.2024|Alessandro Valenzuela | Partes realizadas: Capítulo 2:  2.1; Capítulo 4: 4.6, 4.7, 4.8; Capítulo 5: 5.2.1.1, 5.2.2.2  |
-|1.0.2| | | |
+|1.0.2|14.04.2024|Fabian Reyes Trujillano | Partes realizadas: Capítulo 1: 1.2.2, 1.2.2.1, 1.2.2.2; Capítulo 3: 3.1, 3.2; Capítulo 4: 4.3, 4.4.1; Capítulo 5: 5.1.2, 5.1.3, 5.1.4 |
 |1.0.3| | | | 
 |1.0.4| | | |
 |1.0.5|07/04/2023|Marco Collantes|1er Registro de entrevistas|
@@ -61,6 +61,9 @@
           <strong>Vásquez Villalobos, Elverth Jair</strong><br>
           <strong>TB1:</strong><br> 
           Trabajamos en conjunto para resolver conflictos que se presentaron al desarrollar las entregas de cada uno de los items. Brindamos capacitación y ayuda a aquellos compañeros que tenían desconocimiento en el desarrollo del trabajo. <br><br> 
+          <strong>Reyes Trujillano, Fabian Alonso</strong><br>
+          <strong>TB1:</strong><br> 
+	  Durante esta entrega me encargue principalmente de desarrollar el apartado gráfico del proyecto y ayude a mis compañeros con diferentes ideas y tareas a realizar durante este TB1.<br><br> 
       <td><strong>TB1:</strong><br>
         Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
     </td>
