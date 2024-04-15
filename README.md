@@ -989,7 +989,12 @@ De ser necesario, se actualizará deacuerdo al feedback de la entrega.
 
 Podemos apreciar el landing page en funcionamiento: 
 
-![]()
+![LandinPage1](./images/main.jpg)
+![LandinPage2](./images/PRODUCTOS.jpg)
+![LandinPage3](./images/NOSOTROS.jpg)
+![LandinPage4](./images/LOGIN.jpg)
+![LandinPage5](./images/CONTACTO.jpg)
+![LandinPage6](./images/WISHLIST.jpg)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
