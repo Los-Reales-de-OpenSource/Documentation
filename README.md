@@ -32,10 +32,17 @@
 | Versión | Fecha | Autor | Descripción |
 |---------|-------|-------|-------------|
 |1.0.0|26/03/2023|Todos|Primera versión del documento|
+<<<<<<< HEAD
 |1.0.1|01/04/2023|Marco Collantes, Elverth Vasquez, Naggit Bayona | Primeros items del informe  |
 |1.0.2|02/04/2023|Marco Collantes, Elverth Vasquez, Naggit Bayona|Actualización de elementos asignados|
 |1.0.3|03/04/2023|Marco Collantes, Elverth Vasquez|Nuevos items y gráficos de secciones elegidas| 
 |1.0.4|06/04/2023|Fabian Reyes|Capítulo 1 finalizado|
+=======
+|1.0.1|14.04.2024|Alessandro Valenzuela | Partes realizadas: Capítulo 2:  2.1; Capítulo 4: 4.6, 4.7, 4.8; Capítulo 5: 5.2.1.1, 5.2.2.2  |
+|1.0.2|14.04.2024|Fabian Reyes Trujillano | Partes realizadas: Capítulo 1: 1.2.2, 1.2.2.1, 1.2.2.2; Capítulo 3: 3.1, 3.2; Capítulo 4: 4.3, 4.4.1; Capítulo 5: 5.1.2, 5.1.3, 5.1.4 |
+|1.0.3| | | | 
+|1.0.4| | | |
+>>>>>>> c251f3b1399edf5a9eeb01d663ba16535ff6954f
 |1.0.5|07/04/2023|Marco Collantes|1er Registro de entrevistas|
 |1.0.6|09/04/2023|Elverth Vasquez, Alessandro Villanueva|Actualización de capítulos 2,4,5|
 |1.0.7|12/04/2023|Marco Collantes, Fabian Reyes, Alessandro Valenzuela|Actualización de items|
@@ -58,9 +65,9 @@
          <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
           <strong>TB1:</strong><br> 
           Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
-          <strong>Nombre</strong><br>
+          <strong>Reyes Trujillano, Fabian Alonso</strong><br>
           <strong>TB1:</strong><br> 
-          aca se escribeawdasdawdawd<br><br> 
+	  Durante esta entrega me encargue principalmente de desarrollar el apartado gráfico del proyecto y ayude a mis compañeros con diferentes ideas y tareas a realizar durante este TB1.<br><br> 
       <td><strong>TB1:</strong><br>
         Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
     </td>
@@ -279,7 +286,17 @@ Con el aporte de experiencia técnica y habilidades blandas por parte de cada un
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
+
+- **Problema 1:** ComPeru se dedica a presentar las diferentes ofertas que tienen diferentes productos ofrecidos por múltiples emprendimientos. Los usuarios podrían encontrar abrumadora la cantidad de información presentada sobre las ofertas de productos, esto los dificultaria al momento de su elección sobre uno de estos. Por ello, se implementará un sistema de filtrado y organización, así como un diferente algoritmo de recomendación sobre ciertos productos para dentro de una interfaz sencilla y minimalista para facilitarle la navegación al usuario y mejorar su experiencia con nuestro servicio.
+- **Problema 2:** En ComPeru, muchos emprendimientos y/o emprendedores empiezan a ofrecer diferentes productos en diferentes precios. Los usuarios tendrián un problema de desconfianza en la precisión o autenticidad de los precios y ofertas presentadas. Para solucionar este problema, se implementará una verificación de emprendedores y de pagos. Además se incluirá un sistema de calificaciones ehacia los emprendimietos, lo que los ayudará a ganar fama y buena reputación dentro de nuestro servicio.
+
 #### 1.2.2.2. Lean UX Assumptions.
+
+- Los usuarios aprecian la posibilidad de comparar rápidamente los precios y ofertas de distintos negocios para tomar decisiones de compra bien fundamentadas.
+- Los usuarios confían en la veracidad y transparencia de la información sobre precios y ofertas que se muestra en la app, lo que les brinda la seguridad necesaria al momento de decidir qué comprar.
+- Los usuarios tienen diversas preferencias de productos que incluyen tecnología, alimentos y otros rubros, lo que subraya la importancia de contar con una plataforma que permita comparaciones en múltiples categorías.
+- Los usuarios se sienten motivados por la posibilidad de hallar ofertas exclusivas y descuentos especiales a través de la aplicación, lo que los impulsa a utilizarla como su principal fuente de compras en línea.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 Para el caso de nuestro proyecto actual, hemos planteado las siguientes hipótesis con respecto a la implementación de nuestro proyecto:
