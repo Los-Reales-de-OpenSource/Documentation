@@ -58,9 +58,9 @@
          <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
           <strong>TB1:</strong><br> 
           Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
-          <strong>Nombre</strong><br>
+          <strong>Reyes Trujillano, Fabian Alonso</strong><br>
           <strong>TB1:</strong><br> 
-          aca se escribeawdasdawdawd<br><br> 
+	  Durante esta entrega me encargue principalmente de desarrollar el apartado gráfico del proyecto y ayude a mis compañeros con diferentes ideas y tareas a realizar durante este TB1.<br><br> 
       <td><strong>TB1:</strong><br>
         Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
     </td>
