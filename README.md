@@ -1029,12 +1029,12 @@ Ahora presentaremos la primera tabla de los sprints backlogs:
 **Sprint 1: Desarrollo de una primera versión del Landing Page**
 | Work-Item / Task | User Story ID | Description | Estimation (Hours) | Assigned To | Status |
 |------------------|---------------|-------------|---------------------|-------------|--------|
-| US01             | 01            | Como usuario, quiero poder ver un resumen claro y conciso de lo que hace la aplicación en la landing page. | 12 | Eduardo | Done |
-| US01             | 02            | Como usuario, quiero ver en la landing page cómo la aplicación puede ayudarme a ahorrar dinero. | 6 | Blanca | Done |
-| US01             | 03            | Como usuario, quiero que la landing page sea atractiva y fácil de navegar. | 4 | Jorge | Done |
-| US01             | 04            | Como usuario quiero probar la landing page en varios navegadores (Chrome, Firefox, Safari, etc.). | 4 | Jorge | To-Review |
-| US01             | 05            | Como usuario quiero que la landing page sea responsiva y funcione correctamente en dispositivos móviles y de escritorio. | 6 | Anthony | To-Review |
-| US01             | 06            | Como usuario, quiero ver testimonios de otros usuarios en la landing page. | 8 | Naggit | InProcess |
+| US01             | 01            | Como usuario, quiero poder ver un resumen claro y conciso de lo que hace la aplicación en la landing page. | 12 | Alessandro | Done |
+| US02             | 02            | Como usuario, quiero ver en la landing page cómo la aplicación puede ayudarme a ahorrar dinero. | 6 | Naggit | Done |
+| US03             | 03            | Como usuario, quiero que la landing page sea atractiva y fácil de navegar. | 4 | Fabian | Done |
+| US04             | 04            | Como usuario quiero probar la landing page en varios navegadores (Chrome, Firefox, Safari, etc.). | 4 | Jair | To-Review |
+| US05             | 05            | Como usuario quiero que la landing page sea responsiva y funcione correctamente en dispositivos móviles y de escritorio. | 6 | Alessandro | To-Review |
+| US06             | 06            | Como usuario, quiero ver testimonios de otros usuarios en la landing page. | 8 | Fabian | InProcess |
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
