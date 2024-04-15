@@ -1,4 +1,4 @@
-<tr>
+![image](https://github.com/NaggitBallona/Los-Reales-de-Open-Source/assets/133992963/62296dd8-12d4-4471-baed-e3afcce42baa)<tr>
   <div align='center'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
     </div>
@@ -891,8 +891,7 @@ Esto son los diagramas de componentes de nuestro sistema:
 Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
 
 Diagrama de clases:
-<a href="https://ibb.co/TRMxMMt"><img src="https://i.ibb.co/q9Y3YYp/DIAGRAMA-DE-CLASES.png" alt="DIAGRAMA-DE-CLASES" border="0"></a>
-
+<a href="https://ibb.co/yfvnWhH"><img src="https://i.ibb.co/GxYvcsz/image.png" alt="image" border="0"></a>
 
 
 ##### 4.7.2. Class Dictionary
