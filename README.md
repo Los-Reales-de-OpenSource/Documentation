@@ -990,8 +990,17 @@ Podemos apreciar el landing page en funcionamiento:
 ![]()
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
+
 
 <br>
 
