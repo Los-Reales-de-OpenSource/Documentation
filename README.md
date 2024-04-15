@@ -864,6 +864,12 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 #### 4.4.3. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
 
+![Landin Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1229413638876561408/image.png?ex=662f97ac&is=661d22ac&hm=057b0c3e2115d5a6e12102df204f75182e40d535c93ddfff37dc5258d5d55c0f&)
+
+**Link del Protype:**  https://www.figma.com/proto/nJkxHSMVbOuRTVvuYv4r1H/Open-source?type=design&node-id=47783-1469&t=4M86M8sUik2gOB7i-0&scaling=min-zoom&page-id=45348%3A1263&starting-point-node-id=47783%3A1469
+
+**Figma del Protype:**  https://www.figma.com/file/nJkxHSMVbOuRTVvuYv4r1H/Open-source?type=design&node-id=45348-1263&mode=design&t=L5IuAsQGrHbB3iXB-0
+
 ### 4.6. Domain-Driven Software Architecture
 Para el modelo de negocio que utilizaremos para desarrollar nuestro software complejo que se centra en la problematica que abordamos. para ello utilizaremos la tecnica de modelado C4 Model.
 #### 4.6.1. Software Architecture Context Diagram
@@ -1102,5 +1108,4 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 ## Anexos
 =======
-### Ingeniería de Software
->>>>>>> 9d17d5998f13f69c72b60a6f93f848fae16da201
+### Ingeniería de Software 
