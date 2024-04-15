@@ -840,6 +840,14 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 
 ### 4.3. Landing Page UI Design.
 #### 4.3.1. Landing Page Wireframe.
+
+![Wireframe 1](./images/main%20wireframe.jpg)
+![Wireframe 2](./images/productos%20wireframe.jpg)
+![Wireframe 3](./images/nsootros%20wireframe.jpg)
+![Wireframe 4](./images/login%20wireframe.jpg)
+![Wireframe 5](./images/contactanos%20wireframe.jpg)
+![Wireframe 6](./images/wishlist%20wireframe.jpg)
+
 #### 4.3.2. Landing Page Mock-up. 
 
 ![Landin Mockup 1](./images/main.jpg)
