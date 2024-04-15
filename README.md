@@ -32,10 +32,10 @@
 | Versión | Fecha | Autor | Descripción |
 |---------|-------|-------|-------------|
 |1.0.0|26/03/2023|Todos|Primera versión del documento|
-|1.0.1|14.04.2024|Alessandro Valenzuela | Partes realizadas: Capítulo 2:  2.1; Capítulo 4: 4.6, 4.7, 4.8; Capítulo 5: 5.2.1.1, 5.2.2.2  |
-|1.0.2| | | |
-|1.0.3| | | | 
-|1.0.4| | | |
+|1.0.1|01/04/2023|Marco Collantes, Elverth Vasquez, Naggit Bayona | Primeros items del informe  |
+|1.0.2|02/04/2023|Marco Collantes, Elverth Vasquez, Naggit Bayona|Actualización de elementos asignados|
+|1.0.3|03/04/2023|Marco Collantes, Elverth Vasquez|Nuevos items y gráficos de secciones elegidas| 
+|1.0.4|06/04/2023|Fabian Reyes|Capítulo 1 finalizado|
 |1.0.5|07/04/2023|Marco Collantes|1er Registro de entrevistas|
 |1.0.6|09/04/2023|Elverth Vasquez, Alessandro Villanueva|Actualización de capítulos 2,4,5|
 |1.0.7|12/04/2023|Marco Collantes, Fabian Reyes, Alessandro Valenzuela|Actualización de items|
