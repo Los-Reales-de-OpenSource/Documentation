@@ -551,6 +551,8 @@ tareas para los User Personas previamente definidos.
 
 2.3.3. User Journey Mapping
 
+![User Journey Map](./images/UserJourneyMap.jpg)
+
 2.3.4. As-is Scenario Mapping
 
 ![As-is Scenario Map](./images/As-is%20Scenario%20Map.jpg)
