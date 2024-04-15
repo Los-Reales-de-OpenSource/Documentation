@@ -1009,8 +1009,11 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-
-
+![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228355279130754/image.png?ex=662eeb1d&is=661c761d&hm=bff9c1190342a0153256618c37d4baf49efaf4fba5fc6cce3053ab1f0b67e19b&)
+![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228677833953371/image.png?ex=662eeb6a&is=661c766a&hm=55a49bf658281f716e71babc0f36e5998fad1fd6c60ca35e16ecdfe4d6490fda&)
+![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228719772794961/image.png?ex=662eeb74&is=661c7674&hm=aec10dbae436faf7f020d3513b24d89e15cc0175c26be98cfd01594007f86911&)
+![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228780464373880/image.png?ex=662eeb83&is=661c7683&hm=4a9238354dec8d85eb12965a68444889b241695cb06c573ff1a05f6237dfac94&)
+![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228826576293949/image.png?ex=662eeb8e&is=661c768e&hm=a28691acade4c1b41538456d87e8a292d673fea34e363501cfd5f06fa5f6af54&)
 
 <br>
 
