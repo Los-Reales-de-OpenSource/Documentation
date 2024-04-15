@@ -31,15 +31,15 @@
 
 | Versión | Fecha | Autor | Descripción |
 |---------|-------|-------|-------------|
-|1.0.0|26/03/2023|Todos|Primera versión del documento|
-|1.0.1|01/04/2023|Marco Collantes, Elverth Vasquez, Naggit Bayona | Primeros items del informe  |
-|1.0.2|02/04/2023|Marco Collantes, Elverth Vasquez, Naggit Bayona|Actualización de elementos asignados|
-|1.0.3|03/04/2023|Marco Collantes, Elverth Vasquez|Nuevos items y gráficos de secciones elegidas| 
-|1.0.4|06/04/2023|Fabian Reyes|Capítulo 1 finalizado|
-|1.0.5|07/04/2023|Marco Collantes|1er Registro de entrevistas|
-|1.0.6|09/04/2023|Elverth Vasquez, Alessandro Villanueva|Actualización de capítulos 2,4,5|
-|1.0.7|12/04/2023|Marco Collantes, Fabian Reyes, Alessandro Valenzuela|Actualización de items|
-|1.0.8|14/04/2023|Todos|Version final primera entrega|
+|1.0.0|26/03/2024|Todos|Primera versión del documento|
+|1.0.1|01/04/2024|Marco Collantes, Elverth Vasquez, Naggit Bayona | Primeros items del informe  |
+|1.0.2|02/04/2024|Marco Collantes, Elverth Vasquez, Naggit Bayona|Actualización de elementos asignados|
+|1.0.3|03/04/2024|Marco Collantes, Elverth Vasquez|Nuevos items y gráficos de secciones elegidas| 
+|1.0.4|06/04/2024|Fabian Reyes|Capítulo 1 finalizado|
+|1.0.5|07/04/2024|Marco Collantes|1er Registro de entrevistas|
+|1.0.6|09/04/2024|Elverth Vasquez, Alessandro Villanueva|Actualización de capítulos 2,4,5|
+|1.0.7|12/04/2024|Marco Collantes, Fabian Reyes, Alessandro Valenzuela|Actualización de items|
+|1.0.8|14/04/2024|Todos|Version final primera entrega|
 
 # Student Outcome
  <br>
@@ -966,11 +966,13 @@ Ahora presentaremos la primera tabla de los sprints backlogs:
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-Presentamos en esta ocasión, los commit correspondientes al desarrollo del landing page:
+Los siguientes commit corresponden al desarrollo del landing page:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| | | | | | |
+|LandingPage|main|07727287227770|initial| |14/04/2024|
+
+De ser necesario, se actualizará deacuerdo al feedback de la entrega.
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -980,7 +982,7 @@ Presentamos en esta ocasión, los commit correspondientes al desarrollo del land
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-Podemos apreciar el landing page en funcionamiento en la siguiente captura: 
+Podemos apreciar el landing page en funcionamiento: 
 
 ![]()
 
