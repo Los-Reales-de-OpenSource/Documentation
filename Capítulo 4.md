@@ -92,11 +92,16 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 - **Enlaces de acceso rápido:** Estos enlaces serian funcionalidades recurrentes que el usuario utiliza en la plataforma (carrito de compras, lista de deseo, perfil, configuración, cuenta, etc ). 
 ### 4.3. Landing Page UI Design
 
+4.3.1 Landing Page Wireframes
 
-4.3.1 Landing Page Mock-up
+4.3.2 Landing Page Mock-up
 
-![Landin Mockup 1](./images/imagen_2024-04-08_001658989.png)
-![Landin Mockup 2](./images/Mock-up 2.png)
+![Landin Mockup 1](./images/main.jpg)
+![Landin Mockup 2](./images/PRODUCTOS.jpg)
+![Landin Mockup 3](./images/NOSOTROS.jpg)
+![Landin Mockup 4](./images/LOGIN.jpg)
+![Landin Mockup 5](./images/CONTACTO.jpg)
+![Landin Mockup 6](./images/WISHLIST.jpg)
 
 ### 4.4. Web Applications UX/UI Design
 
