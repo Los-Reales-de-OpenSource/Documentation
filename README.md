@@ -65,7 +65,7 @@
           <strong>TB1:</strong><br> 
 	  Durante esta entrega me encargue principalmente de desarrollar el apartado gráfico del proyecto y ayude a mis compañeros con diferentes ideas y tareas a realizar durante este TB1.<br><br> 
       <td><strong>TB1:</strong><br>
-        Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
+        Se requiere cierto nivel de comunicación para poder trabajar en una entrega tan completa como esta,de forma que se dé a conocer que es necesario para avanzar sin problemas<br><br>
     </td>
     </tr>
     <tr>
