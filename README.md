@@ -452,7 +452,21 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214
 - **Análisis 2**
   Analizando la entrevista al sujeto observe el interes por nuestra debido a que seria de mucha ayuda tener una aplicacion que presente multiples opciones en cuanto a productos y en su caso para el rubro de la tecnologia, y que esta cuente con un metodo de pago de su preferencia.
 
+
+
 #### Entrevista 4
+
+Iván es un joven de 19 años que cuenta con un pequeño emprendimiento de venta de accesorios para hombre. Actualmente trabajo solo por lo que asumimos que es un negocio pequeño.
+
+Él nos comenta que principalmente utiliza las redes sociales para promocionar y realizar las ventas de sus productos. Así mismo, cuenta que también ha participado en ferias de artesanía y en mercados locales buscando tener un mayor alcance a sus clientes.
+
+Su principal desafío ha sido el competir con marcas grandes ya posicionadas en el mercado. Además el se encuentra en un mercado saturado donde destacar es algo difícil.
+
+A Iván le encataría dar a conocer sus ofertas y promociones a través de nuestra plataforma para llegar a nuevos clientes. También hizo mención de una funcionalidad para poder personalizar la presentación de sus productos en la plataforma en donde pueda recalcar el estilo único de su negocio y poder marcar una diferencia con la competencia.
+
+Por último, comentó la importancia de poder responder las preguntas de los clientes y brindarles atención personalizada para mejorar su experiencia de compra.
+
+#### Entrevista 5
 
 Perfil y comportamiento de consumo:
 
