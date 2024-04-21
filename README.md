@@ -276,7 +276,7 @@ Con el aporte de experiencia técnica y habilidades blandas por parte de cada un
 
 - **Why:** La causa principal de este problema resulta en la falta de acceso a información actualizada de los precios de los productos. 
 
-- **How:** Nuestra solución consiste en proporcionar una plataforma didáctica que permita a los consumidores comparar precios de productos de manera rápida y precisa. De esta manera, resultan beneficiados los usuarios finales y las empresas que buscan darle visibilidad a sus negocios.
+- **How:** Esta aplicación integrará datos actualizados de precios de pequeñas y medianas empresas en todo el país, permitiendo a los usuarios comparar precios de manera conveniente en un solo lugar. Además, implementaremos funciones de búsqueda avanzada y notificaciones de ofertas especiales para mejorar la experiencia del usuario. 
 
 - **How Much:** Este problema afecta a muchos consumidores que buscan obtener productos al mejor precio posible. Así mismo, las empresas pequeñas y medianas se ven afectadas ya que muchas de ellas ofrecen buenas ofertas o valor agregado a un producto pero por la poca visibilidad del negocio no tienen los márgenes de ganacia esperados.
 
