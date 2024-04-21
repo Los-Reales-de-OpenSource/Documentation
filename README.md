@@ -556,23 +556,27 @@ tareas para los User Personas previamente definidos.
 
 ### 2.4 Ubiquitous Language
 
-| Término    | Definición |
-|---------------------|------------|
-| Product           | El artículo que ofrece ComPeru para su venta. |
-| Merchant        | Una entidad que ofrece productos a la venta en ComPeru. |
-| Customer           | Un individuo que compra productos a través de la plataforma ComPeru. |
-| Price Comparison    | Comparar los precios de un mismo producto entre diferentes comerciantes en ComPeru. |
-| Search Bar          | Campo de entrada de texto que permite a los usuarios buscar productos específicos dentro de ComPeru. |
-| Wishlist           | Es la función que permite a los usuarios guardar productos para comprar en un futuro en ComPeru. |
-| Checkout            | El proceso de finalizar una compra y realizar el pago de los productos seleccionados en ComPeru. |
-| Discount            | Una reducción en el precio de un producto ofrecido por un comerciante en ComPeru. |
-| Review              | Una evaluación u opinión hecha por un cliente sobre un producto adquirido a través de ComPeru. |
-| Category            | Una clasificación que agrupa productos similares en ComPeru (Se agrupan por características, proveedores, sector , etc). |
-| Notification        | Un mensaje enviado a un usuario para informarle sobre eventos que se realizan en ComPeru. |
-| Account             | El perfil personal de un usuario en ComPeru, que incluye información como: nombre, dirección y métodos de pago. |
-| Car                | Una lista que contiene los productos seleccionados por un usuario para comprar en ComPeru. |
-| FAQ (Frequently Asked Questions) | Una sección que proporciona respuestas a preguntas comunes sobre el funcionamiento y políticas de ComPeru. |
-
+| Término                   | Descripción                                                                                             |
+|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Startup Profile           | Descripción de la startup y perfiles de los integrantes del grupo.                                       |
+| Solution Profile          | Antecedentes, problemática y proceso Lean UX.                                                            |
+| Lean UX Process           | Metodología ágil centrada en el usuario para el desarrollo de productos.                                  |
+| Problem Statements        | Declaraciones que definen los problemas clave a resolver.                                                 |
+| Hypothesis Statements     | Hipótesis sobre las soluciones propuestas que deben ser probadas.                                         |
+| Lean UX Canvas            | Herramienta para mapear el problema, solución y métricas clave.                                           |
+| Competitive Analysis      | Análisis de la competencia para identificar fortalezas y debilidades.                                     |
+| User Persona              | Perfiles ficticios que representan a los usuarios objetivo.                                                |
+| User Journey Mapping      | Mapeo de la experiencia del usuario a lo largo del tiempo.                                                 |
+| User Stories              | Descripciones simples de funcionalidades desde la perspectiva del usuario.                                 |
+| Impact Mapping            | Técnica para planificar y priorizar el desarrollo de productos.                                            |
+| Product Backlog           | Lista priorizada de requisitos y funcionalidades a implementar.                                            |
+| Information Architecture  | Estructura de organización y etiquetado del contenido.                                                     |
+| Web Applications UX/UI Design | Diseño de la experiencia y la interfaz de usuario para aplicaciones web.                                 |
+| Wireframes                | Bocetos de bajo nivel que representan la estructura de la aplicación.                                     |
+| Database Design           | Diseño de la estructura de la base de datos.                                                              |
+| Sprint Planning           | Planificación de las iteraciones de desarrollo.                                                           |
+| Sprint Backlog            | Lista de tareas a realizar durante una iteración.                                                         |
+| Sprint Review             | Revisión y evaluación del trabajo realizado en una iteración.                                             |
 
 ## CAPÍTULO 3: REQUIREMENTS SPECIFICATION
 
