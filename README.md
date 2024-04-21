@@ -1084,7 +1084,8 @@ Los siguientes commit corresponden al desarrollo del landing page:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-|LandingPage|main|07727287227770|initial| |14/04/2024|
+|LandingPage|main|0971160173dc0abca88a0b8afd7261b9bbb26fcc|Initial commit| |14/04/2024|
+| |main|a5fd21aa1802777ef91e270cd76aa9f368e24d59|new| | 16/04/2024 |
 
 De ser necesario, se actualizará deacuerdo al feedback de la entrega.
 
