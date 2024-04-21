@@ -381,10 +381,8 @@ PREGUNTAS PARA LA EVALUACIÓN DEL USUARIO
 
 #### 2.2.2. Registro de entrevistas
 Hemos realizado el registro de las entrevistas realizadas a distinto tipo de usuarios.
-Link de todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0
 
 **Entrevista #1:**
----
 
 ![Primer entrevistada](./images/Entrevistada%201.png)
 
@@ -394,11 +392,10 @@ Link de todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 - Breve resumen:
     La Sra Artola es un ama de casa de Pueblo Libre que constantemente hace uso de su teléfono para diferentes tareas, desde las comunicaciones más básicas y entretenimiento hasta las compras en línea que son nuestro punto de enfoque para la aplicación en desarrollo. El hecho de que esté al pendiente de diferentes artículos en línea, además de siempre estar al tanto de cualquier posible oferta que se le presente, ya muestra como nuestros futuros usuarios se podrían beneficiar de la aplicación y de como un correcto desarrollo puede llevar a tener un público asegurado para comenzar a destacar entre la competencia.
     
-Entrevista en el minuto xx:xx de:
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0 (minuto 6:17)
 
 **Entrevista #2:**
 
----
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wL9JQkC/Captura-de-pantalla-2024-04-09-003920.png" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
 - Nombre y apellidos: Pablo Alejandro Mendez Urbano
 - Edad:  21
@@ -407,11 +404,10 @@ Entrevista en el minuto xx:xx de:
 - Breve descripción: 
 	Pablo es un joven de 23 años de edad que actualmente trabaja como profesor de musica, me comenta que actualmente usa aplicaciones de compra online ya que le facilita mucho en distintos aspectos. Por lo que quisiera una aplicacion enfocada a la comparacion de distintas ofertas que se puedan presentar para ciertos productos, en su caso el interes por productos tecnologicos.
 
-Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EQ5PIUxVThNHlhK9fCt5iGwB9hxa3UWU9tz0APBI81jGFA?e=z8L3Kl
+Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0 (minuto 10:50)
 
 **Entrevista #3:**
 
----
 ![Entrevista 3](./images/imagen_2024-04-14_123154626.png)
 
 - Nombre y apellidos: Ernestos Casaverde
@@ -420,10 +416,10 @@ Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221
 - Duración de la entrevista: 6:13 minutos
 - Breve decripción:
   Ernesto es un estudiante de 19 años, él es un comprador usual online. Nos comenta que habitualmente compra videojeugos, consolas y múltiples accesorios tecnológicos. Él nos afirma que una aplicación de comparación de precios sería ideal para sus necesidades. Además, esta de acuerdo a que los vendedores sean diferentes emprendimientos; ya que, piensa que en su mayoría las tiendas por departamento tienden a vender los productos a precios más inflados y también siente que estaría apoyando a algun vendedor independiente.
-  Link de la entrevista: https://drive.google.com/file/d/1cmiM2d8wfilqQR2ncczkOEUAF3aFP1SS/view?usp=drive_link
+  
+  Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0 (minuto 0:01)
   
 **Entrevista #4: Segmento Emprendedor**
-
 
 ![Entrevista Segmento Emprendedor](./images/img-entrevista_segmento_emprendedor.png)
 
@@ -434,7 +430,7 @@ Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221
 - Breve descripción: 
   Iván es un emprendedor pequeño, él está en el rubro de la venta de accesorios para hombres. Nos comenta que sus principales estrategias para dar a conocer su marca son las redes sociales y la asistencia a ferias de artesanía. Él está convencido de que una aplicación de comparación de precios sería una buena opción para dar a conocer sus propuestas de valor y ofertas. Tiene en claro que funcionalidades como la conversación directa con sus clientes son fundamentales para el crecimiento de su negocio.
 
-[Entrevista Segmento Emprendedor](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/ETJ73sWZD91Gg0vHXXUKlAcBVY-A75zfcc1z5Q1kdtPiXA?e=XZCLrp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0 (minuto 19:13)
 
  **Entrevista #5:**
 
@@ -448,7 +444,7 @@ Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221
 	 katherine, de 23 años, es una usuaria activa de tecnología que busca productos de calidad a precios asequibles. Prefiere comprar en tiendas como Ripley o Saga, pero a veces encuentra los precios altos. También compra en locales de abarrotes y busca opciones más económicas, incluyendo productos de emprendedores locales. Le gusta pagar a través de plataformas digitales como Yape o Plin. Estaría interesada en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo productos de emprendedores locales.<br><br>
 
 
-Link de la entrevista:   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EQ5PIUxVThNHlhK9fCt5iGwB9hxa3UWU9tz0APBI81jGFA?e=z8L3Kl
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0 (minuto 14:44)
 
 
 2.2.3. Análisis de entrevistas
