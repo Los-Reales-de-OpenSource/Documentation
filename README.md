@@ -1139,6 +1139,9 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 ## Conclusiones
 
 ### Conclusiones y recomendaciones.
+- ComPeru es una plataforma que busca revolucionar la manera en que los usuarios finales pueden comparar precios y encontrar los mejores productos ofrecidos por negocios pequeños y medianos en el mercado peruano. En este proyecto se hace uso de una metodología ágil en el que todos los miembros de este equipo cumplen un rol en el desarrollo del proyecto. Haciendo uso de conocimientos en ingeniería de software y nuevas tecnologías aprendidas en el curso como el framework Angular, buscamos explorar nuevas formas de diseñar y contruir una solución de software para una problemática real en nuestro país.
+
+
 ### Video About-the-Team.
 
 <br>
