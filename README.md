@@ -447,10 +447,25 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0 (minuto 14:44)
 
 
+ **Entrevista #6: Segmento Emprendedor** 
+
+![Entrevista Segmento Emprendedor](./images/img-entrevista_segmento_emprendedor_2.png)
+
+- Nombre y apellidos: Leonardo Delgado Arriola
+- Edad:  19
+- Ubicación: Chiclayo, Lambayeque
+- Duración de la entrevista: 5.06 minutos
+- Breve descripción: 
+  Leonardo es un mediano emprendedor en el sector de la moda. Se dedica a la venta de ropa para hombre y mujer de manera online. Hace uso de las redes sociales para promocionar su negocio y publica anuncios en plataformas como Instagram o Facebook ADS.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/ERihsRMVE2xHiVbxz4j3bR4BSlvCh9kYvSTT8tSNn_sVOg?e=Mfu3hM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
 2.2.3. Análisis de entrevistas
 
-- **Análisis 2**
-  Analizando la entrevista al sujeto observe el interes por nuestra debido a que seria de mucha ayuda tener una aplicacion que presente multiples opciones en cuanto a productos y en su caso para el rubro de la tecnologia, y que esta cuente con un metodo de pago de su preferencia.
+#### Entrevista 2
+
+Analizando la entrevista al sujeto observe el interes por nuestra debido a que seria de mucha ayuda tener una aplicacion que presente multiples opciones en cuanto a productos y en su caso para el rubro de la tecnologia, y que esta cuente con un metodo de pago de su preferencia.
 
 
 
@@ -485,7 +500,19 @@ Necesidades y oportunidades de mejora:
 Catherine expresó interés en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo opciones de emprendedores locales.
 Esta plataforma debería tener una interfaz fácil de usar y aceptar métodos de pago digital para adaptarse a sus preferencias.
  
+#### Entrevista 6
+
+Leonardo es un joven de 19 años que cuenta con una marca de ropa llamada BROWN INDUMENTARIA. Él se dedica a la venta de prendas para hombre y mujer a través de las redes sociales. Como nos menciona, es un sector que se encunetra bastante saturado por grandes empresas y marcas reconocidas. Para él esto resulta una gran dificultad para poder sacar adelante su negocio, ya que le hes difícil destacar y dar visibilidad de su emprendimiento a nuevos clientes potenciales.
+
+Para Leonardo una plataforma de comparación de precios le ayudaría a brindar más visibilidad a su negocio ,ya que las personas podrían descubrir sus ofertas, promociones y propuestas de valor.
+
+Así mismo, nos menciona que le sería útil tener herramientas de análisis y seguimiento para evaluar el rendimiento de sus promociones y campañas publicitarias.
+
+Finalmente, destacó la importancia de contar con reseñas y comentarios por parte de los usuarios para generar confianza en los nuevos clientes potenciales.
+
+
  ---
+
 
 ### 2.3. Needfinding.
 
