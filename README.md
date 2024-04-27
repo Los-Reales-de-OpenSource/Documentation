@@ -553,12 +553,11 @@ En esta sección realizaremos un análisis cuantitativo y cualitativo de los dat
 
 **Búsqueda de precios en línea:** El 100 % de los entrevistados admitió haber buscado precios de productos en páginas de internet.
 
-Frecuencia de compra en línea: El 100 % de los entrevistados compra productos en línea de forma regular.
-
+**Frecuencia de compra en línea:** El 100 % de los entrevistados compra productos en línea de forma regular.
 
 **Tamaño y facturación del negocio:** Se observa diversidad en el tamaño de los negocios entrevistados. En los datos encontramos que el 50 % son negocios individuales  y el otro 50 % podría considerarse un negocio mediano.
 
-**Desafíos en la promoción en línea:** El 100 % de los emprendedores enfrentan desafíos para aumentar la visibilid de sus negocios en línea. Además se recopiló que todos los entrevistados del segmento Emprendedor utilizan las redes sociales para realizar las ventas de sus productos.
+**Desafíos en la promoción en línea:** El 100 % de los emprendedores enfrentan desafíos para aumentar la visibilidad de sus negocios en línea. Además se recopiló que todos los entrevistados del segmento Emprendedor utilizan las redes sociales para realizar las ventas de sus productos.
 
 **Necesidad de los compradores:** El 75 % de los compradores valoran la conveniencia y la variedad de opciones al buscar productos en línea.
 
