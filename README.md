@@ -360,7 +360,7 @@ Teniendo en cuenta a nuestros competidores potenciales identificados, podemos co
 
 ### 2.2 Entrevistas
 #### 2.2.1. Diseño de entrevistas
-Este el diseño de entrevistas a los usuarios para definir los estandares y preferencias que se va a tener en cuenta para el desarrollo de nuestra aplicacion.
+Este es el diseño de entrevistas a los usuarios para definir los estandares y preferencias que se va a tener en cuenta para el desarrollo de nuestra aplicacion. 
 PREGUNTAS GENERALES:
 
 •	¿Cuál es su nombre?
@@ -413,6 +413,9 @@ PREGUNTAS GENERALES:
 
 #### 2.2.2. Registro de entrevistas
 Hemos realizado el registro de las entrevistas realizadas a distinto tipo de usuarios.
+**Link del video donde se contiene todas las entrevistas realizadas:**
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/EZRP78qXy9hEh4NMmuu0qRkBqQfMfz-FP7GmY4cdib2wCg?e=hTOYCx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 **Entrevista #1:**
 
