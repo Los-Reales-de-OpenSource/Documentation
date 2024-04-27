@@ -352,7 +352,7 @@ ShopSavvy: Es una aplicación de comparación de precios que permite a los usuar
 
 
 
-### 2.1.2. Estrategias y tácticas frente a competidores. 
+#### 2.1.2. Estrategias y tácticas frente a competidores. 
 
 Teniendo en cuenta a nuestros competidores potenciales identificados, podemos considerar las siguientes estrategias y tácticas para diferenciarnos y destacar nosotros dentro del mercado:
 - Ofrecer recomendaciones personalizadas: Para diferenciarnos de nuestros competidores, podemos utilizar la tecnología de inteligencia artificial para ofrecer recomendaciones personalizadas de productos y ofertas basadas en los hábitos de compra del usuario y su ubicación geográfica.
@@ -363,21 +363,55 @@ Teniendo en cuenta a nuestros competidores potenciales identificados, podemos co
 ### 2.2 Entrevistas
 #### 2.2.1. Diseño de entrevistas
 Este el diseño de entrevistas a los usuarios para definir los estandares y preferencias que se va a tener en cuenta para el desarrollo de nuestra aplicacion.
-PREGUNTAS GENERALES
+PREGUNTAS GENERALES:
+
 •	¿Cuál es su nombre?
+
 •	¿ Cuántos años tiene?
+
 •	¿A qué se dedica?
+
 •	¿Dirección actual?
 
-PREGUNTAS PARA LA EVALUACIÓN DEL USUARIO
-•	¿Con qué frecuencia utiliza su teléfono o computadora ?¿Para qué actividades lo utiliza? ¿Qué aplicaciones utiliza habitualmente?
-•	¿Alguna vez verificaste en una página el precio de un producto?¿Que productos compra habitualmente
-•	¿Con qué frecuencia busca productos en páginas de internet para consultar precio o comprar online?
-•	¿Tienes alguna tienda o centro comercial preferencial para hacer tus compras?¿Por qué no buscar otro ?
-•	De acuerdo al precio de los productos. ¿El precio de los productos que adquiere es bueno para usted? ¿por qué?
-•	¿Cual es su método de pago habitual?
-•	(EXPLICACION PREVIA DEL PRODUCTO)¿Estarías interesado en conocer este sitio web que logre encontrar el producto comparando otros productos?
-•	¿Si encuentras el producto que necesitas a un precio módico en el website y recomienda una tienda confiable, recomendarías el sitio web que te ayude en tu compra?
+**Preguntas para evaluación del segmento Compradores**
+
+-	¿Con qué frecuencia utiliza su teléfono o computadora ?¿Para qué actividades lo utiliza? ¿Qué aplicaciones utiliza habitualmente?
+
+-	¿Alguna vez verificaste en una página el precio de un producto?¿Que productos compra habitualmente?
+
+-	¿Con qué frecuencia busca productos en páginas de internet para consultar precio o comprar online?
+
+-	¿Tienes alguna tienda o centro comercial preferencial para hacer tus compras?¿Por qué no buscar otro ?
+
+- De acuerdo al precio de los productos. ¿El precio de los productos que adquiere es bueno para usted? ¿por qué?
+
+-	¿Cual es su método de pago habitual?
+
+-	(EXPLICACION PREVIA DEL PRODUCTO)¿Estarías interesado en conocer este sitio web que logre encontrar el producto comparando otros productos?
+
+-	¿Si encuentras el producto que necesitas a un precio módico en el website y recomienda una tienda confiable, recomendarías el sitio web que te ayude en tu compra?
+
+**Preguntas para la evaluación del segmento Pequeños y Medianos Emprendedores**
+
+- ¿Cuál es el principal producto o servicio que ofrece tu emprendimiento?
+
+- ¿Cuál es el tamaño de tu negocio en términos de empleados y facturación anual?
+
+- ¿Cómo promocionas actualmente tus productos o servicios y qué resultados has obtenido?
+
+- ¿Qué desafíos has enfrentado al intentar aumentar la visibilidad de tu emprendimiento en línea?
+
+- ¿Qué plataformas o herramientas utilizas actualmente para promocionar tus productos o servicios en línea?
+
+- ¿Qué funcionalidades te gustaría ver en una plataforma de comparación de precios que te ayudaría a mejorar la visibilidad de tu emprendimiento?
+
+- ¿Cómo crees que una plataforma de comparación de precios podría ayudarte a atraer nuevos clientes?
+
+- ¿Qué funcionalidades adicionales te gustaría que tuviera la plataforma para facilitar la gestión de tu negocio?
+
+- ¿Considerarías importante poder interactuar directamente con los clientes a través de la plataforma?
+
+- ¿Cómo te gustaría que la plataforma ayudara a mejorar la visibilidad de tus productos entre los clientes potenciales?
 
 #### 2.2.2. Registro de entrevistas
 Hemos realizado el registro de las entrevistas realizadas a distinto tipo de usuarios.
@@ -402,7 +436,7 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214
 - Ubicación: Huaral, Lima
 - Duración de la entrevista: 4.38 minutos
 - Breve descripción: 
-	Pablo es un joven de 23 años de edad que actualmente trabaja como profesor de musica, me comenta que actualmente usa aplicaciones de compra online ya que le facilita mucho en distintos aspectos. Por lo que quisiera una aplicacion enfocada a la comparacion de distintas ofertas que se puedan presentar para ciertos productos, en su caso el interes por productos tecnologicos.
+	Pablo es un joven de 23 años de edad que actualmente trabaja como profesor de musica, me comenta que actualmente usa aplicaciones de compra online ya que le facilita mucho en distintos aspectos. Por lo que quisiera una aplicacion enfocada a la comparacion de distintas ofertas que se puedan presentar para ciertos productos, en su caso el interes por productos tecnologicos. Analizando la entrevista al sujeto observé el interes por nuestra solución debido a que seria de mucha ayuda tener una aplicacion que presente multiples opciones en cuanto a productos y en su caso para el rubro de la tecnologia, y que esta cuente con un metodo de pago de su preferencia.
 
 Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0 (minuto 10:50)
 
@@ -428,7 +462,16 @@ Link de la entrevista:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221
 - Ubicación: Chiclayo, Lambayeque
 - Duración de la entrevista: 4.10 minutos
 - Breve descripción: 
-  Iván es un emprendedor pequeño, él está en el rubro de la venta de accesorios para hombres. Nos comenta que sus principales estrategias para dar a conocer su marca son las redes sociales y la asistencia a ferias de artesanía. Él está convencido de que una aplicación de comparación de precios sería una buena opción para dar a conocer sus propuestas de valor y ofertas. Tiene en claro que funcionalidades como la conversación directa con sus clientes son fundamentales para el crecimiento de su negocio.
+
+Iván es un joven de 19 años que cuenta con un pequeño emprendimiento de venta de accesorios para hombre. Actualmente trabaja solo, por lo que asumimos que es un negocio pequeño.
+
+Él nos comenta que principalmente utiliza las redes sociales para promocionar y realizar las ventas de sus productos. Así mismo, cuenta que también ha participado en ferias de artesanía y en mercados locales buscando tener un mayor alcance a sus clientes.
+
+Su principal desafío ha sido el competir con marcas grandes ya posicionadas en el mercado. Además el se encuentra en un mercado saturado donde destacar es algo difícil.
+
+A Iván le encataría dar a conocer sus ofertas y promociones a través de nuestra plataforma para llegar a nuevos clientes. También hizo mención de una funcionalidad para poder personalizar la presentación de sus productos en la plataforma en donde pueda recalcar el estilo único de su negocio y poder marcar una diferencia con la competencia.
+
+Por último, comentó la importancia de poder responder las preguntas de los clientes y brindarles atención personalizada para mejorar su experiencia de compra.
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0 (minuto 19:13)
 
@@ -441,7 +484,21 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214
 - Ubicación: Lima - Callao
 - Duración de la entrevista: 4.28 minutos
 - Breve descripción: <br><br>
-	 katherine, de 23 años, es una usuaria activa de tecnología que busca productos de calidad a precios asequibles. Prefiere comprar en tiendas como Ripley o Saga, pero a veces encuentra los precios altos. También compra en locales de abarrotes y busca opciones más económicas, incluyendo productos de emprendedores locales. Le gusta pagar a través de plataformas digitales como Yape o Plin. Estaría interesada en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo productos de emprendedores locales.<br><br>
+	 Perfil y comportamiento de consumo:
+  Catherine es una mujer joven de 23 años.
+  Es una usuaria activa de tecnología, utilizando frecuentemente su celular y computadora para diversas actividades, como estudiar y ver contenido en línea.
+  Tiene preferencia por comprar ropa en tiendas como Ripley o Saga, pero a veces se siente insatisfecha con los precios.
+  Para otros productos, como abarrotes, compra en varios locales y a veces busca opciones más económicas.
+
+  Factores de decisión de compra:
+
+  Catherine valora tanto el precio como la calidad al tomar decisiones de compra. Está dispuesta a explorar diferentes opciones para encontrar el mejor valor por su dinero. Muestra interés en apoyar a emprendedores locales al buscar productos más económicos y diversificar sus compras.
+  Ella prefiere métodos de pago digitales como Yape o Plin.
+
+  Necesidades y oportunidades de mejora:
+
+  Catherine expresó interés en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo opciones de emprendedores locales.
+  Esta plataforma debería tener una interfaz fácil de usar y aceptar métodos de pago digital para adaptarse a sus preferencias.<br><br>
 
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EfsVN0U18WVGgl6BB_6EiyUBVCVSTvlijeytpkoUIDVZlA?e=5X8cf0 (minuto 14:44)
@@ -456,59 +513,23 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214
 - Ubicación: Chiclayo, Lambayeque
 - Duración de la entrevista: 5.06 minutos
 - Breve descripción: 
-  Leonardo es un mediano emprendedor en el sector de la moda. Se dedica a la venta de ropa para hombre y mujer de manera online. Hace uso de las redes sociales para promocionar su negocio y publica anuncios en plataformas como Instagram o Facebook ADS.
+
+  Leonardo es un joven de 19 años que cuenta con una marca de ropa llamada BROWN INDUMENTARIA. Él se dedica a la venta de prendas para hombre y mujer a través de las redes sociales. Como nos menciona, es un sector que se encunetra bastante saturado por grandes empresas y marcas reconocidas. Para él esto resulta una gran dificultad para poder sacar adelante su negocio, ya que le hes difícil destacar y dar visibilidad de su emprendimiento a nuevos clientes potenciales.
+
+  Para Leonardo una plataforma de comparación de precios le ayudaría a brindar más visibilidad a su negocio ,ya que las personas podrían descubrir sus ofertas, promociones y propuestas de valor.
+
+  Así mismo, nos menciona que le sería útil tener herramientas de análisis y seguimiento para evaluar el rendimiento de sus promociones y campañas publicitarias.
+
+  Finalmente, destacó la importancia de contar con reseñas y comentarios por parte de los usuarios para generar confianza en los nuevos clientes potenciales.
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/ERihsRMVE2xHiVbxz4j3bR4BSlvCh9kYvSTT8tSNn_sVOg?e=Mfu3hM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
-2.2.3. Análisis de entrevistas
-
-#### Entrevista 2
-
-Analizando la entrevista al sujeto observe el interes por nuestra debido a que seria de mucha ayuda tener una aplicacion que presente multiples opciones en cuanto a productos y en su caso para el rubro de la tecnologia, y que esta cuente con un metodo de pago de su preferencia.
+#### 2.2.3. Análisis de entrevistas
 
 
 
-#### Entrevista 4
-
-Iván es un joven de 19 años que cuenta con un pequeño emprendimiento de venta de accesorios para hombre. Actualmente trabajo solo por lo que asumimos que es un negocio pequeño.
-
-Él nos comenta que principalmente utiliza las redes sociales para promocionar y realizar las ventas de sus productos. Así mismo, cuenta que también ha participado en ferias de artesanía y en mercados locales buscando tener un mayor alcance a sus clientes.
-
-Su principal desafío ha sido el competir con marcas grandes ya posicionadas en el mercado. Además el se encuentra en un mercado saturado donde destacar es algo difícil.
-
-A Iván le encataría dar a conocer sus ofertas y promociones a través de nuestra plataforma para llegar a nuevos clientes. También hizo mención de una funcionalidad para poder personalizar la presentación de sus productos en la plataforma en donde pueda recalcar el estilo único de su negocio y poder marcar una diferencia con la competencia.
-
-Por último, comentó la importancia de poder responder las preguntas de los clientes y brindarles atención personalizada para mejorar su experiencia de compra.
-
-#### Entrevista 5
-
-Perfil y comportamiento de consumo:
-
-Catherine es una mujer joven de 23 años.
-Es una usuaria activa de tecnología, utilizando frecuentemente su celular y computadora para diversas actividades, como estudiar y ver contenido en línea.
-Tiene preferencia por comprar ropa en tiendas como Ripley o Saga, pero a veces se siente insatisfecha con los precios.
-Para otros productos, como abarrotes, compra en varios locales y a veces busca opciones más económicas.
-
-Factores de decisión de compra:
-
-Catherine valora tanto el precio como la calidad al tomar decisiones de compra. Está dispuesta a explorar diferentes opciones para encontrar el mejor valor por su dinero. Muestra interés en apoyar a emprendedores locales al buscar productos más económicos y diversificar sus compras.
-Ella prefiere métodos de pago digitales como Yape o Plin.
-
-Necesidades y oportunidades de mejora:
-
-Catherine expresó interés en una plataforma que ofrezca comparación de precios y variedad de productos, incluyendo opciones de emprendedores locales.
-Esta plataforma debería tener una interfaz fácil de usar y aceptar métodos de pago digital para adaptarse a sus preferencias.
  
-#### Entrevista 6
-
-Leonardo es un joven de 19 años que cuenta con una marca de ropa llamada BROWN INDUMENTARIA. Él se dedica a la venta de prendas para hombre y mujer a través de las redes sociales. Como nos menciona, es un sector que se encunetra bastante saturado por grandes empresas y marcas reconocidas. Para él esto resulta una gran dificultad para poder sacar adelante su negocio, ya que le hes difícil destacar y dar visibilidad de su emprendimiento a nuevos clientes potenciales.
-
-Para Leonardo una plataforma de comparación de precios le ayudaría a brindar más visibilidad a su negocio ,ya que las personas podrían descubrir sus ofertas, promociones y propuestas de valor.
-
-Así mismo, nos menciona que le sería útil tener herramientas de análisis y seguimiento para evaluar el rendimiento de sus promociones y campañas publicitarias.
-
-Finalmente, destacó la importancia de contar con reseñas y comentarios por parte de los usuarios para generar confianza en los nuevos clientes potenciales.
 
 
  ---
@@ -518,6 +539,7 @@ Finalmente, destacó la importancia de contar con reseñas y comentarios por par
 
 <div align='justify'>
 En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin,  y As-Is Scenario Mapping. 
+
 </div>
 
 2.3.1. User Personas
@@ -586,13 +608,19 @@ tareas para los User Personas previamente definidos.
 | Accesibilidad Multiplataforma del Sitio Web | - | - |
 | Soporte y Resolución de Problemas | - | - |
 
-2.3.3. User Journey Mapping
+#### 2.3.3. User Journey Mapping
 
 ![User Journey Map](./images/UserJourneyMap.jpg)
 
-2.3.4. As-is Scenario Mapping
+#### 2.3.4. As-is Scenario Mapping
 
-![As-is Scenario Map](./images/As-is%20Scenario%20Map.jpg)
+##### As-Is Scenario Map - Compradores 
+
+![As-is Scenario Map Compradores](./images/As-is%20Scenario%20Map.jpg)
+
+##### As-Is Scenario Map - Pequeños y medianos emprendedores
+
+![As-is Scenario Map Emprendedores](./images/As-Is%20Scenario%20Map%20Emprendedores.jpg)
 
 
 ### 2.4 Ubiquitous Language
@@ -615,6 +643,8 @@ tareas para los User Personas previamente definidos.
 ## CAPÍTULO 3: REQUIREMENTS SPECIFICATION
 
 ### 3.1. To-Be Scenario Mapping
+
+
 
 ![To-be Scenario Map Consumers](./images/To-Be%20Scenario%20Mapp%20Consumers.jpg)
 
