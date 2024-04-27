@@ -597,27 +597,20 @@ tareas para los User Personas previamente definidos.
 
 ### 2.4 Ubiquitous Language
 
-| Término                   | Descripción                                                                                             |
-|---------------------------|---------------------------------------------------------------------------------------------------------|
-| Startup Profile           | Descripción de la startup y perfiles de los integrantes del grupo.                                       |
-| Solution Profile          | Antecedentes, problemática y proceso Lean UX.                                                            |
-| Lean UX Process           | Metodología ágil centrada en el usuario para el desarrollo de productos.                                  |
-| Problem Statements        | Declaraciones que definen los problemas clave a resolver.                                                 |
-| Hypothesis Statements     | Hipótesis sobre las soluciones propuestas que deben ser probadas.                                         |
-| Lean UX Canvas            | Herramienta para mapear el problema, solución y métricas clave.                                           |
-| Competitive Analysis      | Análisis de la competencia para identificar fortalezas y debilidades.                                     |
-| User Persona              | Perfiles ficticios que representan a los usuarios objetivo.                                                |
-| User Journey Mapping      | Mapeo de la experiencia del usuario a lo largo del tiempo.                                                 |
-| User Stories              | Descripciones simples de funcionalidades desde la perspectiva del usuario.                                 |
-| Impact Mapping            | Técnica para planificar y priorizar el desarrollo de productos.                                            |
-| Product Backlog           | Lista priorizada de requisitos y funcionalidades a implementar.                                            |
-| Information Architecture  | Estructura de organización y etiquetado del contenido.                                                     |
-| Web Applications UX/UI Design | Diseño de la experiencia y la interfaz de usuario para aplicaciones web.                                 |
-| Wireframes                | Bocetos de bajo nivel que representan la estructura de la aplicación.                                     |
-| Database Design           | Diseño de la estructura de la base de datos.                                                              |
-| Sprint Planning           | Planificación de las iteraciones de desarrollo.                                                           |
-| Sprint Backlog            | Lista de tareas a realizar durante una iteración.                                                         |
-| Sprint Review             | Revisión y evaluación del trabajo realizado en una iteración.                                             |
+| Término en Inglés | Traducción | Descripción |
+|-------------------|---------------------|------------------------|
+| Price Drop | Bajada de Precio | Reducción en el precio de un producto. |
+| Flash Sale | Venta Flash | Oferta especial con descuento por tiempo limitado. |
+| Referral Promotion | Promoción por Referidos | Descuento o beneficio otorgado por referir nuevos clientes. |
+| Full Refund | Reembolso Total | Devolución del dinero completo al cliente en caso de insatisfacción. |
+| Extended Warranty | Garantía Extendida | Oferta de protección adicional para un producto por un período más largo. |
+| Express Delivery | Entrega Exprés | Servicio de entrega rápida con tiempos de envío reducidos. |
+| Pre-order | Compra Anticipada | Reserva de un producto antes de su lanzamiento oficial. |
+| Clearance Sale | Venta de Liquidación | Venta de productos con descuento para liquidar inventario. |
+| Exclusive Offer | Oferta Exclusiva | Promoción disponible solo para ciertos clientes o grupos. |
+| Loyalty Program | Programa de Fidelización | Sistema que recompensa a los clientes por su lealtad con puntos, descuentos u otros beneficios. |
+| Seasonal Promotion | Promoción de Temporada | Oferta especial relacionada con una época del año. |
+| Launch Offer | Oferta de Lanzamiento | Promoción especial disponible al momento del lanzamiento de un producto. |
 
 ## CAPÍTULO 3: REQUIREMENTS SPECIFICATION
 
