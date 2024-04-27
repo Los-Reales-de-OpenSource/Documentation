@@ -527,10 +527,58 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213
 
 #### 2.2.3. Análisis de entrevistas
 
+En esta sección realizaremos un análisis cuantitativo y cualitativo de los datos recolectados en las entrevistas realizadas a cada uno de los segmentos objetivo de este proyecto.
 
+**Estadísticas Demográficas:**
 
+**Sexo:**
+- Femenino: 2 entrevistadas (33.33 % de los entrevistados)
+- Masculino: 4 entrevistados (66.67 % de los entrevistados)
+
+**Ubicacion:**
+- Lima - Callao: 1 entrevistada (16.67%)
+- Lambayeque - Chiclayo : 2 entrevistados (33.33%)
+- Lima - Huaral: 1 entrevistado (16.67%)
+- Lima - Pueblo Libre: 1 entrevistada (16.67%)
+- Lima -  (sin especificar distrito): 1 entrevistado (16.67%)
+
+**Edad:**
+- Menos de 20 años: 2 entrevistados (33.33%)
+- Entre 20 y 29 años: 3 entrevistados (50%)
+- Más de 50 años: 1 entrevistada (16.67%)
  
+**Análisis de los datos proporcionados por los entrevistados:**
 
+**Frecuencia de Uso de Dispositivos:** El 100 % de los entrevistados utilizan frecuentemente sus teléfonos o computadores para realizar sus actividades.
+
+**Búsqueda de precios en línea:** El 100 % de los entrevistados admitió haber buscado precios de productos en páginas de internet.
+
+Frecuencia de compra en línea: El 100 % de los entrevistados compra productos en línea de forma regular.
+
+
+**Tamaño y facturación del negocio:** Se observa diversidad en el tamaño de los negocios entrevistados. En los datos encontramos que el 50 % son negocios individuales  y el otro 50 % podría considerarse un negocio mediano.
+
+**Desafíos en la promoción en línea:** El 100 % de los emprendedores enfrentan desafíos para aumentar la visibilid de sus negocios en línea. Además se recopiló que todos los entrevistados del segmento Emprendedor utilizan las redes sociales para realizar las ventas de sus productos.
+
+**Necesidad de los compradores:** El 75 % de los compradores valoran la conveniencia y la variedad de opciones al buscar productos en línea.
+
+**Métodos de pago:** El 100 % de los compradores prefieren realizar los pagos de manera digital.
+
+**Necesidad de los emprendedores:** Este segmento desea herramientas para promocionar sus productos y evaluar el rendimiento de sus campañas.
+
+**Interés en la plataforma de comparación de precios:** El 100 % de los entrevistados, tanto consumidores como emprendedores muestran interés en una plataforma de comparación de precios.
+
+**Importancia de la interacción con los clientes:** Para el sector emprendedor resulta muy importante la capacidad de interactuar directamente a través de la plataforma, ya que el 100 % de los entrevistados de este segmento indicó que es un aspecto crucial para generar confianza con sus potenciales clientes.
+
+**Conclusiones:**
+
+- En cuanto a los datos demográficos se encontró que el rango de edades de nuestros entrevistados oscila entre los 20 a 29 años y que la mayoría son hombres.
+
+- En base a los datos recolectados podemos concluir que existe una demanda de plataforma de comparación de precios y que el mercado por el cual deberiamos inicar son los compradores y emprendedores de la ciudad de Lima ya que comprenden el 66.67 % de la muestra tomada para el análisis. Y el 100 % de de este porcentaje muestran interés en una plataforma de comparación de precios.
+
+- Se identificó que para el 100 % de los emprendedores resulta crucial la implementación de herramientas de promoción y seguimiento de sus resultados.
+
+- Se pudo conocer que para el 100 % de los emprendedores es de gran interés la implementación de funcionalidades para interactuar con los clientes , ya que esto genera confianza y lealtad para su negocio.
 
  ---
 
