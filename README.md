@@ -616,7 +616,7 @@ tareas para los User Personas previamente definidos.
 
 ### 3.1. To-Be Scenario Mapping
 
-![To-be](./images/Captura%20de%20pantalla%202024-04-12%20a%20la(s)%2007.40.52.png)
+![To-be Scenario Map Consumers](./images/To-Be%20Scenario%20Mapp%20Consumers.jpg)
 
 ### 3.2. User Stories
 
