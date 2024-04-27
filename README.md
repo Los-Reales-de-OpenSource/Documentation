@@ -328,9 +328,9 @@ ShopSavvy: Es una aplicación de comparación de precios que permite a los usuar
 			
 #### 2.1.1. Analisis Competitivo
 
-| Aspecto | LosReales | Wish | Rakuten | ShopSavvy |
+| Aspecto | ComPerú | Wish | Rakuten | ShopSavvy |
 |---------|-----------|------|---------|-----------|
-| **Nombre y Logo** | LosReales | Wish | Rakuten | ShopSavvy |
+| **Nombre y Logo** | ComPerú | Wish | Rakuten | ShopSavvy |
 | **Perfil** | 
 | Overview | Plataforma de comparación de productos en Perú | Plataforma de compras en línea con una amplia variedad de productos | Marketplace global que ofrece productos de diversos vendedores | Aplicación que permite comparar precios y encontrar ofertas |
 | **Ventaja Competitiva** | 
