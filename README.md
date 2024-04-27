@@ -412,8 +412,11 @@ PREGUNTAS GENERALES:
 - ¿Cómo te gustaría que la plataforma ayudara a mejorar la visibilidad de tus productos entre los clientes potenciales?
 
 #### 2.2.2. Registro de entrevistas
+
 Hemos realizado el registro de las entrevistas realizadas a distinto tipo de usuarios.
+
 **Link del video donde se contiene todas las entrevistas realizadas:**
+
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/EZRP78qXy9hEh4NMmuu0qRkBqQfMfz-FP7GmY4cdib2wCg?e=hTOYCx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
