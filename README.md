@@ -1,4 +1,4 @@
-![image](https://github.com/NaggitBallona/Los-Reales-de-Open-Source/assets/133992963/62296dd8-12d4-4471-baed-e3afcce42baa)<tr>
+
   <div align='center'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
     </div>
@@ -12,8 +12,8 @@
 ### WS51
 ### Juan Antonio Flores Moroco 
 ### " Informe del trabajo final "
-### nombre del StarUp
-### Nombre del Producto
+### Nombre del StartUp: Innovation Digital
+### Nombre del Producto: ComPerú
 ### Team Members
 
 |   Members     |   User    |
@@ -40,6 +40,8 @@
 |1.0.6|09/04/2024|Elverth Vasquez, Alessandro Villanueva|Actualización de capítulos 2,4,5|
 |1.0.7|12/04/2024|Marco Collantes, Fabian Reyes, Alessandro Valenzuela|Actualización de items|
 |1.0.8|14/04/2024|Todos|Version final primera entrega|
+|1.0.9|27/04/2024|Elverth Vásquez Villalobos |Corrección de Entrevistas, Análisis de entrevistas y NeedFinding|
+
 
 # Student Outcome
  <br>
@@ -234,10 +236,6 @@
     - [Video About-the-Product.](#video-about-the-product)
 
 <br><br>
-
-# Student Outcome
-
-
 
 <br>
 
