@@ -1185,17 +1185,18 @@ https://trello.com/invite/b/6dcm5XQp/ATTI472b8eb797d7cc57e64d4c5795279999D890E49
 <a href="https://ibb.co/L14TpYQ"><img src="https://i.ibb.co/3ctxh4f/Captura-de-pantalla-2024-04-05-000337.png" alt="Captura-de-pantalla-2024-04-05-000337" border="0"></a>
 
 ##### 5.2.1.1. Sprint Backlog 1 
+##### 5.2.1.1. Sprint Backlog 1 
 Ahora presentaremos la primera tabla de los sprints backlogs:
 
-**Sprint 1: Desarrollo de una primera versión del Landing Page**
-| Work-Item / Task | User Story ID | Description | Estimation (Hours) | Assigned To | Status |
-|------------------|---------------|-------------|---------------------|-------------|--------|
-| US01             | 01            | Como usuario, quiero poder ver un resumen claro y conciso de lo que hace la aplicación en la landing page. | 12 | Alessandro | Done |
-| US02             | 02            | Como usuario, quiero ver en la landing page cómo la aplicación puede ayudarme a ahorrar dinero. | 6 | Naggit | Done |
-| US03             | 03            | Como usuario, quiero que la landing page sea atractiva y fácil de navegar. | 4 | Fabian | Done |
-| US04             | 04            | Como usuario quiero probar la landing page en varios navegadores (Chrome, Firefox, Safari, etc.). | 4 | Jair | To-Review |
-| US05             | 05            | Como usuario quiero que la landing page sea responsiva y funcione correctamente en dispositivos móviles y de escritorio. | 6 | Alessandro | To-Review |
-| US06             | 06            | Como usuario, quiero ver testimonios de otros usuarios en la landing page. | 8 | Fabian | InProcess |
+**Sprint 1: Desarrollo de una primera versión del Sistema en Angular**
+| User Story | Work-Item / Task | Título | Descripción | Estimación | Asignado a | Estado |
+|------------|------------------|--------|-------------|------------|------------|--------|
+| US002 | T01 | Busqueda por palabra clave | Implementación de una búsqueda por palabra clave. | 5h | Fabian reyes | En Proceso |
+| US002 | T02 | Funcionalidad de Filtrado | Desarrollo del back end para filtrar productos por atributos como el modelo del producto, etc. | 6h | Fabian Reyes | Pendiente |
+| US007 | T03 | Búsqueda de tiendas cercanas | Realizar el diseño e implementacion para la busqueda de las tiendas cercanas a la direccion del usuario. | 3h | Marco Collantes | Pendiente |
+| US010 | T04 | Carrito de Compra | Implementar un carrito de compras que tenga todos los productos que el usario haya elegido | 5h | Naggit Ballalona | Pendiente |
+| US016 | T05 | Diseño de interfaz de usuario | Elaborar diseño de la interfaz de la interfaz del usuario para que desee realizar modificaciones en su cuenta. | 3h | Alessandro Valenzuela | Pendiente |
+| US020 | T06 | Chat con la tienda | Desarrollar el chat entre usuario y emprendedor para resolver dudas sobre x producto. | 4h | Marco Collante | En Proceso |
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
