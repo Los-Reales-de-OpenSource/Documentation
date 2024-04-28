@@ -1052,10 +1052,11 @@ Esto son los diagramas de componentes de nuestro sistema:
 Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
 
 Diagrama de clases:
-<a href="https://ibb.co/yfvnWhH"><img src="https://i.ibb.co/GxYvcsz/image.png" alt="image" border="0"></a>
 
+<a href="https://ibb.co/zGw2Q7R"><img src="https://i.ibb.co/YpGdPyk/Class-Diagram.png" alt="Class-Diagram" border="0"></a>
 
 ##### 4.7.2. Class Dictionary
+CORREGIR
 Utilizamos la clase UserInterface la cual ayuda como padre para las clases Store, Customer, Admin, esta clase actua para modficar visualizar al usuario.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/1RpctQ2/Captura-de-pantalla-2024-04-04-222019.png" alt="Captura-de-pantalla-2024-04-04-222019" border="0"></a>
@@ -1075,25 +1076,8 @@ La clase Order encargada de representar la materialización, en compra, de un ca
 ##### 4.7.1 Database Diagrams
 Para nuestro sistema, también hemos implementado un diagrama de base de datos. Este diagrama proporciona una representación visual de la estructura de nuestra base de datos, incluyendo tablas, columnas y relaciones entre ellas. Es una herramienta clave para comprender la arquitectura de datos de nuestro sistema y cómo se relacionan entre sí las entidades de nuestra aplicación.
 
+<a href="https://ibb.co/xSv7bws"><img src="https://i.ibb.co/rGPwhqt/Database-Diagram.png" alt="Database-Diagram" border="0"></a>
 
-<a href="https://ibb.co/VqmKcBc"><img src="https://i.ibb.co/FDVPL7L/Database-Diagram.png" alt="Database-Diagram" border="0"></a>
-
-Para explicar nuestro sistema tenemos que entender que nuestras entidades son creadas con un fin que es dar un recibo al cliente.Para ello contamos con distitnas entidades que lo nutren que son Orders, Products, Stores, Customers, ademas, de un atributo SubTotal que es el del valor total de todos los productos.
-
-<a href="https://ibb.co/LrQBJ8S"><img src="https://i.ibb.co/tzZnx4B/Captura-de-pantalla-2024-04-05-004010.png" alt="Captura-de-pantalla-2024-04-05-004010" border="0"></a>
-
-Contamos con una entidad ComparateProducts que indica la constante comparacion de los productos.
-
-<a href="https://ibb.co/R2tSrbW"><img src="https://i.ibb.co/xhws9LQ/Captura-de-pantalla-2024-04-05-004105.png" alt="Captura-de-pantalla-2024-04-05-004105" border="0"></a>
-
-Ademas, contamos con una entidad validateStock que es para verificar si el stock de X producto.
-
-<a href="https://ibb.co/zfx8hMg"><img src="https://i.ibb.co/VB9HW1G/Captura-de-pantalla-2024-04-05-004108.png" alt="Captura-de-pantalla-2024-04-05-004108" border="0"></a>
-
-Por ultimo, tenemos la entidad supportChat que ayuda como data de chats de respuesta.
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/KxJ9mz7/Captura-de-pantalla-2024-04-05-004111.png" alt="Captura-de-pantalla-2024-04-05-004111" border="0"></a>
-<br>
 
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
