@@ -1036,7 +1036,7 @@ Web Application Mock-up para Desktop
 Para el modelo de negocio que utilizaremos para desarrollar nuestro software complejo que se centra en la problematica que abordamos. para ello utilizaremos la tecnica de modelado C4 Model.
 #### 4.6.1. Software Architecture Context Diagram
 Este es el diagrama de Contexto de nuestro sistema:
-<a href="https://ibb.co/Zm3Nf9V"><img src="https://i.ibb.co/vYbDc9H/structurizr-90643-System-Context-001.png" alt="structurizr-90643-System-Context-001" border="0"></a>
+<a href="https://ibb.co/qMZMfQ2"><img src="https://i.ibb.co/1fSf5W4/context-diagram.png" alt="structurizr-90643-System-Context-001" border="0"></a>
 
 #### 4.6.1. Software Architecture Container Diagram
 Este es el diagrama de Contenedores de nuestro sistema:
