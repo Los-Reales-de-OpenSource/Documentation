@@ -1102,7 +1102,7 @@ El inventario de nuestro empresario:
 
 ![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234497151539740812/image.png?ex=6630f290&is=662fa110&hm=f3d5b80ebec352c94a057c95cd8594b41eb89f0954f884c15552f81367df2893&) 
 
-Los clientes que ah objenido nuestro empresario: 
+Vista de los clientes del perfil Empresario: 
 
 ![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234497209513541643/image.png?ex=6630f29e&is=662fa11e&hm=5e5f9ee36cd01c883c7174fb34dae4366ca6bc8068cef2a8b043f362e23a0aca&) 
 
