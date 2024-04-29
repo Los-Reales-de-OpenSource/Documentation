@@ -1027,9 +1027,6 @@ Bussines:
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506637939572787/image.png?ex=6630fb66&is=662fa9e6&hm=8fc03511f90f6fc021146886dc65137049d3fadaa69bb74fedb3a1f65d381cd8&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506683003310161/image.png?ex=6630fb71&is=662fa9f1&hm=9ceffa45bfe74cb81ccbc80a8f423900f941ed0971928c96c4fa7284182944a2&)
 
-#### 4.4.2. Web Applications Wireflow Diagrams.
-
-![ Wirefram Diagram ]()
 
 #### 4.4.3. Web Applications Mock-ups.
 
