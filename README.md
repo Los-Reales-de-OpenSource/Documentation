@@ -1002,12 +1002,7 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
 
-![ Wirefram Diagram ](  https://cdn.discordapp.com/attachments/891176117204054068/1229424614573211660/image.png?ex=662fa1e5&is=661d2ce5&hm=0f4f9b1ec03d268cff7e82d6c8ee9e8f97bc5ff76147333482ada32fecc84b0e&)
-![ Wirefram Diagram ](https://cdn.discordapp.com/attachments/891176117204054068/1229424709347709028/image.png?ex=662fa1fc&is=661d2cfc&hm=869c4ca5d3d547c54fedc201e55c9c8b1858356b27c7d0d0afb69b14b255f1b4&  )
-![ Wirefram Diagram ](  https://cdn.discordapp.com/attachments/891176117204054068/1229424744705560618/image.png?ex=662fa204&is=661d2d04&hm=8514aebf20196c2115e279fa5860b09ce047c209b480b3672bc959f98e080a3d&)
-![ Wirefram Diagram ]( https://cdn.discordapp.com/attachments/891176117204054068/1229424785801613343/image.png?ex=662fa20e&is=661d2d0e&hm=e729c010b6d0cecb891786fcb346afebf27a8ae13d963374c32137304874cb7a& )
-![ Wirefram Diagram ](  https://cdn.discordapp.com/attachments/891176117204054068/1229424852910346340/image.png?ex=662fa21e&is=661d2d1e&hm=b0c14ff8508724f59177485243c42fffe73f484b87e740c15225918ec9dbe039&)
-![ Wirefram Diagram ]( https://cdn.discordapp.com/attachments/891176117204054068/1229424667400601610/image.png?ex=662fa1f2&is=661d2cf2&hm=57873aba5a32f69eb276e5f6fa9e447b257ddbe9875e1280a42b3c313cc01ed9& )
+![ Wirefram Diagram ]()
 
 #### 4.4.3. Web Applications Mock-ups.
 
@@ -1027,15 +1022,68 @@ Accesibilidad: Se utilizó un diseño que permite a los usuarios acceder a la ap
 
 Web Application Mock-up para Desktop
 
-![Landin Mockup 1](./images/main.jpg)
-![Landin Mockup 2](./images/PRODUCTOS.jpg)
-![Landin Mockup 3](./images/NOSOTROS.jpg)
-![Landin Mockup 4](./images/LOGIN.jpg)
-![Landin Mockup 5](./images/CONTACTO.jpg)
-![Landin Mockup 6](./images/WISHLIST.jpg)
+El login de nuestra app web:
 
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496403854852158/image.png?ex=6630f1de&is=662fa05e&hm=54f71e53e89d86af7a466b8a1fcd5240514d584dfe2159bb4ea7b684c5612afb&)
+
+El registro del nuestra app web:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496449069318144/image.png?ex=6630f1e9&is=662fa069&hm=603100a24d5250253bf80d0109c2fb47768253acf31dad01f5cee6a8dffef3b1&) 
+
+El perfil de nuestro user: 
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496592375971940/image.png?ex=6630f20b&is=662fa08b&hm=7da57c52c13d2267eb2f5534056f20e2539d961ffce21654e3625831ecfb274c&) 
+
+Los planes de nuetra app web:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496630250537061/image.png?ex=6630f214&is=662fa094&hm=df12cc44df1dc49a15f62efbb47b14329b28a9375ef74878e22dfec06b226101&) 
+
+El medio de pago de nuetra app web:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496676014592050/image.png?ex=6630f21f&is=662fa09f&hm=fd49e5142b38d0b69a00cb042d14d3511e0410ff55ee11215816956a7e13e18f&) 
+
+El inicio del Usuario:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496761922326588/image.png?ex=6630f233&is=662fa0b3&hm=d2e472f0a3a01dd63830a8657abfb39da61fc9807057625fb538a18391477695&)
+
+Las categorias de nuestros usuarios:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496804360421406/image.png?ex=6630f23e&is=662fa0be&hm=eb074da97c18c545d0fd1f427014b883141ad415f5f712d3a258f04983b4e0d9&) 
+
+La seccion de ofertas diarias de nuetra app web para user: 
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496848773906462/image.png?ex=6630f248&is=662fa0c8&hm=78a87b3950bc9bc985aa95f30edfd47fec93f0ad2f373d7b0b3f45b20160f96a&) 
+
+Producto a ser comprado:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496946207588435/image.png?ex=6630f25f&is=662fa0df&hm=6da3148f305d37193ba8f8493e1c9e81af9175d73664d9d20d4c08076f5e35f1&) 
+
+El carrito de compras:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496950263615539/image.png?ex=6630f260&is=662fa0e0&hm=9241c5a2d0adcb4fd0aa5545f71d291bb82c019c3ea025aadd27151eef3d09d2&) 
+
+El contacto de nuestra app web:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496994832027730/image.png?ex=6630f26b&is=662fa0eb&hm=fa1ef23d0e17499c0a5f0d95e09d285c72faa1cedc5b9951c5036b31bf4861de&)
+
+El perfil del Empresario:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234497060875534406/image.png?ex=6630f27b&is=662fa0fb&hm=34ad063e3b5a5fe79f62bdcfcb56b64ddb0fad8059a64db84444da0de5d2f83f&) 
+
+El inicio de nuestros empresarios:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234497100180492440/image.png?ex=6630f284&is=662fa104&hm=a63631ced2d552b077f6959303ecaa9844cd132ea25b371b4b0a08d888c742e6&) 
+
+El inventario de nuestro empresario:
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234497151539740812/image.png?ex=6630f290&is=662fa110&hm=f3d5b80ebec352c94a057c95cd8594b41eb89f0954f884c15552f81367df2893&) 
+
+Los clientes que ah objenido nuestro empresario: 
+
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234497209513541643/image.png?ex=6630f29e&is=662fa11e&hm=5e5f9ee36cd01c883c7174fb34dae4366ca6bc8068cef2a8b043f362e23a0aca&) 
 
 #### 4.4.4. Web Applications User Flow Diagrams.
+
 ### 4.5. Web Applications Prototyping.
 
 ![Landin Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1229413638876561408/image.png?ex=662f97ac&is=661d22ac&hm=057b0c3e2115d5a6e12102df204f75182e40d535c93ddfff37dc5258d5d55c0f&)
