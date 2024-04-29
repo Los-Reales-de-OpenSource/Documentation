@@ -34,7 +34,7 @@
 |1.0.0|26/03/2024|Todos|Primera versión del documento|
 |1.0.1|01/04/2024|Marco Collantes, Elverth Vasquez, Naggit Bayona | Primeros items del informe  |
 |1.0.2|02/04/2024|Marco Collantes, Elverth Vasquez, Naggit Bayona|Actualización de elementos asignados|
-|1.0.3|03/04/2024|Marco Collantes, Elverth Vasquez|Nuevos items y gráficos de secciones elegidas| 
+|1.0.3|03/04/2024|Marco Collantes, Elverth Vasquez, Alessandro Valenzuela|Nuevos items y gráficos de secciones elegidas| 
 |1.0.4|06/04/2024|Fabian Reyes|Capítulo 1 finalizado|
 |1.0.5|07/04/2024|Marco Collantes|1er Registro de entrevistas|
 |1.0.6|09/04/2024|Elverth Vasquez, Alessandro Villanueva|Actualización de capítulos 2,4,5|
