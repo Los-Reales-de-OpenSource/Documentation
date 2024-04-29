@@ -1004,11 +1004,28 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.   
 
-![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420116194889798/image.png?ex=662f9db5&is=661d28b5&hm=c05b900cf69300fabe87127f8c254e68dd3af8db4a4431b4b9350c3a56ffe3c5& )
-![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420226584645652/image.png?ex=662f9dcf&is=661d28cf&hm=edfd909a58130da6cdde51210e6448201e600bc3de3bb7a067281bc78a15025f& )
-![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420262043418654/image.png?ex=662f9dd7&is=661d28d7&hm=90d31322264ee7d015da2ce16e5dd36f3bce5602a11080d81dcc19ff8a2b1907& )
-![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420301960351804/image.png?ex=662f9de1&is=661d28e1&hm=3ee64c5e147b1cdf040de8cc71e0dc22b1e8b912785c9d0a2ba9b7f4a56daa87& )
-![ Wirefram ](https://cdn.discordapp.com/attachments/891176117204054068/1229420365298794647/image.png?ex=662f9df0&is=661d28f0&hm=446d73944724d2af977c46ebff834e3edffb28e7038d5f0703a476eb3af90d25& )
+
+User: 
+ 
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234505922328399902/image.png?ex=6630fabb&is=662fa93b&hm=1f5816f16c97d802afe76a6d369142e921fc61cdb7791818ef02663c8ee3466d&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234505952645091338/image.png?ex=6630fac3&is=662fa943&hm=cf85892f8c789ee93526217e4a395e6c04b8ad6c58a35c3f71885e181429bf59&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506003387515001/image.png?ex=6630facf&is=662fa94f&hm=1c93e230d07a7b324a2ccd16522fd239f477ecae12bee8e3322116c1b34ab7e0&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506051664220200/image.png?ex=6630fada&is=662fa95a&hm=4400945244f488d7a5435f25516a205da0315879d3fe68800e03710fe365a24b&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506083972812800/image.png?ex=6630fae2&is=662fa962&hm=ccb86ce1234ef2cc1c43dd7890da29f3cec3fb2b0374772259732a87df8a3ce4&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506110707302430/image.png?ex=6630fae8&is=662fa968&hm=09bb88faff925f6dfd1e1c7aa86efa0c1b413a27f4e6c9f6ea2656b127de41ed&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506144731369552/image.png?ex=6630faf0&is=662fa970&hm=cbd0e3907c4f46b0492325455b6d915946b1f5b705a2c488e9507b44d4dfc4be&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506176008556645/image.png?ex=6630faf8&is=662fa978&hm=61cce1d7cf4970fa8cdf94fc1cde4767eab15933322a472fa60cf00b31036651&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506205771337769/image.png?ex=6630faff&is=662fa97f&hm=e8a728b044b49e1794e160753d16d96171231887f6d68565eda145d8756d468a&)
+
+Bussines:
+
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506256589262868/image.png?ex=6630fb0b&is=662fa98b&hm=2048727a1483b3f48be9f7f2d9e125f5aa3141ebf1b747794c8d7af5e4147c41&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506289145450508/image.png?ex=6630fb13&is=662fa993&hm=78b316bf0defccfb5f589377ecbe38494b9a9de72e4559885a442dc43c484716&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506320422637670/image.png?ex=6630fb1a&is=662fa99a&hm=44aea5e2998a30792c36a51cdea5d77b5849252b7332735a0121df3d5e008c47&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506355482824724/image.png?ex=6630fb23&is=662fa9a3&hm=9d4d7be9dc0cd7dd61a95186b48bbfab095cf0742a26c157fa3c8496cfdc3f47&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506414945337396/image.png?ex=6630fb31&is=662fa9b1&hm=03605fc946c176775a0c74fd9f1e78cc2a14b5fd22c93ef802399a7cbf715152&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506637939572787/image.png?ex=6630fb66&is=662fa9e6&hm=8fc03511f90f6fc021146886dc65137049d3fadaa69bb74fedb3a1f65d381cd8&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506683003310161/image.png?ex=6630fb71&is=662fa9f1&hm=9ceffa45bfe74cb81ccbc80a8f423900f941ed0971928c96c4fa7284182944a2&)
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
 
