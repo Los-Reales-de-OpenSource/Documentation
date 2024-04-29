@@ -62,12 +62,12 @@
          <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
           <strong>TB1:</strong><br> 
           Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
-          <td><strong>Ballona Blas, Naggit German</strong><br>
+          <strong>Ballona Blas, Naggit German</strong><br>
           <strong>TB1:</strong><br> 
            Durante esta entrega me enfoque en ayudar a todos a repartir sus partes y que estubieran conforme condigo mismos para evitar conflictos en un futuro<br>
           <strong>TB2:</strong><br> 
           En esta entrega me propuse terminar todo lo que no se termino la entrega pasada aun asi creo que nos falto dedicacion y tiempo<br><br> 
-	  <strong>Vásquez Villalobos, Elverth Jair</strong><br>
+	        <strong>Vásquez Villalobos, Elverth Jair</strong><br>
           <strong>TB1:</strong><br> 
           Trabajamos en conjunto para resolver conflictos que se presentaron al desarrollar las entregas de cada uno de los items. Brindamos capacitación y ayuda a aquellos compañeros que tenían desconocimiento en el desarrollo del trabajo. <br><br> 
           <strong>TB2:</strong><br> 
@@ -75,10 +75,14 @@
           <strong>Reyes Trujillano, Fabian Alonso</strong><br>
           <strong>TB1:</strong><br> 
 	  Trabajé junto a mis compañeros aportando con diferentes ideas, edición del informe, arquitectura del software, etc.<br><br> 
-      <td><strong>TB1:</strong><br>
-        Se requiere cierto nivel de comunicación para poder trabajar en una entrega tan completa como esta,de forma que se dé a conocer que es necesario para avanzar sin problemas<br><br>
-    </td>
-    </tr>
+        <td>
+          <strong>TB1:</strong><br>
+          Se requiere cierto nivel de comunicación para poder trabajar en una entrega tan completa como esta,de forma que se dé a conocer que es necesario para avanzar sin problemas<br><br>
+          <strong>TB2:</strong><br>
+          Fue importante la organizacion de reuniones para mejorar los aspectos revisados y mejorar la idea del proyecto.
+          <br><br>
+        <td>
+      </tr>
     <tr>
         <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
           <td><strong>Collantes Artola, Marco Antonio</strong><br>
@@ -86,7 +90,7 @@
           Me aseguré de redactar los items que me fueron asignados en el documento, así como informar a mis compañeros de cualquier avance o mejora que pude haber hecho respecto a la idea base del proyecto<br>
           <strong>TB2:</strong><br> 
           Debido a las circunstancias que atravesamos en la entrega anterior no hubo muchos cambios respecto a esta entrega en mis items asignados, así que me dedique a buscar formas de mejorar el material existente en base a lo solicitado<br><br>
-	  <td><strong>Ballona Blas, Naggit German</strong><br>
+          <strong>Ballona Blas, Naggit German</strong><br>
           <strong>TB1:</strong><br> 
         En este item me encargue todo lo relacionado al mokup de nuestra pp web, debido a que es lo mas tedioso pero a la vez lo mas importante antes de generar nuestra app web<br>
           <strong>TB2:</strong><br> 
@@ -101,11 +105,17 @@
           En esta entrega comuniqué las mejoras realizadas en items que fueron revisados por el docente. Traté de guiar a mi equipo para tener en claro la idea que estamos construyendo. He peribido mejora en la comunicación con mis compañeros pero considero que aún quedan aspectos a trabajarse. <br><br> 
 	  <strong>Reyes Trujillano, Fabian Alonso</strong><br>
           <strong>TB1:</strong><br> 
-          Me encargue de realizar los wireframes y mock-ups del landing page de nuestro trabajo, asi como completar con diferentes items de cada capítulo.<br><br> 
-      <td><strong>TB1:</strong><br>
-        Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
-    </td>
-    </tr>    
+          Me encargue de realizar los wireframes y mock-ups del landing page de nuestro trabajo, asi como completar con diferentes items de cada capítulo.<br><br>   
+        <td>
+         <strong>TB1:</strong><br>
+          Fue importante la comunicacion para la organizacion del informe y la construccion de la idea del proyecto.
+          <br><br>
+          <strong>TB2:</strong><br>
+          En este entrega fue importante la comunicacion mediante diferentes medios , ya sea por reuniones con el equipo o por mensajes de texto para comunicar los cambios realizados en el informe.
+          <br><br>
+        <td>
+    
+   </tr>    
   </tr>
   
 </table>
