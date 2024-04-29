@@ -59,15 +59,15 @@
           Durante esta entrega me centré en comunicarles a mis compañeros sobre las mejores maneras para realizar los items de esta entrega, aunque admito que experimenté complicaciones para adaptarme a su estilo de trabajo<br>
           <strong>TB2:</strong><br> 
           En esta entrega me propuse en mejorar todo lo que pudiese respecto a la entrega anterior, así como mejorar la comunicación que tenía con mis compañeros por cualquier medio. Personalmente aún siento ciertos obstáculos para una comunicación efectiva al 100%, pero aprecio un poco la mejora<br><br>  
-	<td><strong>Ballona Blas, Naggit German</strong><br>
+         <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
+          <strong>TB1:</strong><br> 
+          Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
+          <td><strong>Ballona Blas, Naggit German</strong><br>
           <strong>TB1:</strong><br> 
            Durante esta entrega me enfoque en ayudar a todos a repartir sus partes y que estubieran conforme condigo mismos para evitar conflictos en un futuro<br>
           <strong>TB2:</strong><br> 
           En esta entrega me propuse terminar todo lo que no se termino la entrega pasada aun asi creo que nos falto dedicacion y tiempo<br><br> 
-         <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
-          <strong>TB1:</strong><br> 
-          Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
-          <strong>Vásquez Villalobos, Elverth Jair</strong><br>
+	  <strong>Vásquez Villalobos, Elverth Jair</strong><br>
           <strong>TB1:</strong><br> 
           Trabajamos en conjunto para resolver conflictos que se presentaron al desarrollar las entregas de cada uno de los items. Brindamos capacitación y ayuda a aquellos compañeros que tenían desconocimiento en el desarrollo del trabajo. <br><br> 
           <strong>TB2:</strong><br> 
