@@ -672,9 +672,9 @@ tareas para los User Personas previamente definidos.
 
 #### 2.3.3. User Journey Mapping
 
-![User Journey Map](./images/UserJourneyMap.jpg)
+<a href="https://ibb.co/SQf5qQW"><img src="https://i.ibb.co/cbYkzbM/user-journey-map.png" alt="user-journey-mapping" border="0"></a>
 
-#### 2.3.4. As-is Scenario Mapping
+#### 2.3.5. As-is Scenario Mapping
 
 ##### As-Is Scenario Map - Compradores 
 
