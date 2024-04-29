@@ -1276,15 +1276,15 @@ https://trello.com/invite/b/6dcm5XQp/ATTI472b8eb797d7cc57e64d4c5795279999D890E49
 ##### 5.2.1.1. Sprint Backlog 1 
 Ahora presentaremos la primera tabla de los sprints backlogs:
 
-**Sprint 1: Desarrollo de una primera versión del Sistema en Angular**
+**Sprint 1: Desarrollo de una primera versión del Landing Page**
 | User Story | Work-Item / Task | Título | Descripción | Estimación | Asignado a | Estado |
 |------------|------------------|--------|-------------|------------|------------|--------|
-| US002 | T01 | Busqueda por palabra clave | Implementación de una búsqueda por palabra clave. | 5h | Fabian reyes | En Proceso |
-| US002 | T02 | Funcionalidad de Filtrado | Desarrollo del back end para filtrar productos por atributos como el modelo del producto, etc. | 6h | Fabian Reyes | Pendiente |
-| US007 | T03 | Búsqueda de tiendas cercanas | Realizar el diseño e implementacion para la busqueda de las tiendas cercanas a la direccion del usuario. | 3h | Marco Collantes | Pendiente |
-| US010 | T04 | Carrito de Compra | Implementar un carrito de compras que tenga todos los productos que el usario haya elegido | 5h | Naggit Ballalona | Pendiente |
-| US016 | T05 | Diseño de interfaz de usuario | Elaborar diseño de la interfaz de la interfaz del usuario para que desee realizar modificaciones en su cuenta. | 3h | Alessandro Valenzuela | Pendiente |
-| US020 | T06 | Chat con la tienda | Desarrollar el chat entre usuario y emprendedor para resolver dudas sobre x producto. | 4h | Marco Collante | En Proceso |
+| US002 | T01 | Busqueda por palabra clave | Implementación de una barrabúsqueda. | 5h | Fabian reyes | En Proceso |
+| US002 | T02 | Funcionalidad de Filtrado | Desarrollo de la funcion para filtrar productos. | 6h | Fabian Reyes | Pendiente |
+| US007 | T03 | Búsqueda de tiendas cercanas | Realizar el diseño e implementacion para la busqueda de las tiendas cercanas. | 3h | Marco Collantes | Pendiente |
+| US010 | T04 | Carrito de Compra | Implementar un carrito de compras. | 5h | Naggit Ballalona | Pendiente |
+| US016 | T05 | Diseño de interfaz de usuario | Elaborar diseño de la interfaz de la interfaz del usuario. | 3h | Alessandro Valenzuela | Pendiente |
+| US020 | T06 | Chat con la tienda | Desarrollar el chat entre usuario y emprendedor. | 4h | Marco Collante | En Proceso |
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
