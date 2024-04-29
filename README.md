@@ -674,6 +674,10 @@ tareas para los User Personas previamente definidos.
 
 <a href="https://ibb.co/SQf5qQW"><img src="https://i.ibb.co/cbYkzbM/user-journey-map.png" alt="user-journey-mapping" border="0"></a>
 
+### 2.3.4. Empathy Mapping
+
+<a href="https://ibb.co/5GCyqLR"><img src="https://i.ibb.co/rFqSnHw/empathy-map.png" alt="uempathy-mapping" border="0"></a>
+
 #### 2.3.5. As-is Scenario Mapping
 
 ##### As-Is Scenario Map - Compradores 
