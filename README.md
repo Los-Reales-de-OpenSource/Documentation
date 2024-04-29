@@ -1066,8 +1066,7 @@ Esto son los diagramas de componentes de nuestro sistema:
 Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
 
 Diagrama de clases:
-
-<a href="https://ibb.co/zGw2Q7R"><img src="https://i.ibb.co/YpGdPyk/Class-Diagram.png" alt="Class-Diagram" border="0"></a>
+<a href="https://ibb.co/khncBGc"><img src="https://i.ibb.co/SKTvy6v/Class-Diagram.png" alt="Class-Diagram" border="0"></a>
 
 ### 4.7.2. Class Dictionary
 Para la siguiente explicacion de los atributos de las clases, es crucial comprender los atributos de estas clases, ya que proporcionan información clave sobre la estructura y el funcionamiento del sistema. Documentar adecuadamente estos atributos facilita el desarrollo, la depuración y el mantenimiento del código, asegurando un sistema robusto y seguro
@@ -1184,8 +1183,7 @@ La clase "Category" representa una categoría en el sistema. Sus atributos inclu
 ##### 4.7.1 Database Diagrams
 Para nuestro sistema, también hemos implementado un diagrama de base de datos. Este diagrama proporciona una representación visual de la estructura de nuestra base de datos, incluyendo tablas, columnas y relaciones entre ellas. Es una herramienta clave para comprender la arquitectura de datos de nuestro sistema y cómo se relacionan entre sí las entidades de nuestra aplicación.
 
-<a href="https://ibb.co/xSv7bws"><img src="https://i.ibb.co/rGPwhqt/Database-Diagram.png" alt="Database-Diagram" border="0"></a>
-
+<a href="https://ibb.co/ymTgwWz"><img src="https://i.ibb.co/gb1t5z0/Database-Diagram.png" alt="Database-Diagram" border="0"></a>
 
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
