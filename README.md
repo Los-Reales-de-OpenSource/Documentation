@@ -1057,23 +1057,117 @@ Diagrama de clases:
 
 <a href="https://ibb.co/zGw2Q7R"><img src="https://i.ibb.co/YpGdPyk/Class-Diagram.png" alt="Class-Diagram" border="0"></a>
 
-##### 4.7.2. Class Dictionary
-CORREGIR
-Utilizamos la clase UserInterface la cual ayuda como padre para las clases Store, Customer, Admin, esta clase actua para modficar visualizar al usuario.
+### 4.7.2. Class Dictionary
+Para la siguiente explicacion de los atributos de las clases, es crucial comprender los atributos de estas clases, ya que proporcionan información clave sobre la estructura y el funcionamiento del sistema. Documentar adecuadamente estos atributos facilita el desarrollo, la depuración y el mantenimiento del código, asegurando un sistema robusto y seguro
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/1RpctQ2/Captura-de-pantalla-2024-04-04-222019.png" alt="Captura-de-pantalla-2024-04-04-222019" border="0"></a>
 
-Tenemos la clase EntrepreneurContact que es el contacto ente usuario y la tienda para cualquier ayuda, actuando como personal de la tienda.
+##### Clase: User
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/wMT9FzY/Captura-de-pantalla-2024-04-04-222057.png" alt="Captura-de-pantalla-2024-04-04-222057" border="0"></a>
+El atributo 'login' es un identificador único del usuario, mientras que 'password' representa la contraseña necesaria para acceder al sistema.
+| Atributo  | Tipo de Dato | Descripción                         |
+|-----------|--------------|-------------------------------------|
+| login     | string       | Identificador único del usuario.    |
+| password  | string       | Contraseña para acceder al sistema. |
 
-La clase *ShoppingCart* de compra esta clase es la que contendrá una relación de todos los productos que se van seleccionando a la hora de llevar a cabo la compra en la página web.
+##### Clase: admin
+En la clase "admin", el atributo 'code' representa el código asociado al usuario administrador. Este código se utiliza para identificar y autenticar al administrador dentro del sistema.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Y8LsBZv/Captura-de-pantalla-2024-04-04-222123.png" alt="Captura-de-pantalla-2024-04-04-222123" border="0"></a>
+| Atributo | Tipo de Dato | Descripción       |
+|----------|--------------|-------------------|
+| code     | String       | Código de usuario |
 
-La clase Order encargada de representar la materialización, en compra, de un carrito que contiene productos y al que se le han añadido los datos del comprador en cuestión.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/5Fmm8Lc/Captura-de-pantalla-2024-04-04-222256.png" alt="Captura-de-pantalla-2024-04-04-222256" border="0"></a>
+##### Clase: EntrepreneurContact
+
+En la clase "EntrepreneurContact", el atributo 'contactName' representa el nombre del contacto del emprendedor, mientras que 'celphone' contiene el número de teléfono celular del contacto. Estos atributos son importantes para gestionar la información de contacto de los emprendedores en el sistema.
+
+| Atributo     | Tipo de Dato | Descripción                           |
+|--------------|--------------|---------------------------------------|
+| contactName  | String       | Nombre del contacto del emprendedor.  |
+| celphone     | String       | Número de teléfono celular.           |
+
+
+##### Clase: Customer
+En la clase "Customer", se registran los detalles relacionados con un cliente. Los atributos incluyen información personal como el nombre, apellido, número de identificación, dirección, código postal, fecha, correo electrónico y número de teléfono celular del cliente. Estos atributos son esenciales para gestionar la información de los clientes en el sistema.
+
+| Atributo   | Tipo de Dato | Descripción                            |
+|------------|--------------|----------------------------------------|
+| name       | String       | Nombre del cliente.                    |
+| dni        | String       | Número de identificación personal.     |
+| lastName   | String       | Apellido del cliente.                  |
+| direction  | String       | Dirección del cliente.                 |
+| codPostal  | String       | Código postal del cliente.             |
+| date       | String       | Fecha relacionada con el cliente.      |
+| email      | String       | Correo electrónico del cliente.        |
+| celphone   | String       | Número de teléfono celular del cliente.|
+
+
+##### Clase: Store
+La clase "Store" representa una tienda en el sistema. Sus atributos incluyen el nombre de la tienda, su Registro Único de Contribuyentes (RUC), dirección, correo electrónico y número de teléfono celular. Estos atributos son importantes para gestionar la información de la tienda y establecer comunicación con ella.
+
+
+| Atributo   | Tipo de Dato | Descripción                            |
+|------------|--------------|----------------------------------------|
+| name       | String       | Nombre de la tienda.                   |
+| RUC        | String       | Registro Único de Contribuyentes.      |
+| direction  | String       | Dirección de la tienda.                |
+| email      | String       | Correo electrónico de la tienda.       |
+| celphone   | String       | Número de teléfono celular de la tienda.|
+
+
+##### Clase: ShoppingCart
+La clase "ShoppingCart" representa un carrito de compras en el sistema. El atributo 'amount' es de tipo float y representa el monto total de la compra en el carrito. Este atributo es esencial para realizar operaciones relacionadas con la gestión de compras y transacciones.
+
+| Atributo   | Tipo de Dato | Descripción                            |
+|------------|--------------|----------------------------------------|
+| amount     | Float        | Monto total del carrito de compras.    |
+
+##### Clase: Order
+La clase "Order" representa una orden de compra en el sistema. Sus atributos incluyen el identificador único de la orden, las fechas de realización y límite de entrega, el método de entrega, la ciudad de entrega, el precio total, el descuento aplicado y un indicador de pago. Estos atributos son esenciales para gestionar las órdenes de compra y realizar un seguimiento adecuado de las transacciones.
+
+| Atributo        | Tipo de Dato | Descripción                                 |
+|-----------------|--------------|---------------------------------------------|
+| OrderId         | String       | Identificador único de la orden.           |
+| orderDate       | Date         | Fecha de realización de la orden.           |
+| deadLine        | Date         | Fecha límite para la entrega de la orden.  |
+| deliveryMethod  | String       | Método de entrega de la orden.              |
+| orderCity       | Variant      | Ciudad de entrega de la orden.              |
+| TotalPrice      | Double       | Precio total de la orden.                   |
+| Discount        | Variant      | Descuento aplicado a la orden.              |
+| pay             | Boolean      | Indicador de si la orden está pagada.      |
+
+##### Clase: Product
+La clase "Product" representa un producto en el sistema. Sus atributos incluyen un identificador único, una descripción, una URL de imagen, un nombre y un precio unitario. Estos atributos son fundamentales para gestionar la información de los productos y realizar transacciones comerciales en el sistema.
+
+| Atributo    | Tipo de Dato | Descripción                            |
+|-------------|--------------|----------------------------------------|
+| ProductId   | String       | Identificador único del producto.      |
+| description | String       | Descripción del producto.              |
+| imageURL    | String       | URL de la imagen del producto.         |
+| name        | String       | Nombre del producto.                   |
+| unitPrice   | String       | Precio unitario del producto.          |
+
+##### Clase: Model
+La clase "Model" representa un modelo en el sistema. Sus atributos incluyen un identificador único, un nombre y una descripción. Estos atributos son importantes para gestionar la información de los modelos y facilitar su identificación y uso en el sistema.
+
+
+| Atributo     | Tipo de Dato | Descripción                            |
+|--------------|--------------|----------------------------------------|
+| id           | String       | Identificador único del modelo.        |
+| name         | String       | Nombre del modelo.                     |
+| description  | String       | Descripción del modelo.                |
+
+##### Clase: Category
+La clase "Category" representa una categoría en el sistema. Sus atributos incluyen un identificador único, un nombre, una descripción y la categoría principal a la que pertenece. Estos atributos son esenciales para organizar y clasificar los elementos dentro del sistema según su tipo o función.
+
+| Atributo      | Tipo de Dato | Descripción                           |
+|---------------|--------------|---------------------------------------|
+| idCategory    | String       | Identificador único de la categoría.  |
+| name          | String       | Nombre de la categoría.               |
+| description   | String       | Descripción de la categoría.          |
+| category      | String       | Categoría principal o padre.          |
+
+
 #### 4.7. Database desing
 ##### 4.7.1 Database Diagrams
 Para nuestro sistema, también hemos implementado un diagrama de base de datos. Este diagrama proporciona una representación visual de la estructura de nuestra base de datos, incluyendo tablas, columnas y relaciones entre ellas. Es una herramienta clave para comprender la arquitectura de datos de nuestro sistema y cómo se relacionan entre sí las entidades de nuestra aplicación.
