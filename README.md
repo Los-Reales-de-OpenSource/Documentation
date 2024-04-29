@@ -1040,19 +1040,14 @@ Este es el diagrama de Contexto de nuestro sistema:
 
 #### 4.6.1. Software Architecture Container Diagram
 Este es el diagrama de Contenedores de nuestro sistema:
-<a href="https://ibb.co/KymLx8r"><img src="https://i.ibb.co/vzDQ4Mj/structurizr-90643-Container-001.png" alt="structurizr-90643-Container-001" border="0"></a>
+<a href="https://ibb.co/GTcc6J5"><img src="https://i.ibb.co/vYZZFBj/container.png" alt="structurizr-90643-Container-001" border="0"></a>
 
 #### 4.6.1. Software Architecture Components Diagram
 Esto son los diagramas de componentes de nuestro sistema:
 
-<a href="https://ibb.co/1n2h4f5"><img src="https://i.ibb.co/qn1X2Mf/structurizr-90643-Component-001.png" alt="structurizr-90643-Component-001" border="0"></a>
+<a href="https://ibb.co/rGpLnkH"><img src="https://i.ibb.co/hRdnpsV/components-customer.png" alt="structurizr-90643-Component-001" border="0"></a>
 
-<a href="https://ibb.co/GPvm614"><img src="https://i.ibb.co/9Y9PDfk/structurizr-90643-Component-002.png" alt="structurizr-90643-Component-002" border="0"></a>
-
-<a href="https://ibb.co/jvCWv7S"><img src="https://i.ibb.co/MDzGDqm/structurizr-90643-Component-003.png" alt="structurizr-90643-Component-003" border="0"></a>
-
-
-<a href="https://ibb.co/KD2LhvT"><img src="https://i.ibb.co/MfcGS0F/structurizr-90643-Component-004.png" alt="structurizr-90643-Component-004" border="0"></a>
+<a href="https://ibb.co/2vwWxrN"><img src="https://i.ibb.co/k4p5jT1/components-store.png" alt="structurizr-90643-Component-002" border="0"></a>
 
 #### 4.7. Software Object-Oriented Design
 ##### 4.7.1. Class Diagrams
