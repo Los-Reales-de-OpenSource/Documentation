@@ -59,6 +59,11 @@
           Durante esta entrega me centré en comunicarles a mis compañeros sobre las mejores maneras para realizar los items de esta entrega, aunque admito que experimenté complicaciones para adaptarme a su estilo de trabajo<br>
           <strong>TB2:</strong><br> 
           En esta entrega me propuse en mejorar todo lo que pudiese respecto a la entrega anterior, así como mejorar la comunicación que tenía con mis compañeros por cualquier medio. Personalmente aún siento ciertos obstáculos para una comunicación efectiva al 100%, pero aprecio un poco la mejora<br><br>  
+	<td><strong>Ballona Blas, Naggit German</strong><br>
+          <strong>TB1:</strong><br> 
+           Durante esta entrega me enfoque en ayudar a todos a repartir sus partes y que estubieran conforme condigo mismos para evitar conflictos en un futuro<br>
+          <strong>TB2:</strong><br> 
+          En esta entrega me propuse terminar todo lo que no se termino la entrega pasada aun asi creo que nos falto dedicacion y tiempo<br><br> 
          <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
           <strong>TB1:</strong><br> 
           Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
@@ -81,6 +86,11 @@
           Me aseguré de redactar los items que me fueron asignados en el documento, así como informar a mis compañeros de cualquier avance o mejora que pude haber hecho respecto a la idea base del proyecto<br>
           <strong>TB2:</strong><br> 
           Debido a las circunstancias que atravesamos en la entrega anterior no hubo muchos cambios respecto a esta entrega en mis items asignados, así que me dedique a buscar formas de mejorar el material existente en base a lo solicitado<br><br>
+	  <td><strong>Ballona Blas, Naggit German</strong><br>
+          <strong>TB1:</strong><br> 
+        En este item me encargue todo lo relacionado al mokup de nuestra pp web, debido a que es lo mas tedioso pero a la vez lo mas importante antes de generar nuestra app web<br>
+          <strong>TB2:</strong><br> 
+          Hubieron un par de percanses pero se logro terminar ciertos items sueltos<br><br>
           <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
           <strong>TB1:</strong><br> 
           Para la entrega me encargue de realizar los diagramas que daran base para el desarrollo de nuestro sistema aplicando los principios basicos del diseño para cada tipo de diagrama.<br><br> 
