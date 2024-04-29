@@ -65,6 +65,8 @@
           <strong>Vásquez Villalobos, Elverth Jair</strong><br>
           <strong>TB1:</strong><br> 
           Trabajamos en conjunto para resolver conflictos que se presentaron al desarrollar las entregas de cada uno de los items. Brindamos capacitación y ayuda a aquellos compañeros que tenían desconocimiento en el desarrollo del trabajo. <br><br> 
+          <strong>TB2:</strong><br> 
+          En esta entrega mejoré varios aspectos críticos del trabajo, comuniqué a mis compañeros mis correcciones y mis avances. Así mismo, busqué mejorar la comunicación con el equipo para tener en claro la idea del proyecto y establecer una línea de desarrollo integral. Esto lo realicé mediante la comunicación escrita y oral en reuniones con el equipo para mejorar ciertos aspectos en el proyecto. <br><br> 
           <strong>Reyes Trujillano, Fabian Alonso</strong><br>
           <strong>TB1:</strong><br> 
 	  Trabajé junto a mis compañeros aportando con diferentes ideas, edición del informe, arquitectura del software, etc.<br><br> 
@@ -85,6 +87,8 @@
 	  <strong>Vásquez Villalobos, Elverth Jair</strong><br>
           <strong>TB1:</strong><br> 
           Cumplimos con cada uno de los items designados a cada uno de los integrantes del equipo, nos aseguramos de comunicar el avance de cada miembro y utilizamos un repositorio para el registro de versiones y el avance en equipo. <br><br> 
+          <strong>TB2:</strong><br> 
+          En esta entrega comuniqué las mejoras realizadas en items que fueron revisados por el docente. Traté de guiar a mi equipo para tener en claro la idea que estamos construyendo. He peribido mejora en la comunicación con mis compañeros pero considero que aún quedan aspectos a trabajarse. <br><br> 
 	  <strong>Reyes Trujillano, Fabian Alonso</strong><br>
           <strong>TB1:</strong><br> 
           Me encargue de realizar los wireframes y mock-ups del landing page de nuestro trabajo, asi como completar con diferentes items de cada capítulo.<br><br> 
@@ -702,9 +706,13 @@ tareas para los User Personas previamente definidos.
 
 ### 3.1. To-Be Scenario Mapping
 
-
+##### To-Be Scenario Map - Compradores 
 
 ![To-be Scenario Map Consumers](./images/To-Be%20Scenario%20Mapp%20Consumers.jpg)
+
+##### To-Be Scenario Map - Emprendedores pequeños y medianos 
+
+![To-be Scenario Map Emprendedores](./images/To-Be%20Scenario%20Map%20Emprendedores.jpg)
 
 ### 3.2. User Stories
 
