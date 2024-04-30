@@ -1018,10 +1018,15 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 User: 
  
 ![ Home Wireframe Diagram ](./images/home%20wireframe.jpg)
+
 ![ Products Wireframe Diagram ](./images/products.jpg)
+
 ![ Products 2 Wireframe Diagram ](./images/products%20wireframe%202.jpg)
-![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506051664220200/image.png?ex=6630fada&is=662fa95a&hm=4400945244f488d7a5435f25516a205da0315879d3fe68800e03710fe365a24b&)
-![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506083972812800/image.png?ex=6630fae2&is=662fa962&hm=ccb86ce1234ef2cc1c43dd7890da29f3cec3fb2b0374772259732a87df8a3ce4&)
+
+![ Contact Wireframe ](./images/contact%20wireframe.jpg)
+
+![ Contact Result Wireframe ](./images/contact%20result%20wireframe.jpg)
+
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506110707302430/image.png?ex=6630fae8&is=662fa968&hm=09bb88faff925f6dfd1e1c7aa86efa0c1b413a27f4e6c9f6ea2656b127de41ed&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506144731369552/image.png?ex=6630faf0&is=662fa970&hm=cbd0e3907c4f46b0492325455b6d915946b1f5b705a2c488e9507b44d4dfc4be&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506176008556645/image.png?ex=6630faf8&is=662fa978&hm=61cce1d7cf4970fa8cdf94fc1cde4767eab15933322a472fa60cf00b31036651&)
@@ -1101,7 +1106,9 @@ El carrito de compras:
 
 El contacto de nuestra app web:
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496994832027730/image.png?ex=6630f26b&is=662fa0eb&hm=fa1ef23d0e17499c0a5f0d95e09d285c72faa1cedc5b9951c5036b31bf4861de&)
+![Contact Mockup](./images/contact%20mockup.jpg)
+
+![Contact Result Mockup](./images/contact%20result%20mockup.jpg)
 
 El perfil del Empresario:
 
