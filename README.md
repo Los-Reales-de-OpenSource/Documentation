@@ -1018,8 +1018,8 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 User: 
  
 ![ Home Wireframe Diagram ](./images/home%20wireframe.jpg)
-![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234505952645091338/image.png?ex=6630fac3&is=662fa943&hm=cf85892f8c789ee93526217e4a395e6c04b8ad6c58a35c3f71885e181429bf59&)
-![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506003387515001/image.png?ex=6630facf&is=662fa94f&hm=1c93e230d07a7b324a2ccd16522fd239f477ecae12bee8e3322116c1b34ab7e0&)
+![ Products Wireframe Diagram ](./images/products.jpg)
+![ Products 2 Wireframe Diagram ](./images/products%20wireframe%202.jpg)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506051664220200/image.png?ex=6630fada&is=662fa95a&hm=4400945244f488d7a5435f25516a205da0315879d3fe68800e03710fe365a24b&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506083972812800/image.png?ex=6630fae2&is=662fa962&hm=ccb86ce1234ef2cc1c43dd7890da29f3cec3fb2b0374772259732a87df8a3ce4&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506110707302430/image.png?ex=6630fae8&is=662fa968&hm=09bb88faff925f6dfd1e1c7aa86efa0c1b413a27f4e6c9f6ea2656b127de41ed&)
@@ -1090,9 +1090,10 @@ La seccion de ofertas diarias de nuetra app web para user:
 
 ![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496848773906462/image.png?ex=6630f248&is=662fa0c8&hm=78a87b3950bc9bc985aa95f30edfd47fec93f0ad2f373d7b0b3f45b20160f96a&) 
 
-Producto a ser comprado:
+Lista de productos a ser comprados:
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496946207588435/image.png?ex=6630f25f&is=662fa0df&hm=6da3148f305d37193ba8f8493e1c9e81af9175d73664d9d20d4c08076f5e35f1&) 
+![Product mockup](./images/products%20mockup.jpg) 
+![Product mockup 2](./images/products%20mockup%202.jpg)
 
 El carrito de compras:
 
