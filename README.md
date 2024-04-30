@@ -1445,15 +1445,11 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228355279130754/image.png?ex=662eeb1d&is=661c761d&hm=bff9c1190342a0153256618c37d4baf49efaf4fba5fc6cce3053ab1f0b67e19b&)
-
-![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228677833953371/image.png?ex=662eeb6a&is=661c766a&hm=55a49bf658281f716e71babc0f36e5998fad1fd6c60ca35e16ecdfe4d6490fda&)
-
-![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228719772794961/image.png?ex=662eeb74&is=661c7674&hm=aec10dbae436faf7f020d3513b24d89e15cc0175c26be98cfd01594007f86911&)
-
-![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228780464373880/image.png?ex=662eeb83&is=661c7683&hm=4a9238354dec8d85eb12965a68444889b241695cb06c573ff1a05f6237dfac94&)
-
-![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228826576293949/image.png?ex=662eeb8e&is=661c768e&hm=a28691acade4c1b41538456d87e8a292d673fea34e363501cfd5f06fa5f6af54&)
+![ Ci1](./images/ci1.png)
+![ Ci2](./images/ci2.png)
+![ Ci3](./images/ci3.png)
+![ Ci4](./images/ci4.png)
+![ Ci5](./images/ci5.png)
 
 <br>
 
@@ -1467,10 +1463,36 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 <br>
 
-## Bibliografía
+# Bibliografía
+
+1. *Schwaber, Ken; Sutherland, Jeff.* The Scrum Guide. [https://www.scrumguides.org/scrum-guide.html](https://www.scrumguides.org/scrum-guide.html) - Acceso a las guías fundamentales sobre la metodología ágil Scrum.
+
+2. *Freeman, Adam; Freeman, Elizabeth.* Pro Angular 6. New York: Apress, 2018. - Un recurso útil para entender y aplicar Angular en proyectos de desarrollo de software.
+
+3. *Martin, Robert C.* Clean Code: A Handbook of Agile Software Craftsmanship. Upper Saddle River, NJ: Prentice Hall, 2008. - Proporciona directrices sobre cómo escribir código claro y eficiente que es fácil de entender y mantener.
+
+4. *Patton, Jeff.* User Story Mapping: Discover the Whole Story, Build the Right Product. Sebastopol, CA: O'Reilly Media, 2014. - Explica cómo visualizar el desarrollo del producto desde la perspectiva del usuario final, lo cual es crucial para el desarrollo ágil.
+
+5. *Ministerio de la Producción del Perú.* Informe sobre la Pequeña y Mediana Empresa en el Perú. [https://www.produce.gob.pe](https://www.produce.gob.pe) - Datos y análisis sobre el impacto y la situación de las pymes en el Perú, relevante para el contexto de ComPeru.
+
+# Anexos
+
+## Anexo A: Documentación técnica de ComPeru
+
+Detalles de la arquitectura de software, el uso de Angular, y la implementación de prácticas de ingeniería de software.
+
+- *Estructura del Proyecto:* Descripción de la estructura del repositorio, incluyendo módulos y componentes principales.
+- *Diagramas de Arquitectura:* Diagramas que ilustran la arquitectura de la solución.
+- *Guías de Estilo de Código:* Normativas adoptadas para mantener la calidad y coherencia del código.
+
+## Anexo B: Resultados de pruebas de usuario
+
+Resultados y análisis de las pruebas de usuario llevadas a cabo para evaluar la usabilidad y funcionalidad de la plataforma.
+
+- *Metodología de Pruebas:* Descripción de cómo se diseñaron y ejecutaron las pruebas.
+- *Hallazgos Principales:* Resumen de los principales problemas encontrados y cómo se solucionaron.
+- *Feedback de Usuarios:* Opiniones y sugerencias recibidas de los usuarios durante las pruebas.
 
 <br>
 
-## Anexos
-=======
 ### Ingeniería de Software 
