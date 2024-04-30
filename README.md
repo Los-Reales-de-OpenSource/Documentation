@@ -1017,7 +1017,7 @@ Se diseñará un sistema de navegación que proporcionará a los usuarios una ex
 
 User: 
  
-![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234505922328399902/image.png?ex=6630fabb&is=662fa93b&hm=1f5816f16c97d802afe76a6d369142e921fc61cdb7791818ef02663c8ee3466d&)
+![ Home Wireframe Diagram ](./images/home%20wireframe.jpg)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234505952645091338/image.png?ex=6630fac3&is=662fa943&hm=cf85892f8c789ee93526217e4a395e6c04b8ad6c58a35c3f71885e181429bf59&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506003387515001/image.png?ex=6630facf&is=662fa94f&hm=1c93e230d07a7b324a2ccd16522fd239f477ecae12bee8e3322116c1b34ab7e0&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506051664220200/image.png?ex=6630fada&is=662fa95a&hm=4400945244f488d7a5435f25516a205da0315879d3fe68800e03710fe365a24b&)
@@ -1054,7 +1054,9 @@ Diseño Inclusivo: Se utilizó un diseño que permite a los usuarios personaliza
 
 Accesibilidad: Se utilizó un diseño que permite a los usuarios acceder a la aplicación desde cualquier dispositivo. Esto ayuda a los usuarios a utilizar la aplicación en cualquier momento y lugar.
 
-Web Application Mock-up para Desktop
+Vista principal de la aplicación web:
+
+![home mockup](./images/home%20mockup.jpg)
 
 El login de nuestra app web:
 
