@@ -916,10 +916,10 @@ Por su parte, Roboto nos ofrece una fuente adaptable capaz de ser usada en difer
 Colores:
 Para el desarrollo de la aplicación, optamos por colores que apoyen a la confianza del usuario en el producto y garanticen una vista agradable para todos los involucrados. Hemos optado por:
 
-- Los colores hexadecimales #99D9F2, #4A90E2, #0073B1, #C9E7FC, y #F1F9FF para el cuerpo general de la aplicación (siendo estos diferentes tonos de azul)
-- Los colores hexadecimales #F1F9FF y #333333 para los textos principales y secundarios de la aplicación y el landing page (al ser estos fáciles de resaltar en comparación de los colores del cuerpo)
+- Los colores hexadecimales #1B2854, #003758, #4466DF, y #1C85B para el cuerpo general de la aplicación (siendo estos diferentes tonos de azul)
+- Los colores hexadecimales #000000 y #CACEDE para los textos principales y secundarios de la aplicación y el landing page (al ser estos fáciles de resaltar en comparación de los colores del cuerpo)
 
-![Paleta de colores](./images/ColorPalette.jpg)
+![Paleta de colores](./images/paleta%20de%20colores.png)
 
 Lenguaje:
 Nos decidimos por usar un nivel de lenguaje informal y entusiasta para nuestra aplicación, enfocado en crear una conexión emocional con el usuario. La idea es llegar al usuario de una forma fácil de entender y sin usar demasiados tecnicismos, asegurándose de que cualquier usuario pueda entender la aplicación sin importar su nivel de experiencia tecnológica. Es importante que el lenguaje utilizado en nuestra aplicación sea directo y conciso para que los usuarios puedan comprender fácilmente las funciones de la aplicación y la información proporcionada. Los mensajes de la aplicación deben ser claros y breves, evitando cualquier ambigüedad o confusión. El uso de un lenguaje claro y sencillo también puede ayudar a aumentar la accesibilidad de la aplicación para un público más amplio.
@@ -928,8 +928,6 @@ Nos decidimos por usar un nivel de lenguaje informal y entusiasta para nuestra a
 
 Una aplicación como la nuestra depende explicitamente que sea lo más sencilla de navegar por cualquier usuario que la tenga a su alcance; por lo tanto, aplicando todos los elementos descritos en el apartado anterior, se buscará diseñar una aplicación que pueda ser explorada por los usuarios de forma efectiva mientras se transmite un aire de seguridad al tener que manejar dinero y otros bienes dentro del sistema.
 Gracias a un diseño responsivo, y el uso de elementos gráficos que no sean demasiado rígidos a la vista, se espera que la aplicación de una buena imagen para mantener al usuario interesado y al mismo tiempo bien informado de todo el funcionamiento interno de la aplicación.
-
-#### 4.1.2. Web Style Guidelines.
 
 
 ### 4.2. Information Architecture.
@@ -1019,7 +1017,7 @@ User:
  
 ![ Home Wireframe Diagram ](./images/home%20wireframe.jpg)
 
-![ Products Wireframe Diagram ](./images/products.jpg)
+<!-- ![ Products Wireframe Diagram ](./images/products.jpg) -->
 
 ![ Products 2 Wireframe Diagram ](./images/products%20wireframe%202.jpg)
 
@@ -1027,20 +1025,32 @@ User:
 
 ![ Contact Result Wireframe ](./images/contact%20result%20wireframe.jpg)
 
-![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506110707302430/image.png?ex=6630fae8&is=662fa968&hm=09bb88faff925f6dfd1e1c7aa86efa0c1b413a27f4e6c9f6ea2656b127de41ed&)
+![ Register Wireframe ](./images/register-wireframe.png)
+
+![ Login Wireframe ](./images/login-wireframe.png)
+
+
+
+<!-- ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506110707302430/image.png?ex=6630fae8&is=662fa968&hm=09bb88faff925f6dfd1e1c7aa86efa0c1b413a27f4e6c9f6ea2656b127de41ed&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506144731369552/image.png?ex=6630faf0&is=662fa970&hm=cbd0e3907c4f46b0492325455b6d915946b1f5b705a2c488e9507b44d4dfc4be&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506176008556645/image.png?ex=6630faf8&is=662fa978&hm=61cce1d7cf4970fa8cdf94fc1cde4767eab15933322a472fa60cf00b31036651&)
-![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506205771337769/image.png?ex=6630faff&is=662fa97f&hm=e8a728b044b49e1794e160753d16d96171231887f6d68565eda145d8756d468a&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506205771337769/image.png?ex=6630faff&is=662fa97f&hm=e8a728b044b49e1794e160753d16d96171231887f6d68565eda145d8756d468a&) -->
 
-Bussines:
 
-![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506256589262868/image.png?ex=6630fb0b&is=662fa98b&hm=2048727a1483b3f48be9f7f2d9e125f5aa3141ebf1b747794c8d7af5e4147c41&)
+
+
+
+
+
+<!-- Bussines: -->
+
+<!-- ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506256589262868/image.png?ex=6630fb0b&is=662fa98b&hm=2048727a1483b3f48be9f7f2d9e125f5aa3141ebf1b747794c8d7af5e4147c41&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506289145450508/image.png?ex=6630fb13&is=662fa993&hm=78b316bf0defccfb5f589377ecbe38494b9a9de72e4559885a442dc43c484716&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506320422637670/image.png?ex=6630fb1a&is=662fa99a&hm=44aea5e2998a30792c36a51cdea5d77b5849252b7332735a0121df3d5e008c47&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506355482824724/image.png?ex=6630fb23&is=662fa9a3&hm=9d4d7be9dc0cd7dd61a95186b48bbfab095cf0742a26c157fa3c8496cfdc3f47&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506414945337396/image.png?ex=6630fb31&is=662fa9b1&hm=03605fc946c176775a0c74fd9f1e78cc2a14b5fd22c93ef802399a7cbf715152&)
 ![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506637939572787/image.png?ex=6630fb66&is=662fa9e6&hm=8fc03511f90f6fc021146886dc65137049d3fadaa69bb74fedb3a1f65d381cd8&)
-![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506683003310161/image.png?ex=6630fb71&is=662fa9f1&hm=9ceffa45bfe74cb81ccbc80a8f423900f941ed0971928c96c4fa7284182944a2&)
+![ Wirefram WireDiagram ](https://cdn.discordapp.com/attachments/891176117204054068/1234506683003310161/image.png?ex=6630fb71&is=662fa9f1&hm=9ceffa45bfe74cb81ccbc80a8f423900f941ed0971928c96c4fa7284182944a2&) -->
 
 
 #### 4.4.3. Web Applications Mock-ups.
@@ -1065,39 +1075,45 @@ Vista principal de la aplicación web:
 
 El login de nuestra app web:
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496403854852158/image.png?ex=6630f1de&is=662fa05e&hm=54f71e53e89d86af7a466b8a1fcd5240514d584dfe2159bb4ea7b684c5612afb&)
+![login mockup](./images/login-mockup.png)
+
+
+
+<!-- ![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496403854852158/image.png?ex=6630f1de&is=662fa05e&hm=54f71e53e89d86af7a466b8a1fcd5240514d584dfe2159bb4ea7b684c5612afb&) -->
 
 El registro del nuestra app web:
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496449069318144/image.png?ex=6630f1e9&is=662fa069&hm=603100a24d5250253bf80d0109c2fb47768253acf31dad01f5cee6a8dffef3b1&) 
+![home mockup](./images/register-mockup.png)
 
-El perfil de nuestro user: 
+<!-- ![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496449069318144/image.png?ex=6630f1e9&is=662fa069&hm=603100a24d5250253bf80d0109c2fb47768253acf31dad01f5cee6a8dffef3b1&)  -->
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496592375971940/image.png?ex=6630f20b&is=662fa08b&hm=7da57c52c13d2267eb2f5534056f20e2539d961ffce21654e3625831ecfb274c&) 
+<!-- El perfil de nuestro user: 
 
-Los planes de nuetra app web:
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496592375971940/image.png?ex=6630f20b&is=662fa08b&hm=7da57c52c13d2267eb2f5534056f20e2539d961ffce21654e3625831ecfb274c&)  -->
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496630250537061/image.png?ex=6630f214&is=662fa094&hm=df12cc44df1dc49a15f62efbb47b14329b28a9375ef74878e22dfec06b226101&) 
-
+<!-- Los planes de nuetra app web:
+<!-- 
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496630250537061/image.png?ex=6630f214&is=662fa094&hm=df12cc44df1dc49a15f62efbb47b14329b28a9375ef74878e22dfec06b226101&)  --> -->
+<!-- 
 El medio de pago de nuetra app web:
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496676014592050/image.png?ex=6630f21f&is=662fa09f&hm=fd49e5142b38d0b69a00cb042d14d3511e0410ff55ee11215816956a7e13e18f&) 
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496676014592050/image.png?ex=6630f21f&is=662fa09f&hm=fd49e5142b38d0b69a00cb042d14d3511e0410ff55ee11215816956a7e13e18f&)  -->
 
-El inicio del Usuario:
+<!-- El inicio del Usuario:
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496761922326588/image.png?ex=6630f233&is=662fa0b3&hm=d2e472f0a3a01dd63830a8657abfb39da61fc9807057625fb538a18391477695&)
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496761922326588/image.png?ex=6630f233&is=662fa0b3&hm=d2e472f0a3a01dd63830a8657abfb39da61fc9807057625fb538a18391477695&) -->
 
-Las categorias de nuestros usuarios:
+<!-- Las categorias de nuestros usuarios:
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496804360421406/image.png?ex=6630f23e&is=662fa0be&hm=eb074da97c18c545d0fd1f427014b883141ad415f5f712d3a258f04983b4e0d9&) 
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496804360421406/image.png?ex=6630f23e&is=662fa0be&hm=eb074da97c18c545d0fd1f427014b883141ad415f5f712d3a258f04983b4e0d9&)  -->
 
 La seccion de ofertas diarias de nuetra app web para user: 
 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496848773906462/image.png?ex=6630f248&is=662fa0c8&hm=78a87b3950bc9bc985aa95f30edfd47fec93f0ad2f373d7b0b3f45b20160f96a&) 
+<!-- ![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496848773906462/image.png?ex=6630f248&is=662fa0c8&hm=78a87b3950bc9bc985aa95f30edfd47fec93f0ad2f373d7b0b3f45b20160f96a&)  -->
 
 Lista de productos a ser comprados:
 
-![Product mockup](./images/products%20mockup.jpg) 
+<!-- ![Product mockup](./images/products%20mockup.jpg)  -->
 ![Product mockup 2](./images/products%20mockup%202.jpg)
 
 El carrito de compras:
