@@ -1099,7 +1099,7 @@ El registro del nuestra app web:
 
 <!-- Los planes de nuetra app web:
 <!-- 
-![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496630250537061/image.png?ex=6630f214&is=662fa094&hm=df12cc44df1dc49a15f62efbb47b14329b28a9375ef74878e22dfec06b226101&)  --> -->
+![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496630250537061/image.png?ex=6630f214&is=662fa094&hm=df12cc44df1dc49a15f62efbb47b14329b28a9375ef74878e22dfec06b226101&)  --> 
 <!-- 
 El medio de pago de nuetra app web:
 
@@ -1113,7 +1113,6 @@ El medio de pago de nuetra app web:
 
 ![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496804360421406/image.png?ex=6630f23e&is=662fa0be&hm=eb074da97c18c545d0fd1f427014b883141ad415f5f712d3a258f04983b4e0d9&)  -->
 
-La seccion de ofertas diarias de nuetra app web para user: 
 
 <!-- ![Landin Mockup 1](https://cdn.discordapp.com/attachments/891176117204054068/1234496848773906462/image.png?ex=6630f248&is=662fa0c8&hm=78a87b3950bc9bc985aa95f30edfd47fec93f0ad2f373d7b0b3f45b20160f96a&)  -->
 
