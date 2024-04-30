@@ -288,8 +288,7 @@ Con el aporte de experiencia técnica y habilidades blandas por parte de cada un
 | <p>Fabian Reyes Trujillano (u202218233)</p> <p>Carrera: Ing. de Software</p> <p>Considero que soy una persona segura de sí misma, capaz de tomar decisiones importantes y brindar ideas rápidas para solucionar un problema. Soy muy precavido en los problemas que se presentan habitualmente en el grupo, dando una respuesta óptima y concisa. Me gusta bastante escuchar música, disfruto especialmente del garage rock e indie.</p>| ![Fabian Reyes](./images/FotoReyes.jpg) |
 | <p>Alessandro Stefano Valenzuela Vallejos (u202214695)</p> <p>Carrera: Ing. de Software</p> <p>Soy Alessandro Valenzuela alumno de la carrera de Ingenieria de software entre mis principales atributos soy una persona dedicada, perseverante y muy competitiva, me gusta relacionarme para crear un buen ambiente de trabajo para mí y mis compañeros. Tengo conocimiento en lenguajes de programación como c + + y en el desarrollo de bases de datos. Poseo buenas capacidades para solucionar distintos problemas para el desarrollo de un trabajo.</p>|<a href="https://imgbb.com/"><img src="https://i.ibb.co/m5fB548/Captura-de-pantalla-2024-04-05-000443.png" alt="Captura-de-pantalla-2024-04-05-000443" border="0"></a> |
 | <p>Elverth Vásquez Villalobos (u202213070)</p> <p>Carrera: Ing. de Software, </p> <p>Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde hasta encontrar una solución. Considero que tengo una buena capacidad de análisis al momento de realizar algoritmos necesarios para el funcionamiento de algunos requerimientos en el software. Así mismo, me gusta siempre estar en comunicación con mi equipo de trabajo de una manera asertiva. Me apasiona el mundo de la tecnología y el emprendimiento, por ello trato de aportar al desarrollo del startup con mis habilidades en programación e investigación.</p> | ![Elverth Vasquez](./images/foto-Vasquez.jpg) |
-| <p>Ballona Blas, Naggit German (u20201b895)</p> <p>Carrera: Ing. de Software</p> <p>Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</p>|<img src="https://cdn.discordapp.com/attachments/891176117204054068/1224808657422782484/pp.jfif?ex=661ed6f3&is=660c61f3&hm=7b81fee336888290bdf6c399c602bb01e0efcd56404f38080c518f8e46ffeccd&" width="100" height="100" style="border-radius: 25%;">|
-
+| <p>Ballona Blas, Naggit German (u20201b895)</p> <p>Carrera: Ing. de Software</p> <p>Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</p>|![Naggit](./images/naggit.png)
 
 ### 1.2. Solution Profile
 
@@ -512,7 +511,7 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214
 
  **Entrevista #5:**
 
-<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1227948320513851492/image.png?ex=662a42fd&is=6617cdfd&hm=373e3829b0f26bfd477bfc1e864c12b4a2c24af98c3d9ad9c775340bc7b564c9&" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+![ Entrevista 5 ](./images/entrevista5.png)
 
 - Nombre y apellidos: Khaterine Melissa Bautista Cruz
 - Edad:  23
@@ -606,7 +605,7 @@ En esta sección realizaremos un análisis cuantitativo y cualitativo de los dat
 
 **Conclusiones:**
 
-- En cuanto a los datos demográficos se encontró que el rango de edades de nuestros entrevistados oscila entre los 20 a 29 años y que la mayoría son hombres.
+- En cuanto a los datos demográficos se encontró que el rango de edades de nuestros entrevistados oscila entre los 20 a 29 años.
 
 - En base a los datos recolectados podemos concluir que existe una demanda de plataforma de comparación de precios y que el mercado por el cual deberiamos inicar son los compradores y emprendedores de la ciudad de Lima ya que comprenden el 66.67 % de la muestra tomada para el análisis. Y el 100 % de de este porcentaje muestran interés en una plataforma de comparación de precios.
 
@@ -631,23 +630,17 @@ el cual se enfoca en el cliente que va buscar productos en nuestra pagina y en l
 fichas están basadas en las principales características y necesidades identificadas
 en el análisis de entrevistas y de la competencia.
 
-#### Segmento objetivo 1 :  Cliente<br><br>
+#### Segmento objetivo 1 :  Cliente
 
-<tr>
-  <div align='center'>
-    <img src="https://cdn.discordapp.com/attachments/891176117204054068/1227956714142433280/image.png?ex=662a4ace&is=6617d5ce&hm=bc33e8c0171fbf92c714d6a716218b96dbfea9f2f15073659bb57f01ecaa3431&">
-  </div>
-</tr>
-<br>
 
-#### Segmento objetivo 1 :  Empresas<br><br>
+![ User Persona 1](./images/user%20persona%201.png)
 
-<tr>
-  <div align='center'>
-    <img src="https://cdn.discordapp.com/attachments/891176117204054068/1227959062138978374/image.png?ex=662a4cfe&is=6617d7fe&hm=2a573262d9aad50511ed62e230ec2a5ca45b1b6910ff5536e11f9c75e36851a1& ">
-  </div>
-</tr>
-<br>
+
+#### Segmento objetivo 2 :  Empresas
+
+![ User Persona 2](./images/user%20persona%202.png)
+
+
 
 2.3.2. User Task Matrix
 
@@ -1151,7 +1144,7 @@ Vista de los clientes del perfil Empresario:
 
 ### 4.5. Web Applications Prototyping.
 
-![Landin Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1229413638876561408/image.png?ex=662f97ac&is=661d22ac&hm=057b0c3e2115d5a6e12102df204f75182e40d535c93ddfff37dc5258d5d55c0f&)
+![Landin Prototype](./images/main.jpg)
 
 **Link del Protype:**  https://www.figma.com/proto/nJkxHSMVbOuRTVvuYv4r1H/Open-source?type=design&node-id=47783-1469&t=4M86M8sUik2gOB7i-0&scaling=min-zoom&page-id=45348%3A1263&starting-point-node-id=47783%3A1469
 
@@ -1387,7 +1380,7 @@ https://trello.com/invite/b/6dcm5XQp/ATTI472b8eb797d7cc57e64d4c5795279999D890E49
 
 <a href="https://ibb.co/L14TpYQ"><img src="https://i.ibb.co/3ctxh4f/Captura-de-pantalla-2024-04-05-000337.png" alt="Captura-de-pantalla-2024-04-05-000337" border="0"></a>
 
-##### 5.2.1.1. Sprint Backlog 1 
+
 ##### 5.2.1.1. Sprint Backlog 1 
 Ahora presentaremos la primera tabla de los sprints backlogs:
 
@@ -1423,10 +1416,15 @@ De ser necesario, se actualizará deacuerdo al feedback de la entrega.
 Podemos apreciar el landing page en funcionamiento: 
 
 ![LandinPage1](./images/main.jpg)
+
 ![LandinPage2](./images/PRODUCTOS.jpg)
+
 ![LandinPage3](./images/NOSOTROS.jpg)
+
 ![LandinPage4](./images/LOGIN.jpg)
+
 ![LandinPage5](./images/CONTACTO.jpg)
+
 ![LandinPage6](./images/WISHLIST.jpg)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -1448,9 +1446,13 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228355279130754/image.png?ex=662eeb1d&is=661c761d&hm=bff9c1190342a0153256618c37d4baf49efaf4fba5fc6cce3053ab1f0b67e19b&)
+
 ![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228677833953371/image.png?ex=662eeb6a&is=661c766a&hm=55a49bf658281f716e71babc0f36e5998fad1fd6c60ca35e16ecdfe4d6490fda&)
+
 ![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228719772794961/image.png?ex=662eeb74&is=661c7674&hm=aec10dbae436faf7f020d3513b24d89e15cc0175c26be98cfd01594007f86911&)
+
 ![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228780464373880/image.png?ex=662eeb83&is=661c7683&hm=4a9238354dec8d85eb12965a68444889b241695cb06c573ff1a05f6237dfac94&)
+
 ![Imagen]( https://cdn.discordapp.com/attachments/891176117204054068/1229228826576293949/image.png?ex=662eeb8e&is=661c768e&hm=a28691acade4c1b41538456d87e8a292d673fea34e363501cfd5f06fa5f6af54&)
 
 <br>
