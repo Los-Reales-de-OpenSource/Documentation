@@ -674,7 +674,9 @@ tareas para los User Personas previamente definidos.
 | 12. Personalización de Notificaciones | Rarely | High |
 | 13. Exploración de tiendas cercanas | Rarely | High |
 
-#### Empresario: Maria Parra
+#### Empresario: Iván Lavado Vallejos
+
+
 
 | Tarea / Aspecto | Frecuencia | Importancia |
 |-----------------|------------|-------------|
