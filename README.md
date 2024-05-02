@@ -1446,10 +1446,40 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ![ Ci1](./images/ci1.png)
+
 ![ Ci2](./images/ci2.png)
+
 ![ Ci3](./images/ci3.png)
+
 ![ Ci4](./images/ci4.png)
+
 ![ Ci5](./images/ci5.png)
+
+#### 5.2.1. Sprint 2
+##### 5.2.2.1.
+
+##### 5.2.2.2.
+
+##### 5.2.2.3. Development Evidence for Sprint Review
+
+Los siguientes commit corresponden al desarrollo del landing page:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| |master|305fd8a35bf53b200120f1673b6f5f585f75e8e3|feat: version 1.0.0| | 22/04/2024 |
+| |feat/Collantes|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
+| |feat/Collantes|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: environments base| | 22/04/2024 |
+| |feat/Collantes|7b7541a8a8019bc31c81db76c7a5a1e514ef1b5c|feat: json-server configurations| | 28/04/2024 |
+| |feat/Collantes|69025ab6780b708a3cd45ac9f996acf08e373096|feat: home  component v1| | 28/04/2024 |
+| |feat/Collantes|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
+| |feat/Collantes|f0dc56e161b5fe0d1dd4a4ee313d26b2a2a84e2a|feat: header v1| | 30/04/2024 |
+| |feat/Collantes|9f131ebe1a4dd974c22c7df64efd916dee63c885|feat: footer added| | 30/04/2024 |
+| |feat/Collantes|131d8a58bff96168553909404afcb583385c917a|fix: scale in css| | 30/04/2024 |
+| |feat/Collantes|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
+| |feat/Collantes|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
+| |feat/Collantes|04b7147a9004fc6698e5d1eab7040a63b99d43fe|feat: home design v1.1| | 01/05/2024 |
+
+
 
 <br>
 
