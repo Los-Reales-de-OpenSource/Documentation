@@ -1474,9 +1474,9 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 ![ Ci5](./images/ci5.png)
 
 #### 5.2.1. Sprint 2
-
 ##### 5.2.2.1. Sprint Planning 2.
 El principal objetivo de este Sprint es crear las funcionalidades de la aplicación "ComPeru". Nuestro propósito es atraer a los usuarios y motivarlos a utilizar nuestra aplicación para comparar precios de productos en su localidad.
+
 
 
 | **Sprint #**                | Sprint 2 |
@@ -1494,17 +1494,29 @@ El principal objetivo de este Sprint es crear las funcionalidades de la aplicaci
 
 | **Sprint n – 1 Retrospective Summary** | |
 |-----------------------------------------|-------------------------------------------------|
-| (Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo) En el caso de nuestro grupo eh visto mucha retroalimentacion autonoma pero lo unico que les diria que apliquen este bien es scrumm stufy| |
+| En el caso de nuestro grupo eh visto mucha retroalimentacion autonoma pero lo unico que les diria que apliquen este bien es scrumm study| |
 
 | **Sprint Goal & User Stories** | |
 |--------------------------------|-------------------------------------------------------------------------|
-| **Sprint n Goal:**             | Dessarrollar nuevas funcionalidades a nuestro sistema         |
-| **Sprint n Velocity:**         | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.) |
-| **Sum of Story Points:**       | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.) |
+| **Sprint n Goal:**             | Desarollo de nuestro sistema funcional.|
+| **Sprint n Velocity:**         | 19 |
+| **Sum of Story Points:**       | 19 |
 
 
 
 ##### 5.2.2.2. Sprint Backlog 2
+
+
+|**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
+|------------|------------------|--------|-------------|------------|------------|--------|
+| US006 | T01 | Auntenticacion de usuario | Implementación de una autenticacion de usuario. | 5h | Alessandro Valenzuela | Finalizado |
+| US16 | T02 | Productos de las tiendas| Desarrollo de la funcion productos. | 6h | Fabian Reyes | Finalizado |
+| US007 | T03 | Home | Desarrollar funcionalidad de inicio de la web | 3h | Marco Collantes | Finalizado |
+| US010 | T04 | Carrito de Compra y About | Implementar funcionalidad carrito de compras y about. | 5h | Naggit Ballalona | Finalizado |
+| US020 | T04 | Contact| Desarrollar funcionalidad Contact en nuestra aplicacion | 5h | Elverth Vasquez | Finalizado |
+
+
+##### 5.2.2.3. Development Evidence for Sprint Review
 
 Los siguientes commit corresponden al desarrollo del landing page:
 
@@ -1539,6 +1551,7 @@ Los siguientes commit corresponden al desarrollo del landing page:
 |ComPeru-front| | | | | |
 
 
+<br>
 
 <br>
 
