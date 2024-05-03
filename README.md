@@ -1171,9 +1171,9 @@ Esto son los diagramas de componentes de nuestro sistema:
 #### 4.7. Software Object-Oriented Design
 ##### 4.7.1. Class Diagrams
 Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
-
 Diagrama de clases:
-<a href="https://ibb.co/khncBGc"><img src="https://i.ibb.co/SKTvy6v/Class-Diagram.png" alt="Class-Diagram" border="0"></a>
+
+<a href="https://ibb.co/TYkyVr3"><img src="https://i.ibb.co/fq2JhQw/Class-Diagram.png" alt="Class-Diagram" border="0"></a>
 
 ### 4.7.2. Class Dictionary
 Para la siguiente explicacion de los atributos de las clases, es crucial comprender los atributos de estas clases, ya que proporcionan información clave sobre la estructura y el funcionamiento del sistema. Documentar adecuadamente estos atributos facilita el desarrollo, la depuración y el mantenimiento del código, asegurando un sistema robusto y seguro
@@ -1213,7 +1213,6 @@ En la clase "Customer", se registran los detalles relacionados con un cliente. L
 | name       | String       | Nombre del cliente.                    |
 | dni        | String       | Número de identificación personal.     |
 | lastName   | String       | Apellido del cliente.                  |
-| direction  | String       | Dirección del cliente.                 |
 | codPostal  | String       | Código postal del cliente.             |
 | date       | String       | Fecha relacionada con el cliente.      |
 | email      | String       | Correo electrónico del cliente.        |
@@ -1228,7 +1227,6 @@ La clase "Store" representa una tienda en el sistema. Sus atributos incluyen el 
 |------------|--------------|----------------------------------------|
 | name       | String       | Nombre de la tienda.                   |
 | RUC        | String       | Registro Único de Contribuyentes.      |
-| direction  | String       | Dirección de la tienda.                |
 | email      | String       | Correo electrónico de la tienda.       |
 | celphone   | String       | Número de teléfono celular de la tienda.|
 
@@ -1238,7 +1236,7 @@ La clase "ShoppingCart" representa un carrito de compras en el sistema. El atrib
 
 | Atributo   | Tipo de Dato | Descripción                            |
 |------------|--------------|----------------------------------------|
-| amount     | Float        | Monto total del carrito de compras.    |
+| id     | int        | Identificador del carrito de compras.    |
 
 ##### Clase: Order
 La clase "Order" representa una orden de compra en el sistema. Sus atributos incluyen el identificador único de la orden, las fechas de realización y límite de entrega, el método de entrega, la ciudad de entrega, el precio total, el descuento aplicado y un indicador de pago. Estos atributos son esenciales para gestionar las órdenes de compra y realizar un seguimiento adecuado de las transacciones.
@@ -1247,12 +1245,8 @@ La clase "Order" representa una orden de compra en el sistema. Sus atributos inc
 |-----------------|--------------|---------------------------------------------|
 | OrderId         | String       | Identificador único de la orden.           |
 | orderDate       | Date         | Fecha de realización de la orden.           |
-| deadLine        | Date         | Fecha límite para la entrega de la orden.  |
 | deliveryMethod  | String       | Método de entrega de la orden.              |
-| orderCity       | Variant      | Ciudad de entrega de la orden.              |
-| TotalPrice      | Double       | Precio total de la orden.                   |
-| Discount        | Variant      | Descuento aplicado a la orden.              |
-| pay             | Boolean      | Indicador de si la orden está pagada.      |
+
 
 ##### Clase: Product
 La clase "Product" representa un producto en el sistema. Sus atributos incluyen un identificador único, una descripción, una URL de imagen, un nombre y un precio unitario. Estos atributos son fundamentales para gestionar la información de los productos y realizar transacciones comerciales en el sistema.
@@ -1285,12 +1279,31 @@ La clase "Category" representa una categoría en el sistema. Sus atributos inclu
 | description   | String       | Descripción de la categoría.          |
 | category      | String       | Categoría principal o padre.          |
 
+### Clase: Directions
+La clase "Directions" representa la dirección de envío en el sistema. Sus atributos incluyen la dirección del destinatario, el código postal y la ciudad. Estos atributos son fundamentales para gestionar la información de envío y garantizar la entrega correcta de los productos.
+
+| Atributo   | Tipo de Dato | Descripción                         |
+|------------|--------------|-------------------------------------|
+| direction  | String       | Dirección del destinatario.         |
+| codPostal  | String       | Código postal del destinatario.     |
+| city       | String       | Ciudad del destinatario.            |
+
+
+### Clase: PriceProduct
+La clase "PriceProduct" representa el precio de un producto en el sistema. Sus atributos incluyen el precio unitario del producto y un indicador booleano para determinar si hay un descuento aplicado al precio. Estos atributos son esenciales para calcular el costo total de los productos y aplicar descuentos si es necesario.
+
+| Atributo    | Tipo de Dato | Descripción                            |
+|-------------|--------------|----------------------------------------|
+| unitPrice   | Variant      | Precio unitario del producto.          |
+| discount    | Boolean      | Indicador de si hay descuento aplicado.|
+
+
 
 #### 4.7. Database desing
 ##### 4.7.1 Database Diagrams
 Para nuestro sistema, también hemos implementado un diagrama de base de datos. Este diagrama proporciona una representación visual de la estructura de nuestra base de datos, incluyendo tablas, columnas y relaciones entre ellas. Es una herramienta clave para comprender la arquitectura de datos de nuestro sistema y cómo se relacionan entre sí las entidades de nuestra aplicación.
 
-<a href="https://ibb.co/ymTgwWz"><img src="https://i.ibb.co/gb1t5z0/Database-Diagram.png" alt="Database-Diagram" border="0"></a>
+<a href="https://ibb.co/YBNCyzB"><img src="https://i.ibb.co/MkgvGYk/Database-Diagram.png" alt="Database-Diagram" border="0"></a>
 
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
