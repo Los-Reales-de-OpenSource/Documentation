@@ -1376,17 +1376,34 @@ Para desplegar el landing page resultó necesario cumplir una serie de requisito
 ##### 5.2.1.1. Sprint Planning 1 
 El principal objetivo de este Sprint es crear la página de inicio de la aplicación "ComPeru". Esta será la primera experiencia que los usuarios tendrán con nuestra aplicación, por lo que es crucial que sea fácil de usar, atractiva y funcional. Nuestro propósito es atraer a los usuarios y motivarlos a utilizar nuestra aplicación para comparar precios de productos en su localidad.
 
-Para gestionar las actividades de este Sprint, hemos optado por utilizar Trello como herramienta de organización:
-https://trello.com/invite/b/6dcm5XQp/ATTI472b8eb797d7cc57e64d4c5795279999D890E498/comperu-sprint-1
 
-<a href="https://ibb.co/L14TpYQ"><img src="https://i.ibb.co/3ctxh4f/Captura-de-pantalla-2024-04-05-000337.png" alt="Captura-de-pantalla-2024-04-05-000337" border="0"></a>
+| **Sprint #**                | Sprint 1 |
+|-----------------------------|----------|
+| **Sprint Planning Background** |            |
+| **Date:**                   | 2024-04-22 |
+| **Time:**                   | 7:00 pm |
+| **Location:**               | Reunion Virtual |
+| **Prepared By:**            | Valenzuela Vallejos, Alessandro Stefano |
+| **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos collatnes |
 
+| **Sprint n – 1 Review Summary** | |
+|----------------------------------|--------------------------------------------------|
+| Ahora veremos como desarrollar nuestro landing page. | |
 
+| **Sprint n – 1 Retrospective Summary** | |
+|-----------------------------------------|-------------------------------------------------|
+| Realizar de manera correcta como seria la primera version de las funcionalidades de sistema cumpliendo con nuestras reglasd de negocio. |
+
+| **Sprint Goal & User Stories** | |
+|--------------------------------|-------------------------------------------------------------------------|
+| **Sprint n Goal:**             | Dessarrollar Landing Page|
+| **Sprint n Velocity:**         | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.) |
+| **Sum of Story Points:**       | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.) |
 ##### 5.2.1.1. Sprint Backlog 1 
 Ahora presentaremos la primera tabla de los sprints backlogs:
 
 **Sprint 1: Desarrollo de una primera versión del Landing Page**
-| User Story | Work-Item / Task | Título | Descripción | Estimación | Asignado a | Estado |
+|**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 |------------|------------------|--------|-------------|------------|------------|--------|
 | US002 | T01 | Busqueda por palabra clave | Implementación de una barrabúsqueda. | 5h | Fabian reyes | En Proceso |
 | US002 | T02 | Funcionalidad de Filtrado | Desarrollo de la funcion para filtrar productos. | 6h | Fabian Reyes | Pendiente |
@@ -1457,11 +1474,37 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 ![ Ci5](./images/ci5.png)
 
 #### 5.2.1. Sprint 2
-##### 5.2.2.1.
 
-##### 5.2.2.2.
+##### 5.2.2.1. Sprint Planning 2.
+El principal objetivo de este Sprint es crear las funcionalidades de la aplicación "ComPeru". Nuestro propósito es atraer a los usuarios y motivarlos a utilizar nuestra aplicación para comparar precios de productos en su localidad.
 
-##### 5.2.2.3. Development Evidence for Sprint Review
+
+| **Sprint #**                | Sprint 2 |
+|-----------------------------|----------|
+| **Sprint Planning Background** |            |
+| **Date:**                   | 2024-05-01 |
+| **Time:**                   | 7:00 pm |
+| **Location:**               | Descripción de la ubicación de la reunión, física o virtual |
+| **Prepared By:**            | Valenzuela Vallejos, Alessandro Stefano |
+| **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos collatnes |
+
+| **Sprint n – 1 Review Summary** | |
+|----------------------------------|--------------------------------------------------|
+|En el sprint anterior vimos como se desarrollaria nuestra funcionalidades ya realizades. | |
+
+| **Sprint n – 1 Retrospective Summary** | |
+|-----------------------------------------|-------------------------------------------------|
+| (Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo) En el caso de nuestro grupo eh visto mucha retroalimentacion autonoma pero lo unico que les diria que apliquen este bien es scrumm stufy| |
+
+| **Sprint Goal & User Stories** | |
+|--------------------------------|-------------------------------------------------------------------------|
+| **Sprint n Goal:**             | Dessarrollar nuevas funcionalidades a nuestro sistema         |
+| **Sprint n Velocity:**         | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.) |
+| **Sum of Story Points:**       | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.) |
+
+
+
+##### 5.2.2.2. Sprint Backlog 2
 
 Los siguientes commit corresponden al desarrollo del landing page:
 
@@ -1479,6 +1522,13 @@ Los siguientes commit corresponden al desarrollo del landing page:
 |ComPeru-front|feat/Collantes|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
 |ComPeru-front|feat/Collantes|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
 |ComPeru-front|feat/Collantes|04b7147a9004fc6698e5d1eab7040a63b99d43fe|feat: home design v1.1| | 01/05/2024 |
+|ComPeru-front|feat/Valenzuela|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
+|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: login component| | 22/04/2024 |
+|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: register component| | 22/04/2024 |
+|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: auth service| | 22/04/2024 |
+|ComPeru-front|feat/Valenzuela|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
+|ComPeru-front|feat/Valenzuela|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
+|ComPeru-front|feat/Valenzuela|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
 |ComPeru-front| | | | | |
 |ComPeru-front| | | | | |
 |ComPeru-front| | | | | |
@@ -1487,6 +1537,7 @@ Los siguientes commit corresponden al desarrollo del landing page:
 |ComPeru-front| | | | | |
 |ComPeru-front| | | | | |
 |ComPeru-front| | | | | |
+
 
 
 <br>
