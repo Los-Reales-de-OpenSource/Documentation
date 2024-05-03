@@ -41,8 +41,9 @@
 |1.0.7|12/04/2024|Marco Collantes, Fabian Reyes, Alessandro Valenzuela|Actualización de items|
 |1.0.8|14/04/2024|Todos|Version final primera entrega|
 |1.0.9|27/04/2024|Elverth Vásquez Villalobos |Corrección de Entrevistas, Análisis de entrevistas y NeedFinding|
-
-
+|2.0.0|27/04/2024|Todos|Desarrollo del trabajo Parcial|
+|2.0.0|27/04/2024|Alessandro Valenzuela |Desarrollo de sprint plannin 2 y sprint baclog 2|
+|2.0.1|27/04/2024|Alessandro Valenzuela |Desarrollo de Authentication User|
 # Student Outcome
  <br>
 
