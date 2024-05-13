@@ -834,8 +834,8 @@ tareas para los User Personas previamente definidos.
 
 |User Story ID|US17|Epic ID|EP04|
 | :- | :-: | :-: | :-: |
-|Title |Compras en grupo|||
-|Description |**Como** usuario **quiero** poder crear y unirse a compras en grupo con amigos o familiares para obtener descuentos en productos|||
+|Title |Carrito de compras|||
+|Description |**Como** usuario **quiero** poder acumular mis compras en mi carrito de compras.|||
 |Acceptance criteria|<p>**Escenario 01: Crear compra en grupo**</p><p></p><p>**Dado que** quiero realizar una compra en grupo con amigos o familiares</p><p>**Cuando** selecciono la opción de “Crear compra en grupo”</p><p>**Entonces** la app me permite seleccionar el producto que quiero comprar y la cantidad que necesito</p><p></p><p>**Escenario 02: Invitar amigos o familia a una compra en grupo**</p><p></p><p>**Dado que** he creado una compra en grupo</p><p>**Cuando** selecciono la opción “Invitar amigos o familiares” </p><p>**Entonces** la app me permite enviar un enlace de invitación por correo electrónico o mensaje de texto</p>|||
 
 
