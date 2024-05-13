@@ -834,27 +834,10 @@ tareas para los User Personas previamente definidos.
 
 |User Story ID|US17|Epic ID|EP04|
 | :- | :-: | :-: | :-: |
-|Title |Búsqueda avanzada|||
-|Description |**Como** usuario **quiero** poder analizar una búsqueda avanzada con filtros para poder encontrar productos específicos de manera mas facil y rapida|||
-|Acceptance criteria|<p>**Escenario 01: Acceder a la búsqueda avanzada**</p><p></p><p>**Dado que** estoy en la pantalla principal de búsqueda </p><p>**Cuando** selecciono la opcion de “Busqueda avanzada”</p><p>**Entonces** la app me muestra una pantalla con una serie de filtros,como marca,precio,tamaño,color,etc.</p><p></p><p>**Escenario 02: Aplicar filtros en la búsqueda avanzada**</p><p>**Dado que** estoy en la pantalla búsqueda avanzada</p><p>**Cuando** selecciono uno o más filtros y aplicó la búsqueda </p><p>**Entonces** la app me muestra los productos que coinciden con los filtros seleccionados </p><p>**Y** la app me permite deshacer los filtros aplicados si quiero ampliar la búsqueda </p>|||
-
-|User Story ID|US18|Epic ID|EP03|
-| :- | :-: | :-: | :-: |
-|Title |Búsqueda por voz|||
-|Description |**Como** usuario **quiero** poder buscar productos en la app utilizando comando de voz para una experiencia mas practica y facil|||
-|Acceptance criteria|<p>**Escenario 01: Activar la búsqueda por voz**</p><p></p><p>**Dado que** estoy en la pantalla de búsqueda</p><p>**Cuando** selecciono la opcion de busqueda por voz</p><p>**Entonces** la app me permite activar la búsqueda por voz a través de microfono de mi dispositivo movil </p><p></p><p>**Escenario 02: Búsqueda un producto por voz** </p><p></p><p>**Dado que** he activado por voz</p><p>**Cuando** digo el nombre del producto que deseo buscar </p><p>**Entonces** la app se muestra resultado de búsqueda correspondientes al producto </p>|||
-
-|User Story ID|US19|Epic ID|EP04|
-| :- | :-: | :-: | :-: |
 |Title |Compras en grupo|||
 |Description |**Como** usuario **quiero** poder crear y unirse a compras en grupo con amigos o familiares para obtener descuentos en productos|||
 |Acceptance criteria|<p>**Escenario 01: Crear compra en grupo**</p><p></p><p>**Dado que** quiero realizar una compra en grupo con amigos o familiares</p><p>**Cuando** selecciono la opción de “Crear compra en grupo”</p><p>**Entonces** la app me permite seleccionar el producto que quiero comprar y la cantidad que necesito</p><p></p><p>**Escenario 02: Invitar amigos o familia a una compra en grupo**</p><p></p><p>**Dado que** he creado una compra en grupo</p><p>**Cuando** selecciono la opción “Invitar amigos o familiares” </p><p>**Entonces** la app me permite enviar un enlace de invitación por correo electrónico o mensaje de texto</p>|||
 
-|User Story ID|US**20**|Epic ID|EP04|
-| :- | :-: | :-: | :-: |
-|Title |Chat con la tienda |||
-|Description |**Como** usuario **quiero** poder comunicarme con la tienda sobre un producto para hacer preguntas y aclarar mis dudas antes de realizar la compra|||
-|Acceptance criteria|<p>**Escenario 01: Acceder al chat con la tienda**</p><p></p><p>**Dado que** estoy en la pantalla de detalles del producto</p><p>**Cuando** selecciono la opcion “Chat con la tienda seleccionada”</p><p>**Entonces** la app me muestra una pantalla de chat donde puedo comunicarme con el vendedor del producto</p><p></p>|||
 
 ### 3.3. Impact Mapping.
 
