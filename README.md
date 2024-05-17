@@ -1513,19 +1513,11 @@ El principal objetivo de este Sprint es crear las funcionalidades de la aplicaci
 | **Location:**               | Descripción de la ubicación de la reunión, física o virtual |
 | **Prepared By:**            | Valenzuela Vallejos, Alessandro Stefano |
 | **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos collatnes |
-
-| **Sprint n – 1 Review Summary** | |
-|----------------------------------|--------------------------------------------------|
-|En el sprint anterior vimos como se desarrollaria nuestra funcionalidades ya realizades. | |
-
-| **Sprint n – 1 Retrospective Summary** | |
-|-----------------------------------------|-------------------------------------------------|
-| En el caso de nuestro grupo eh visto mucha retroalimentacion autonoma pero lo unico que les diria que apliquen este bien es scrumm study| |
-
+| **Sprint n – 1 Review Summary** | Se realizaron las funcionalidades correspondientes a nuestra landing page. Se logro el objetivo a medias y faltaron cosas por mejorar en cuestiones de tiempo de desarrollo para cada funcionalidad. Sin embargo, se pudo realizar la mayoria de funcionalidades asignadas a ese sprint. |
+| **Sprint n – 1 Retrospective Summary** | Es necesario tener una mejor organización y comunicación con el equipo para optimizar los tiempos de desarrollo de cada una de las funcionalidades asignadas.|
 | **Sprint Goal & User Stories** | |
-|--------------------------------|-------------------------------------------------------------------------|
-| **Sprint n Goal:**             | Desarollo de nuestro sistema funcional.|
-| **Sprint n Velocity:**         | 19 |
+| **Sprint 2 Goal:**             | Desarrollo de las funcionalidades más importantes de la Web Application.|
+| **Sprint 2 Velocity:**         | 19 |
 | **Sum of Story Points:**       | 19 |
 
 
