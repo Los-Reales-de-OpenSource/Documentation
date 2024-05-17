@@ -760,77 +760,114 @@ tareas para los User Personas previamente definidos.
 |Description |**Como** usuario **quiero** poder ordenar los resultados de búsqueda por clasificación para ver los productos más populares primeros |
 |Acceptance criteria|<p>**Escenario : Popularidad de registro** </p><p></p><p>**Dado que** el usuario quiera mostrar los resultados obtenidos se le mostrará la opción “Por  clasificación o por configuración”</p><p>` `**Y** el usuario deberá selecciona una de las dos opciones</p><p>**Cuando** después de seleccionar el sistema se configura automáticamente </p><p>**Entonces** cada que muestre los resultados también se agregaran las ofertas o descuentos del producto por su clasificación</p><p></p>|
 
-|User Story ID|US05|Epic ID|EP02|
-| :- | :-: | :-: | :-: |
-|Title |Comparación de productos|||
-|Description |**Como** usuario **quiero** poder comparar productos de diferentes tiendas para encontrar la mejor opción de compra |||
-|Acceptance criteria|<p>**Escenario: Comparación de precios** </p><p></p><p>**Dado que** estoy en la pantalla de resultados </p><p>**Y** haga clic en buscar</p><p>**Cuando** haga click en comparación de precios  </p><p>**Entonces** se mostrará una lista de precios de cada tienda que venda el producto </p><p>**Y** podré hacer click en el producto para ver más detalles del producto y la tienda </p>|||
+|User Story ID|US05|
+| :- | :-: |
+|Title |Comparación de productos|
+|Description |**Como** usuario **quiero** poder comparar productos de diferentes tiendas para encontrar la mejor opción de compra |
+|Acceptance criteria|<p>**Escenario: Comparación de precios** </p><p></p><p>**Dado que** estoy en la pantalla de resultados </p><p>**Y** haga clic en buscar</p><p>**Cuando** haga click en comparación de precios  </p><p>**Entonces** se mostrará una lista de precios de cada tienda que venda el producto </p><p>**Y** podré hacer click en el producto para ver más detalles del producto y la tienda </p>|
 
-|User Story ID|US06|Epic ID|EP02|
-| :- | :-: | :-: | :-: |
-|Title |Notificaciones de precios |||
-|Description |**Como** usuario **quiero** recibir notificaciones cuando los productos que estoy buscando estén disponibles o en oferta |||
-|Acceptance criteria|<p>**Escenario 1:Configuración de Notificaciones** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga click en el boton de configuracion de notificaciones</p><p>**Entonces** la app me permitirá seleccionar el tipo de notificación que quiero recibir(Disponibilidad o oferta) </p><p>**Y** puedo elegir cómo quiero recibir la notificación (notificación de la app)</p>|||
+|User Story ID|US06|
+| :- | :-: |
+|Title |Notificaciones de precios |
+|Description |**Como** usuario **quiero** recibir notificaciones cuando los productos que estoy buscando estén disponibles o en oferta |
+|Acceptance criteria|<p>**Escenario 1:Configuración de Notificaciones** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga click en el boton de configuracion de notificaciones</p><p>**Entonces** la app me permitirá seleccionar el tipo de notificación que quiero recibir(Disponibilidad o oferta) </p><p>**Y** puedo elegir cómo quiero recibir la notificación (notificación de la app)</p>|
 
-|User Story ID|US07|Epic ID|EP03|
-| :- | :-: | :-: | :-: |
-|Title |Comentarios y reseñas de productos |||
-|Description |**Como** usuario **quiero** poder leer comentarios y reseñas de otros usuarios sobre un producto para tomar una decisión de compra informada |||
-|Acceptance criteria|<p>**Escenario 01: Ver comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me muestra una lista de todos los comentarios y reseñas sobre un producto </p><p>**Y** podré ver el nombre de usuario, la calificación y el comentario de cada usuario </p><p></p><p>**Escenario 02: Dejar comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me permite escribir un comentario o reseña sobre el producto </p><p>**Y** la app publica mi comentario o reseña </p><p></p>|||
+|User Story ID|US07|
+| :- | :-: |
+|Title |Comentarios y reseñas de productos |
+|Description |**Como** usuario **quiero** poder leer comentarios y reseñas de otros usuarios sobre un producto para tomar una decisión de compra informada |
+|Acceptance criteria|<p>**Escenario 01: Ver comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me muestra una lista de todos los comentarios y reseñas sobre un producto </p><p>**Y** podré ver el nombre de usuario, la calificación y el comentario de cada usuario </p><p></p><p>**Escenario 02: Dejar comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me permite escribir un comentario o reseña sobre el producto </p><p>**Y** la app publica mi comentario o reseña </p><p></p>|
 
-|User Story ID|US08|Epic ID|EP03|
-| :- | :-: | :-: | :-: |
-|Title |Opciones de pago|||
-|Description |**Como** usuario **quiero** ver las opciones de pago disponibles en cada tienda para poder elegir la más conveniente|||
-|Acceptance criteria|<p>**Escenario 01: Ver opciones de pago**</p><p></p><p>**Dado que** estoy en la pantalla de detalles de una tienda</p><p>**Cuando** haga clic en el botón de opciones de pago</p><p>**Entonces** la app me muestra una lista de todos las opciones de pago disponibles en la tienda </p><p>**Y** puedo hacer clic en la opcion de pago para ver mas detalles de pago </p><p></p>|||
+|User Story ID|US08|
+| :- | :-: |
+|Title |Opciones de pago|
+|Description |**Como** usuario **quiero** ver las opciones de pago disponibles en cada tienda para poder elegir la más conveniente|
+|Acceptance criteria|<p>**Escenario 01: Ver opciones de pago**</p><p></p><p>**Dado que** estoy en la pantalla de detalles de una tienda</p><p>**Cuando** haga clic en el botón de opciones de pago</p><p>**Entonces** la app me muestra una lista de todos las opciones de pago disponibles en la tienda </p><p>**Y** puedo hacer clic en la opcion de pago para ver mas detalles de pago </p><p></p>|
 
-|User Story ID|US09|Epic ID|EP03|
-| :- | :-: | :-: | :-: |
-|Title |Carrito de compras |||
-|Description |**Como** usuario **quiero** poder agregar productos a un carrito compras para pagar en conjunto mis productos |||
-|Acceptance criteria|<p>**Escenario 01: Crear una lista de compras**</p><p></p><p>**Dado que** estoy en la pantalla principal de la app</p><p>**Cuando** haga clic en el carrito de compras y veo los productos agregados</p><p>**Entonces** la app me permite tener un carrito de compras </p><p>**Y** poder agregar productos a los mismos</p><p>**Y** puedo hacer clic en el carrito de compras para ver los productos que he agregado</p><p></p><p>**Escenario 02: Agregar los productos seleccionado a la lista de compra** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de agregar al carrito</p><p>**Entonces** la app muestra que el producto se agrego exitosamente </p>|||
+|User Story ID|US09|
+| :- | :-: |
+|Title |Carrito de compras |
+|Description |**Como** usuario **quiero** poder agregar productos a un carrito compras para pagar en conjunto mis productos|
+|Acceptance criteria|<p>**Escenario 01: Crear una lista de compras**</p><p></p><p>**Dado que** estoy en la pantalla principal de la app</p><p>**Cuando** haga clic en el carrito de compras y veo los productos agregados</p><p>**Entonces** la app me permite tener un carrito de compras </p><p>**Y** poder agregar productos a los mismos</p><p>**Y** puedo hacer clic en el carrito de compras para ver los productos que he agregado</p><p></p><p>**Escenario 02: Agregar los productos seleccionado a la lista de compra** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de agregar al carrito</p><p>**Entonces** la app muestra que el producto se agrego exitosamente </p>|
 
-|User Story ID|US10|Epic ID|EP03|
-| :- | :-: | :-: | :-: |
-|Title |Ofertas destacadas |||
-|Description |**Como** usuario **quiero** poder ver las ofertas más destacadas de la semana para aprovechar los mejores precios|||
-|Acceptance criteria|<p>**Escenario 01: Ver ofertas destacadas**</p><p></p><p>**Dado que** estoy en la pantalla de la app </p><p>**Cuando** desplazó hacia abajo en la pantalla </p><p>**Entonces** la app me muestra una sección de ofertas destacadas </p><p>**Y** puedo ver los productos en oferta y la cantidad de descuento</p><p>**Y** puedo hacer clic en un producto para ver los detalles y comprarlo </p><p></p>|||
+|User Story ID|US10|
+| :- | :-: |
+|Title |Ofertas destacadas |
+|Description |**Como** usuario **quiero** poder ver las ofertas más destacadas de la semana para aprovechar los mejores precios|
+|Acceptance criteria|<p>**Escenario 01: Ver ofertas destacadas**</p><p></p><p>**Dado que** estoy en la pantalla de la app </p><p>**Cuando** desplazó hacia abajo en la pantalla </p><p>**Entonces** la app me muestra una sección de ofertas destacadas </p><p>**Y** puedo ver los productos en oferta y la cantidad de descuento</p><p>**Y** puedo hacer clic en un producto para ver los detalles y comprarlo </p><p></p>|
 
-|User Story ID|US11|Epic ID|EP04|
-| :- | :-: | :-: | :-: |
-|Title |Contacto con la Startup |||
-|Description |**Como** usuario, **quiero** poder contactar al equipo de soporte de la empresa a través de la página de contacto para realizar consultas .|||
-|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** que el usuario está en la página de contacto </p><p>**Cuando** el usuario ingresa su consulta y hace clic en enviar </p><p>**Entonces** la consulta será enviada al equipo de soporte y el usuario recibirá una confirmación de envío. </p>|||
+|User Story ID|US11|
+| :- | :-: |
+|Title |Contacto con la Startup |
+|Description |**Como** usuario, **quiero** poder contactar al equipo de soporte de la empresa a través de la página de contacto para realizar consultas .|
+|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** el usuario está en la página de contacto </p><p>**Cuando** el usuario ingresa su consulta y hace clic en enviar </p><p>**Entonces** la consulta será enviada al equipo de soporte y el usuario recibirá una confirmación de envío. </p>|
 
-|User Story ID|US12|Epic ID|EP04|
-| :- | :-: | :-: | :-: |
-|Title |Autenticacion de Usuario |||
-|Description |**Como** usuario **quiero** que la aplicación me permita registrarse y iniciar sesion en mi cuenta.|||
-|Acceptance criteria|<p>**Escenario : Registrar mi cuenta** </p><p></p><p>**Dado que** deseo registrarme </p><p>**Cuando** recien haya ingresado a la app </p><p>**Y** quiero registrarme  </p><p>**Entonces** colocare mi correo, usuario y contraseña para poder registrarme exitosamente.  </p><p>**Escenario : Ingresar a mi cuenta** </p><p></p><p>**Dado que** estoy en inicio y quiero ingresar a mi cuenta podre hacerlo desde el boton login </p><p>**Cuando** desee ingresar a mi cuenta en la app </p><p>¿**Entonces** solo colocare mi correo y mi contraseña para ingresar exitosamente  </p>|||
+|User Story ID|US12|
+| :- | :-: |
+|Title |Autenticacion de Usuario |
+|Description |**Como** usuario **quiero** que la aplicación me permita registrarse y iniciar sesion en mi cuenta.|
+|Acceptance criteria|<p>**Escenario : Registrar mi cuenta** </p><p></p><p>**Dado que** deseo registrarme </p><p>**Cuando** recien haya ingresado a la app </p><p>**Y** quiero registrarme  </p><p>**Entonces** colocare mi correo, usuario y contraseña para poder registrarme exitosamente.  </p><p>**Escenario : Ingresar a mi cuenta** </p><p></p><p>**Dado que** estoy en inicio y quiero ingresar a mi cuenta podre hacerlo desde el boton login </p><p>**Cuando** desee ingresar a mi cuenta en la app </p><p>¿**Entonces** solo colocare mi correo y mi contraseña para ingresar exitosamente  </p>|
 
-|User Story ID|US12|Epic ID|EP04|
-| :- | :-: | :-: | :-: |
-|Title |Cambio de contraseñas |||
-|Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|||
-|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** deseo cambiar mi contraseña </p><p>**Cuando** yo lo desee </p><p>**Y** este en la pestaña de usuario </p><p>**Entonces** podre cambiar mi contraseña desde la pestaña de usuario. </p>|||
+|User Story ID|US13|
+| :- | :-: |
+|Title |Cambio de contraseñas |
+|Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|
+|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** deseo cambiar mi contraseña </p><p>**Cuando** yo lo desee </p><p>**Y** este en la pestaña de usuario </p><p>**Entonces** podre cambiar mi contraseña desde la pestaña de usuario. </p>|
 
-|User Story ID|US13|Epic ID|EP04|
-| :- | :-: | :-: | :-: |
-|Title |Cambio de contraseñas |||
-|Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|||
-|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** deseo cambiar mi contraseña </p><p>**Cuando** yo lo desee </p><p>**Y** este en la pestaña de usuario </p><p>**Entonces** podre cambiar mi contraseña desde la pestaña de usuario. </p>|||
-
-|User Story ID|US14|Epic ID|EP04|
-| :- | :-: | :-: | :-: |
-|Title |Registro de Tienda |||
-|Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|||
-|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** deseo cambiar mi contraseña </p><p>**Cuando** yo lo desee </p><p>**Y** este en la pestaña de usuario </p><p>**Entonces** podre cambiar mi contraseña desde la pestaña de usuario. </p>|||
+|User Story ID|US14|
+| :- | :-: |
+|Title |Registro de Tienda |
+|Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|
+|Acceptance criteria|<p>**Escenario : Registro de Tiendas** </p><p></p><p>**Dado que** el emprendedor está en la página de registro de tienda </p><p>**Cuando** el emprendedor ingresa la información requerida y hace clic en registrar </p><p>**Entonces** la tienda será creada en la plataforma y el emprendedor recibirá una confirmación de registro. </p>|
 
 
+|User Story ID|US15|
+| :- | :-: |
+|Title |Gestión de productos |
+|Description |**Como** emprendedor, **quiero** tener acceso a una interfaz intuitiva en la que pueda agregar, editar y eliminar productos de mi tienda, incluyendo información detallada como nombre, descripción y precio, **para** mantener actualizado el catálogo de productos de mi tienda en la plataforma.|
+|Acceptance criteria|<p>**Escenario :  Gestión de productos** </p><p></p><p>**Dado que** el emprendedor está en la interfaz de gestión de productos </p><p> **Cuando** el emprendedor agrega, edita o elimina un producto </p><p>**Entonces** el catálogo de productos de la tienda se actualizará en la plataforma. </p>|
 
+|User Story ID|US16|
+| :- | :-: |
+|Title |Notificación de pedidos |
+|Description |**Como** emprendedor, **quiero** recibir notificaciones en tiempo real sobre nuevos pedidos realizados por usuarios finales en mi tienda, incluyendo detalles como el producto pedido y la dirección de envío, para poder procesar los pedidos de manera eficiente.|
+|Acceptance criteria|<p>**Escenario :  Notificación de pedidos** </p><p></p><p>**Dado que** hay un nuevo pedido en la tienda del emprendedor </p><p> **Cuando** se realiza el pedido </p><p>**Entonces** el emprendedor recibirá una notificación con los detalles del pedido.  </p>|
 
+|User Story ID|US17|
+| :- | :-: |
+|Title |Gestión de pedidos |
+|Description |**Como** usuario emprendedor , **quiero** tener acceso a una interfaz intuitiva donde pueda revisar todos los pedidos que han realizado mis clientes, para poder realizar un seguimiento de las transacciones y gestionar el proceso de entrega de mis productos.|
+|Acceptance criteria|<p>**Escenario :  Gestión de pedidos** </p><p></p><p>**Dado que** el emprendedor está en la interfaz de gestión de pedidos </p><p> **Cuando** el emprendedor revisa los pedidos </p><p>**Entonces** podrá ver los detalles de cada pedido y su estado actual. </p>|
 
+|User Story ID|US18|
+| :- | :-: |
+|Title |Editar Tienda |
+|Description |**Como** emprendedor, **quiero** tener acceso a una página de gestión de perfil donde pueda actualizar la información de mi tienda, incluyendo detalles de contacto y horarios de atención, para mantener actualizada y precisa la información que se muestra a los usuarios finales.|
+|Acceptance criteria|<p>**Escenario :  Editar tienda** </p><p></p><p>**Dado que** el emprendedor está en la página de gestión de perfil de la tienda </p><p> **Cuando** el emprendedor actualiza la información de su tienda </p><p>**Entonces** los cambios se reflejarán en la información que se muestra a los usuarios finales. </p>|
 
+|User Story ID|US19|
+| :- | :-: |
+|Title |Creación de Ofertas |
+|Description |**Como** usuario emprendedor, **quiero** poder crear y administrar ofertas en mis productos, para atraer más clientes y aumentar las ventas en la plataforma.|
+|Acceptance criteria|<p>**Escenario :  Creación de ofertas** </p><p></p><p>**Dado que** el emprendedor está en la interfaz de gestión de ofertas </p><p> **Cuando** el emprendedor crea una nueva oferta </p><p>**Entonces** la oferta será visible para los usuarios finales y aplicada a los productos seleccionados.</p>|
+
+|User Story ID|US20|
+| :- | :-: |
+|Title |Notificación de Stock Bajo |
+|Description |**Como** usuario emprendedor, **quiero** que el sistema me notifique cuando tenga el stock bajo de uno de mis productos, para poder abastecerme con antelación y no tener problemas con mis clientes.|
+|Acceptance criteria|<p>**Escenario :  Notificación de Stock Bajo** </p><p></p><p>**Dado que** el stock de un producto está por agotarse </p><p> **Cuando** el stock llegue a un nivel mínimo </p><p>**Entonces** el emprendedor recibirá una notificación para reabastecerse. </p>|
+
+|User Story ID|US21|
+| :- | :-: |
+|Title |Plataforma Responsive |
+|Description| **Como** usuario **quiero** ingresar a la web en mi dispositivo móvil sin tener problema alguno.|
+|Acceptance criteria|<p>**Escenario : Uso en dispositivo móvil** </p><p></p><p>**Dado que** que el usuario está utilizando la plataforma en su dispositivo móvil </p><p> **Cuando** el usuario navega por la plataforma </p><p>**Entonces** la interfaz se ajusta a la pantalla del dispositivo sin problemas. </p>|
+
+|User Story ID|US22|
+| :- | :-: |
+|Title |Botones de acción |
+|Description |**Como** usuario **quiero** que se implementen botones de acción claros para facilitarme el uso de la plataforma.|
+|Acceptance criteria|<p>**Escenario :  Uso de botones de acción** </p><p></p><p>**Dado que** que el usuario está navegando por la plataforma </p><p> **Cuando** el usuario ve los botones de acción </p><p>**Entonces** los botones son claros y fáciles de usar, mejorando la experiencia del usuario. </p>|
 
 ### 3.3. Impact Mapping.
 
