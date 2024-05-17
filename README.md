@@ -736,29 +736,29 @@ tareas para los User Personas previamente definidos.
 
 ### 3.2. User Stories
 
-|User Story ID|US01|Epic ID |EP01|
-| :- | :-: | :-: | :-: |
-|Title |Búsqueda de productos|||
-|Description |**Como** usuario **quiero** poder buscar productos **para** encontrar productos específicos |||
-|Acceptance criteria|<p>**Escenario 01 : Registro de datos** </p><p></p><p>**Dado que** el usuario quiere ingresar una palabra en el campo de búsqueda</p><p>**Y** haga clic en buscar</p><p>**Cuando** la app muestra los resultados correspondientes a esa palabra clave   </p><p>**Entonces** se deberá estar ordenados por relevancia </p>|||
+|User Story ID|US01|
+| :- | :-: |
+|Title |Búsqueda de productos|
+|Description |**Como** usuario **quiero** poder buscar productos **para** encontrar productos específicos |
+|Acceptance criteria|<p>**Escenario 01 : Registro de datos** </p><p></p><p>**Dado que** el usuario quiere ingresar una palabra en el campo de búsqueda</p><p>**Y** haga clic en buscar</p><p>**Cuando** la app muestra los resultados correspondientes a esa palabra clave   </p><p>**Entonces** se deberá estar ordenados por relevancia </p>|
 
-|User Story ID|US02|Epic ID|EP01|
-| :- | :-: | :-: | :-: |
-|Title |Filtrado de resultados por precios|||
-|Description |**Como** usuario **quiero** poder filtrar los resultados de búsqueda por precio **para** encontrar productos que se ajusten a mi presupuesto|||
-|Acceptance criteria|<p>**Escenario 01 : Registro de datos** </p><p></p><p>**Dado que** después de realizar una búsqueda apropiada a la necesidad del usuario </p><p>**Y** haga clic en buscar</p><p>**Cuando** la app muestra la selección de un rango de precios para filtrar los resultados </p><p>**Entonces** se mostrará en el rango estimado </p>|||
+|User Story ID|US02|
+| :- | :-: |
+|Title |Filtrado de resultados por precios|
+|Description |**Como** usuario **quiero** poder filtrar los resultados de búsqueda por precio **para** encontrar productos que se ajusten a mi presupuesto|
+|Acceptance criteria|<p>**Escenario 01 : Registro de datos** </p><p></p><p>**Dado que** después de realizar una búsqueda apropiada a la necesidad del usuario </p><p>**Y** haga clic en buscar</p><p>**Cuando** la app muestra la selección de un rango de precios para filtrar los resultados </p><p>**Entonces** se mostrará en el rango estimado </p>|
 
-|User Story ID|US03|Epic ID|EP02|
-| :- | :-: | :-: | :-: |
-|Title |Guardar productos en lista de deseos|||
-|Description |**Como** usuario **quiero** poder guardar productos en una lista de deseos **para** volver a ellos|||
-|Acceptance criteria|<p>**Escenario : Entrada de datos registrado**</p><p></p><p>**Dado que** el usuario agregar un producto a su lista de deseos </p><p>**Y** seleccionar en “Lista de deseos” </p><p>**Cuando** el producto pedido se guardará de manera automática </p><p>**Entonces** se mostrará en guardado el resultado que deseaba buscar </p><p></p><p>**Escenario : Salida de datos registrado**</p><p></p><p>**Dado que** el usuario quiera eliminar el producto después de su búsqueda </p><p>**Y** seleccionar en opción “Eliminar elemento”</p><p>**Cuando** el producto guardado se elimina instantáneamente de su lista de deseos</p><p>**Entonces** se mostrará el producto solo en la seccion de busqueda</p>|||
+|User Story ID|US03|
+| :- | :-: |
+|Title |Guardar productos en lista de deseos|
+|Description |**Como** usuario **quiero** poder guardar productos en una lista de deseos **para** volver a ellos|
+|Acceptance criteria|<p>**Escenario : Entrada de datos registrado**</p><p></p><p>**Dado que** el usuario agregar un producto a su lista de deseos </p><p>**Y** seleccionar en “Lista de deseos” </p><p>**Cuando** el producto pedido se guardará de manera automática </p><p>**Entonces** se mostrará en guardado el resultado que deseaba buscar </p><p></p><p>**Escenario : Salida de datos registrado**</p><p></p><p>**Dado que** el usuario quiera eliminar el producto después de su búsqueda </p><p>**Y** seleccionar en opción “Eliminar elemento”</p><p>**Cuando** el producto guardado se elimina instantáneamente de su lista de deseos</p><p>**Entonces** se mostrará el producto solo en la seccion de busqueda</p>|
 
-|User Story ID|US04|Epic ID|EP02|
-| :- | :-: | :-: | :-: |
-|Title |Ordenamiento de resultados por clasificación|||
-|Description |**Como** usuario **quiero** poder ordenar los resultados de búsqueda por clasificación para ver los productos más populares primeros |||
-|Acceptance criteria|<p>**Escenario : Popularidad de registro** </p><p></p><p>**Dado que** el usuario quiera mostrar los resultados obtenidos se le mostrará la opción “Por  clasificación o por configuración”</p><p>` `**Y** el usuario deberá selecciona una de las dos opciones</p><p>**Cuando** después de seleccionar el sistema se configura automáticamente </p><p>**Entonces** cada que muestre los resultados también se agregaran las ofertas o descuentos del producto por su clasificación</p><p></p>|||
+|User Story ID|US04|
+| :- | :-: |
+|Title |Ordenamiento de resultados por clasificación|
+|Description |**Como** usuario **quiero** poder ordenar los resultados de búsqueda por clasificación para ver los productos más populares primeros |
+|Acceptance criteria|<p>**Escenario : Popularidad de registro** </p><p></p><p>**Dado que** el usuario quiera mostrar los resultados obtenidos se le mostrará la opción “Por  clasificación o por configuración”</p><p>` `**Y** el usuario deberá selecciona una de las dos opciones</p><p>**Cuando** después de seleccionar el sistema se configura automáticamente </p><p>**Entonces** cada que muestre los resultados también se agregaran las ofertas o descuentos del producto por su clasificación</p><p></p>|
 
 |User Story ID|US05|Epic ID|EP02|
 | :- | :-: | :-: | :-: |
@@ -774,64 +774,58 @@ tareas para los User Personas previamente definidos.
 
 |User Story ID|US07|Epic ID|EP03|
 | :- | :-: | :-: | :-: |
-|Title |Búsqueda de tiendas|||
-|Description |**Como** usuario **quiero** poder buscar tiendas para comprar los productos que necesito.   |||
-|Acceptance criteria|<p>**Escenario: Búsqueda por ubicación**</p><p></p><p>**Dado que** estoy en la pantalla principal de la app</p><p>**Cuando** selecciono la opción de búsqueda por ubicación  </p><p>**Entonces** la app me muestra un mapa con mi ubicación actual y las tiendas cercanas</p><p>**Y** puedo hacer clic una tienda para ver más detalles </p><p></p><p>**Escenario 02: Filtración de búsqueda por ubicación**</p><p></p><p>**Dado que** estoy en la pantalla de resultados de búsqueda por ubicación** </p><p>**Cuando** haga clic en el botón de filtro</p><p>**Entonces** la app muestra opciones de filtrado para distancia, tipo de tienda y otras características </p><p>**Y** la app actualiza los resultados para mostrar solo las tiendas que cumplen con los filtros seleccionados</p>|||
-
-|User Story ID|US08|Epic ID|EP03|
-| :- | :-: | :-: | :-: |
 |Title |Comentarios y reseñas de productos |||
 |Description |**Como** usuario **quiero** poder leer comentarios y reseñas de otros usuarios sobre un producto para tomar una decisión de compra informada |||
 |Acceptance criteria|<p>**Escenario 01: Ver comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me muestra una lista de todos los comentarios y reseñas sobre un producto </p><p>**Y** podré ver el nombre de usuario, la calificación y el comentario de cada usuario </p><p></p><p>**Escenario 02: Dejar comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me permite escribir un comentario o reseña sobre el producto </p><p>**Y** la app publica mi comentario o reseña </p><p></p>|||
 
-|User Story ID|US09|Epic ID|EP03|
+|User Story ID|US08|Epic ID|EP03|
 | :- | :-: | :-: | :-: |
 |Title |Opciones de pago|||
 |Description |**Como** usuario **quiero** ver las opciones de pago disponibles en cada tienda para poder elegir la más conveniente|||
 |Acceptance criteria|<p>**Escenario 01: Ver opciones de pago**</p><p></p><p>**Dado que** estoy en la pantalla de detalles de una tienda</p><p>**Cuando** haga clic en el botón de opciones de pago</p><p>**Entonces** la app me muestra una lista de todos las opciones de pago disponibles en la tienda </p><p>**Y** puedo hacer clic en la opcion de pago para ver mas detalles de pago </p><p></p>|||
 
-|User Story ID|US10|Epic ID|EP03|
+|User Story ID|US09|Epic ID|EP03|
 | :- | :-: | :-: | :-: |
 |Title |Carrito de compras |||
 |Description |**Como** usuario **quiero** poder agregar productos a un carrito compras para pagar en conjunto mis productos |||
 |Acceptance criteria|<p>**Escenario 01: Crear una lista de compras**</p><p></p><p>**Dado que** estoy en la pantalla principal de la app</p><p>**Cuando** haga clic en el carrito de compras y veo los productos agregados</p><p>**Entonces** la app me permite tener un carrito de compras </p><p>**Y** poder agregar productos a los mismos</p><p>**Y** puedo hacer clic en el carrito de compras para ver los productos que he agregado</p><p></p><p>**Escenario 02: Agregar los productos seleccionado a la lista de compra** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de agregar al carrito</p><p>**Entonces** la app muestra que el producto se agrego exitosamente </p>|||
 
-<!-- |User Story ID|US11|Epic ID|EP03|
-| :- | :-: | :-: | :-: |
-|Title |Historial de precios|||
-|Description |**Como** usuario **quiero** poder ver el historial de precios de un productor para decidir si espero a que baje de precio o lo compro ahora|||
-|Acceptance criteria|<p>**Escenario 01: Ver historial de precios**</p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de historial de precios</p><p>**Entonces** la app me muestra un gráfico con el historial de precios del producto en las tiendas disponibles</p><p>**Y** puedo seleccionar un rango de tiempo para ver el historial de precios en ese periodo específico </p><p></p><p>**Escenario 02: Comprar con información de historial de precios** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** decido comprar el producto </p><p>**Entonces** la app me muestra un mensaje de advertencia si el precio actual es significativamente más alto que el precio promedio en el historial de precios </p>||| -->
-
-|User Story ID|US11|Epic ID|EP03|
+|User Story ID|US10|Epic ID|EP03|
 | :- | :-: | :-: | :-: |
 |Title |Ofertas destacadas |||
 |Description |**Como** usuario **quiero** poder ver las ofertas más destacadas de la semana para aprovechar los mejores precios|||
 |Acceptance criteria|<p>**Escenario 01: Ver ofertas destacadas**</p><p></p><p>**Dado que** estoy en la pantalla de la app </p><p>**Cuando** desplazó hacia abajo en la pantalla </p><p>**Entonces** la app me muestra una sección de ofertas destacadas </p><p>**Y** puedo ver los productos en oferta y la cantidad de descuento</p><p>**Y** puedo hacer clic en un producto para ver los detalles y comprarlo </p><p></p>|||
 
-
-<!-- |User Story ID|US12|Epic ID|EP04|
+|User Story ID|US11|Epic ID|EP04|
 | :- | :-: | :-: | :-: |
-|Title |Compartir productos|||
-|Description |**Como** usuario **quiero** poder compartir productos que encuentro en la app con amigos y familiares para obtener sus opiniones |||
-|Acceptance criteria|<p>**Escenario 01: Compartir productos en redes sociales**</p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de compartir</p><p>**Entonces** la app me muestra opciones para compartir el producto en redes sociales como Facebook,Twitter y Instagram </p><p>**Y** puedo elegir una red social y compartir el producto con un mensaje personalizado</p><p><br></p><p>**Escenario 02: compartir productos por correo electronicos** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de compartir</p><p>**Entonces** la app me permite compartir el producto por correo electrónico</p><p>Y puedo escribir una dirección de correo electrónico y un mensaje para poder enviar el producto a alguien  </p>||| -->
+|Title |Contacto con la Startup |||
+|Description |**Como** usuario, **quiero** poder contactar al equipo de soporte de la empresa a través de la página de contacto para realizar consultas .|||
+|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** que el usuario está en la página de contacto </p><p>**Cuando** el usuario ingresa su consulta y hace clic en enviar </p><p>**Entonces** la consulta será enviada al equipo de soporte y el usuario recibirá una confirmación de envío. </p>|||
 
-<!-- |User Story ID|US15|Epic ID|EP04|
+|User Story ID|US12|Epic ID|EP04|
 | :- | :-: | :-: | :-: |
-|Title |Códigos de descuento|||
-|Description |**Como** usuario **quiero** poder encontrar y aplicar códigos de descuento para ahorrar dinero en mis compras|||
-|Acceptance criteria|<p>**Escenario 01: Ver códigos de descuento**</p><p>**Dado que** estoy en la pantalla de detalles de un producto </p><p>**Cuando** desplazó hacia abajo la pantalla en la derecha</p><p>**Entonces** me saldrá la opción “Canjear código”</p><p>**Y** escribes el código solicitado y disponible para aplicar el respectivo descuento </p><p></p>||| -->
+|Title |Autenticacion de Usuario |||
+|Description |**Como** usuario **quiero** que la aplicación me permita registrarse y iniciar sesion en mi cuenta.|||
+|Acceptance criteria|<p>**Escenario : Registrar mi cuenta** </p><p></p><p>**Dado que** deseo registrarme </p><p>**Cuando** recien haya ingresado a la app </p><p>**Y** quiero registrarme  </p><p>**Entonces** colocare mi correo, usuario y contraseña para poder registrarme exitosamente.  </p><p>**Escenario : Ingresar a mi cuenta** </p><p></p><p>**Dado que** estoy en inicio y quiero ingresar a mi cuenta podre hacerlo desde el boton login </p><p>**Cuando** desee ingresar a mi cuenta en la app </p><p>¿**Entonces** solo colocare mi correo y mi contraseña para ingresar exitosamente  </p>|||
 
 |User Story ID|US12|Epic ID|EP04|
 | :- | :-: | :-: | :-: |
 |Title |Cambio de contraseñas |||
 |Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|||
-|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** deseo cambiar mi contraseña </p><p>**Cuando** yo lo desee </p><p>**Y** este en la pestaña de usuario </p><p>**Entonces** podre cambiar mi contraseña  </p>|||
+|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** deseo cambiar mi contraseña </p><p>**Cuando** yo lo desee </p><p>**Y** este en la pestaña de usuario </p><p>**Entonces** podre cambiar mi contraseña desde la pestaña de usuario. </p>|||
 
 |User Story ID|US13|Epic ID|EP04|
 | :- | :-: | :-: | :-: |
-|Title |Autenticacion de Usuario |||
-|Description |**Como** usuario **quiero** que la aplicación me permita registrarse y iniciar sesion en mi cuenta.|||
-|Acceptance criteria|<p>**Escenario : Registrar mi cuenta** </p><p></p><p>**Dado que** deseo registrarme </p><p>**Cuando** recien haya ingresado a la app </p><p>**Y** quiero registrarme  </p><p>**Entonces** colocare mi correo, usuario y contraseña para poder registrarme exitosamente.  </p><p>**Escenario : Ingresar a mi cuenta** </p><p></p><p>**Dado que** estoy en inicio y quiero ingresar a mi cuenta podre hacerlo desde el boton login </p><p>**Cuando** desee ingresar a mi cuenta en la app </p><p>¿**Entonces** solo colocare mi correo y mi contraseña para ingresar exitosamente  </p>|||
+|Title |Cambio de contraseñas |||
+|Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|||
+|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** deseo cambiar mi contraseña </p><p>**Cuando** yo lo desee </p><p>**Y** este en la pestaña de usuario </p><p>**Entonces** podre cambiar mi contraseña desde la pestaña de usuario. </p>|||
+
+|User Story ID|US14|Epic ID|EP04|
+| :- | :-: | :-: | :-: |
+|Title |Registro de Tienda |||
+|Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|||
+|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** deseo cambiar mi contraseña </p><p>**Cuando** yo lo desee </p><p>**Y** este en la pestaña de usuario </p><p>**Entonces** podre cambiar mi contraseña desde la pestaña de usuario. </p>|||
+
 
 
 
