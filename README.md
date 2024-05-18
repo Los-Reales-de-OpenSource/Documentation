@@ -1501,8 +1501,8 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 #### 5.2.1. Sprint 2
 ##### 5.2.2.1. Sprint Planning 2.
-El principal objetivo de este Sprint es crear las funcionalidades de la aplicación "ComPeru". Nuestro propósito es atraer a los usuarios y motivarlos a utilizar nuestra aplicación para comparar precios de productos en su localidad.
 
+El principal objetivo del Sprint 2 fue el desarrollo de las principales funcionalidades de nuestra aplicación. Todas las características desarrolladas en este Sprint se encuentran bajo el dominio del negocio y representan las principales funcionalidades que debería de tener nuestro software para convertirse en un  MVP (Minimun Viable Product). Se escogieron User Stories relacionadas al lado Front-End de nuestra aplicación web y se implementaron la mayoría de los escenarios establecidos.
 
 
 | **Sprint #**                | Sprint 2 |
@@ -1510,9 +1510,9 @@ El principal objetivo de este Sprint es crear las funcionalidades de la aplicaci
 | **Sprint Planning Background** |            |
 | **Date:**                   | 2024-05-01 |
 | **Time:**                   | 7:00 pm |
-| **Location:**               | Descripción de la ubicación de la reunión, física o virtual |
-| **Prepared By:**            | Valenzuela Vallejos, Alessandro Stefano |
-| **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos collatnes |
+| **Location:**               | Se tuvieron reuniones de manera virtual y en el aula de clase para mencionar los avances de cada integrante del equipo. |
+| **Prepared By:**            | Vásquez Villalobos Elverth Jair|
+| **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos collatnes,  Valenzuela Alessandro|
 | **Sprint n – 1 Review Summary** | Se realizaron las funcionalidades correspondientes a nuestra landing page. Se logro el objetivo a medias y faltaron cosas por mejorar en cuestiones de tiempo de desarrollo para cada funcionalidad. Sin embargo, se pudo realizar la mayoria de funcionalidades asignadas a ese sprint. |
 | **Sprint n – 1 Retrospective Summary** | Es necesario tener una mejor organización y comunicación con el equipo para optimizar los tiempos de desarrollo de cada una de las funcionalidades asignadas.|
 | **Sprint Goal & User Stories** | |
@@ -1524,17 +1524,72 @@ El principal objetivo de este Sprint es crear las funcionalidades de la aplicaci
 
 ##### 5.2.2.2. Sprint Backlog 2
 
+|**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
+|------------|------------------|--------|-------------|------------|------------|--------|
+| US015 | US015-01 | Routing de administración de productos| Diseño de las rutas para la navegación del usuario emprendedor hacia la página de administración de productos | 1h | Elverth Vasquez | Finalizado |
+| US015 | US015-02 | Creación de tabla de administración de productos| Creación de una tabla para mostrar el detalle de cada uno de los productos. | 2h | Elverth Vasquez | Finalizado |
+| US015 | US015-03 | Formulario responsive para operaciones CRUD en productos|Implementación de funcionalidades CRUD y creación de un formulario resonsive e interactivo para cumplir con dicho propósito. | 4h | Elverth Vasquez | Finalizado |
+| US015 | US015-04 | Input de imágenes| en formulario de productos | Implementación de un input de imágenes y vista previa en el formulario. | 3h | Elverth Vasquez | Finalizado |
+| US015 | US015-05 | Validación de datos en formulario| Desarrollo de las validaciones para el registro o actualización de un producto de manera correcta | 2h | Elverth Vasquez | En proceso |
+
+
+
+##### 5.2.2.3. Development Evidence for Sprint Review
+
+Los siguientes commit corresponden al desarrollo del landing page:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|ComPeru-Frontend|main |  17e286b10d7885ad7cacbc03fc2bdabd3db5f7f0|chore: first commit | |13/05/2024 |
+|ComPeru-Frontend| develop|bc162203bde0445e601b79ddc7c55e260efae88a |feat: Aggregate sidenav
+| |14/05/2024 |
+|ComPeru-Frontend|develop | d212ebdbcf7c8cdb791ca1c43e8cf566f69d7dfc|feat: aggregate only form Create and Edit product| |14/05/2024 |
+|ComPeru-Frontend| develop|752fc24154b1c1bb1b593f4e657061a3e8193e99 |feat: Aggregate functionality Crud for products in admin | |15/05/2024 |
+|ComPeru-Frontend|develop |675d3b26607fe599ae8f4a55e1e4cc55cba4f941|feat: Aggregate CRUD Product and responsive interface | |15/05/2024 |
+|ComPeru-Frontend| develop|3d26b90e6c0f4c05f2564c217d1e5b17dbf4ddc5 |feat: Aggregate input field in product form for admin | |16/05/2024 |
+|ComPeru-Frontend| develop| a0b6a3f24d1edcd7a4ac9229608315fe5809c774 |fix: Input file fixed| |17/05/2024 |
+|ComPeru-Frontend| | | | | |
+
+
+<br>
+
+<br>
+
+#### 5.2.3. Sprint 3
+##### 5.2.3.1. Sprint Planning 3.
+El principal objetivo de este Sprint es crear las funcionalidades de la aplicación "ComPeru". Nuestro propósito es atraer a los usuarios y motivarlos a utilizar nuestra aplicación para comparar precios de productos en su localidad.
+
+
+
+| **Sprint #**                | Sprint 3|
+|-----------------------------|----------|
+| **Sprint Planning Background** |            |
+| **Date:**                   | 2024-05-01 |
+| **Time:**                   | 7:00 pm |
+| **Location:**               | Se tuvieron reuniones de manera virtual y en el aula de clase para mencionar los avances de cada integrante del equipo. |
+| **Prepared By:**            | Vásquez Villalobos Elverth Jair|
+| **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos collatnes,  Valenzuela Alessandro|
+| **Sprint n – 1 Review Summary** | Se realizaron las funcionalidades correspondientes a nuestra landing page. Se logro el objetivo a medias y faltaron cosas por mejorar en cuestiones de tiempo de desarrollo para cada funcionalidad. Sin embargo, se pudo realizar la mayoria de funcionalidades asignadas a ese sprint. |
+| **Sprint n – 1 Retrospective Summary** | Es necesario tener una mejor organización y comunicación con el equipo para optimizar los tiempos de desarrollo de cada una de las funcionalidades asignadas.|
+| **Sprint Goal & User Stories** | |
+| **Sprint 2 Goal:**             | Desarrollo de las funcionalidades más importantes de la Web Application.|
+| **Sprint 2 Velocity:**         | 19 |
+| **Sum of Story Points:**       | 19 |
+
+
+
+##### 5.2.3.2. Sprint Backlog 3
 
 |**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 |------------|------------------|--------|-------------|------------|------------|--------|
-| US006 | T01 | Auntenticacion de usuario | Implementación de una autenticacion de usuario. | 5h | Alessandro Valenzuela | Finalizado |
+| US001 | T01 | Auntenticacion de usuario | Implementación de una autenticacion de usuario. | 5h | Alessandro Valenzuela | Finalizado |
 | US16 | T02 | Productos de las tiendas| Desarrollo de la funcion productos. | 6h | Fabian Reyes | Finalizado |
 | US007 | T03 | Home | Desarrollar funcionalidad de inicio de la web | 3h | Marco Collantes | Finalizado |
 | US010 | T04 | Carrito de Compra y About | Implementar funcionalidad carrito de compras y about. | 5h | Naggit Ballalona | Finalizado |
 | US020 | T04 | Contact| Desarrollar funcionalidad Contact en nuestra aplicacion | 5h | Elverth Vasquez | Finalizado |
 
 
-##### 5.2.2.3. Development Evidence for Sprint Review
+##### 5.2.3.3. Development Evidence for Sprint Review
 
 Los siguientes commit corresponden al desarrollo del landing page:
 
@@ -1569,9 +1624,7 @@ Los siguientes commit corresponden al desarrollo del landing page:
 |ComPeru-front| | | | | |
 
 
-<br>
 
-<br>
 
 ## Conclusiones
 
