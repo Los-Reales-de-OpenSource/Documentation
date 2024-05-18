@@ -1399,53 +1399,69 @@ Para desplegar el landing page resultó necesario cumplir una serie de requisito
 	
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
-##### 5.2.1.1. Sprint Planning 1 
+#### 5.2.1.1. Sprint Planning 1 
 El principal objetivo de este Sprint es crear la página de inicio de la aplicación "ComPeru". Esta será la primera experiencia que los usuarios tendrán con nuestra aplicación, por lo que es crucial que sea fácil de usar, atractiva y funcional. Nuestro propósito es atraer a los usuarios y motivarlos a utilizar nuestra aplicación para comparar precios de productos en su localidad.
 
 
 | **Sprint #**                | Sprint 1 |
 |-----------------------------|----------|
-| **Sprint Planning Background** |            |
+| **Sprint Planning Background**         |            
 | **Date:**                   | 2024-04-22 |
 | **Time:**                   | 7:00 pm |
 | **Location:**               | Reunion Virtual |
 | **Prepared By:**            | Valenzuela Vallejos, Alessandro Stefano |
-| **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos collatnes |
-
-| **Sprint n – 1 Review Summary** | |
-|----------------------------------|--------------------------------------------------|
-| Ahora veremos como desarrollar nuestro landing page. | |
-
-| **Sprint n – 1 Retrospective Summary** | |
-|-----------------------------------------|-------------------------------------------------|
-| Realizar de manera correcta como seria la primera version de las funcionalidades de sistema cumpliendo con nuestras reglasd de negocio. |
-
-| **Sprint Goal & User Stories** | |
-|--------------------------------|-------------------------------------------------------------------------|
-| **Sprint n Goal:**             | Dessarrollar Landing Page|
+| **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos Collantes,  Vásquez Elverth |
+| **Sprint n – 1 Review Summary**  |En este sprint se desarrolló la landing page de nuestro proyecto y las primeras páginas de nuestra aplicación web. |
+| **Sprint n – 1 Retrospective Summary** |Es necesario mejorar la coordinación para el desarrollo en equipo de las principales páginas de la aplicación  |
+| **Sprint Goal & User Stories** |
+| **Sprint n Goal:**             | Dessarrollar Landing Page y primeras páginas de nuestra aplicación web.|
 | **Sprint n Velocity:**         | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.) |
 | **Sum of Story Points:**       | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.) |
-##### 5.2.1.1. Sprint Backlog 1 
+
+
+#### 5.2.1.2. Sprint Backlog 1 
+
 Ahora presentaremos la primera tabla de los sprints backlogs:
 
 **Sprint 1: Desarrollo de una primera versión del Landing Page**
 |**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
-|------------|------------------|--------|-------------|------------|------------|--------|
-| US002 | T01 | Busqueda por palabra clave | Implementación de una barrabúsqueda. | 5h | Fabian reyes | En Proceso |
-| US002 | T02 | Funcionalidad de Filtrado | Desarrollo de la funcion para filtrar productos. | 6h | Fabian Reyes | Pendiente |
-| US007 | T03 | Búsqueda de tiendas cercanas | Realizar el diseño e implementacion para la busqueda de las tiendas cercanas. | 3h | Marco Collantes | Pendiente |
-| US010 | T04 | Carrito de Compra | Implementar un carrito de compras. | 5h | Naggit Ballalona | Pendiente |
-| US016 | T05 | Diseño de interfaz de usuario | Elaborar diseño de la interfaz de la interfaz del usuario. | 3h | Alessandro Valenzuela | Pendiente |
-| US020 | T06 | Chat con la tienda | Desarrollar el chat entre usuario y emprendedor. | 4h | Marco Collante | En Proceso |
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-Los siguientes commit corresponden al desarrollo del landing page:
+Los siguientes commit corresponden al desarrollo del landing page y las principales páginas y vistas para el usuario:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 |LandingPage|main|0971160173dc0abca88a0b8afd7261b9bbb26fcc|Initial commit| |14/04/2024|
 | |main|a5fd21aa1802777ef91e270cd76aa9f368e24d59|new| | 16/04/2024 |
+|ComPeru-front|master|305fd8a35bf53b200120f1673b6f5f585f75e8e3|feat: version 1.0.0| | 22/04/2024 |
+|ComPeru-front|feat/Collantes|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
+|ComPeru-front|feat/Collantes|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: environments base| | 22/04/2024 |
+|ComPeru-front|feat/Collantes|7b7541a8a8019bc31c81db76c7a5a1e514ef1b5c|feat: json-server configurations| | 28/04/2024 |
+|ComPeru-front|feat/Collantes|69025ab6780b708a3cd45ac9f996acf08e373096|feat: home  component v1| | 28/04/2024 |
+|ComPeru-front|feat/Collantes|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
+|ComPeru-front|feat/Collantes|f0dc56e161b5fe0d1dd4a4ee313d26b2a2a84e2a|feat: header v1| | 30/04/2024 |
+|ComPeru-front|feat/Collantes|9f131ebe1a4dd974c22c7df64efd916dee63c885|feat: footer added| | 30/04/2024 |
+|ComPeru-front|feat/Collantes|131d8a58bff96168553909404afcb583385c917a|fix: scale in css| | 30/04/2024 |
+|ComPeru-front|feat/Collantes|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
+|ComPeru-front|feat/Collantes|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
+|ComPeru-front|feat/Collantes|04b7147a9004fc6698e5d1eab7040a63b99d43fe|feat: home design v1.1| | 01/05/2024 |
+|ComPeru-front|feat/Valenzuela|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
+|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: login component| | 22/04/2024 |
+|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: register component| | 22/04/2024 |
+|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: auth service| | 22/04/2024 |
+|ComPeru-front|feat/Valenzuela|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
+|ComPeru-front|feat/Valenzuela|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
+|ComPeru-front|feat/Valenzuela|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
+|ComPeru-front| | | | | |
+|ComPeru-front| | | | | |
+|ComPeru-front| | | | | |
+|ComPeru-front| | | | | |
+|ComPeru-front| | | | | |
+|ComPeru-front| | | | | |
+|ComPeru-front| | | | | |
+|ComPeru-front| | | | | |
 
 De ser necesario, se actualizará deacuerdo al feedback de la entrega.
 
@@ -1499,6 +1515,10 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 ![ Ci5](./images/ci5.png)
 
+
+
+
+
 #### 5.2.1. Sprint 2
 ##### 5.2.2.1. Sprint Planning 2.
 
@@ -1512,7 +1532,7 @@ El principal objetivo del Sprint 2 fue el desarrollo de las principales funciona
 | **Time:**                   | 7:00 pm |
 | **Location:**               | Se tuvieron reuniones de manera virtual y en el aula de clase para mencionar los avances de cada integrante del equipo. |
 | **Prepared By:**            | Vásquez Villalobos Elverth Jair|
-| **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos collatnes,  Valenzuela Alessandro|
+| **Attendees (to planning meeting):** |Vásquez Elverth,  Naggit Ballalona, Fabian Reyes, Marcos collatnes,  Valenzuela Alessandro|
 | **Sprint n – 1 Review Summary** | Se realizaron las funcionalidades correspondientes a nuestra landing page. Se logro el objetivo a medias y faltaron cosas por mejorar en cuestiones de tiempo de desarrollo para cada funcionalidad. Sin embargo, se pudo realizar la mayoria de funcionalidades asignadas a ese sprint. |
 | **Sprint n – 1 Retrospective Summary** | Es necesario tener una mejor organización y comunicación con el equipo para optimizar los tiempos de desarrollo de cada una de las funcionalidades asignadas.|
 | **Sprint Goal & User Stories** | |
@@ -1541,14 +1561,28 @@ Los siguientes commit corresponden al desarrollo del landing page:
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 |ComPeru-Frontend|main |  17e286b10d7885ad7cacbc03fc2bdabd3db5f7f0|chore: first commit | |13/05/2024 |
-|ComPeru-Frontend| develop|bc162203bde0445e601b79ddc7c55e260efae88a |feat: Aggregate sidenav
-| |14/05/2024 |
+|ComPeru-Frontend| develop|bc162203bde0445e601b79ddc7c55e260efae88a |feat: Aggregate sidenav| |14/05/2024 |
 |ComPeru-Frontend|develop | d212ebdbcf7c8cdb791ca1c43e8cf566f69d7dfc|feat: aggregate only form Create and Edit product| |14/05/2024 |
 |ComPeru-Frontend| develop|752fc24154b1c1bb1b593f4e657061a3e8193e99 |feat: Aggregate functionality Crud for products in admin | |15/05/2024 |
 |ComPeru-Frontend|develop |675d3b26607fe599ae8f4a55e1e4cc55cba4f941|feat: Aggregate CRUD Product and responsive interface | |15/05/2024 |
 |ComPeru-Frontend| develop|3d26b90e6c0f4c05f2564c217d1e5b17dbf4ddc5 |feat: Aggregate input field in product form for admin | |16/05/2024 |
 |ComPeru-Frontend| develop| a0b6a3f24d1edcd7a4ac9229608315fe5809c774 |fix: Input file fixed| |17/05/2024 |
 |ComPeru-Frontend| | | | | |
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+##### 5.2.2.8. Team Collaboration Insights for Sprint Review
+
+
 
 
 <br>
@@ -1557,23 +1591,22 @@ Los siguientes commit corresponden al desarrollo del landing page:
 
 #### 5.2.3. Sprint 3
 ##### 5.2.3.1. Sprint Planning 3.
-El principal objetivo de este Sprint es crear las funcionalidades de la aplicación "ComPeru". Nuestro propósito es atraer a los usuarios y motivarlos a utilizar nuestra aplicación para comparar precios de productos en su localidad.
 
 
 
-| **Sprint #**                | Sprint 3|
+| **Sprint #**                | Sprint 3 |
 |-----------------------------|----------|
 | **Sprint Planning Background** |            |
-| **Date:**                   | 2024-05-01 |
-| **Time:**                   | 7:00 pm |
+| **Date:**                   | 2024-05-18 |
+| **Time:**                   | 2:00 pm |
 | **Location:**               | Se tuvieron reuniones de manera virtual y en el aula de clase para mencionar los avances de cada integrante del equipo. |
 | **Prepared By:**            | Vásquez Villalobos Elverth Jair|
-| **Attendees (to planning meeting):** | Naggit Ballalona, Fabian Reyes, Marcos collatnes,  Valenzuela Alessandro|
-| **Sprint n – 1 Review Summary** | Se realizaron las funcionalidades correspondientes a nuestra landing page. Se logro el objetivo a medias y faltaron cosas por mejorar en cuestiones de tiempo de desarrollo para cada funcionalidad. Sin embargo, se pudo realizar la mayoria de funcionalidades asignadas a ese sprint. |
-| **Sprint n – 1 Retrospective Summary** | Es necesario tener una mejor organización y comunicación con el equipo para optimizar los tiempos de desarrollo de cada una de las funcionalidades asignadas.|
+| **Attendees (to planning meeting):** | Vásquez Elverth, Naggit Ballalona, Fabian Reyes, Marcos collatnes,  Valenzuela Alessandro|
+| **Sprint n – 2 Review Summary** | Se lograron concretar las funcionalidades de la aplicación, no se obtuvieron los resultados esperados pero se logró implementar la mayoría de características. |
+| **Sprint n – 2 Retrospective Summary** | Se realizaron las funcionalidades principales de la aplicación web , se logró el objetivo a medias puesto que por falta de comunicación y coordinación no se concretaron las funcionalidades como se esperaba.|
 | **Sprint Goal & User Stories** | |
-| **Sprint 2 Goal:**             | Desarrollo de las funcionalidades más importantes de la Web Application.|
-| **Sprint 2 Velocity:**         | 19 |
+| **Sprint 3 Goal:**             | Culminación del Front-end de la aplicación
+| **Sprint 3 Velocity:**         | 19 |
 | **Sum of Story Points:**       | 19 |
 
 
@@ -1582,46 +1615,42 @@ El principal objetivo de este Sprint es crear las funcionalidades de la aplicaci
 
 |**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 |------------|------------------|--------|-------------|------------|------------|--------|
-| US001 | T01 | Auntenticacion de usuario | Implementación de una autenticacion de usuario. | 5h | Alessandro Valenzuela | Finalizado |
-| US16 | T02 | Productos de las tiendas| Desarrollo de la funcion productos. | 6h | Fabian Reyes | Finalizado |
-| US007 | T03 | Home | Desarrollar funcionalidad de inicio de la web | 3h | Marco Collantes | Finalizado |
-| US010 | T04 | Carrito de Compra y About | Implementar funcionalidad carrito de compras y about. | 5h | Naggit Ballalona | Finalizado |
-| US020 | T04 | Contact| Desarrollar funcionalidad Contact en nuestra aplicacion | 5h | Elverth Vasquez | Finalizado |
+|  |  ||  |  |   |  |
+
 
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
 
-Los siguientes commit corresponden al desarrollo del landing page:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-|ComPeru-front|master|305fd8a35bf53b200120f1673b6f5f585f75e8e3|feat: version 1.0.0| | 22/04/2024 |
-|ComPeru-front|feat/Collantes|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
-|ComPeru-front|feat/Collantes|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: environments base| | 22/04/2024 |
-|ComPeru-front|feat/Collantes|7b7541a8a8019bc31c81db76c7a5a1e514ef1b5c|feat: json-server configurations| | 28/04/2024 |
-|ComPeru-front|feat/Collantes|69025ab6780b708a3cd45ac9f996acf08e373096|feat: home  component v1| | 28/04/2024 |
-|ComPeru-front|feat/Collantes|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
-|ComPeru-front|feat/Collantes|f0dc56e161b5fe0d1dd4a4ee313d26b2a2a84e2a|feat: header v1| | 30/04/2024 |
-|ComPeru-front|feat/Collantes|9f131ebe1a4dd974c22c7df64efd916dee63c885|feat: footer added| | 30/04/2024 |
-|ComPeru-front|feat/Collantes|131d8a58bff96168553909404afcb583385c917a|fix: scale in css| | 30/04/2024 |
-|ComPeru-front|feat/Collantes|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
-|ComPeru-front|feat/Collantes|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
-|ComPeru-front|feat/Collantes|04b7147a9004fc6698e5d1eab7040a63b99d43fe|feat: home design v1.1| | 01/05/2024 |
-|ComPeru-front|feat/Valenzuela|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
-|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: login component| | 22/04/2024 |
-|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: register component| | 22/04/2024 |
-|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: auth service| | 22/04/2024 |
-|ComPeru-front|feat/Valenzuela|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
-|ComPeru-front|feat/Valenzuela|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
-|ComPeru-front|feat/Valenzuela|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
+|ComPeru-Frontend| | | | | |
+
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+##### 5.2.3.8. Team Collaboration Insights for Sprint Review
+
+### 5.3 Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas 
+
+#### 5.3.2. Registro de Entrevistas
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+### 5.4. Video About the Product
+
+
 
 
 
