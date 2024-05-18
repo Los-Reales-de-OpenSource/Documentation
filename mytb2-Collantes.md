@@ -28,9 +28,15 @@ Esta entrega estará dedicada al desarrollo inicial del backend de nuestra aplic
 
 ### 5.2.3.3.Development Evidence for Sprint Review
 
+Se resumirán los commits realizados a los repositorios de trabajo durante este sprint:
+
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
 |--|--|--|--|--|--|
-| | | | | | |
+|ComPeru-Frontend|feat/Collantes|5f630e64438690a41a81dd55c1a204426cc9175a|feat: json-server configuration||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|dcf5c15de8b5622527ca632650bea2357d6bec30|feat: header & footer for home page||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|47a2d85be7595f7f80c1bf68a5b72020682864f8|feat: home page v1||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|46349e7d57582a011d3df8632e33c480dc97c562|feat: services for home & data||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|6f8baf48ea530a4e047a2136f711b20f91763147|fix: routing for home||18/05/2024|
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review
 
