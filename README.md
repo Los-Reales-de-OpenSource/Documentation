@@ -1551,6 +1551,14 @@ El principal objetivo del Sprint 2 fue el desarrollo de las principales funciona
 | US015 | US015-03 | Formulario responsive para operaciones CRUD en productos|Implementación de funcionalidades CRUD y creación de un formulario resonsive e interactivo para cumplir con dicho propósito. | 4h | Elverth Vasquez | Finalizado |
 | US015 | US015-04 | Input de imágenes| en formulario de productos | Implementación de un input de imágenes y vista previa en el formulario. | 3h | Elverth Vasquez | Finalizado |
 | US015 | US015-05 | Validación de datos en formulario| Desarrollo de las validaciones para el registro o actualización de un producto de manera correcta | 2h | Elverth Vasquez | En proceso |
+| US017 | US017-01 | Routing de administración de pedidos| Diseño de las rutas para la navegación del usuario emprendedor hacia la página de administración de pedidos | 1h | Elverth Vasquez | Finalizado |
+| US017 | US017-02 | Creación de tabla de administración de pedidos| Creación de una tabla para mostrar el detalle de cada uno de los pedidos hechos al usuario emprendedor. | 2h | Elverth Vasquez | Finalizado |
+| US017 | US017-03 | Routing para detalle de pedido|Implementación de rutas hijas para la visualización de los detalles de un pedido | 4h | Elverth Vasquez | Finalizado |
+| US017 | US017-04 | Marcar pedido como atendido|Se agrega un input para marcar un pedido como atendido y se guarda en la lista de pedidos atendidos del usuario. | 4h | Elverth Vasquez | Finalizado |
+| US016 | US016-01 | Creación de un dialog para notificar pedido|Diseño del dialog para mostrar la información relevante del pedido al usuario emprendedor | 2h | Elverth Vasquez | Finalizado |
+| US019 | US019-01 | Routing de administración de ofertas| Diseño de las rutas para la navegación del usuario emprendedor hacia la página de administración de sus ofertas | 1h | Elverth Vasquez | Finalizado |
+| US019 | US019-02 | Creación de tabla de administración de ofertas| Creación de una tabla para mostrar el detalle de cada uno de las ofertas. | 2h | Elverth Vasquez | Finalizado |
+| US019 | US019-03 | Formulario responsive para operaciones CRUD en ofertas|Implementación de una vista con formulario para la creación de una oferta . | 5h | Elverth Vasquez | Finalizado |
 
 
 
@@ -1596,7 +1604,7 @@ Los siguientes commit corresponden al desarrollo del landing page:
 
 | **Sprint #**                | Sprint 3 |
 |-----------------------------|----------|
-| **Sprint Planning Background** |            |
+| **Sprint Planning Background** |       |
 | **Date:**                   | 2024-05-18 |
 | **Time:**                   | 2:00 pm |
 | **Location:**               | Se tuvieron reuniones de manera virtual y en el aula de clase para mencionar los avances de cada integrante del equipo. |
@@ -1605,7 +1613,7 @@ Los siguientes commit corresponden al desarrollo del landing page:
 | **Sprint n – 2 Review Summary** | Se lograron concretar las funcionalidades de la aplicación, no se obtuvieron los resultados esperados pero se logró implementar la mayoría de características. |
 | **Sprint n – 2 Retrospective Summary** | Se realizaron las funcionalidades principales de la aplicación web , se logró el objetivo a medias puesto que por falta de comunicación y coordinación no se concretaron las funcionalidades como se esperaba.|
 | **Sprint Goal & User Stories** | |
-| **Sprint 3 Goal:**             | Culminación del Front-end de la aplicación
+| **Sprint 3 Goal:**             | Culminación del Front-end de la aplicación e implementación de primeras versiones del Back-end.
 | **Sprint 3 Velocity:**         | 19 |
 | **Sum of Story Points:**       | 19 |
 
@@ -1615,15 +1623,37 @@ Los siguientes commit corresponden al desarrollo del landing page:
 
 |**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 |------------|------------------|--------|-------------|------------|------------|--------|
-|  |  ||  |  |   |  |
+| US015 | US015-01 | Routing de administración de productos| Diseño de las rutas para la navegación del usuario emprendedor hacia la página de administración de productos | 1h | Elverth Vasquez | Finalizado |
+| US015 | US015-02 | Creación de tabla de administración de productos| Creación de una tabla para mostrar el detalle de cada uno de los productos. | 2h | Elverth Vasquez | Finalizado |
+| US015 | US015-03 | Formulario responsive para operaciones CRUD en productos|Implementación de funcionalidades CRUD y creación de un formulario resonsive e interactivo para cumplir con dicho propósito. | 4h | Elverth Vasquez | Finalizado |
+| US015 | US015-04 | Input de imágenes| en formulario de productos | Implementación de un input de imágenes y vista previa en el formulario. | 3h | Elverth Vasquez | Finalizado |
+| US015 | US015-05 | Validación de datos en formulario| Desarrollo de las validaciones para el registro o actualización de un producto de manera correcta | 2h | Elverth Vasquez | En proceso |
+| US017 | US017-01 | Routing de administración de pedidos| Diseño de las rutas para la navegación del usuario emprendedor hacia la página de administración de pedidos | 1h | Elverth Vasquez | Finalizado |
+| US017 | US017-02 | Creación de tabla de administración de pedidos| Creación de una tabla para mostrar el detalle de cada uno de los pedidos hechos al usuario emprendedor. | 2h | Elverth Vasquez | Finalizado |
+| US017 | US017-03 | Routing para detalle de pedido|Implementación de rutas hijas para la visualización de los detalles de un pedido | 4h | Elverth Vasquez | Finalizado |
+| US017 | US017-04 | Marcar pedido como atendido|Se agrega un input para marcar un pedido como atendido y se guarda en la lista de pedidos atendidos del usuario. | 4h | Elverth Vasquez | Finalizado |
+| US016 | US016-01 | Creación de un dialog para notificar pedido|Diseño del dialog para mostrar la información relevante del pedido al usuario emprendedor | 2h | Elverth Vasquez | Finalizado |
+| US019 | US019-01 | Routing de administración de ofertas| Diseño de las rutas para la navegación del usuario emprendedor hacia la página de administración de sus ofertas | 1h | Elverth Vasquez | Finalizado |
+| US019 | US019-02 | Creación de tabla de administración de ofertas| Creación de una tabla para mostrar el detalle de cada uno de las ofertas. | 2h | Elverth Vasquez | Finalizado |
+| US019 | US019-03 | Formulario responsive para operaciones CRUD en ofertas|Implementación de una vista con formulario para la creación de una oferta . | 5h | Elverth Vasquez | Finalizado |
+
+
 
 
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
 
 
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
+|ComPeru-Frontend|main |  17e286b10d7885ad7cacbc03fc2bdabd3db5f7f0|chore: first commit | |13/05/2024 |
+|ComPeru-Frontend| develop|bc162203bde0445e601b79ddc7c55e260efae88a |feat: Aggregate sidenav| |14/05/2024 |
+|ComPeru-Frontend|develop | d212ebdbcf7c8cdb791ca1c43e8cf566f69d7dfc|feat: aggregate only form Create and Edit product| |14/05/2024 |
+|ComPeru-Frontend| develop|752fc24154b1c1bb1b593f4e657061a3e8193e99 |feat: Aggregate functionality Crud for products in admin | |15/05/2024 |
+|ComPeru-Frontend|develop |675d3b26607fe599ae8f4a55e1e4cc55cba4f941|feat: Aggregate CRUD Product and responsive interface | |15/05/2024 |
+|ComPeru-Frontend| develop|3d26b90e6c0f4c05f2564c217d1e5b17dbf4ddc5 |feat: Aggregate input field in product form for admin | |16/05/2024 |
+|ComPeru-Frontend| develop| a0b6a3f24d1edcd7a4ac9229608315fe5809c774 |fix: Input file fixed| |17/05/2024 |
 |ComPeru-Frontend| | | | | |
 
 
@@ -1639,6 +1669,10 @@ Los siguientes commit corresponden al desarrollo del landing page:
 
 
 ##### 5.2.3.8. Team Collaboration Insights for Sprint Review
+
+
+
+
 
 ### 5.3 Validation Interviews
 
