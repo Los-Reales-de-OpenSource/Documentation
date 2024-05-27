@@ -10,7 +10,7 @@ Esta entrega estará dedicada al desarrollo inicial del backend de nuestra aplic
 | **Sprint Planning Background** |            |
 | **Date:**                   | 2024-05-13 |
 | **Time:**                   | 9:30 am |
-| **Location:**               | UPC Monterrico |
+| **Location:**               | UPC San Miguel |
 | **Prepared By:**            |  |
 | **Attendees (to planning meeting):** | Marco Collantes |
 | **Sprint 2 Review Summary** | Se debe replantear algunos aspectos funcionales del proyecto | |
@@ -40,7 +40,13 @@ Se resumirán los commits realizados a los repositorios de trabajo durante este 
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review
 
+Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el repositorio Si729-2401-ws5x-grupo-1-TESTING con las diferentes pruebas en código basadas en nuestras user stories.
+Nuestro avance se refleja en la siguiente tabla:
 
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|--|--|--|--|--|--|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|fccea16aaba443d277a740e2e30a66f6e3d1c12e|feat: Testing for assigned features| |19/05/2024|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|ffe40a49f65b87a64775c9453e56858eef8f16a7|fix: updated in "then"| |19/05/2024|
 
 ### 5.2.3.5.Execution Evidence for Sprint Review
 
