@@ -1609,7 +1609,7 @@ Los siguientes commit corresponden al desarrollo del landing page:
 | **Time:**                   | 2:00 pm |
 | **Location:**               | Se tuvieron reuniones de manera virtual y en el aula de clase para mencionar los avances de cada integrante del equipo. |
 | **Prepared By:**            | Vásquez Villalobos Elverth Jair|
-| **Attendees (to planning meeting):** | Vásquez Elverth, Naggit Ballalona, Fabian Reyes, Marcos collatnes,  Valenzuela Alessandro|
+| **Attendees (to planning meeting):** | Vásquez Elverth, Naggit Ballalona, Fabian Reyes, Marco Collantes,  Valenzuela Alessandro|
 | **Sprint n – 2 Review Summary** | Se lograron concretar las funcionalidades de la aplicación, no se obtuvieron los resultados esperados pero se logró implementar la mayoría de características. |
 | **Sprint n – 2 Retrospective Summary** | Se realizaron las funcionalidades principales de la aplicación web , se logró el objetivo a medias puesto que por falta de comunicación y coordinación no se concretaron las funcionalidades como se esperaba.|
 | **Sprint Goal & User Stories** | |
@@ -1643,7 +1643,7 @@ Los siguientes commit corresponden al desarrollo del landing page:
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
 
-
+Recopilamos la información de los repositorios que se trabajaron durante este sprint, principalmente los dedicados a albergar el frontend y backend de la aplicación
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
@@ -1659,8 +1659,17 @@ Los siguientes commit corresponden al desarrollo del landing page:
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el repositorio Si729-2401-ws5x-grupo-1-TESTING con las diferentes pruebas en código basadas en nuestras user stories. Nuestro avance se refleja en la siguiente tabla:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|Si729-2401-ws5x-grupo-1-TESTING|main|28d8907f6985be2834afc54d5742503390254862|Initial commit| |14/05/2024|
+| | | | | | |
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
+
+Presentamos las capturas de nuestro frontend actual y el backend en funcionamiento:
+
 
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
