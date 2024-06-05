@@ -42,8 +42,14 @@
 |1.0.8|14/04/2024|Todos|Version final primera entrega|
 |1.0.9|27/04/2024|Elverth Vásquez Villalobos |Corrección de Entrevistas, Análisis de entrevistas y NeedFinding|
 |2.0.0|27/04/2024|Todos|Desarrollo del trabajo Parcial|
-|2.0.0|27/04/2024|Alessandro Valenzuela |Desarrollo de sprint plannin 2 y sprint baclog 2|
+|2.0.0|27/04/2024|Alessandro Valenzuela |Desarrollo de sprint planning 2 y sprint backlog 2|
 |2.0.1|27/04/2024|Alessandro Valenzuela |Desarrollo de Authentication User|
+|2.0.2|13/05/2024|Naggit Bayona, Alessandro Villanueva|Cambios tras entrega del TP|
+|2.0.3|17/05/2024|Fabian Reyes, ELverth Vasquez|Cambios en las user stories y otras secciones|
+|2.0.4|27/05/2024|Marco Collantes, Elverth Vasquez|Actualización previa al inicio del sprint 3|
+|2.0.5|5/06/2024|Elverth Vasquez, Marco Collantes|Ajustes debido a cambio interno del equipo, preparación para entrega TB2|
+||||
+||||
 # Student Outcome
  <br>
 
@@ -70,9 +76,9 @@ del ABET – EAC - Student Outcome 3.
           <strong>TB1:</strong><br> 
           Durante esta entrega me centré en comunicarles a mis compañeros sobre las mejores maneras para realizar los items de esta entrega, aunque admito que experimenté complicaciones para adaptarme a su estilo de trabajo<br>
           <strong>TP:</strong><br> 
-          En esta entrega me propuse en mejorar todo lo que pudiese respecto a la entrega anterior, así como mejorar la comunicación que tenía con mis compañeros por cualquier medio. Personalmente aún siento ciertos obstáculos para una comunicación efectiva al 100%, pero aprecio un poco la mejora<br><br> 
-           <strong>TB2:</strong><br> 
-         .<br><br>  
+          En esta entrega me propuse en mejorar todo lo que pudiese respecto a la entrega anterior, así como mejorar la comunicación que tenía con mis compañeros por cualquier medio. Personalmente aún siento ciertos obstáculos para una comunicación efectiva al 100%, pero aprecio un poco la mejora<br> 
+           <strong>TB2:</strong><br>
+           Esta entrega nos llegó a abrumar un poco debido a todos los elementos que se tuvieron que actualizar y mejorar para un mejor producto posible, y hubo momentos en los que no se pudo llegar a un punto en común respecto al desarrollo. Aún así busqué alternativas para ver como mejorar el trabajo, y participé en lo que tenía control para que no se complicase más la situación.<br><br>  
          <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
           <strong>TB1:</strong><br> 
           Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
@@ -112,9 +118,9 @@ del ABET – EAC - Student Outcome 3.
           <strong>TB1:</strong><br> 
           Me aseguré de redactar los items que me fueron asignados en el documento, así como informar a mis compañeros de cualquier avance o mejora que pude haber hecho respecto a la idea base del proyecto<br>
           <strong>TP:</strong><br> 
-          Debido a las circunstancias que atravesamos en la entrega anterior no hubo muchos cambios respecto a esta entrega en mis items asignados, así que me dedique a buscar formas de mejorar el material existente en base a lo solicitado<br><br>
+          Debido a las circunstancias que atravesamos en la entrega anterior no hubo muchos cambios respecto a esta entrega en mis items asignados, así que me dedique a buscar formas de mejorar el material existente en base a lo solicitado<br>
           <strong>TB2:</strong><br> 
-          .<br><br>
+          Experimenté algunas complicaciones menores para comunicarme con mis compañeros, pero mantuve la calma a la hora de trabajar seriamente en lo que se me fue asignado. Aunque admito que no toda la comunicación durante este sprint fue de la mejor condición, y el cambio del modelo de trabajo por parte del coordinador no me parece el mejor manejado<br><br>
           <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
           <strong>TB1:</strong><br> 
           Para la entrega me encargue de realizar los diagramas que daran base para el desarrollo de nuestro sistema aplicando los principios basicos del diseño para cada tipo de diagrama.<br><br> 
@@ -1487,14 +1493,6 @@ Los siguientes commit corresponden al desarrollo del landing page y las principa
 |ComPeru-front|feat/Valenzuela|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
 |ComPeru-front|feat/Valenzuela|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
 |ComPeru-front|feat/Valenzuela|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
-|ComPeru-front| | | | | |
 
 De ser necesario, se actualizará deacuerdo al feedback de la entrega.
 
