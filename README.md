@@ -132,9 +132,10 @@ del ABET – EAC - Student Outcome 3.
           <strong>TB1:</strong><br> 
           Cumplimos con cada uno de los items designados a cada uno de los integrantes del equipo, nos aseguramos de comunicar el avance de cada miembro y utilizamos un repositorio para el registro de versiones y el avance en equipo. <br><br> 
           <strong>TP:</strong><br> 
-          En esta entrega comuniqué las mejoras realizadas en items que fueron revisados por el docente. Traté de guiar a mi equipo para tener en claro la idea que estamos construyendo. He peribido mejora en la comunicación con mis compañeros pero considero que aún quedan aspectos a trabajarse. <br><br> 
+          En esta entrega comuniqué las mejoras realizadas en items que fueron revisados por el docente. Traté de guiar a mi equipo para tener en claro la idea que estamos construyendo. He percibido mejora en la comunicación con mis compañeros pero considero que aún quedan aspectos a trabajarse. <br><br> 
           <strong>TB2:</strong><br> 
-          
+          Traté de comunicar mis ideas mediante mensajes y asignaciones en herramientas como Trello. Considero necesario mejorar la comunicación con el equipo para poder avanzar con el proyecto y cumplir con las entregas en el plazo establecido. 
+          Así mismo, organicé el sprint backlog y realicé la asignación de tareas a mi equipo para culminar con el desarrollo del frontend de la aplicación y tener conocimiento del desarrollo del bounded context que se le asignó a cada integrante.
           <br><br>
 	  <strong>Reyes Trujillano, Fabian Alonso</strong><br>
           <strong>TB1:</strong><br> 
@@ -151,7 +152,7 @@ del ABET – EAC - Student Outcome 3.
           En este entrega fue importante la comunicacion mediante diferentes medios , ya sea por reuniones con el equipo o por mensajes de texto para comunicar los cambios realizados en el informe.
           <br><br>
            <strong>TB2:</strong><br>
-          .
+          Para esta entrega fue importante la comunicación mediante de mensajes de textos y el uso de herramientas de asignación de tareas como Trello. Mediante el uso de estas herramientas cada miembro del equipo tenía conocimiento de las tareas que estaba desarrollando su compañero y de esa manera tener un avance óptimo en la creación de nuestra RESTful Api y la culminación del Frontend.
           <br><br>
         <td>
     
