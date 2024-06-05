@@ -12,7 +12,7 @@ Esta entrega estará dedicada al desarrollo inicial del backend de nuestra aplic
 | **Time:**                   | 9:30 am |
 | **Location:**               | UPC San Miguel |
 | **Prepared By:**            |  |
-| **Attendees (to planning meeting):** | Marco Collantes |
+| **Attendees (to planning meeting):** | Todos |
 | **Sprint 2 Review Summary** | Se debe replantear algunos aspectos funcionales del proyecto | |
 | **Sprint 2 Retrospective Summary** | Las funcionalidades desarrolladas necesitan ser ordenadas y combinadas de forma eficiente |
 | **Sprint Goal & User Stories** | |
@@ -37,6 +37,9 @@ Se resumirán los commits realizados a los repositorios de trabajo durante este 
 |ComPeru-Frontend|feat/Collantes|47a2d85be7595f7f80c1bf68a5b72020682864f8|feat: home page v1||18/05/2024|
 |ComPeru-Frontend|feat/Collantes|46349e7d57582a011d3df8632e33c480dc97c562|feat: services for home & data||18/05/2024|
 |ComPeru-Frontend|feat/Collantes|6f8baf48ea530a4e047a2136f711b20f91763147|fix: routing for home||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|51bfbc9b7b96aab6fbbfaa58173d832ccecdc42b|fix: new structure for data||02/06/2024|
+|ComPeru-Frontend|feat/Collantes|3df31f7eff0f9bd4999efb38be2fb13c1be1b4b4|fix: update in db.json||3/06/2024|
+|ComPeru-Frontend|feat/Collantes|881dbc71f4b64189b756117f22c229209c8cd592|fix: routes pre-merging||3/06/2024|
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review
 
