@@ -42,10 +42,14 @@
 |1.0.8|14/04/2024|Todos|Version final primera entrega|
 |1.0.9|27/04/2024|Elverth Vásquez Villalobos |Corrección de Entrevistas, Análisis de entrevistas y NeedFinding|
 |2.0.0|27/04/2024|Todos|Desarrollo del trabajo Parcial|
-|2.0.0|27/04/2024|Alessandro Valenzuela |Desarrollo de sprint planning 2 y sprint backlog 2|
-|2.0.1|27/04/2024|Alessandro Valenzuela |Desarrollo de Authentication User|
-
-
+|2.0.1|27/04/2024|Alessandro Valenzuela |Desarrollo de sprint planning 2 y sprint backlog 2|
+|2.0.2|27/04/2024|Alessandro Valenzuela |Desarrollo de Authentication User|
+|2.0.3|13/05/2024|Naggit Bayona, Alessandro Villanueva|Cambios tras entrega del TP|
+|2.0.4|17/05/2024|Fabian Reyes, ELverth Vasquez|Cambios en las user stories y otras secciones|
+|2.0.5|27/05/2024|Marco Collantes, Elverth Vasquez|Actualización previa al inicio del sprint 3|
+|2.0.6|5/06/2024|Elverth Vasquez, Marco Collantes|Ajustes debido a cambio interno del equipo, preparación para entrega TB2|
+||||
+||||
 <br><br>
 
 # Project Report Collaboration Insights
@@ -1598,13 +1602,12 @@ El principal objetivo del Sprint 2 fue el desarrollo de las principales funciona
 | **Location:**               | Se tuvieron reuniones de manera virtual y en el aula de clase para mencionar los avances de cada integrante del equipo. |
 | **Prepared By:**            | Vásquez Villalobos Elverth Jair|
 | **Attendees (to planning meeting):** |Vásquez Elverth,  Naggit Ballalona, Fabian Reyes, Marcos collatnes,  Valenzuela Alessandro|
-| **Sprint n – 1 Review Summary** | Se realizaron las funcionalidades correspondientes a nuestra landing page. Se logro el objetivo a medias y faltaron cosas por mejorar en cuestiones de tiempo de desarrollo para cada funcionalidad. Sin embargo, se pudo realizar la mayoria de funcionalidades asignadas a ese sprint. |
-| **Sprint n – 1 Retrospective Summary** | Es necesario tener una mejor organización y comunicación con el equipo para optimizar los tiempos de desarrollo de cada una de las funcionalidades asignadas.|
+| **Sprint 1 Review Summary** | Se realizaron las funcionalidades correspondientes a nuestra landing page. Se logro el objetivo a medias y faltaron cosas por mejorar en cuestiones de tiempo de desarrollo para cada funcionalidad. Sin embargo, se pudo realizar la mayoria de funcionalidades asignadas a ese sprint. |
+| **Sprint 1 Retrospective Summary** | Es necesario tener una mejor organización y comunicación con el equipo para optimizar los tiempos de desarrollo de cada una de las funcionalidades asignadas.|
 | **Sprint Goal & User Stories** | |
 | **Sprint 2 Goal:**             | Desarrollo de las funcionalidades más importantes de la Web Application.|
 | **Sprint 2 Velocity:**         | 19 |
 | **Sum of Story Points:**       | 19 |
-
 
 
 ##### 5.2.2.2. Sprint Backlog 2
@@ -1665,8 +1668,6 @@ Los siguientes commit corresponden al desarrollo del landing page:
 #### 5.2.3. Sprint 3
 ##### 5.2.3.1. Sprint Planning 3.
 
-
-
 | **Sprint #**                | Sprint 3 |
 |-----------------------------|----------|
 | **Sprint Planning Background** |       |
@@ -1675,14 +1676,12 @@ Los siguientes commit corresponden al desarrollo del landing page:
 | **Location:**               | Se tuvieron reuniones de manera virtual y en el aula de clase para mencionar los avances de cada integrante del equipo. |
 | **Prepared By:**            | Vásquez Villalobos Elverth Jair|
 | **Attendees (to planning meeting):** | Vásquez Elverth, Naggit Ballalona, Fabian Reyes, Marco Collantes,  Valenzuela Alessandro|
-| **Sprint n – 2 Review Summary** | Se lograron concretar las funcionalidades de la aplicación, no se obtuvieron los resultados esperados pero se logró implementar la mayoría de características. |
-| **Sprint n – 2 Retrospective Summary** | Se realizaron las funcionalidades principales de la aplicación web , se logró el objetivo a medias puesto que por falta de comunicación y coordinación no se concretaron las funcionalidades como se esperaba.|
+| **Sprint 2 Review Summary** | Se lograron concretar las funcionalidades de la aplicación, no se obtuvieron los resultados esperados pero se logró implementar la mayoría de características. |
+| **Sprint 2 Retrospective Summary** | Se realizaron las funcionalidades principales de la aplicación web , se logró el objetivo a medias puesto que por falta de comunicación y coordinación no se concretaron las funcionalidades como se esperaba.|
 | **Sprint Goal & User Stories** | |
 | **Sprint 3 Goal:**             | Culminación del Front-end de la aplicación e implementación de primeras versiones del Back-end.
 | **Sprint 3 Velocity:**         | 19 |
 | **Sum of Story Points:**       | 19 |
-
-
 
 ##### 5.2.3.2. Sprint Backlog 3
 
@@ -1701,10 +1700,6 @@ Los siguientes commit corresponden al desarrollo del landing page:
 | US019 | US019-01 | Routing de administración de ofertas| Diseño de las rutas para la navegación del usuario emprendedor hacia la página de administración de sus ofertas | 1h | Elverth Vasquez | Finalizado |
 | US019 | US019-02 | Creación de tabla de administración de ofertas| Creación de una tabla para mostrar el detalle de cada uno de las ofertas. | 2h | Elverth Vasquez | Finalizado |
 | US019 | US019-03 | Formulario responsive para operaciones CRUD en ofertas|Implementación de una vista con formulario para la creación de una oferta . | 5h | Elverth Vasquez | Finalizado |
-
-
-
-
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
 
