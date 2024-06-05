@@ -44,6 +44,16 @@
 |2.0.0|27/04/2024|Todos|Desarrollo del trabajo Parcial|
 |2.0.0|27/04/2024|Alessandro Valenzuela |Desarrollo de sprint plannin 2 y sprint baclog 2|
 |2.0.1|27/04/2024|Alessandro Valenzuela |Desarrollo de Authentication User|
+
+
+<br><br>
+
+# Project Report Collaboration Insights
+
+
+<br><br>
+
+
 # Student Outcome
  <br>
 
@@ -122,7 +132,7 @@ del ABET – EAC - Student Outcome 3.
           .<br><br>
           <strong>TB2:</strong><br> 
          .<br><br>
-	  <strong>Vásquez Villalobos, Elverth Jair</strong><br>
+	        <strong>Vásquez Villalobos, Elverth Jair</strong><br>
           <strong>TB1:</strong><br> 
           Cumplimos con cada uno de los items designados a cada uno de los integrantes del equipo, nos aseguramos de comunicar el avance de cada miembro y utilizamos un repositorio para el registro de versiones y el avance en equipo. <br><br> 
           <strong>TP:</strong><br> 
@@ -152,14 +162,8 @@ del ABET – EAC - Student Outcome 3.
     
    </tr>    
   </tr>
-  
 </table>
-<br><br>
 
-# Project Report Collaboration Insights
-
-
-<br><br>
 
 # Contenido
 
@@ -323,7 +327,7 @@ Con el aporte de experiencia técnica y habilidades blandas por parte de cada un
 | <p>Fabian Reyes Trujillano (u202218233)</p> <p>Carrera: Ing. de Software</p> <p>Considero que soy una persona segura de sí misma, capaz de tomar decisiones importantes y brindar ideas rápidas para solucionar un problema. Soy muy precavido en los problemas que se presentan habitualmente en el grupo, dando una respuesta óptima y concisa. Me gusta bastante escuchar música, disfruto especialmente del garage rock e indie.</p>| ![Fabian Reyes](./images/FotoReyes.jpg) |
 | <p>Alessandro Stefano Valenzuela Vallejos (u202214695)</p> <p>Carrera: Ing. de Software</p> <p>Soy Alessandro Valenzuela alumno de la carrera de Ingenieria de software entre mis principales atributos soy una persona dedicada, perseverante y muy competitiva, me gusta relacionarme para crear un buen ambiente de trabajo para mí y mis compañeros. Tengo conocimiento en lenguajes de programación como c + + y en el desarrollo de bases de datos. Poseo buenas capacidades para solucionar distintos problemas para el desarrollo de un trabajo.</p>|<a href="https://imgbb.com/"><img src="https://i.ibb.co/m5fB548/Captura-de-pantalla-2024-04-05-000443.png" alt="Captura-de-pantalla-2024-04-05-000443" border="0"></a> |
 | <p>Elverth Vásquez Villalobos (u202213070)</p> <p>Carrera: Ing. de Software, </p> <p>Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde hasta encontrar una solución. Considero que tengo una buena capacidad de análisis al momento de realizar algoritmos necesarios para el funcionamiento de algunos requerimientos en el software. Así mismo, me gusta siempre estar en comunicación con mi equipo de trabajo de una manera asertiva. Me apasiona el mundo de la tecnología y el emprendimiento, por ello trato de aportar al desarrollo del startup con mis habilidades en programación e investigación.</p> | ![Elverth Vasquez](./images/foto-Vasquez.jpg) |
-| <p>Ballona Blas, Naggit German (u20201b895)</p> <p>Carrera: Ing. de Software</p> <p>Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</p>|![Naggit](./images/naggit.png)
+| <p>Soriano Medrano, Diego (U202114793)</p> <p>Carrera: Ing. de Software</p> <p>Ingeniería de software Soy una persona creativa y paciente, tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación como C++ y Python, estas herramientas me ayudan a realizar distintos tipos de trabajo y a resolver problemas, parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar y optimizar el trabajo. En mis tiempos libres suelo navegar por internet.</p>|![Naggit](./images/naggit.png)
 
 ### 1.2. Solution Profile
 
@@ -796,7 +800,7 @@ tareas para los User Personas previamente definidos.
 
 |User Story ID|US05|
 | :- | :-: |
-|Title |Comparación de productos|
+|Title |Comparación de precios|
 |Description |**Como** usuario **quiero** poder comparar productos de diferentes tiendas para encontrar la mejor opción de compra |
 |Acceptance criteria|<p>**Escenario: Comparación de precios** </p><p></p><p>**Dado que** estoy en la pantalla de resultados </p><p>**Y** haga clic en buscar</p><p>**Cuando** haga click en comparación de precios  </p><p>**Entonces** se mostrará una lista de precios de cada tienda que venda el producto </p><p>**Y** podré hacer click en el producto para ver más detalles del producto y la tienda </p>|
 
@@ -903,6 +907,41 @@ tareas para los User Personas previamente definidos.
 |Description |**Como** usuario **quiero** que se implementen botones de acción claros para facilitarme el uso de la plataforma.|
 |Acceptance criteria|<p>**Escenario :  Uso de botones de acción** </p><p></p><p>**Dado que** que el usuario está navegando por la plataforma </p><p> **Cuando** el usuario ve los botones de acción </p><p>**Entonces** los botones son claros y fáciles de usar, mejorando la experiencia del usuario. </p>|
 
+|User Story ID|US23|
+| :- | :-: |
+|Title |Navegación intuitiva |
+|Description |**Como** usuario **quiero** un menú inicial intuitivo **para** navegar de manera facil por la página.|
+|Acceptance criteria|<p>**Escenario :** </p><p></p><p>**Given**  </p><p> **When**  </p><p>**Then** . </p>|
+
+|User Story ID|US24|
+| :- | :-: |
+|Title |Detalle de un producto |
+|Description |**Como** usuario **quiero** tener acceso a la página de detalles del producto **para** ver las especificaciones y tomar la decisión de compra.|
+|Acceptance criteria|<p>**Escenario 1: Usuario accede a la página de detalles del producto desde la página principal**</p><p></p><p>**Given** que el usuario está en la página principal del sitio web </p><p>**When** hace clic en un producto específico </p><p>**Then** se redirige a la página de detalles de ese producto y se muestran las especificaciones completas.</p><p></p><p>**Escenario 2: Usuario accede a la página de detalles del producto desde la lista de búsqueda**</p><p></p><p>**Given** que el usuario ha realizado una búsqueda de productos </p><p>**When** selecciona un producto de los resultados de búsqueda </p><p>**Then** se redirige a la página de detalles de ese producto y se muestran las especificaciones completas.</p><p></p><p>**Escenario 3: Usuario accede a la página de detalles del producto desde una categoría específica**</p><p></p><p>**Given** que el usuario está navegando por una categoría específica de productos </p><p>**When** hace clic en un producto dentro de esa categoría </p><p>**Then** se redirige a la página de detalles de ese producto y se muestran las especificaciones completas.</p>|
+
+
+|User Story ID|US24|
+| :- | :-: |
+|Title |Navegación intuitiva |
+|Description |**Como** usuario **quiero** un menú inicial intuitivo **para** navegar de manera facil por la página.|
+|Acceptance criteria|<p>**Escenario :** </p><p></p><p>**Given**  </p><p> **When**  </p><p>**Then** . </p>|
+
+|User Story ID|US25|
+| :- | :-: |
+|Title |Navegación intuitiva |
+|Description |**Como** desarollador, **quiero** implementar un RESTful API **para** el registro en línea donde pueda ingresar la información básica de la tienda, como nombre, dirección y categoría de productos, para poder crear una cuenta en la plataforma|
+|Acceptance criteria|<p>**Escenario :** </p><p></p><p>**Given**  </p><p> **When**  </p><p>**Then** . </p>|
+
+
+|User Story ID|US26|
+| :- | :-: |
+|Title |RESTFul API de Productos |
+|Description |**Como** desarrollador **quiero** implementar un RESTful API de los productos, **para** tener acceso a los datos de los productos y realizar operaciones de gestión de inventario.|
+|Acceptance criteria|<p>**Escenario 1: Crear un nuevo producto mediante la API**</p><p></p><p>**Given** que el desarrollador tiene acceso al endpoint de creación de productos </p><p>**When** envía una solicitud POST con los datos del nuevo producto </p><p>**Then** el producto se crea en la base de datos y se devuelve un código de estado 201 (Creado).</p><p></p><p>**Escenario 2: Actualizar un producto existente mediante la API**</p><p></p><p>**Given** que el desarrollador tiene acceso al endpoint de actualización de productos </p><p>**When** envía una solicitud PUT con los datos actualizados del producto </p><p>**Then** el producto se actualiza en la base de datos y se devuelve un código de estado 200 (OK).</p><p></p><p>**Escenario 3: Eliminar un producto mediante la API**</p><p></p><p>**Given** que el desarrollador tiene acceso al endpoint de eliminación de productos </p><p>**When** envía una solicitud DELETE con el ID del producto a eliminar </p><p>**Then** el producto se elimina de la base de datos y se devuelve un código de estado 204 (Sin Contenido).</p>|
+
+
+
+
 ### 3.3. Impact Mapping.
 
 Una vez registradas las user stories de nuestra aplicación, procederemos a analizar los impactos más probables del mismo por medio de mapas de impacto y el planteamiento de metas para el negocio.
@@ -917,26 +956,26 @@ A continuación, procederemos a detallar el product backlog de nuestras user sto
 
 | #Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
 |--------|---------------|--------|-------------|--------------------------|
-|01|US01|Búsqueda de productos de palabra clave|Como usuario quiero poder buscar productos por palabra clave para encontrar productos específicos|8|
+|01|US015|Gestión de productos|Como emprendedor, quiero tener acceso a una interfaz intuitiva en la que pueda agregar, editar y eliminar productos de mi tienda, incluyendo información detallada como nombre, descripción y precio, para mantener actualizado el catálogo de productos de mi tienda en la plataforma.|8|
 |02|US05|Comparación de precios|Como usuario quiero poder comparar precios de un mismo producto en diferentes tiendas para encontrar la mejor opción de compra|8|
-|03|US17|Búsqueda avanzada|Como usuario quiero poder analizar una búsqueda avanzada con filtros para poder encontrar productos específicos de manera mas fácil y rápida|8|
-|04|US02|Filtrado de resultados por precios|Como usuario quiero poder filtrar los resultados de búsqueda por precio para encontrar productos que se ajusten a mi presupuesto|5|
-|05|US03|Guardar productos en lista de deseos|Como usuario quiero poder guardar productos en una lista de deseos para volver a ellos más tarde|5|
-|06|US07|Búsqueda de tiendas cercanas|Como usuario quiero poder buscar tiendas cercanas a mi ubicación para poder encontrar fácilmente una tienda donde comprar el producto que necesito|5|
-|07|US09|Opciones de pago|Como usuario quiero ver las opciones de pago disponibles en cada tienda para poder elegir la más conveniente|5|
-|08|US10|Lista de compras|Como usuario quiero poder crear listas de compras para organizar mis productos y encontrarlos más fácilmente|5|
-|09|US16|Cambio de contraseñas|Como usuario quiero que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad|5|
-|10|US04|Ordenamiento de resultados por popularidad|Como usuario quiero poder ordenar los resultados de búsqueda por popularidad para ver los productos más populares primeros |3|
-|11|US06|Notificaciones de precios|Como usuario quiero recibir notificaciones cuando los productos que estoy buscando estén disponibles o en oferta|3|
-|12|US08|Comentarios y reseñas de productos|Como usuario quiero poder leer comentarios y reseñas de otros usuarios sobre un producto para tomar una decisión de compra informada|3|
-|13|US11|Historial de precios|Como usuario quiero poder ver el historial de precios de un productor para decidir si espero a que baje de precio o lo compro ahora|3|
-|14|US12|Ofertas destacadas|Como usuario quiero poder ver las ofertas más destacadas de la semana para aprovechar los mejores precios|3|
-|15|US13|Alertas de precios|Como usuario quiero recibir alertas de precio para los productos que me interesan saber cuando bajan de precio|3|
-|16|US14|Compartir productos|Como usuario quiero poder compartir productos que encuentro en la app con amigos y familiares para obtener sus opiniones|3|
-|17|US15|Códigos de descuento|Como usuario quiero poder encontrar y aplicar códigos de descuento para ahorrar dinero en mis compras|3|
-|18|US19|Compras en grupo|Como usuario quiero poder crear y unirse a compras en grupo con amigos o familiares para obtener descuentos en productos|3|
-|19|US18|Búsqueda por voz|Como usuario quiero poder buscar productos en la app utilizando comando de voz para una experiencia más práctica y fácil|1|
-|20|US20|Chat con la tienda|Como usuario quiero poder comunicarme con la tienda sobre un producto para hacer preguntas y aclarar mis dudas antes de realizar la compra|1|
+|03|US17|Gestión de pedidos|Como usuario emprendedor , quiero tener acceso a una interfaz intuitiva donde pueda revisar todos los pedidos que han realizado mis clientes, para poder realizar un seguimiento de las transacciones y gestionar el proceso de entrega de mis productos.|8|
+|04|US01|Búsqueda de productos de palabra clave|Como usuario quiero poder buscar productos por palabra clave para encontrar productos específicos|5|
+|05|US02|Filtrado de resultados por precios|Como usuario quiero poder filtrar los resultados de búsqueda por precio para encontrar productos que se ajusten a mi presupuesto|5|
+|06|US024|Detalle de un producto|Como usuario, quiero tener acceso a la página de detalles del producto para ver las especificaciones y tomar la decisión de compra|5|
+|07|US03|Guardar productos en lista de deseos|Como usuario quiero poder guardar productos en una lista de deseos para volver a ellos más tarde|5|
+|08|US04|Ordenamiento de resultados por clasificación|Como usuario quiero poder ordenar los resultados de búsqueda por clasificación para ver los productos más populares primeros|5|
+|09|US09|Carrito de compras|Como usuario quiero poder agregar productos a un carrito compras para pagar en conjunto mis productos|5|
+|10|US19|Creación de Ofertas|Como usuario emprendedor, quiero poder crear y administrar ofertas en mis productos, para atraer más clientes y aumentar las ventas en la plataforma.|3|
+|11|US07|Comentarios y reseñas de productos|Como usuario quiero poder leer comentarios y reseñas de otros usuarios sobre un producto para tomar una decisión de compra informada|3|
+|12|US08|Opciones de pago|Como usuario quiero ver las opciones de pago disponibles en cada tienda para poder elegir la más conveniente|3|
+|13|US10|Oferta destacada|Como usuario quiero poder ver las ofertas más destacadas de la semana para aprovechar los mejores precios|3|
+|14|US06|Notificaciones de precios|Como usuario quiero recibir notificaciones cuando los productos que estoy buscando estén disponibles o en oferta|3|
+|15|US12|Autenticacion de Usuario|Como usuario quiero que la aplicación me permita registrarse y iniciar sesion en mi cuenta.|3|
+|16|US14|Registro de Tienda|Como emprendedor, quiero poder acceder a un formulario de registro en línea donde pueda ingresar la información básica de mi tienda, como nombre, dirección y categoría de productos, para poder crear una cuenta en la plataforma|3|
+|17|US18|Editar tienda|Como emprendedor, quiero tener acceso a una página de gestión de perfil donde pueda actualizar la información de mi tienda, incluyendo detalles de contacto y horarios de atención, para mantener actualizada y precisa la información que se muestra a los usuarios finales.|3|
+|18|US20|Notificación de Stock Bajo|Como usuario emprendedor, quiero que el sistema me notifique cuando tenga el stock bajo de uno de mis productos, para poder abastecerme con antelación y no tener problemas con mis clientes.|3|
+|19|US11|Contacto con la Startup|Como usuario, quiero poder contactar al equipo de soporte de la empresa a través de la página de contacto para realizar consultas .|1|
+|20|US21|Plataforma Responsive|Como usuario quiero ingresar a la web de ComPerú desde mi dispositivo móvil  para navegar rápidamente en la plataforma sin ningún problema de interfaz|1|
 
 <br>
 
