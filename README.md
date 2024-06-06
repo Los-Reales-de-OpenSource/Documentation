@@ -1714,7 +1714,14 @@ Recopilamos la información de los repositorios que se trabajaron durante este s
 |ComPeru-Frontend|develop |675d3b26607fe599ae8f4a55e1e4cc55cba4f941|feat: Aggregate CRUD Product and responsive interface | |15/05/2024 |
 |ComPeru-Frontend| develop|3d26b90e6c0f4c05f2564c217d1e5b17dbf4ddc5 |feat: Aggregate input field in product form for admin | |16/05/2024 |
 |ComPeru-Frontend| develop| a0b6a3f24d1edcd7a4ac9229608315fe5809c774 |fix: Input file fixed| |17/05/2024 |
-|ComPeru-Frontend| | | | | |
+|ComPeru-Frontend|feat/Collantes|5f630e64438690a41a81dd55c1a204426cc9175a|feat: json-server configuration||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|dcf5c15de8b5622527ca632650bea2357d6bec30|feat: header & footer for home page||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|47a2d85be7595f7f80c1bf68a5b72020682864f8|feat: home page v1||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|46349e7d57582a011d3df8632e33c480dc97c562|feat: services for home & data||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|6f8baf48ea530a4e047a2136f711b20f91763147|fix: routing for home||18/05/2024|
+|ComPeru-Frontend|feat/Collantes|51bfbc9b7b96aab6fbbfaa58173d832ccecdc42b|fix: new structure for data||02/06/2024|
+|ComPeru-Frontend|feat/Collantes|3df31f7eff0f9bd4999efb38be2fb13c1be1b4b4|fix: update in db.json||3/06/2024|
+|ComPeru-Frontend|feat/Collantes|881dbc71f4b64189b756117f22c229209c8cd592|fix: routes pre-merging||3/06/2024|
 
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
@@ -1724,6 +1731,8 @@ Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 |Si729-2401-ws5x-grupo-1-TESTING|main|28d8907f6985be2834afc54d5742503390254862|Initial commit| |14/05/2024|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|fccea16aaba443d277a740e2e30a66f6e3d1c12e|feat: Testing for assigned features| |19/05/2024|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|ffe40a49f65b87a64775c9453e56858eef8f16a7|fix: updated in "then"| |19/05/2024|
 | | | | | | |
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
