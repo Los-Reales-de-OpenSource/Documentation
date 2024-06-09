@@ -1766,7 +1766,25 @@ Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el 
 
 Presentamos las capturas de nuestro frontend actual y el backend en funcionamiento:
 
+![Frontend view 1]()
 
+![Frontend view 2]()
+
+![Frontend view 3]()
+
+![Frontend view 4]()
+
+![Frontend view 5]()
+
+![Backend view 1]()
+
+![Backend view 2]()
+
+![Backend view 3]()
+
+![Backend view 4]()
+
+![Backend view 5]()
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -1782,6 +1800,14 @@ Presentamos las capturas de nuestro frontend actual y el backend en funcionamien
 ### 5.3 Validation Interviews
 
 #### 5.3.1. Diseño de Entrevistas 
+
+Con el fin de analizar correctamente la respuesta de nuestros usuarios objetivo hacia nuestro producto, hemos decidido hacer una serie de entrevistas de validación con la última versión de nuestra aplicación y las siguientes preguntas:
+
+- A primera vista, ¿qué opina del diseño de la página?
+- ¿Cuál sería su aspecto favorito de la aplicación?
+- ¿Puede detallar algún inconveniente respecto a la navegación de la aplicación?
+- ¿Qué opina de la forma de las opciones disponibles para usuarios como usted?
+- ¿Alguna recomendación respecto a como podemos escalar nuestra propuesta?
 
 #### 5.3.2. Registro de Entrevistas
 
