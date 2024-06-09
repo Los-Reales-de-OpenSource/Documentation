@@ -1768,7 +1768,11 @@ Recopilamos la información de los repositorios que se trabajaron durante este s
 ||feat/Vasquez|1895cfea79638bb8dd4180bea9f92c089069bd94|feat(product): Implement Assemblers for Brand and Category||05/06/2024|
 ||feat/Vasquez|131a7a12ab382eb3ba1bb7c526840c73ecbd880d|feat(product): Implement queries for Brand and Category in Application||05/06/2024|
 ||feat/Vasquez|814f3eda61a9ec940ab28a953f8f97a662b04a6f|feat(product): Implement commands for Brand and Category in Application||05/06/2024|
+||feature/Valenzuela|6dc0f58d509c5d349b8d2a40eb671d87feb0b973|Update Payment||08/06/2024|
+||feature/Valenzuela|227a704440fa02579026579af59afab195a36af1|Update BackendAlVal||09/06/2024|
 ||develop|e759e1e0904f82084eaf1da4b092fdd8a1546c0b|feat: add AbstractAggregateRoot||09/06/2024|
+||develop|a521d7c9e419b8cea5a208bb7a572fe1296543e2|feat: add valueobjects to orders||09/06/2024|
+||feature/Vasquez|608caf302bc5baff0ca7bba1f952df4f007f4107|feat(product):Implement Controller for Put Methods in Products Bounded Context||09/06/2024|
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
