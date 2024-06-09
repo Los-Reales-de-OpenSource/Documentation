@@ -1719,10 +1719,37 @@ Recopilamos la información de los repositorios que se trabajaron durante este s
 |ComPeru-Frontend|feat/Collantes|47a2d85be7595f7f80c1bf68a5b72020682864f8|feat: home page v1||18/05/2024|
 |ComPeru-Frontend|feat/Collantes|46349e7d57582a011d3df8632e33c480dc97c562|feat: services for home & data||18/05/2024|
 |ComPeru-Frontend|feat/Collantes|6f8baf48ea530a4e047a2136f711b20f91763147|fix: routing for home||18/05/2024|
+|ComPeru-Frontend|feat/Vasquez|987913ef7d5acc4817917a782500620c5fd5bf76|feature: Aggregate firebase to deploy image of product||19/05/2024|
+|ComPeru-Frontend|feat/Vasquez|256201ba6a2d805f821e9a176fcbab1a865381a6|feat: Aggregate review section in products admin||19/05/2024|
+|ComPeru-Frontend|feat/Vasquez|ed54028f3b68956bcd38ad1bf63a7995bba2c351|feat(filter-product) : aggregate some filters||31/05/2024|
+|ComPeru-Frontend|feat/Vasquez|c1b22e138bfd8493b57e73ca74c6f7c926252444|feat(user-product-panel): aggregate responsive division||31/05/2024|
+|ComPeru-Frontend|feat/Vasquez|701bd33f0032647b24809ac4237f70bdffcb3619|fix:fix responsive||31/05/2024|
+|ComPeru-Frontend|feat/Vasquez|a62120b0d46f1c6bfb86774dc8a20bb04d7c6282|feat(product-detail): aggregate styles in product view detail||02/06/2024|
 |ComPeru-Frontend|feat/Collantes|51bfbc9b7b96aab6fbbfaa58173d832ccecdc42b|fix: new structure for data||02/06/2024|
-|ComPeru-Frontend|feat/Collantes|3df31f7eff0f9bd4999efb38be2fb13c1be1b4b4|fix: update in db.json||3/06/2024|
-|ComPeru-Frontend|feat/Collantes|881dbc71f4b64189b756117f22c229209c8cd592|fix: routes pre-merging||3/06/2024|
-
+|ComPeru-Frontend|feat/Vasquez|5a68cff5c969f785b2ba4ed6a6776900b0b8c4f9|feat(product-detail): implement user reviews in product detail section||03/06/2024|
+|ComPeru-Frontend|feat/Vasquez|8b073736c4d0a520ea2a916f7493fe6e62a4e6e8|feat(product-detail): aggregate styles for reviews in products||03/06/2024|
+|ComPeru-Frontend|feat/Collantes|3df31f7eff0f9bd4999efb38be2fb13c1be1b4b4|fix: update in db.json||03/06/2024|
+|ComPeru-Frontend|feat/Collantes|881dbc71f4b64189b756117f22c229209c8cd592|fix: routes pre-merging||03/06/2024|
+|ComPeru-Frontend|feat/Collantes|2c9b9cd4475db28e93ff17b61869ddd46a1428ba|fix: home routed||03/06/2024|
+|ComPeru-Frontend|feat/Vasquez(Soriano)|b62163e52409accd49e3a521bcc3733fa785cd24|feat: support for not found pages||04/06/2024|
+|ComPeru-Frontend|feat/Vasquez(Soriano)|a99923a1d130a2e86eb4fe6f05936f4b584588fa|fix: root path||04/06/2024|
+|ComPeru-Frontend|feat/Vasquez(Soriano)|d7ba0501d88a36a6e4c77f0df53775f9ce94809d|feat: add orders data||05/06/2024|
+|ComPeru-Frontend|feat/Vasquez(Soriano)|43992be9f7fd59ea0cdb44345277079de7c678a9|feat: orders||05/06/2024|
+|ComPeru-Frontend|feat/Vasquez(Soriano)|b32dbe2a10d3d6b97edbc9eb3b0c766b8ad2ab7e|feat: orders service||05/06/2024|
+|ComPeru-Frontend|feat/Vasquez(Soriano)|03d8a064ef4d4cfbb21e82243fdeb00734e8d851|feat: orders entity||05/06/2024|
+|ComPeru-Frontend|feat/Vasquez(Soriano)|338dfd99d2fb989fab7b1287fac0ac1de6027ec6|feat: create order create and edit component||05/06/2024|
+|ComPeru-Frontend||8a27712102cac81bc7a6657514014662a9bf2402|feat: implemented order create and edit||05/06/2024|
+|ComPeru-Frontend|feat/Valenzuela|1843137a0f0804ae9a169076fd9ee85790b76ca3|Update Authentication||06/06/2024|
+|ComPeru-Frontend|feat/Valenzuela|715ccfcc1e0966e4cede135a94ab3d0a0a6506cd|Update Checkout-Auth||07/06/2024|
+|ComPeru-Frontend|feat/Valenzuela|2435d18e973e3e11b32954a3d602d1776fb52798|Update Checkout||07/06/2024|
+|ComPeru-Frontend|feat/Vasquez|5f37ee5799a7ea173d32ca2e1a6d87edbfac3eeb|fix: merge 1||08/06/2024|
+|ComPeru-Frontend|feat/Vasquez|f91f8bde22b23820b78fe826903857bc8721f3f6|chore: fixProject-front||08/06/2024|
+|ComPeru-Frontend|feat/Vasquez|59ae6f5f30086b1a8925f0525ee086f5b023b300|fix(product-detail): fix routes and styles for product-detail||08/06/2024|
+|ComPeru-Frontend|feat/Vasquez|1f5dcd2b70a700afdaa1060ed69b29d8db6ec81c|fix(product-detail): fix routes for product detail||08/06/2024|
+|ComPeru-Frontend|feat/Vasquez|098518f8657be42129395153ecc414766a34d496|feat(product-detail): Create comparator v1 in product detail||08/06/2024|
+|ComPeru-Frontend|feat/Vasquez|e890c1026b43b8a55b0164215b09c7757adff9fe|feat(product-detail): Aggregate comparator price||08/06/2024|
+|ComPeru-Frontend|feat/Vasquez|c65da067c4304ea644f195fe879387a59e96144b|feat(product-detail):Create form to review||08/06/2024|
+|ComPeru-Frontend|feat/Vasquez|0d90d26c7888e3172fa9b46468aa0722605ff24a|feat(product-view):Modify methods to aggregate wish list and favorite…||08/06/2024|
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
