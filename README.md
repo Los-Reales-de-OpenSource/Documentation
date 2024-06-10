@@ -48,6 +48,7 @@
 |2.0.4|17/05/2024|Fabian Reyes, ELverth Vasquez|Cambios en las user stories y otras secciones|
 |2.0.5|27/05/2024|Marco Collantes, Elverth Vasquez|Actualización previa al inicio del sprint 3|
 |2.0.6|5/06/2024|Elverth Vasquez, Marco Collantes|Ajustes debido a cambio interno del equipo, preparación para entrega TB2|
+|2.0.7|8/06/2024|Diego Soriano|Agregar partes realizadas y ajustes para lo realizado tanto en backend com frontend para entrega TB2|
 ||||
 ||||
 <br><br>
@@ -1729,14 +1730,14 @@ Recopilamos la información de los repositorios que se trabajaron durante este s
 ||feat/Collantes|3df31f7eff0f9bd4999efb38be2fb13c1be1b4b4|fix: update in db.json||03/06/2024|
 ||feat/Collantes|881dbc71f4b64189b756117f22c229209c8cd592|fix: routes pre-merging||03/06/2024|
 ||feat/Collantes|2c9b9cd4475db28e93ff17b61869ddd46a1428ba|fix: home routed||03/06/2024|
-||feat/Vasquez(Soriano)|b62163e52409accd49e3a521bcc3733fa785cd24|feat: support for not found pages||04/06/2024|
-||feat/Vasquez(Soriano)|a99923a1d130a2e86eb4fe6f05936f4b584588fa|fix: root path||04/06/2024|
-||feat/Vasquez(Soriano)|d7ba0501d88a36a6e4c77f0df53775f9ce94809d|feat: add orders data||05/06/2024|
-||feat/Vasquez(Soriano)|43992be9f7fd59ea0cdb44345277079de7c678a9|feat: orders||05/06/2024|
-||feat/Vasquez(Soriano)|b32dbe2a10d3d6b97edbc9eb3b0c766b8ad2ab7e|feat: orders service||05/06/2024|
-||feat/Vasquez(Soriano)|03d8a064ef4d4cfbb21e82243fdeb00734e8d851|feat: orders entity||05/06/2024|
-||feat/Vasquez(Soriano)|338dfd99d2fb989fab7b1287fac0ac1de6027ec6|feat: create order create and edit component||05/06/2024|
-||feat/Vasquez(Soriano)|8a27712102cac81bc7a6657514014662a9bf2402|feat: implemented order create and edit||05/06/2024|
+||feat/Soriano|b62163e52409accd49e3a521bcc3733fa785cd24|feat: support for not found pages||04/06/2024|
+||feat/Soriano|a99923a1d130a2e86eb4fe6f05936f4b584588fa|fix: root path||04/06/2024|
+||feat/Soriano|d7ba0501d88a36a6e4c77f0df53775f9ce94809d|feat: add orders data||05/06/2024|
+||feat/Soriano|43992be9f7fd59ea0cdb44345277079de7c678a9|feat: orders||05/06/2024|
+||feat/Soriano|b32dbe2a10d3d6b97edbc9eb3b0c766b8ad2ab7e|feat: orders service||05/06/2024|
+||feat/Soriano|03d8a064ef4d4cfbb21e82243fdeb00734e8d851|feat: orders entity||05/06/2024|
+||feat/Soriano|338dfd99d2fb989fab7b1287fac0ac1de6027ec6|feat: create order create and edit component||05/06/2024|
+||feat/Soriano|8a27712102cac81bc7a6657514014662a9bf2402|feat: implemented order create and edit||05/06/2024|
 ||feat/Valenzuela|1843137a0f0804ae9a169076fd9ee85790b76ca3|Update Authentication||06/06/2024|
 ||feat/Valenzuela|715ccfcc1e0966e4cede135a94ab3d0a0a6506cd|Update Checkout-Auth||07/06/2024|
 ||feat/Valenzuela|2435d18e973e3e11b32954a3d602d1776fb52798|Update Checkout||07/06/2024|
