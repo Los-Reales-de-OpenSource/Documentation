@@ -2026,7 +2026,7 @@ En este video, te introduciremos a Comperu, una aplicación diseñada específic
 <a href="https://ibb.co/vw4tv1K"><img src="https://i.ibb.co/Bz21KLS/image.png" alt="image" border="0"></a>
 
 Video About the Product:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EeGi-uWyV_5BmlY_XyppKCEBhTp983KGBT9C2CrOFG-07w?e=onMUWt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/EUoMh3U4wdlFnlfbeGDZ_J4B-HtxBN5S0Iz0z84-JUW16A?e=50EtSG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 
