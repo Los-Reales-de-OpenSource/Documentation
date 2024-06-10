@@ -107,6 +107,11 @@ del ABET – EAC - Student Outcome 3.
          o.<br> En esta entrega contribui con diferentes opiniones sobre el futuro de nuestro trabajo, a pesar de las dificultades que tuvimos.<br> 
            <strong>TB2: </strong><br> 
           .<br>En esta entrega tuve una participación más activa, finalizando con dos bounded context y aportando en algunos otros. A pesar de las dificultades que tuvimos, considero que nuestra entrega es correcta.<br> 
+          <br><br> 
+          <strong>Soriano, Diego</strong><br>
+           <strong>TB2:</strong><br>
+          Empecé a colaborar en el proyecto realizando las tareas que me designaron y tu ve que realizar partes de mejora tanto en el lado frontend de la aplicación y realizar tareas del lado backend consultando siempre con el equipo.
+          <br><br>
           <td>
           <strong>TB1:</strong><br>
           Se requiere cierto nivel de comunicación para poder trabajar en una entrega tan completa como esta,de forma que se dé a conocer que es necesario para avanzar sin problemas<br><br>
@@ -149,7 +154,11 @@ del ABET – EAC - Student Outcome 3.
           <strong>TP: Me encargué de entregar la primera version del "product-page" que incluye una vista completa de los productos disponibles, una barra de búsqueda y un panel de filtros. </strong><br> 
           .<br><br>
           <strong>TB2:En esta entrega me encargué del desarrollo del frontend para el bounded context de Shipping, Wishlist y parte de otros bc, fue completado la wishlist de la plataforma, el carrito de compras, el formulario de envios, entre otras funcionalidades. Para la primera version del backend, implemente el bounded context de perfil de usuario y parte del bc de shipping.</strong><br> 
-          .<br><br>  
+          .<br><br>
+          <strong>Soriano, Diego</strong><br>
+           <strong>TB2:</strong><br>
+          Al desarrollar y colaborar en ciertos aspectos para la mejoria de la aplicación note la necesidad de comunicar necesidades y obsevaciones al equipo sobre aspectos relacionados al dominio del negocio que no estaban del todo claros.
+          <br><br>  
         <td>
          <strong>TB1:</strong><br>
           Fue importante la comunicacion para la organizacion del informe y la construccion de la idea del proyecto.
