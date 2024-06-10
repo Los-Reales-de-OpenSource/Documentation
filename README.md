@@ -1856,7 +1856,24 @@ Estos fueron los commits realizados durante el desarrollo de los endpoints para 
 
 ##### 5.2.3.8. Team Collaboration Insights for Sprint Review
 
+A continuación presentaremos la colaboración en grupo que hemos realizado durante este sprint. Para la organización de activades se le asignó a cada integrante ciertas tareas y funcionalidades a desarrollar en herramientas como Trello.
 
+### Elaboración del Web Api Service para ComPeru
+
+![Backend evidence](./images/evidence-sprint-3.png)
+
+![Backend evidence 2](./images/evidence-sprint-3-2.png)
+
+![Backend evidence 3](./images/evidence-sprint-3-3.png)
+
+
+### Elaboración de la Web Application
+
+![Frontend evidence](./images/evidence-sprint-3-5.png)
+
+![Frontend evidence 2](./images/evidence-sprint-3-4.png)
+
+![Frontend evidence 3](./images/evidence-sprint-3-6.png)
 
 
 
