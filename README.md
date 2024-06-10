@@ -1893,7 +1893,78 @@ Con el fin de analizar correctamente la respuesta de nuestros usuarios objetivo 
 
 #### 5.3.2. Registro de Entrevistas
 
+Ahora mostraremos las entrevistas realizadas para tener un mejor feedback de nuestra aplicacion:
+
+**Entrevista #1:**
+<a href="https://ibb.co/47xnmH0"><img src="https://i.ibb.co/HVQfFj9/image.png" alt="image" border="0"></a>
+
+- Nombre y apellidos: Pablo Mendez Urbano
+- Edad: 22 años
+- Ubicación: Huaral, Lima
+- Breve resumen: Pablo nos dice que la pagina le parece muy buena y que esta en buen camino, nos recomienda el diseño de la pagina web está bastante deductible, o sea, si una persona entra a su a la página de usted a revisar las compras y a revisar todo, es muy fácil acceder en cuanto a una crítica, que podría ser en cuanto el momento de seleccionar los precios podría, así como mayormente hay muchas páginas, seleccionar un como un pequeño, un pequeño rango no que viene siendo los precios, en cuyo caso quiere adquirir algo un poquito más caro.
+    
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EaVXS9ddhLVNlksJt6Ba6jYBxtJNoEkbweIo-tueXXs2Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7h5CJ4
+
+
+**Entrevista #2:**
+<a href="https://ibb.co/rd6x01R"><img src="https://i.ibb.co/Sfnty94/image.png" alt="image" border="0"></a>
+
+- Nombre y apellidos: Facundo Torres
+- Edad: 19 años
+- Ubicación: San Martin de Porres, Lima
+- Breve resumen: En resumen, nuestro entrevistado nos recomienda que deberia haber una mejora en la pantalla principal y que nuestra pagina tiene que tener mas aspectos visuales para que sea mas atrativa.
+    
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218233_upc_edu_pe/EXa4fTViZ89DuzDNKQPQc6YBz-Qd3YSVir2rgLEe7Ol-XA?e=sQ357C&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
 #### 5.3.3. Evaluaciones según heurísticas
+Estas son las evaluaciones según heurísticas realizadas:
+
+**Entrevista #1: Pablo Mendez Urbano**
+
+1. **Visibilidad del estado del sistema:**
+   - Pablo parece tener una comprensión clara de la página y la encuentra bastante buena, lo que sugiere una adecuada retroalimentación sobre el estado del sistema.
+
+2. **Coincidencia entre el sistema y el mundo real:**
+   - Pablo no menciona problemas graves de comprensión, lo que sugiere que el sistema podría coincidir con las expectativas del mundo real en cierta medida.
+
+3. **Control y libertad del usuario:**
+   - No se mencionan específicamente, pero dado que Pablo recomienda mejoras, parece haber cierto grado de control y libertad del usuario.
+
+4. **Consistencia y estándares:**
+   - Pablo sugiere mejorar la selección de precios, lo que podría indicar que hay áreas donde la consistencia podría mejorar.
+
+5. **Reconocimiento en lugar de recuerdo:**
+   - No se menciona específicamente, pero la comprensión clara de Pablo sugiere que el sistema podría facilitar el reconocimiento en lugar de la necesidad de recordar información.
+
+6. **Prevención de errores:**
+   - No se mencionan errores específicos, pero las sugerencias de Pablo podrían indicar áreas donde se podrían cometer errores, como la falta de claridad en los precios.
+
+7. **Flexibilidad y eficiencia de uso:**
+   - No se proporciona información específica, pero las sugerencias de mejoras podrían indicar que hay margen para aumentar la flexibilidad y eficiencia de uso.
+
+**Entrevista #2: Facundo Torres**
+
+1. **Visibilidad del estado del sistema:**
+   - Facundo sugiere una mejora en la pantalla principal, lo que podría indicar que la visibilidad del estado del sistema no es clara en esa sección.
+
+2. **Coincidencia entre el sistema y el mundo real:**
+   - Facundo menciona que la página necesita más aspectos visuales para ser más atractiva, lo que sugiere que podría haber problemas con la coincidencia entre el sistema y las expectativas del mundo real en términos de diseño visual.
+
+3. **Control y libertad del usuario:**
+   - Facundo recomienda mejoras, lo que indica que puede haber cierto grado de control y libertad del usuario.
+
+4. **Consistencia y estándares:**
+   - No se mencionan problemas específicos de consistencia, pero la sugerencia de mejorar la pantalla principal podría indicar que hay áreas donde la consistencia podría mejorar.
+
+5. **Reconocimiento en lugar de recuerdo:**
+   - No se menciona específicamente, pero la recomendación de Facundo de mejorar la pantalla principal sugiere que podría haber oportunidades para facilitar el reconocimiento en lugar de recordar información.
+
+6. **Prevención de errores:**
+   - No se mencionan errores específicos, pero la sugerencia de mejorar la pantalla principal podría indicar áreas donde se podrían cometer errores.
+
+7. **Flexibilidad y eficiencia de uso:**
+   - No se proporciona información específica, pero la sugerencia de mejorar la página para que sea más atractiva podría indicar que hay margen para aumentar la flexibilidad y eficiencia de uso en términos de diseño visual.
 
 ### 5.4. Video About the Product
 
