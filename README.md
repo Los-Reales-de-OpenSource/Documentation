@@ -1819,6 +1819,10 @@ Pagina agregar nuevo producto:
 
 ![Frontend view 5](./images/Front_5.PNG)
 
+**Link Aplicación Desplegada:**
+
+[https://comperu-resources.web.app/users/product-page](https://comperu-resources.web.app/users/product-page)
+
 __Despliegue de Backend:__
 
 ![Backend view 1](./images/back1.png)
@@ -2074,3 +2078,8 @@ Resultados y análisis de las pruebas de usuario llevadas a cabo para evaluar la
 <br>
 
 ### Ingeniería de Software 
+
+
+**Link Aplicación Desplegada:**
+
+[https://comperu-resources.web.app/users/product-page](https://comperu-resources.web.app/users/product-page)
