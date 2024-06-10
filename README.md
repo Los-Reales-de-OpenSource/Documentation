@@ -2028,6 +2028,7 @@ En este video, te introduciremos a Comperu, una aplicación diseñada específic
 Video About the Product:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/EUoMh3U4wdlFnlfbeGDZ_J4B-HtxBN5S0Iz0z84-JUW16A?e=50EtSG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+**Viedo en YouTube:** https://youtu.be/l5u17UyUnrk
 
 
 ## Conclusiones
