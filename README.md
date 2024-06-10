@@ -102,10 +102,10 @@ del ABET – EAC - Student Outcome 3.
           <strong>Reyes Trujillano, Fabian Alonso</strong><br>
           <strong>TB1:</strong><br> 
 	        Trabajé junto a mis compañeros aportando con diferentes ideas, edición del informe, arquitectura del software, etc.<br><br> 
-           <strong>TP: En esta entrega contribui con diferentes opiniones sobre el futuro de nuestro trabajo, a pesar de las dificultades que tuvimos.</strong><br> 
-         o.<br><br> 
-           <strong>TB2: En esta entrega tuve una participación más activa, finalizando con dos bounded context y aportando en algunos otros. A pesar de las dificultades que tuvimos, considero que nuestra entrega es correcta.</strong><br> 
-          .<br><br> 
+           <strong>TP:</strong><br> 
+         o.<br> En esta entrega contribui con diferentes opiniones sobre el futuro de nuestro trabajo, a pesar de las dificultades que tuvimos.<br> 
+           <strong>TB2: </strong><br> 
+          .<br>En esta entrega tuve una participación más activa, finalizando con dos bounded context y aportando en algunos otros. A pesar de las dificultades que tuvimos, considero que nuestra entrega es correcta.<br> 
           <td>
           <strong>TB1:</strong><br>
           Se requiere cierto nivel de comunicación para poder trabajar en una entrega tan completa como esta,de forma que se dé a conocer que es necesario para avanzar sin problemas<br><br>
