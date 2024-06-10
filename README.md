@@ -1799,15 +1799,15 @@ Presentamos las capturas de nuestro frontend actual y el backend en funcionamien
 
 ![Frontend view 5]()
 
-![Backend view 1]()
+![Backend view 1](./images/back1.png)
 
-![Backend view 2]()
+![Backend view 2](./images/back2.png)
 
-![Backend view 3]()
+![Backend view 3](./images/back3.png)
 
-![Backend view 4]()
+![Backend view 4](./images/back4.png)
 
-![Backend view 5]()
+![Backend view 5](./images/back5.png)
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
