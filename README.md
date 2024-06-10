@@ -960,9 +960,9 @@ A continuación, procederemos a detallar el product backlog de nuestras user sto
 
 | #Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
 |--------|---------------|--------|-------------|--------------------------|
-|01|US015|Gestión de productos|Como emprendedor, quiero tener acceso a una interfaz intuitiva en la que pueda agregar, editar y eliminar productos de mi tienda, incluyendo información detallada como nombre, descripción y precio, para mantener actualizado el catálogo de productos de mi tienda en la plataforma.|8|
-|02|US05|Comparación de precios|Como usuario quiero poder comparar precios de un mismo producto en diferentes tiendas para encontrar la mejor opción de compra|8|
-|03|US17|Gestión de pedidos|Como usuario emprendedor , quiero tener acceso a una interfaz intuitiva donde pueda revisar todos los pedidos que han realizado mis clientes, para poder realizar un seguimiento de las transacciones y gestionar el proceso de entrega de mis productos.|8|
+|01|US015|Gestión de productos|Como emprendedor, quiero tener acceso a una interfaz intuitiva en la que pueda agregar, editar y eliminar productos de mi tienda, incluyendo información detallada como nombre, descripción y precio, para mantener actualizado el catálogo de productos de mi tienda en la plataforma.|6|
+|02|US05|Comparación de precios|Como usuario quiero poder comparar precios de un mismo producto en diferentes tiendas para encontrar la mejor opción de compra|6|
+|03|US17|Gestión de pedidos|Como usuario emprendedor , quiero tener acceso a una interfaz intuitiva donde pueda revisar todos los pedidos que han realizado mis clientes, para poder realizar un seguimiento de las transacciones y gestionar el proceso de entrega de mis productos.|6|
 |04|US01|Búsqueda de productos de palabra clave|Como usuario quiero poder buscar productos por palabra clave para encontrar productos específicos|5|
 |05|US02|Filtrado de resultados por precios|Como usuario quiero poder filtrar los resultados de búsqueda por precio para encontrar productos que se ajusten a mi presupuesto|5|
 |06|US024|Detalle de un producto|Como usuario, quiero tener acceso a la página de detalles del producto para ver las especificaciones y tomar la decisión de compra|5|
@@ -1675,13 +1675,15 @@ Los siguientes commit corresponden al desarrollo del landing page:
 | **Time:**                   | 2:00 pm |
 | **Location:**               | Se tuvieron reuniones de manera virtual y en el aula de clase para mencionar los avances de cada integrante del equipo. |
 | **Prepared By:**            | Vásquez Villalobos Elverth Jair|
-| **Attendees (to planning meeting):** | Vásquez Elverth, Naggit Ballalona, Fabian Reyes, Marco Collantes,  Valenzuela Alessandro|
+| **Attendees (to planning meeting):** | Vásquez Elverth, Diego Soriano, Fabian Reyes, Marco Collantes,  Valenzuela Alessandro|
 | **Sprint 2 Review Summary** | Se lograron concretar las funcionalidades de la aplicación, no se obtuvieron los resultados esperados pero se logró implementar la mayoría de características. |
 | **Sprint 2 Retrospective Summary** | Se realizaron las funcionalidades principales de la aplicación web , se logró el objetivo a medias puesto que por falta de comunicación y coordinación no se concretaron las funcionalidades como se esperaba.|
 | **Sprint Goal & User Stories** | |
 | **Sprint 3 Goal:**             | Culminación del Front-end de la aplicación e implementación de primeras versiones del Back-end.
-| **Sprint 3 Velocity:**         | 19 |
-| **Sum of Story Points:**       | 19 |
+| **Sprint 3 Velocity:**         | 50 |
+| **Sum of Story Points:**       | 72 |
+
+Es necesario hacer la aclaración que debido a problemas en el desarrollo de los anteriores sprint , en este sprint se tuvo que hacer un esfuerzo mayor para cumplir con el desarrollo de las funcionalidades correspondientes.
 
 ##### 5.2.3.2. Sprint Backlog 3
 
