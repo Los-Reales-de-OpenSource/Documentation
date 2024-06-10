@@ -1797,15 +1797,29 @@ Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el 
 
 Presentamos las capturas de nuestro frontend actual y el backend en funcionamiento:
 
-![Frontend view 1]()
+__Despliegue de Frontend:__
 
-![Frontend view 2]()
+Repositorio frontend:
 
-![Frontend view 3]()
+![Frontend view 1](./images/Front_1.PNG)
 
-![Frontend view 4]()
+Pagina principal:
 
-![Frontend view 5]()
+![Frontend view 2](./images/Front_2.PNG)
+
+Pagina lista de productos:
+
+![Frontend view 3](./images/Front_3.PNG)
+
+Pagina lista de pedidos:
+
+![Frontend view 4](./images/Front_4.PNG)
+
+Pagina agregar nuevo producto:
+
+![Frontend view 5](./images/Front_5.PNG)
+
+__Despliegue de Backend:__
 
 ![Backend view 1](./images/back1.png)
 
@@ -1902,25 +1916,59 @@ Con el fin de analizar correctamente la respuesta de nuestros usuarios objetivo 
 Ahora mostraremos las entrevistas realizadas para tener un mejor feedback de nuestra aplicacion:
 
 **Entrevista #1:**
+
+<br/>
+
 <a href="https://ibb.co/47xnmH0"><img src="https://i.ibb.co/HVQfFj9/image.png" alt="image" border="0"></a>
 
+<br/>
+
+- Duración de la entrevista: 00:00 - 06:20
 - Nombre y apellidos: Pablo Mendez Urbano
 - Edad: 22 años
 - Ubicación: Huaral, Lima
 - Breve resumen: Pablo nos dice que la pagina le parece muy buena y que esta en buen camino, nos recomienda el diseño de la pagina web está bastante deductible, o sea, si una persona entra a su a la página de usted a revisar las compras y a revisar todo, es muy fácil acceder en cuanto a una crítica, que podría ser en cuanto el momento de seleccionar los precios podría, así como mayormente hay muchas páginas, seleccionar un como un pequeño, un pequeño rango no que viene siendo los precios, en cuyo caso quiere adquirir algo un poquito más caro.
-    
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EaVXS9ddhLVNlksJt6Ba6jYBxtJNoEkbweIo-tueXXs2Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7h5CJ4
+
+<br/>
 
 
 **Entrevista #2:**
+
+<br/>
+
 <a href="https://ibb.co/rd6x01R"><img src="https://i.ibb.co/Sfnty94/image.png" alt="image" border="0"></a>
 
+<br/>
+
+- Duración de la entrevista: 06:20 - 10:43
 - Nombre y apellidos: Facundo Torres
 - Edad: 19 años
 - Ubicación: San Martin de Porres, Lima
 - Breve resumen: En resumen, nuestro entrevistado nos recomienda que deberia haber una mejora en la pantalla principal y que nuestra pagina tiene que tener mas aspectos visuales para que sea mas atrativa.
-    
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218233_upc_edu_pe/EXa4fTViZ89DuzDNKQPQc6YBz-Qd3YSVir2rgLEe7Ol-XA?e=sQ357C&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+**Entrevista #3:**
+
+<br/>
+
+<img src="./images/Entrevista_3.PNG" alt="image" border="0"></a>
+
+<br/>
+
+- Duración de la entrevista: 10:43 - 14:55
+- Segmento Objetivo: Emprendedor
+- Nombre y apellidos: Leonardo Delgado
+- Edad: 19 años
+- Ubicación: San Martin de Porres, Lima
+- Breve resumen: En resumen, el entrevistado hace mencion sobre que en un futuro se pueda tener más tipos de monedas disponibles en nuestra plataforma, lo cual consideramos puede ser una posible integración de accesibilidad en un futuro.
+
+<br/>
+
+**Url Entrevistas:**
+
+[https://upcedupe-my.sharepoint.com/personal/u202213070_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213070%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2D%5FWS51%5F%2D%5FInnovation%20Digital%5F%2D%20validation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E916a27d1%2Daefc%2D4fcf%2Da514%2Da6a0664298d9](https://upcedupe-my.sharepoint.com/personal/u202213070_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213070%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2D%5FWS51%5F%2D%5FInnovation%20Digital%5F%2D%20validation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E916a27d1%2Daefc%2D4fcf%2Da514%2Da6a0664298d9)
+
+
 
 
 #### 5.3.3. Evaluaciones según heurísticas
