@@ -1963,9 +1963,12 @@ Estas son las evaluaciones según heurísticas realizadas:
    - No se proporciona información específica, pero la sugerencia de mejorar la página para que sea más atractiva podría indicar que hay margen para aumentar la flexibilidad y eficiencia de uso en términos de diseño visual.
 
 ### 5.4. Video About the Product
+En este video, te introduciremos a Comperu, una aplicación diseñada específicamente para ayudar a emprendedores como tú a tomar decisiones informadas en sus compras. Comperu no es solo una plataforma de comparación de precios; es una herramienta integral que simplifica el proceso de compra y maximiza el rendimiento de tu negocio.
 
+<a href="https://ibb.co/vw4tv1K"><img src="https://i.ibb.co/Bz21KLS/image.png" alt="image" border="0"></a>
 
-
+Video About the Product:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EeGi-uWyV_5BmlY_XyppKCEBhTp983KGBT9C2CrOFG-07w?e=onMUWt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 
