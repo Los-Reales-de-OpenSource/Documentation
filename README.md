@@ -1811,6 +1811,25 @@ Presentamos las capturas de nuestro frontend actual y el backend en funcionamien
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint.
+
+__Endpoints Documentados__
+
+Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acciones implementadas, junto con los enlaces correspondientes a la documentación desplegada (o URL local en Sprints previos al despliegue de Web Services). Se indica las acciones soportadas incluyendo para cada acción el verbo HTTP (GET, POST, PUT, DELETE, PATCH), sintaxis de llamada, especificación de posibles parámetros, así como ejemplo y explicación del response.
+
+| Endpoint | Acciones Soportadas |
+| --- | --- |
+| `/api/v1/products/{productId}` | **GET**<br>Obtiene un producto en base a su Id<br> **PUT**<br>Edita la información del producto<br>|
+| `/api/v1/products` | **GET**<br>Obtiene todos los productos de la base de datos<br>**POST**<br>Crea un nuevo producto <br>|
+| `/api/v1/products/{productId}/stock` | **PUT**<br>Actualiza el stock de un producto<br>|
+| `/api/v1/products/{productId}/images` | **PUT**<br>Agrega una url de imagen a la lista de imagenes del producto<br> |
+| `/api/v1/brands` | **POST**<br>Crea un nuevo brand  |
+| `/api/v1/brands/{brandId}` | **GET**<br>Obtiene un brand en especifico por medio de su ID |
+| `/api/v1/categories` | **POST**<br>Crea una nueva categoria  |
+| `/api/v1/categories/{catgoryId}` | **GET**<br>Obtiene una categoria en especifico por medio de su ID |
+
+
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 
