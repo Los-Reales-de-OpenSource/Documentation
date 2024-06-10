@@ -58,11 +58,6 @@
 <br><br>
 
 
-# Student Outcome
- <br>
-
-El curso contribuye al cumplimiento del Student Outcome ABET:
-
 **ABET – EAC - Student Outcome 3**
 
 **Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
@@ -91,9 +86,11 @@ del ABET – EAC - Student Outcome 3.
           <strong>TB1:</strong><br> 
           Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
            <strong>TP:</strong><br> 
-          .<br><br> 
+          .<br>En esta entrega, mi objetivo fue mejorar en todos los aspectos posibles con respecto a entregas anteriores y fortalecer la comunicación con mis compañeros en todos los medios disponibles. Aunque reconozco que aún existen obstáculos para lograr una comunicación perfecta, noto cierta mejoría en este aspecto.
+
+<br> 
            <strong>TB2:</strong><br> 
-          <br><br>  
+          <br>Durante esta fase, nos enfrentamos a una carga abrumadora de actualizaciones y mejoras necesarias para obtener un producto final de calidad. A pesar de los desafíos, busqué alternativas para mejorar nuestro trabajo y participé activamente en la búsqueda de soluciones para evitar complicaciones adicionales.<br>  
 	        <strong>Vásquez Villalobos, Elverth Jair</strong><br>
           <strong>TB1:</strong><br> 
           Trabajamos en conjunto para resolver conflictos que se presentaron al desarrollar las entregas de cada uno de los items. Brindamos capacitación y ayuda a aquellos compañeros que tenían desconocimiento en el desarrollo del trabajo. <br><br> 
@@ -133,9 +130,9 @@ del ABET – EAC - Student Outcome 3.
           <strong>TB1:</strong><br> 
           Para la entrega me encargue de realizar los diagramas que daran base para el desarrollo de nuestro sistema aplicando los principios basicos del diseño para cada tipo de diagrama.<br><br> 
           <strong>TP:</strong><br> 
-          .<br><br>
+          .<br>En esta entrega, no hubo cambios significativos en los elementos que me fueron asignados con respecto a la entrega anterior. Por lo tanto, me enfoqué en mejorar el material existente de acuerdo a las solicitudes previas.<br>
           <strong>TB2:</strong><br> 
-         .<br><br>
+         .<br>Durante este período, enfrenté algunas dificultades menores en la comunicación con mis compañeros. Sin embargo, mantuve la calma y me concentré en mi trabajo asignado. Aunque admito que la comunicación durante este sprint no fue óptima, considero que el cambio en el modelo de trabajo por parte del coordinador podría ser mejor gestionado.<br>
 	        <strong>Vásquez Villalobos, Elverth Jair</strong><br>
           <strong>TB1:</strong><br> 
           Cumplimos con cada uno de los items designados a cada uno de los integrantes del equipo, nos aseguramos de comunicar el avance de cada miembro y utilizamos un repositorio para el registro de versiones y el avance en equipo. <br><br> 
@@ -167,7 +164,6 @@ del ABET – EAC - Student Outcome 3.
    </tr>    
   </tr>
 </table>
-
 
 # Contenido
 
