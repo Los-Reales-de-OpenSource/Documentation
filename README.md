@@ -1828,6 +1828,27 @@ Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acc
 | `/api/v1/categories` | **POST**<br>Crea una nueva categoria  |
 | `/api/v1/categories/{catgoryId}` | **GET**<br>Obtiene una categoria en especifico por medio de su ID |
 
+Para este entrega aun no fue solicitado el despliegue del backend , por esa razón a continuación presentamos evidencias del back y la interacción con los endpoints:
+
+![Backend view 1](./images/back1.png)
+
+![Backend view 2](./images/back2.png)
+
+![Backend view 3](./images/back3.png)
+
+![Backend view 4](./images/back4.png)
+
+![Backend view 5](./images/back5.png)
+
+
+## Repositorio y commits
+
+**Link del repositorio:** https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-platform/tree/feat/Vasquez 
+
+Estos fueron los commits realizados durante el desarrollo de los endpoints para este sprint:
+![Commits evidence backend tb2](./images/commits-tb2-back-1.png)
+
+![Commits evidence backend tb2 2](./images/commits-tb2-back-2.png)
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
