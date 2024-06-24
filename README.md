@@ -1698,6 +1698,10 @@ Es necesario hacer la aclaración que debido a problemas en el desarrollo de los
 
 ##### 5.2.3.2. Sprint Backlog 3
 
+Como se ha comentado, varios de los objetivos del sprint anterior tuvieron que ser revisados y mejorados para esta entrega debido a su bajo nivel de desarrollo o problemas con el funcionamiento de la aplicación. Asimismo, esta entrega vio los primeros vistazos del grupo al desarrollo del backend dentro de sus respectivas tareas.
+
+![](/images/TrelloSprint3.png)
+
 |**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 |------------|------------------|--------|-------------|------------|------------|--------|
 | US015 | US015-01 | Routing de administración de productos| Diseño de las rutas para la navegación del usuario emprendedor hacia la página de administración de productos | 1h | Elverth Vasquez | Finalizado |
