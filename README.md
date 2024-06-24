@@ -1910,7 +1910,48 @@ A continuación presentaremos la colaboración en grupo que hemos realizado dura
 
 ![Frontend evidence 3](./images/evidence-sprint-3-6.png)
 
+### 5.2.4. Sprint 4
 
+##### 5.2.4.1. Sprint Planning
+
+| **Sprint #**                | Sprint 4 |
+|-----------------------------|----------|
+| **Sprint Planning Background** |       |
+| **Date:**                   | 2024-06-24 |
+| **Time:**                   | 10:00 am |
+| **Location:**               | UPC San Miguel B708 |
+| **Prepared By:**            | Vásquez Villalobos Elverth Jair|
+| **Attendees (to planning meeting):** | Vásquez Elverth, Diego Soriano, Fabian Reyes, Marco Collantes,  Valenzuela Alessandro|
+| **Sprint 3 Review Summary** |  |
+| **Sprint 3 Retrospective Summary** | |
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal:**             | Finalizar el desarrollo de la aplicación con la menor cantidad de errores posible
+| **Sprint 4 Velocity:**         |  |
+| **Sum of Story Points:**       |  |
+
+##### 5.2.4.2. Sprint Backlog
+
+Esta última entrega se vio dedicada en terminar con los respectivos items pendientes de nuestro producto, tanto en frontend como en backend, así como pulir los errores de la entrega anterior. Todos los detalles se pueden apreciar en nuestro Trello cooperativo:
+
+![Trello Sprint 4]()
+
+|**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
+|------------|------------------|--------|-------------|------------|------------|--------|
+||||||||
+
+##### 5.2.4.3. Development Evidence for Sprint Review
+
+La siguiente sección está dedicada al registro de los commits de trabajo de esta última entrega, esperando tener un resultado positivo a nivel de frontend y backend
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+Presentamos en esta ocasión, los que serían los test implementados de nuestra aplicación a nivel de frontend y backend:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
 
 ### 5.3 Validation Interviews
 
