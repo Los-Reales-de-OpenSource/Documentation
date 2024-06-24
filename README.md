@@ -1518,35 +1518,16 @@ Ahora presentaremos la primera tabla de los sprints backlogs:
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-Los siguientes commit corresponden al desarrollo del landing page y las principales páginas y vistas para el usuario:
+Los siguientes commit corresponden al desarrollo del landing page y las primeras versiones de las páginas y vistas para el usuario de la aplicación web:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 |LandingPage|main|0971160173dc0abca88a0b8afd7261b9bbb26fcc|Initial commit| |14/04/2024|
 | |main|a5fd21aa1802777ef91e270cd76aa9f368e24d59|new| | 16/04/2024 |
-|ComPeru-front|master|305fd8a35bf53b200120f1673b6f5f585f75e8e3|feat: version 1.0.0| | 22/04/2024 |
-|ComPeru-front|feat/Collantes|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
-|ComPeru-front|feat/Collantes|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: environments base| | 22/04/2024 |
-|ComPeru-front|feat/Collantes|7b7541a8a8019bc31c81db76c7a5a1e514ef1b5c|feat: json-server configurations| | 28/04/2024 |
-|ComPeru-front|feat/Collantes|69025ab6780b708a3cd45ac9f996acf08e373096|feat: home  component v1| | 28/04/2024 |
-|ComPeru-front|feat/Collantes|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
-|ComPeru-front|feat/Collantes|f0dc56e161b5fe0d1dd4a4ee313d26b2a2a84e2a|feat: header v1| | 30/04/2024 |
-|ComPeru-front|feat/Collantes|9f131ebe1a4dd974c22c7df64efd916dee63c885|feat: footer added| | 30/04/2024 |
-|ComPeru-front|feat/Collantes|131d8a58bff96168553909404afcb583385c917a|fix: scale in css| | 30/04/2024 |
-|ComPeru-front|feat/Collantes|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
-|ComPeru-front|feat/Collantes|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
-|ComPeru-front|feat/Collantes|04b7147a9004fc6698e5d1eab7040a63b99d43fe|feat: home design v1.1| | 01/05/2024 |
-|ComPeru-front|feat/Valenzuela|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
-|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: login component| | 22/04/2024 |
-|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: register component| | 22/04/2024 |
-|ComPeru-front|feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: auth service| | 22/04/2024 |
-|ComPeru-front|feat/Valenzuela|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
-|ComPeru-front|feat/Valenzuela|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
-|ComPeru-front|feat/Valenzuela|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
-
-De ser necesario, se actualizará deacuerdo al feedback de la entrega.
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Debido a ser la primera entrega, y el poco conocimiento en general de este apartado, no se realizaron procesos de testing en nuestra aplicación o landing page.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
@@ -1596,10 +1577,6 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 ![ Ci5](./images/ci5.png)
 
-
-
-
-
 #### 5.2.1. Sprint 2
 ##### 5.2.2.1. Sprint Planning 2.
 
@@ -1624,6 +1601,10 @@ El principal objetivo del Sprint 2 fue el desarrollo de las principales funciona
 
 ##### 5.2.2.2. Sprint Backlog 2
 
+Los tasks asignados durante este sprint de trabajo corresponden a aspectos del frontend de la aplicación, los cuales después marcarían las bases para el desarrollo de su contraparte del backend.
+
+![Trello Sprint 2](/images/TrelloSprint2.png)
+
 |**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 |------------|------------------|--------|-------------|------------|------------|--------|
 | US015 | US015-01 | Routing de administración de productos| Diseño de las rutas para la navegación del usuario emprendedor hacia la página de administración de productos | 1h | Elverth Vasquez | Finalizado |
@@ -1640,42 +1621,60 @@ El principal objetivo del Sprint 2 fue el desarrollo de las principales funciona
 | US019 | US019-02 | Creación de tabla de administración de ofertas| Creación de una tabla para mostrar el detalle de cada uno de las ofertas. | 2h | Elverth Vasquez | Finalizado |
 | US019 | US019-03 | Formulario responsive para operaciones CRUD en ofertas|Implementación de una vista con formulario para la creación de una oferta . | 5h | Elverth Vasquez | Finalizado |
 
-
-
 ##### 5.2.2.3. Development Evidence for Sprint Review
 
-Los siguientes commit corresponden al desarrollo del landing page:
+Los siguientes commit corresponden al desarrollo de las primeras versiones del frontend de nuestro producto, atravesando pro diferentes cambios respecto a su repositorio base:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
+|ComPeru-front|master|305fd8a35bf53b200120f1673b6f5f585f75e8e3|feat: version 1.0.0| | 22/04/2024 |
+| |feat/Collantes|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
+| |feat/Collantes|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: environments base| | 22/04/2024 |
+| |feat/Collantes|7b7541a8a8019bc31c81db76c7a5a1e514ef1b5c|feat: json-server configurations| | 28/04/2024 |
+| |feat/Collantes|69025ab6780b708a3cd45ac9f996acf08e373096|feat: home  component v1| | 28/04/2024 |
+| |feat/Collantes|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
+| |feat/Collantes|f0dc56e161b5fe0d1dd4a4ee313d26b2a2a84e2a|feat: header v1| | 30/04/2024 |
+| |feat/Collantes|9f131ebe1a4dd974c22c7df64efd916dee63c885|feat: footer added| | 30/04/2024 |
+| |feat/Collantes|131d8a58bff96168553909404afcb583385c917a|fix: scale in css| | 30/04/2024 |
+| |feat/Collantes|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
+| |feat/Collantes|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
+| |feat/Collantes|04b7147a9004fc6698e5d1eab7040a63b99d43fe|feat: home design v1.1| | 01/05/2024 |
+| |feat/Valenzuela|921b04591f4dca368a013c2292ca63ccbf84ad95|fix: correction in dependencies' connection| | 22/04/2024 |
+| |feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: login component| | 22/04/2024 |
+| |feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: register component| | 22/04/2024 |
+| |feat/Valenzuela|ac90c4652c0ccc71a2052534fb06934faf6b1b8c|feat: auth service| | 22/04/2024 |
+| |feat/Valenzuela|872d7ccc5cdc11718bf3754fb021088fafe00bf8|fix: toolbar update| | 28/04/2024 |
+| |feat/Valenzuela|2e9095874dcf90a31ae19af5e6b92497a423c655|feat: routing and server file| | 01/05/2024 |
+| |feat/Valenzuela|0c095c15e84574f620018ec9cf9de3b7407b83f1|feat: home design v1.0| | 01/05/2024 |
 |ComPeru-Frontend|main |  17e286b10d7885ad7cacbc03fc2bdabd3db5f7f0|chore: first commit | |13/05/2024 |
-|ComPeru-Frontend| develop|bc162203bde0445e601b79ddc7c55e260efae88a |feat: Aggregate sidenav| |14/05/2024 |
-|ComPeru-Frontend|develop | d212ebdbcf7c8cdb791ca1c43e8cf566f69d7dfc|feat: aggregate only form Create and Edit product| |14/05/2024 |
-|ComPeru-Frontend| develop|752fc24154b1c1bb1b593f4e657061a3e8193e99 |feat: Aggregate functionality Crud for products in admin | |15/05/2024 |
-|ComPeru-Frontend|develop |675d3b26607fe599ae8f4a55e1e4cc55cba4f941|feat: Aggregate CRUD Product and responsive interface | |15/05/2024 |
-|ComPeru-Frontend| develop|3d26b90e6c0f4c05f2564c217d1e5b17dbf4ddc5 |feat: Aggregate input field in product form for admin | |16/05/2024 |
-|ComPeru-Frontend| develop| a0b6a3f24d1edcd7a4ac9229608315fe5809c774 |fix: Input file fixed| |17/05/2024 |
-|ComPeru-Frontend| | | | | |
+| | develop | bc162203bde0445e601b79ddc7c55e260efae88a |feat: Aggregate sidenav| |14/05/2024 |
+| | develop | d212ebdbcf7c8cdb791ca1c43e8cf566f69d7dfc |feat: aggregate only form Create and Edit product| |14/05/2024 |
+| | develop|752fc24154b1c1bb1b593f4e657061a3e8193e99 |feat: Aggregate functionality Crud for products in admin | |15/05/2024 |
+| |develop |675d3b26607fe599ae8f4a55e1e4cc55cba4f941|feat: Aggregate CRUD Product and responsive interface | |15/05/2024 |
+| | develop|3d26b90e6c0f4c05f2564c217d1e5b17dbf4ddc5 |feat: Aggregate input field in product form for admin | |16/05/2024 |
+| | develop| a0b6a3f24d1edcd7a4ac9229608315fe5809c774 |fix: Input file fixed| |17/05/2024 |
 
 ##### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
+En esta entrega, por motivos de tiempo y falta de experiencia en el área, no se llegó a realizar un repositorio dedicado al testeo de la aplicación web. Se espera tener un avance más significativo para la próxima entrega.  
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+No se pudieron desarrollar endpoints para los servicios de nuestra aplicación, a causa de que el proyecto se basó en desarrollo de frontend que aún no estaba en condición para ese nivel de trabajo.
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Debido a limitaciones de tiempo, el software desarrollado durante esta entrega no pudo ser procesado a tiempo para la etapa de despliegue en una web de nuestra preferencia.
 
 ##### 5.2.2.8. Team Collaboration Insights for Sprint Review
 
+En las fechas de duración del sprint, se llegaron a observar los siguientes avances en nuestros repositorios:
 
-
-
-<br>
-
-<br>
+![]()
 
 #### 5.2.3. Sprint 3
 ##### 5.2.3.1. Sprint Planning 3.
