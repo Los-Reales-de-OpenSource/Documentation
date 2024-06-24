@@ -1504,11 +1504,17 @@ El principal objetivo de este Sprint es crear la página de inicio de la aplicac
 
 #### 5.2.1.2. Sprint Backlog 1 
 
+![Sprint 1 Trello](/images/TrelloSprint1.png)
+
 Ahora presentaremos la primera tabla de los sprints backlogs:
 
 **Sprint 1: Desarrollo de una primera versión del Landing Page**
-|**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 
+| **User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
+|-|-|-|-|-|-|-|
+|US21|US21-1|Plataforma Responsive|Realizado|Desarrollo de un landing page responsivo para nuestro producto|Alessandro Valenzuela|Completado|
+|US22|US22-1|Botones de acción|Realizado|Desarrollo de botones para el movimiento del usuario dentro del landing page y su conexión con el producto|Alessandro Valenzuela|Completado|
+|US23|US23-1|Navegación intuitiva|Realizado|Optimización de la barra de herramientas del landing page para la navegación|Alessandro Valenzuela|Completado|
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
