@@ -49,8 +49,11 @@
 |2.0.5|27/05/2024|Marco Collantes, Elverth Vasquez|Actualización previa al inicio del sprint 3|
 |2.0.6|5/06/2024|Elverth Vasquez, Marco Collantes|Ajustes debido a cambio interno del equipo, preparación para entrega TB2|
 |2.0.7|8/06/2024|Diego Soriano|Agregar partes realizadas y ajustes para lo realizado tanto en backend com frontend para entrega TB2|
-||||
-||||
+|2.1.0|24/06/2024|Marco Collantes|Correcciones hechas en base al feedback de la entrega anterior|
+|2.1.1|25/06/2024|Marco Collantes|Primer avance del Sprint 4|
+|||||
+|||||
+|||||
 <br><br>
 
 # Project Report Collaboration Insights
@@ -1945,6 +1948,16 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
+|ComPeru-platform|feat/Collantes|461608edae0925d79395062b3fb1b5cde170af5f|feat: Review Bounded Context v1||18/06/2024|
+||feat/Collantes|f8f90eb98c7deba870095484e5cd3ee859967182|feat: Review Bounded Context v1.0.1||18/06/2024|
+||feat/Collantes|572ab42dec89a234a1c346357b8095d57d52fd18|feat: Review Bounded Context v1.0.2||18/06/2024|
+||feat/Collantes|641fbbc60e99710b56d49c820ea84478cad2c20e|fix: Updated aggregate Review||19/06/2024|
+||feat/Collantes|3a7ae5f40880bee29847b46030acfce91211ba16|fix: Bounded Context Review ver 1.1.0||19/06/2024|
+||feat/Collantes|0c7c450bd35edd8380c4f458274d63f4b6a93a5e|fix: Bounded Context Review ver 1.1.1||19/06/2024|
+||feat/Collantes|43dee627e213a7dc3dc4e8140b8bf92d501be938|fix: Updates in services for BC Reviews||22/06/2024|
+||feat/Collantes|a546aee490a725c0bf75260cd02c0c12067d82cb|fix: Review Controller||22/06/2024|
+||feat/Collantes|638f35f41204d2032d5f2a6891a28f6d5856ab08|fix: change in Review attributes||23/06/2024|
+|||||||
 
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
