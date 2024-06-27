@@ -1980,10 +1980,14 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 ||feature/Valenzuela|0a3440c888cdfacc4e9d52c0b394e0ed1b1db1ad|Update Authentication||24/06/2024|
 ||feat/Vasquez|9a307ea1c37a30e50cd00aa04bf8bbb23941b93b|feat(iam): Implement IAM||26/06/2024|
 ||feature/Reyes|8ff8eb35bbdbc640263fd510ee96fc6bcf93b7ac|fix: update commands & some queries||26/06/2024|
-|ComPeru-Frontend|origin/user-autentication|f6a44f9a36564d28c43c673f3b6357836cf91618|Update Checkout||25/06/2024|
+||develop|f59c883f5f3f0c73eae5100417db24c2925ec845|feat: orders controller||19/06/2024|
+||develop|2c99247b37859c956b4f940e4e9195a3867362b1|fix(Review): fix logic in bounded context review||26/06/2024|
+||develop|d5aee93263143d8cf9f2291ec39ec3ab5b5d7612|fix(Review): fix logic in bounded context review||26/06/2024|
+|ComPeru-Frontend|develop|38a21b8b936d226e2729df8264bbcc81c5f2abce|fix(wishlist): Fix styles in wishlist||17/06/2024|
+||develop|eff723521e653e9a29b3faf866619d8d8cfe995d|fix(shopping-cart): Fix styles in car||17/06/2024|
+||develop|9245170da626c090987fd265ddf2bae07b26eb72|fix(payment): Fix styles in payment and modify service||17/06/2024|
+||origin/user-autentication|f6a44f9a36564d28c43c673f3b6357836cf91618|Update Checkout||25/06/2024|
 ||feature/Valenzuela|830bfc0432b75b256adc619e8a544065b7f9d608|chore: update frontend||26/06/2024|
-|||||||
-|||||||
 |||||||
 
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
