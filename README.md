@@ -1936,17 +1936,31 @@ A continuación presentaremos la colaboración en grupo que hemos realizado dura
 
 Esta última entrega se vio dedicada en terminar con los respectivos items pendientes de nuestro producto, tanto en frontend como en backend, así como pulir los errores de la entrega anterior. Todos los detalles se pueden apreciar en nuestro Trello cooperativo:
 
-![Trello Sprint 4]()
+![Trello Sprint 4](/images/TrelloSprint4.png)
 
 |**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 |------------|------------------|--------|-------------|------------|------------|--------|
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
+|US01|US01-01|Establecer backend de productos||||Finalizado|
+|US01|US01-02|Función de búsqueda en el controlador de backend||||En proceso|
+|US01|US01-03|Conexión entre backend y frontend||||En proceso|
+|US03|US03-01|Visualización de frontend||||En proceso|
+|US03|US03-02|Funciones de backend||||En proceso|
+|US03|US03-03|Opciones para los usuarios||||En proceso|
+|US04|US04-01|Backend para reseñas y clasificación||||En proceso|
+|US04|US04-02|Visualización de reseñas||||En proceso|
+|US04|US04-03|Busqueda y ordenamiento||||En proceso|
+|US07|US07-01|Backend para reseñas de usuarios||2 semanas|Collantes|En proceso|
+|US07|US07-02|Frontend para reseñas||||En proceso|
+|US07|US07-03|Conexión entre frontend y backend||||En proceso|
+|US09|US09-01|Frontend Carrito de compras||||En proceso|
+|US09|US09-02|Backend para listas de productos||||En proceso|
+|US09|US09-03|Funciones para registrar pagos||||En proceso|
+|US12|US12-01|Backend para autenticación de usuario||||En proceso|
+|US12|US12-02|Despliegue de frontend||||En proceso|
+|US12|US12-03|Funciones de registro y actualización de datos||||En proceso|
+|US18|US18-01|Backend para registro de tiendas||||En proceso|
+|US18|US18-02|Visualización y edición mediante frontend||||En proceso|
+|US18|US18-03|Conexión backend y frontend||||En proceso|
 
 ##### 5.2.4.3. Development Evidence for Sprint Review
 
