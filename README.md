@@ -1982,6 +1982,7 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 ||feat/Collantes|a546aee490a725c0bf75260cd02c0c12067d82cb|fix: Review Controller||22/06/2024|
 ||feat/Collantes|638f35f41204d2032d5f2a6891a28f6d5856ab08|fix: change in Review attributes||23/06/2024|
 ||feature/Valenzuela|0a3440c888cdfacc4e9d52c0b394e0ed1b1db1ad|Update Authentication||24/06/2024|
+||feature/Valenzuela|30d76571c7a9efd6026b3ce6dca2127b1b9edfef|Update: Update Payment and Shipment Bounded Context for payment servico to client||27/06/2024|
 ||feat/Vasquez|9a307ea1c37a30e50cd00aa04bf8bbb23941b93b|feat(iam): Implement IAM||26/06/2024|
 ||feature/Reyes|8ff8eb35bbdbc640263fd510ee96fc6bcf93b7ac|fix: update commands & some queries||26/06/2024|
 ||develop|f59c883f5f3f0c73eae5100417db24c2925ec845|feat: orders controller||19/06/2024|
@@ -1995,7 +1996,7 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 ||develop|04f4dec6c83a027ac844540eae6d9d01bf8fad86|feat(products): implement Post method||27/06/2024|
 ||origin/user-autentication|f6a44f9a36564d28c43c673f3b6357836cf91618|Update Checkout||25/06/2024|
 ||feature/Valenzuela|830bfc0432b75b256adc619e8a544065b7f9d608|chore: update frontend||26/06/2024|
-||feature/Valenzuela|30d76571c7a9efd6026b3ce6dca2127b1b9edfef|Update: Update Payment and Shipment Bounded Context for payment servico to client||27/06/2024|
+|||
 
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
@@ -2006,6 +2007,8 @@ Presentamos en esta ocasión, los que serían los test implementados de nuestra 
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 
+Presentamos en esta ocasión los últimos avances de neustro frontend y backend:
+
 
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
@@ -2014,13 +2017,19 @@ Presentamos en esta ocasión, los que serían los test implementados de nuestra 
 
 ##### 5.2.4.7. Deployment Evidence for Sprint Review
 
-
+Nuestro proyecto sigue con el mismo tipo de despliegue de la entrega pasada
 
 ##### 5.2.4.8 Team Collaboration Insights for Sprint Review
 
 Así es como terminaron las contribuciones del equipo al final del desarrollo de nuestro proyecto, en cada uno de nuestros repositorios de trabajo.
 
 A nivel de backend:
+
+![]()
+
+![]()
+
+A nivel de frontend:
 
 ![]()
 
