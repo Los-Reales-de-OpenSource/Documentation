@@ -1990,6 +1990,9 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 |ComPeru-Frontend|develop|38a21b8b936d226e2729df8264bbcc81c5f2abce|fix(wishlist): Fix styles in wishlist||17/06/2024|
 ||develop|eff723521e653e9a29b3faf866619d8d8cfe995d|fix(shopping-cart): Fix styles in car||17/06/2024|
 ||develop|9245170da626c090987fd265ddf2bae07b26eb72|fix(payment): Fix styles in payment and modify service||17/06/2024|
+||develop|b8a05b9c841aedb91e182e8216e15465e87b2ec4|feat: connect with api||27/06/2024|
+||develop|6626bfb4740294e9e5ffc8bf76e4c8281b9825d5|fix: fix review and wishlist||27/06/2024|
+||develop|04f4dec6c83a027ac844540eae6d9d01bf8fad86|feat(products): implement Post method||27/06/2024|
 ||origin/user-autentication|f6a44f9a36564d28c43c673f3b6357836cf91618|Update Checkout||25/06/2024|
 ||feature/Valenzuela|830bfc0432b75b256adc619e8a544065b7f9d608|chore: update frontend||26/06/2024|
 |||||||
