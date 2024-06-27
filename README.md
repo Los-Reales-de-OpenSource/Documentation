@@ -1995,7 +1995,7 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 ||develop|04f4dec6c83a027ac844540eae6d9d01bf8fad86|feat(products): implement Post method||27/06/2024|
 ||origin/user-autentication|f6a44f9a36564d28c43c673f3b6357836cf91618|Update Checkout||25/06/2024|
 ||feature/Valenzuela|830bfc0432b75b256adc619e8a544065b7f9d608|chore: update frontend||26/06/2024|
-|||||||
+||feature/Valenzuela|30d76571c7a9efd6026b3ce6dca2127b1b9edfef|Update: Update Payment and Shipment Bounded Context for payment servico to client||27/06/2024|
 
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
@@ -2008,9 +2008,23 @@ Presentamos en esta ocasión, los que serían los test implementados de nuestra 
 
 
 
-##### 5.2.4.6. Deployment Evidence for Sprint Review
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 
+
+##### 5.2.4.7. Deployment Evidence for Sprint Review
+
+
+
+##### 5.2.4.8 Team Collaboration Insights for Sprint Review
+
+Así es como terminaron las contribuciones del equipo al final del desarrollo de nuestro proyecto, en cada uno de nuestros repositorios de trabajo.
+
+A nivel de backend:
+
+![]()
+
+![]()
 
 ### 5.3 Validation Interviews
 
