@@ -1428,11 +1428,11 @@ En esta sección se definirá las herramientas y productos de software que se ut
 
 Nuestro proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones. Links del repositorio de GitHub:
 
-- Link de la organización: https://github.com/NaggitBallona/Los-Reales-de-Open-Source
-- Link de la landing page: 
-- Link del informe: https://github.com/NaggitBallona/Los-Reales-de-Open-Source/blob/main/README.md
-- Link del Front-end:
-- Link del Back-end:
+- Link de la organización: https://github.com/SI729-2401-WS51-Grupo-1
+- Link de la landing page: https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-Landing-Page
+- Link del informe: https://github.com/SI729-2401-WS51-Grupo-1/Documentation
+- Link del Front-end: https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-Frontend 
+- Link del Back-end: https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-platform
 
 Estructura de las ramas:
 
@@ -1923,10 +1923,10 @@ A continuación presentaremos la colaboración en grupo que hemos realizado dura
 | **Date:**                   | 2024-06-24 |
 | **Time:**                   | 10:00 am |
 | **Location:**               | UPC San Miguel B708 |
-| **Prepared By:**            | Vásquez Villalobos Elverth Jair|
+| **Prepared By:**            | Vásquez Villalobos, Elverth Jair|
 | **Attendees (to planning meeting):** | Vásquez Elverth, Diego Soriano, Fabian Reyes, Marco Collantes,  Valenzuela Alessandro|
-| **Sprint 3 Review Summary** |  |
-| **Sprint 3 Retrospective Summary** | |
+| **Sprint 3 Review Summary** | Esta entrega fue más que nada un control de daños respecto al rendimiento del equipo y la aplicación en la entrega anterior, y se buscó mejorar todo lo ya existente al mismo tiempo que se integraban los nuevos componentes como las páginas de frontend nuevas o el prototipo de backend |
+| **Sprint 3 Retrospective Summary** | En retrospectiva, esta entrega consiguió mejorar la situación del proyecto pero también reveló varios puntos débiles que deben de ser corregidos en poco tiempo para asegurar el futuro éxito del proyecto |
 | **Sprint Goal & User Stories** | |
 | **Sprint 4 Goal:**             | Finalizar el desarrollo de la aplicación con la menor cantidad de errores posible
 | **Sprint 4 Velocity:**         |  |
@@ -1940,6 +1940,12 @@ Esta última entrega se vio dedicada en terminar con los respectivos items pendi
 
 |**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 |------------|------------------|--------|-------------|------------|------------|--------|
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
 ||||||||
 
 ##### 5.2.4.3. Development Evidence for Sprint Review
