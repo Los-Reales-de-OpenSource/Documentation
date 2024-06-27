@@ -1929,8 +1929,8 @@ A continuación presentaremos la colaboración en grupo que hemos realizado dura
 | **Sprint 3 Retrospective Summary** | En retrospectiva, esta entrega consiguió mejorar la situación del proyecto pero también reveló varios puntos débiles que deben de ser corregidos en poco tiempo para asegurar el futuro éxito del proyecto |
 | **Sprint Goal & User Stories** | |
 | **Sprint 4 Goal:**             | Finalizar el desarrollo de la aplicación con la menor cantidad de errores posible
-| **Sprint 4 Velocity:**         |  |
-| **Sum of Story Points:**       |  |
+| **Sprint 4 Velocity:**         | 28 |
+| **Sum of Story Points:**       | 100 |
 
 ##### 5.2.4.2. Sprint Backlog
 
@@ -1940,27 +1940,27 @@ Esta última entrega se vio dedicada en terminar con los respectivos items pendi
 
 |**User Story** | **Work-Item / Task** | **Título** | **Descripción** | **Estimación** | **Asignado a** | **Estado** |
 |------------|------------------|--------|-------------|------------|------------|--------|
-|US01|US01-01|Establecer backend de productos||||Finalizado|
-|US01|US01-02|Función de búsqueda en el controlador de backend||||En proceso|
-|US01|US01-03|Conexión entre backend y frontend||||En proceso|
-|US03|US03-01|Visualización de frontend||||En proceso|
-|US03|US03-02|Funciones de backend||||En proceso|
-|US03|US03-03|Opciones para los usuarios||||En proceso|
-|US04|US04-01|Backend para reseñas y clasificación||||En proceso|
-|US04|US04-02|Visualización de reseñas||||En proceso|
-|US04|US04-03|Busqueda y ordenamiento||||En proceso|
+|US01|US01-01|Establecer backend de productos||1 semana|Vasquez|Finalizado|
+|US01|US01-02|Función de búsqueda en el controlador de backend||1 semana|Vasquez, Valenzuela|En proceso|
+|US01|US01-03|Conexión entre backend y frontend||1 semana y media|Valenzuela, Vasquez|En proceso|
+|US03|US03-01|Visualización de frontend||1 semana y media|Valenzuela|En proceso|
+|US03|US03-02|Funciones de backend||2 semanas|Vasquez, Soriano|En proceso|
+|US03|US03-03|Opciones para los usuarios||2 semanas|Vasquez, Soriano|En proceso|
+|US04|US04-01|Backend para reseñas y clasificación||2 semanas|Collantes, Vasquez|En proceso|
+|US04|US04-02|Visualización de reseñas||2 semanas|Vasquez, Soriano|En proceso|
+|US04|US04-03|Busqueda y ordenamiento||1 semana|Vasquez, Valenzuela|En proceso|
 |US07|US07-01|Backend para reseñas de usuarios||2 semanas|Collantes|En proceso|
-|US07|US07-02|Frontend para reseñas||||En proceso|
-|US07|US07-03|Conexión entre frontend y backend||||En proceso|
-|US09|US09-01|Frontend Carrito de compras||||En proceso|
-|US09|US09-02|Backend para listas de productos||||En proceso|
-|US09|US09-03|Funciones para registrar pagos||||En proceso|
-|US12|US12-01|Backend para autenticación de usuario||||En proceso|
-|US12|US12-02|Despliegue de frontend||||En proceso|
-|US12|US12-03|Funciones de registro y actualización de datos||||En proceso|
-|US18|US18-01|Backend para registro de tiendas||||En proceso|
-|US18|US18-02|Visualización y edición mediante frontend||||En proceso|
-|US18|US18-03|Conexión backend y frontend||||En proceso|
+|US07|US07-02|Frontend para reseñas||2 semanas|Vasquez|En proceso|
+|US07|US07-03|Conexión entre frontend y backend||2 semanas|Valenzuela, Reyes|En proceso|
+|US09|US09-01|Frontend Carrito de compras||2 semanas|Valenzuela, Reyes|En proceso|
+|US09|US09-02|Backend para listas de productos||2 semanas|Reyes|En proceso|
+|US09|US09-03|Funciones para registrar pagos||1 semana y media|Soriano|En proceso|
+|US12|US12-01|Backend para autenticación de usuario||1 semana y media|Vasquez, Reyes|En proceso|
+|US12|US12-02|Despliegue de frontend||1 semana y media|Vasquez, Soriano|En proceso|
+|US12|US12-03|Funciones de registro y actualización de datos||1 semana y media|Vasquez|En proceso|
+|US18|US18-01|Backend para registro de tiendas||1 semana|Vasquez, Soriano|En proceso|
+|US18|US18-02|Visualización y edición mediante frontend||1 semana|Valenzuela, Reyes|En proceso|
+|US18|US18-03|Conexión backend y frontend||1 semana|Valenzuela, Reyes|En proceso|
 
 ##### 5.2.4.3. Development Evidence for Sprint Review
 
@@ -1977,6 +1977,14 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 ||feat/Collantes|43dee627e213a7dc3dc4e8140b8bf92d501be938|fix: Updates in services for BC Reviews||22/06/2024|
 ||feat/Collantes|a546aee490a725c0bf75260cd02c0c12067d82cb|fix: Review Controller||22/06/2024|
 ||feat/Collantes|638f35f41204d2032d5f2a6891a28f6d5856ab08|fix: change in Review attributes||23/06/2024|
+||feature/Valenzuela|0a3440c888cdfacc4e9d52c0b394e0ed1b1db1ad|Update Authentication||24/06/2024|
+||feat/Vasquez|9a307ea1c37a30e50cd00aa04bf8bbb23941b93b|feat(iam): Implement IAM||26/06/2024|
+||feature/Reyes|8ff8eb35bbdbc640263fd510ee96fc6bcf93b7ac|fix: update commands & some queries||26/06/2024|
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
 |||||||
 
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
