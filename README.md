@@ -51,7 +51,7 @@
 |2.0.7|8/06/2024|Diego Soriano|Agregar partes realizadas y ajustes para lo realizado tanto en backend com frontend para entrega TB2|
 |2.1.0|24/06/2024|Marco Collantes|Correcciones hechas en base al feedback de la entrega anterior|
 |2.1.1|25/06/2024|Marco Collantes|Primer avance del Sprint 4|
-|||||
+|2.1.2|26/06/2024|Marco Collantes|Actualización de links y del Sprint 4|
 |||||
 |||||
 <br><br>
@@ -85,7 +85,9 @@ del ABET – EAC - Student Outcome 3.
           <strong>TP:</strong><br> 
           En esta entrega me propuse en mejorar todo lo que pudiese respecto a la entrega anterior, así como mejorar la comunicación que tenía con mis compañeros por cualquier medio. Personalmente aún siento ciertos obstáculos para una comunicación efectiva al 100%, pero aprecio un poco la mejora<br> 
            <strong>TB2:</strong><br>
-           Esta entrega nos llegó a abrumar un poco debido a todos los elementos que se tuvieron que actualizar y mejorar para un mejor producto posible, y hubo momentos en los que no se pudo llegar a un punto en común respecto al desarrollo. Aún así busqué alternativas para ver como mejorar el trabajo, y participé en lo que tenía control para que no se complicase más la situación.<br><br>  
+           Esta entrega nos llegó a abrumar un poco debido a todos los elementos que se tuvieron que actualizar y mejorar para un mejor producto posible, y hubo momentos en los que no se pudo llegar a un punto en común respecto al desarrollo. Aún así busqué alternativas para ver como mejorar el trabajo, y participé en lo que tenía control para que no se complicase más la situación.<br>
+           <strong>TF:</strong><br> 
+          Ciertamente esta entrega puso a prueba el trabajo en equipo del grupo, así como nuestros conocimientos y capacidad para poder completar el trabajo en un tiempo tan corto. He tenido que comunicar con mis compañeros algunas posibles soluciones y también escuché diferentes propuestas para lo que podría ser nuestro último esfuerzo, y tal vez todos aprendamos algo de esta experiencia<br>  
          <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
           <strong>TB1:</strong><br> 
           Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
@@ -134,7 +136,9 @@ del ABET – EAC - Student Outcome 3.
           <strong>TP:</strong><br> 
           Debido a las circunstancias que atravesamos en la entrega anterior no hubo muchos cambios respecto a esta entrega en mis items asignados, así que me dedique a buscar formas de mejorar el material existente en base a lo solicitado<br>
           <strong>TB2:</strong><br> 
-          Experimenté algunas complicaciones menores para comunicarme con mis compañeros, pero mantuve la calma a la hora de trabajar seriamente en lo que se me fue asignado. Aunque admito que no toda la comunicación durante este sprint fue de la mejor condición, y el cambio del modelo de trabajo por parte del coordinador no me parece el mejor manejado<br><br>
+          Experimenté algunas complicaciones menores para comunicarme con mis compañeros, pero mantuve la calma a la hora de trabajar seriamente en lo que se me fue asignado. Aunque admito que no toda la comunicación durante este sprint fue de la mejor condición, y el cambio del modelo de trabajo por parte del coordinador no me parece el mejor manejado<br>
+          <strong>TF:</strong><br> 
+          Me centré en las tareas sobre las cuales tenía mejor control, así como cualquier sugerencia que me podrían dar mis compañeros para trabajar lo más eficiente que se puede. Puede que tal vez no haya sido mucho, pero por lo menos aprecio el esfuerzo que se ha hecho por parte de todos<br>
           <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
           <strong>TB1:</strong><br> 
           Para la entrega me encargue de realizar los diagramas que daran base para el desarrollo de nuestro sistema aplicando los principios basicos del diseño para cada tipo de diagrama.<br><br> 
