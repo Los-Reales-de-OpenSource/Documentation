@@ -1980,9 +1980,8 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 ||feature/Valenzuela|0a3440c888cdfacc4e9d52c0b394e0ed1b1db1ad|Update Authentication||24/06/2024|
 ||feat/Vasquez|9a307ea1c37a30e50cd00aa04bf8bbb23941b93b|feat(iam): Implement IAM||26/06/2024|
 ||feature/Reyes|8ff8eb35bbdbc640263fd510ee96fc6bcf93b7ac|fix: update commands & some queries||26/06/2024|
-|||||||
-|||||||
-|||||||
+|ComPeru-Frontend|origin/user-autentication|f6a44f9a36564d28c43c673f3b6357836cf91618|Update Checkout||25/06/2024|
+||feature/Valenzuela|830bfc0432b75b256adc619e8a544065b7f9d608|chore: update frontend||26/06/2024|
 |||||||
 |||||||
 |||||||
@@ -1993,6 +1992,14 @@ Presentamos en esta ocasión, los que serían los test implementados de nuestra 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+
+##### 5.2.4.6. Deployment Evidence for Sprint Review
+
+
 
 ### 5.3 Validation Interviews
 
