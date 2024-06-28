@@ -59,7 +59,7 @@
 
 Más detalles en: https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-Frontend/graphs/contributors
 
-## **SPRINT 1**
+### SPRINT 1
 En las fechas de duración del sprint, se llegaron a observar los siguientes avances en nuestros repositorios:
 
 #### Team Collaboration Insights during Sprint.
@@ -76,7 +76,7 @@ En las fechas de duración del sprint, se llegaron a observar los siguientes ava
 
 
 
-## **SPRINT 2**
+### SPRINT 2
 En las fechas de duración del sprint, se llegaron a observar los siguientes avances en nuestros repositorios:
 
 ##### Team Collaboration Insights for Sprint Review
@@ -84,7 +84,7 @@ En las fechas de duración del sprint, se llegaron a observar los siguientes ava
 ![](/images/NetworkFrontSprint2.png)
 
 
-## **SPRINT 3**
+### SPRINT 3
 A continuación presentaremos la colaboración en grupo que hemos realizado durante este sprint. Para la organización de activades se le asignó a cada integrante ciertas tareas y funcionalidades a desarrollar en herramientas como Trello.
 
 ##### Team Collaboration Insights for Sprint Review
@@ -106,7 +106,7 @@ A continuación presentaremos la colaboración en grupo que hemos realizado dura
 ![Frontend evidence 3](./images/evidence-sprint-3-6.png)
 
 
-## **SPRINT 4**
+### SPRINT 4
 Así es como terminaron las contribuciones del equipo al final del desarrollo de nuestro proyecto, en cada uno de nuestros repositorios de trabajo.
 
 ##### Team Collaboration Insights for Sprint Review
@@ -123,11 +123,6 @@ A nivel de frontend:
 ![](/images/LastMonthFront.png)
 
 ![](/images/NetworkFrontend.png)
-
-
-
-
-
 
 
 
