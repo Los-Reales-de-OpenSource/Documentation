@@ -1520,7 +1520,9 @@ Debido a limitaciones de tiempo, el software desarrollado durante esta entrega n
 
 En las fechas de duración del sprint, se llegaron a observar los siguientes avances en nuestros repositorios:
 
-![]()
+![](/images/NetworkFrontSprint2.png)
+
+Detalles adicionales en: https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-Frontend/network
 
 #### 5.2.3. Sprint 3
 ##### 5.2.3.1. Sprint Planning 3.
