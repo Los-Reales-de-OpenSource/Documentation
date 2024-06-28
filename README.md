@@ -2127,7 +2127,8 @@ ComPeru es una plataforma que busca revolucionar la manera en que los usuarios f
 
 En esta sección el equipo, elaboramos un resumen de los aspectos más relevantes del video About-The-Team:
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/ET9IOmDK-NBDvPWE7nHgmUsBcWHC5NDftz-T_GmmZoBF2g?e=wFOcCt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/ET1S-OsXIvJNm1B8tK2rhSwBSF9tuH6fC8r4ckrMMsGowA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yUdyqw
+
 
 # Bibliografía
 
