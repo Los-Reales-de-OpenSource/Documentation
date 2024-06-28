@@ -73,114 +73,81 @@ del ABET – EAC - Student Outcome 3.
 
 <table align="center">
     <tr>
-      <th>Criterio específico</th>
-      <th>Acciones Realizadas</th>
-      <th>Conclusiones</th>
+        <th>Criterio específico</th>
+        <th>Acciones Realizadas</th>
+        <th>Conclusiones</th>
     </tr>
     <tr>
-        <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-          <td><strong>Collantes Artola, Marco Antonio</strong><br>
-          <strong>TB1:</strong><br> 
-          Durante esta entrega me centré en comunicarles a mis compañeros sobre las mejores maneras para realizar los items de esta entrega, aunque admito que experimenté complicaciones para adaptarme a su estilo de trabajo<br>
-          <strong>TP:</strong><br> 
-          En esta entrega me propuse en mejorar todo lo que pudiese respecto a la entrega anterior, así como mejorar la comunicación que tenía con mis compañeros por cualquier medio. Personalmente aún siento ciertos obstáculos para una comunicación efectiva al 100%, pero aprecio un poco la mejora<br> 
-           <strong>TB2:</strong><br>
-           Esta entrega nos llegó a abrumar un poco debido a todos los elementos que se tuvieron que actualizar y mejorar para un mejor producto posible, y hubo momentos en los que no se pudo llegar a un punto en común respecto al desarrollo. Aún así busqué alternativas para ver como mejorar el trabajo, y participé en lo que tenía control para que no se complicase más la situación.<br>
-           <strong>TF:</strong><br> 
-          Ciertamente esta entrega puso a prueba el trabajo en equipo del grupo, así como nuestros conocimientos y capacidad para poder completar el trabajo en un tiempo tan corto. He tenido que comunicar con mis compañeros algunas posibles soluciones y también escuché diferentes propuestas para lo que podría ser nuestro último esfuerzo, y tal vez todos aprendamos algo de esta experiencia<br>  
-         <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
-          <strong>TB1:</strong><br> 
-          Durante la entrega me encargue de dar guia de como realizar las partes del trabajo de manera comunicativa, empatica y centrada. Para una mejor resolucion del trabajo.<br><br> 
-           <strong>TP:</strong><br> 
-          .<br>En esta entrega, mi objetivo fue mejorar en todos los aspectos posibles con respecto a entregas anteriores y fortalecer la comunicación con mis compañeros en todos los medios disponibles. Aunque reconozco que aún existen obstáculos para lograr una comunicación perfecta, noto cierta mejoría en este aspecto.
-
-<br> 
-           <strong>TB2:</strong><br> 
-          <br>Durante esta fase, nos enfrentamos a una carga abrumadora de actualizaciones y mejoras necesarias para obtener un producto final de calidad. A pesar de los desafíos, busqué alternativas para mejorar nuestro trabajo y participé activamente en la búsqueda de soluciones para evitar complicaciones adicionales.<br>  
-	        <strong>Vásquez Villalobos, Elverth Jair</strong><br>
-          <strong>TB1:</strong><br> 
-          Trabajamos en conjunto para resolver conflictos que se presentaron al desarrollar las entregas de cada uno de los items. Brindamos capacitación y ayuda a aquellos compañeros que tenían desconocimiento en el desarrollo del trabajo. <br><br> 
-          <strong>TP:</strong><br> 
-          En esta entrega mejoré varios aspectos críticos del trabajo, comuniqué a mis compañeros mis correcciones y mis avances. Así mismo, busqué mejorar la comunicación con el equipo para tener en claro la idea del proyecto y establecer una línea de desarrollo integral. Esto lo realicé mediante la comunicación escrita y oral en reuniones con el equipo para mejorar ciertos aspectos en el proyecto. <br><br> 
-           <strong>TB2:</strong><br> 
-          En esta entrega organicé a mis compañeros para poder culminar con las actividades respectivas y realizar mejoras en el proyecto. Debido a la incorporación de un nuevo integrante y el abandono de otro tuvimos que adaptarnos y tratar de conseguir una comunicación asertiva. Considero que esto no se ha cumplido del todo pese a intentar llegar a una organización óptima para el avance del proyecto. Realicé la repartición de asignaciones en el sprint backlog para cumplir con el desarrollo de la mayoría de funcionalidades que requiere la apliación.
-          <br><br> 
-          <strong>Reyes Trujillano, Fabian Alonso</strong><br>
-          <strong>TB1:</strong><br> 
-	        Trabajé junto a mis compañeros aportando con diferentes ideas, edición del informe, arquitectura del software, etc.<br><br> 
-           <strong>TP:</strong><br> 
-         o.<br> En esta entrega contribui con diferentes opiniones sobre el futuro de nuestro trabajo, a pesar de las dificultades que tuvimos.<br> 
-           <strong>TB2: </strong><br> 
-          .<br>En esta entrega tuve una participación más activa, finalizando con dos bounded context y aportando en algunos otros. A pesar de las dificultades que tuvimos, considero que nuestra entrega es correcta.<br> 
-          <br><br> 
-          <strong>Soriano, Diego</strong><br>
-           <strong>TB2:</strong><br>
-          Empecé a colaborar en el proyecto realizando las tareas que me designaron y tu ve que realizar partes de mejora tanto en el lado frontend de la aplicación y realizar tareas del lado backend consultando siempre con el equipo.
-          <br><br>
-          <td>
-          <strong>TB1:</strong><br>
-          Se requiere cierto nivel de comunicación para poder trabajar en una entrega tan completa como esta,de forma que se dé a conocer que es necesario para avanzar sin problemas<br><br>
-          <strong>TP:</strong><br>
-          Fue importante la organizacion de reuniones para mejorar los aspectos revisados y mejorar la idea del proyecto.
-          <br><br>
-           <strong>TB2:</strong><br>
-          Llegamos a la conclusión de que necesitamos de una mejoría para la próxima entrega en cuestión de organización por parte del equipo . Esto lo iremos mejorando con reuniones en equipo y el uso de herramientas como Trello para la asignación de responsabilidades.
-          <br><br>
+        <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
         <td>
-      </tr>
+            <strong>Collantes Artola, Marco Antonio</strong><br>
+            <strong>TB1:</strong> Durante esta entrega me centré en comunicarles a mis compañeros sobre las mejores maneras para realizar los ítems de esta entrega, aunque admito que experimenté complicaciones para adaptarme a su estilo de trabajo.<br>
+            <strong>TP:</strong> En esta entrega me propuse mejorar todo lo que pudiese respecto a la entrega anterior, así como mejorar la comunicación que tenía con mis compañeros por cualquier medio. Personalmente aún siento ciertos obstáculos para una comunicación efectiva al 100%, pero aprecio un poco la mejora.<br> 
+            <strong>TB2:</strong> Esta entrega nos llegó a abrumar un poco debido a todos los elementos que se tuvieron que actualizar y mejorar para un mejor producto posible, y hubo momentos en los que no se pudo llegar a un punto en común respecto al desarrollo. Aun así, busqué alternativas para ver cómo mejorar el trabajo, y participé en lo que tenía control para que no se complicase más la situación.<br>
+            <strong>TF:</strong> Ciertamente esta entrega puso a prueba el trabajo en equipo del grupo, así como nuestros conocimientos y capacidad para poder completar el trabajo en un tiempo tan corto. He tenido que comunicar con mis compañeros algunas posibles soluciones y también escuché diferentes propuestas para lo que podría ser nuestro último esfuerzo, y tal vez todos aprendamos algo de esta experiencia.<br>  
+            <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
+            <strong>TB1:</strong> Durante la entrega me encargué de dar guía de cómo realizar las partes del trabajo de manera comunicativa, empática y centrada para una mejor resolución del trabajo.<br> 
+            <strong>TP:</strong> En esta entrega, mi objetivo fue mejorar en todos los aspectos posibles con respecto a entregas anteriores y fortalecer la comunicación con mis compañeros en todos los medios disponibles. Aunque reconozco que aún existen obstáculos para lograr una comunicación perfecta, noto cierta mejoría en este aspecto.<br> 
+            <strong>TB2:</strong> Durante esta fase, nos enfrentamos a una carga abrumadora de actualizaciones y mejoras necesarias para obtener un producto final de calidad. A pesar de los desafíos, busqué alternativas para mejorar nuestro trabajo y participé activamente en la búsqueda de soluciones para evitar complicaciones adicionales.<br> 
+            <strong>TF:</strong> Esta última entrega fue un verdadero reto, pero también una oportunidad para demostrar lo que hemos aprendido. Me esforcé por comunicarme de manera clara y efectiva con el equipo, proponiendo ideas y soluciones para los problemas que surgían. Creo que nuestra capacidad de trabajar juntos ha mejorado bastante.<br>
+            <strong>Vásquez Villalobos, Elverth Jair</strong><br>
+            <strong>TB1:</strong> Trabajamos en conjunto para resolver conflictos que se presentaron al desarrollar las entregas de cada uno de los ítems. Brindamos capacitación y ayuda a aquellos compañeros que tenían desconocimiento en el desarrollo del trabajo.<br> 
+            <strong>TP:</strong> En esta entrega mejoré varios aspectos críticos del trabajo, comuniqué a mis compañeros mis correcciones y mis avances. Así mismo, busqué mejorar la comunicación con el equipo para tener en claro la idea del proyecto y establecer una línea de desarrollo integral. Esto lo realicé mediante la comunicación escrita y oral en reuniones con el equipo para mejorar ciertos aspectos en el proyecto.<br> 
+            <strong>TB2:</strong> En esta entrega organicé a mis compañeros para poder culminar con las actividades respectivas y realizar mejoras en el proyecto. Debido a la incorporación de un nuevo integrante y el abandono de otro tuvimos que adaptarnos y tratar de conseguir una comunicación asertiva. Considero que esto no se ha cumplido del todo pese a intentar llegar a una organización óptima para el avance del proyecto. Realicé la repartición de asignaciones en el sprint backlog para cumplir con el desarrollo de la mayoría de funcionalidades que requiere la aplicación.<br>
+            <strong>TF:</strong> Esta entrega final fue un desafío significativo, especialmente con los cambios en el equipo. A pesar de las dificultades, traté de mantener una comunicación clara y efectiva con todos los miembros. Creo que hemos aprendido mucho sobre la importancia de la colaboración y la organización en un proyecto de esta magnitud.<br>
+            <strong>Reyes Trujillano, Fabian Alonso</strong><br>
+            <strong>TB1:</strong> Trabajé junto a mis compañeros aportando con diferentes ideas, edición del informe, arquitectura del software, etc.<br>
+            <strong>TP:</strong> En esta entrega contribuí con diferentes opiniones sobre el futuro de nuestro trabajo, a pesar de las dificultades que tuvimos.<br>
+            <strong>TB2:</strong> En esta entrega tuve una participación más activa, finalizando con dos bounded context y aportando en algunos otros. A pesar de las dificultades que tuvimos, considero que nuestra entrega es correcta.<br>
+            <strong>TF:</strong> Esta entrega final me permitió ver cuánto hemos crecido como equipo. Me aseguré de que mi comunicación con los compañeros fuera clara y efectiva, especialmente en la coordinación de tareas y la resolución de problemas. Estoy orgulloso del esfuerzo que todos hemos puesto.<br>
+            <strong>Soriano, Diego</strong><br>
+            <strong>TB2:</strong> Empecé a colaborar en el proyecto realizando las tareas que me designaron y tuve que realizar partes de mejora tanto en el lado frontend de la aplicación y realizar tareas del lado backend consultando siempre con el equipo.<br>
+            <strong>TF:</strong> En esta entrega final, me centré en asegurar que mis contribuciones al proyecto fueran claras y efectivas. Colaboré estrechamente con el equipo para asegurar que todas las piezas encajaran bien, y aprendí mucho sobre la importancia de la comunicación en cada etapa del desarrollo.<br>
+            <strong>TF:</strong> Nos aseguramos de que la comunicación oral en las reuniones y discusiones del equipo fuera clara y efectiva, lo que facilitó la coordinación de tareas y la resolución de problemas durante el desarrollo del proyecto.
+        </td>
+        <td>
+            <strong>TB1:</strong> Se requiere cierto nivel de comunicación para poder trabajar en una entrega tan completa como esta, de forma que se dé a conocer que es necesario para avanzar sin problemas.<br>
+            <strong>TP:</strong> Fue importante la organización de reuniones para mejorar los aspectos revisados y mejorar la idea del proyecto.<br>
+            <strong>TB2:</strong> Llegamos a la conclusión de que necesitamos de una mejoría para la próxima entrega en cuestión de organización por parte del equipo. Esto lo iremos mejorando con reuniones en equipo y el uso de herramientas como Trello para la asignación de responsabilidades.<br>
+            <strong>TF:</strong> En la entrega final, todos los miembros del equipo demostraron una mejora significativa en su capacidad de comunicar ideas y resultados tanto oralmente como por escrito. La colaboración efectiva y la clara asignación de responsabilidades fueron fundamentales para el éxito del proyecto.
+        </td>
+    </tr>
     <tr>
-        <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-          <td><strong>Collantes Artola, Marco Antonio</strong><br>
-          <strong>TB1:</strong><br> 
-          Me aseguré de redactar los items que me fueron asignados en el documento, así como informar a mis compañeros de cualquier avance o mejora que pude haber hecho respecto a la idea base del proyecto<br>
-          <strong>TP:</strong><br> 
-          Debido a las circunstancias que atravesamos en la entrega anterior no hubo muchos cambios respecto a esta entrega en mis items asignados, así que me dedique a buscar formas de mejorar el material existente en base a lo solicitado<br>
-          <strong>TB2:</strong><br> 
-          Experimenté algunas complicaciones menores para comunicarme con mis compañeros, pero mantuve la calma a la hora de trabajar seriamente en lo que se me fue asignado. Aunque admito que no toda la comunicación durante este sprint fue de la mejor condición, y el cambio del modelo de trabajo por parte del coordinador no me parece el mejor manejado<br>
-          <strong>TF:</strong><br> 
-          Me centré en las tareas sobre las cuales tenía mejor control, así como cualquier sugerencia que me podrían dar mis compañeros para trabajar lo más eficiente que se puede. Puede que tal vez no haya sido mucho, pero por lo menos aprecio el esfuerzo que se ha hecho por parte de todos<br>
-          <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
-          <strong>TB1:</strong><br> 
-          Para la entrega me encargue de realizar los diagramas que daran base para el desarrollo de nuestro sistema aplicando los principios basicos del diseño para cada tipo de diagrama.<br><br> 
-          <strong>TP:</strong><br> 
-          .<br>En esta entrega, no hubo cambios significativos en los elementos que me fueron asignados con respecto a la entrega anterior. Por lo tanto, me enfoqué en mejorar el material existente de acuerdo a las solicitudes previas.<br>
-          <strong>TB2:</strong><br> 
-         .<br>Durante este período, enfrenté algunas dificultades menores en la comunicación con mis compañeros. Sin embargo, mantuve la calma y me concentré en mi trabajo asignado. Aunque admito que la comunicación durante este sprint no fue óptima, considero que el cambio en el modelo de trabajo por parte del coordinador podría ser mejor gestionado.<br>
-	        <strong>Vásquez Villalobos, Elverth Jair</strong><br>
-          <strong>TB1:</strong><br> 
-          Cumplimos con cada uno de los items designados a cada uno de los integrantes del equipo, nos aseguramos de comunicar el avance de cada miembro y utilizamos un repositorio para el registro de versiones y el avance en equipo. <br><br> 
-          <strong>TP:</strong><br> 
-          En esta entrega comuniqué las mejoras realizadas en items que fueron revisados por el docente. Traté de guiar a mi equipo para tener en claro la idea que estamos construyendo. He percibido mejora en la comunicación con mis compañeros pero considero que aún quedan aspectos a trabajarse. <br><br> 
-          <strong>TB2:</strong><br> 
-          Traté de comunicar mis ideas mediante mensajes y asignaciones en herramientas como Trello. Considero necesario mejorar la comunicación con el equipo para poder avanzar con el proyecto y cumplir con las entregas en el plazo establecido. 
-          Así mismo, organicé el sprint backlog y realicé la asignación de tareas a mi equipo para culminar con el desarrollo del frontend de la aplicación y tener conocimiento del desarrollo del bounded context que se le asignó a cada integrante.
-          <br><br>
-	  <strong>Reyes Trujillano, Fabian Alonso</strong><br>
-          <strong>TB1:</strong><br> 
-          Me encargue de realizar los wireframes y mock-ups del landing page de nuestro trabajo, asi como completar con diferentes items de cada capítulo.<br><br> 
-          <strong>TP: Me encargué de entregar la primera version del "product-page" que incluye una vista completa de los productos disponibles, una barra de búsqueda y un panel de filtros. </strong><br> 
-          .<br><br>
-          <strong>TB2:En esta entrega me encargué del desarrollo del frontend para el bounded context de Shipping, Wishlist y parte de otros bc, fue completado la wishlist de la plataforma, el carrito de compras, el formulario de envios, entre otras funcionalidades. Para la primera version del backend, implemente el bounded context de perfil de usuario y parte del bc de shipping.</strong><br> 
-          .<br><br>
-          <strong>Soriano, Diego</strong><br>
-           <strong>TB2:</strong><br>
-          Al desarrollar y colaborar en ciertos aspectos para la mejoria de la aplicación note la necesidad de comunicar necesidades y obsevaciones al equipo sobre aspectos relacionados al dominio del negocio que no estaban del todo claros.
-          <br><br>  
+        <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
         <td>
-         <strong>TB1:</strong><br>
-          Fue importante la comunicacion para la organizacion del informe y la construccion de la idea del proyecto.
-          <br><br>
-          <strong>TP:</strong><br>
-          En este entrega fue importante la comunicacion mediante diferentes medios , ya sea por reuniones con el equipo o por mensajes de texto para comunicar los cambios realizados en el informe.
-          <br><br>
-           <strong>TB2:</strong><br>
-          Para esta entrega fue importante la comunicación mediante de mensajes de textos y el uso de herramientas de asignación de tareas como Trello. Mediante el uso de estas herramientas cada miembro del equipo tenía conocimiento de las tareas que estaba desarrollando su compañero y de esa manera tener un avance óptimo en la creación de nuestra RESTful Api y la culminación del Frontend.
-          <br><br>
+            <strong>Collantes Artola, Marco Antonio</strong><br>
+            <strong>TB1:</strong> Me aseguré de redactar los ítems que me fueron asignados en el documento, así como informar a mis compañeros de cualquier avance o mejora que pude haber hecho respecto a la idea base del proyecto.<br>
+            <strong>TP:</strong> Debido a las circunstancias que atravesamos en la entrega anterior no hubo muchos cambios respecto a esta entrega en mis ítems asignados, así que me dediqué a buscar formas de mejorar el material existente en base a lo solicitado.<br>
+            <strong>TB2:</strong> Experimenté algunas complicaciones menores para comunicarme con mis compañeros, pero mantuve la calma a la hora de trabajar seriamente en lo que se me fue asignado. Aunque admito que no toda la comunicación durante este sprint fue de la mejor condición, y el cambio del modelo de trabajo por parte del coordinador no me parece el mejor manejado.<br>
+            <strong>TF:</strong> Me centré en las tareas sobre las cuales tenía mejor control, así como cualquier sugerencia que me podrían dar mis compañeros para trabajar lo más eficiente que se puede. Puede que tal vez no haya sido mucho, pero por lo menos aprecio el esfuerzo que se ha hecho por parte de todos.<br>
+            <strong>Valenzuela Vallejos, Alessandro Stefano</strong><br>
+            <strong>TB1:</strong> Realicé diagramas básicos para el desarrollo del sistema, al mismo tiempo que explicaba cada uno de estos a mis compañeros.<br> 
+            <strong>TP:</strong> Debido a las circunstancias que atravesamos en la entrega anterior no hubo muchos cambios respecto a esta entrega en mis ítems asignados, así que me dediqué a buscar formas de mejorar el material existente en base a lo solicitado.<br> 
+            <strong>TB2:</strong> Experimenté algunas complicaciones menores para comunicarme con mis compañeros, pero mantuve la calma a la hora de trabajar seriamente en lo que se me fue asignado. Aunque admito que no toda la comunicación durante este sprint fue de la mejor condición, y el cambio del modelo de trabajo por parte del coordinador no me parece el mejor manejado.<br> 
+            <strong>TF:</strong> Me aseguré de que todas mis contribuciones escritas fueran claras y concisas, para que pudieran ser comprendidas por cualquier miembro del equipo y por nuestros profesores evaluadores.<br>
+            <strong>Vásquez Villalobos, Elverth Jair</strong><br>
+            <strong>TB1:</strong> Redacté la introducción y los objetivos del trabajo de investigación del primer parcial. Reforzamos las debilidades de los conocimientos de nuestros compañeros para resolver cualquier inconveniente.<br>
+            <strong>TP:</strong> Debido a las circunstancias que atravesamos en la entrega anterior no hubo muchos cambios respecto a esta entrega en mis ítems asignados, así que me dediqué a buscar formas de mejorar el material existente en base a lo solicitado.<br>
+            <strong>TB2:</strong> Organizamos reuniones para poder recopilar la información necesaria para la mejora del producto y mejorar el proceso de desarrollo.<br>
+            <strong>TF:</strong> En esta entrega, me esforcé por redactar mis contribuciones de manera clara y comprensible, asegurándome de que fueran accesibles para cualquier lector. La colaboración con el equipo en la redacción de documentos fue fundamental para nuestro éxito.<br>
+            <strong>Reyes Trujillano, Fabian Alonso</strong><br>
+            <strong>TB1:</strong> Trabajé junto a mis compañeros en la redacción del informe, centrando mis esfuerzos en los apartados asignados.<br>
+            <strong>TP:</strong> Trabajé en la mejora de mis contribuciones escritas, revisando y corrigiendo el informe en función del feedback recibido.<br>
+            <strong>TB2:</strong> Colaboré en la revisión y mejora de las secciones asignadas del informe, asegurándome de que fueran claras y coherentes.<br>
+            <strong>TF:</strong> En esta entrega final, aseguré que todas mis contribuciones al informe fueran claras, coherentes y bien estructuradas. Trabajé en estrecha colaboración con el equipo para garantizar la calidad del documento final.<br>
+            <strong>Soriano, Diego</strong><br>
+            <strong>TB2:</strong> Colaboré en la redacción de las secciones del informe que me fueron asignadas, asegurándome de que fueran claras y comprensibles.<br>
+            <strong>TF:</strong> En esta entrega final, me aseguré de que todas mis contribuciones escritas fueran claras y efectivas. Trabajé estrechamente con el equipo para asegurar que todas las secciones del informe se integraran bien y fueran comprensibles para cualquier lector.<br>
+        </td>
         <td>
-    
-   </tr>    
-  </tr>
+            <strong>TB1:</strong> Es importante desarrollar las habilidades de redacción y comunicación escrita para presentar informes claros y objetivos.<br>
+            <strong>TP:</strong> Es esencial mejorar continuamente la calidad de los documentos escritos y la claridad de la comunicación escrita.<br>
+            <strong>TB2:</strong> La organización y claridad en la redacción de los informes son fundamentales para el éxito del proyecto.<br>
+            <strong>TF:</strong> En la entrega final, todos los miembros del equipo demostraron una mejora significativa en su capacidad de comunicar ideas y resultados por escrito. La colaboración efectiva en la redacción y revisión de los documentos fue clave para el éxito del proyecto.
+        </td>
+    </tr>
 </table>
+
 
 # Contenido
 
