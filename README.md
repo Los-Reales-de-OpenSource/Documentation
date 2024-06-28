@@ -1,4 +1,9 @@
-https://camo.githubusercontent.com/3b9aa970db241767f7a8ba9410ec9077e5ba4e5b31781d9bf99501cd48d4ecda/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66632f5550435f6c6f676f5f7472616e73706172656e74652e706e67
+  <div align='center'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
+    </div>
+</tr>
+<center>
+
 # Universidad Peruana de Ciencias Aplicadas
 
 ### Ingeniería de Software
