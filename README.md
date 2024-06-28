@@ -1646,7 +1646,6 @@ Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el 
 |Si729-2401-ws5x-grupo-1-TESTING|main|28d8907f6985be2834afc54d5742503390254862|Initial commit| |14/05/2024|
 |Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|fccea16aaba443d277a740e2e30a66f6e3d1c12e|feat: Testing for assigned features| |19/05/2024|
 |Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|ffe40a49f65b87a64775c9453e56858eef8f16a7|fix: updated in "then"| |19/05/2024|
-| | | | | | |
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -1727,6 +1726,7 @@ Para este entrega aun no fue solicitado el despliegue del backend , por esa raz�
 **Link del repositorio:** https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-platform/tree/feat/Vasquez 
 
 Estos fueron los commits realizados durante el desarrollo de los endpoints para este sprint:
+
 ![Commits evidence backend tb2](./images/commits-tb2-back-1.png)
 
 ![Commits evidence backend tb2 2](./images/commits-tb2-back-2.png)
@@ -1845,27 +1845,34 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el repositorio Si729-2401-ws5x-grupo-1-TESTING :
+
 Link del repositorio: https://github.com/SI729-2401-WS51-Grupo-1/Si729-2401-ws5x-grupo-1-TESTING
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 |Si729-2401-ws5x-grupo-1-TESTING|main|28d8907f6985be2834afc54d5742503390254862|Initial commit| |14/05/2024|
 |Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|fccea16aaba443d277a740e2e30a66f6e3d1c12e|feat: Testing for assigned features| |19/05/2024|
 |Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|ffe40a49f65b87a64775c9453e56858eef8f16a7|fix: updated in "then"| |19/05/2024|
-| | | | | | |
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 
-Presentamos en esta ocasión los últimos avances de neustro frontend y backend:
+Presentamos en esta ocasión los últimos avances de nuestro proyecto, él cual vio múltiples cambios desde la última presentación:
 
+[https://comperu-resources.web.app/users/product-page](https://comperu-resources.web.app/users/product-page)
 
+![](/images/FinalFrontend1.png)
+
+![](/images/FinalFrontend2.png)
+
+![](/images/FinalFrontend3.png)
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-
+Los servicios usados para este proyecto durante el sprint 3 siguen siendo empleados en esta entrega sin cambios significativos, mas se espera un mejor rendimiento con la versión final del proyecto.
 
 ##### 5.2.4.7. Deployment Evidence for Sprint Review
 
-Nuestro proyecto sigue con el mismo tipo de despliegue de la entrega pasada
+Nuestro proyecto sigue con el mismo tipo de despliegue del sprint anterior. buscando mantener una estructura que pueda ser seguida por facilidad por los miembros del equipo y establecer un estandar de referencia para proyectos similares.
 
 ##### 5.2.4.8 Team Collaboration Insights for Sprint Review
 
