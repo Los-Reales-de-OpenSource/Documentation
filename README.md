@@ -2030,13 +2030,17 @@ A nivel de backend:
 
 ![]()
 
-![]()
+![](/images/NetworkPlatform.png)
+
+Más detalles en: https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-platform/graphs/contributors
 
 A nivel de frontend:
 
 ![]()
 
-![]()
+![](/images/NetworkFrontend.png)
+
+Más detalles en: https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-Frontend/graphs/contributors
 
 ### 5.3 Validation Interviews
 
