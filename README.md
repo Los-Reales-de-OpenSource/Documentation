@@ -52,8 +52,8 @@
 |2.1.0|24/06/2024|Marco Collantes|Correcciones hechas en base al feedback de la entrega anterior|
 |2.1.1|25/06/2024|Marco Collantes|Primer avance del Sprint 4|
 |2.1.2|26/06/2024|Marco Collantes|Actualización de links y del Sprint 4|
-|||||
-|||||
+|2.1.3|27/06/2024|Todos|Finalización del informe|
+
 <br><br>
 
 # Project Report Collaboration Insights
@@ -1988,12 +1988,15 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 ||develop|f59c883f5f3f0c73eae5100417db24c2925ec845|feat: orders controller||19/06/2024|
 ||develop|2c99247b37859c956b4f940e4e9195a3867362b1|fix(Review): fix logic in bounded context review||26/06/2024|
 ||develop|d5aee93263143d8cf9f2291ec39ec3ab5b5d7612|fix(Review): fix logic in bounded context review||26/06/2024|
+||develop|57d3a120730de01794f67fbd72c3cd51376f535f|fix(iam): fix logic in bounded context iam||27/06/2024|
 |ComPeru-Frontend|develop|38a21b8b936d226e2729df8264bbcc81c5f2abce|fix(wishlist): Fix styles in wishlist||17/06/2024|
 ||develop|eff723521e653e9a29b3faf866619d8d8cfe995d|fix(shopping-cart): Fix styles in car||17/06/2024|
 ||develop|9245170da626c090987fd265ddf2bae07b26eb72|fix(payment): Fix styles in payment and modify service||17/06/2024|
 ||develop|b8a05b9c841aedb91e182e8216e15465e87b2ec4|feat: connect with api||27/06/2024|
 ||develop|6626bfb4740294e9e5ffc8bf76e4c8281b9825d5|fix: fix review and wishlist||27/06/2024|
 ||develop|04f4dec6c83a027ac844540eae6d9d01bf8fad86|feat(products): implement Post method||27/06/2024|
+||develop|cd087b0c65bb9335e02056d72bc7ed51e36d1413|feat(products): implement iam||27/06/2024|
+||develop|8f4b641ff6ffbc6f804505c4f0c4fd847d14a581|feat(products): implement iam methods||27/06/2024|
 ||origin/user-autentication|f6a44f9a36564d28c43c673f3b6357836cf91618|Update Checkout||25/06/2024|
 ||feature/Valenzuela|830bfc0432b75b256adc619e8a544065b7f9d608|chore: update frontend||26/06/2024|
 |||
