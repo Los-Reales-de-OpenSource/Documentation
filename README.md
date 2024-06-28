@@ -57,6 +57,82 @@
 
 # Project Report Collaboration Insights
 
+Más detalles en: https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-Frontend/graphs/contributors
+
+## **SPRINT 1**
+En las fechas de duración del sprint, se llegaron a observar los siguientes avances en nuestros repositorios:
+
+#### Team Collaboration Insights during Sprint.
+
+![ Ci1](./images/ci1.png)
+
+![ Ci2](./images/ci2.png)
+
+![ Ci3](./images/ci3.png)
+
+![ Ci4](./images/ci4.png)
+
+![ Ci5](./images/ci5.png)
+
+
+
+## **SPRINT 2**
+En las fechas de duración del sprint, se llegaron a observar los siguientes avances en nuestros repositorios:
+
+##### Team Collaboration Insights for Sprint Review
+
+![](/images/NetworkFrontSprint2.png)
+
+
+## **SPRINT 3**
+A continuación presentaremos la colaboración en grupo que hemos realizado durante este sprint. Para la organización de activades se le asignó a cada integrante ciertas tareas y funcionalidades a desarrollar en herramientas como Trello.
+
+##### Team Collaboration Insights for Sprint Review
+
+### Elaboración del Web Api Service para ComPeru
+
+![Backend evidence](./images/evidence-sprint-3.png)
+
+![Backend evidence 2](./images/evidence-sprint-3-2.png)
+
+![Backend evidence 3](./images/evidence-sprint-3-3.png)
+
+### Elaboración de la Web Application
+
+![Frontend evidence](./images/evidence-sprint-3-5.png)
+
+![Frontend evidence 2](./images/evidence-sprint-3-4.png)
+
+![Frontend evidence 3](./images/evidence-sprint-3-6.png)
+
+
+## **SPRINT 4**
+Así es como terminaron las contribuciones del equipo al final del desarrollo de nuestro proyecto, en cada uno de nuestros repositorios de trabajo.
+
+##### Team Collaboration Insights for Sprint Review
+
+A nivel de backend:
+
+![](/images/LastMonthPlatform.png)
+
+![](/images/NetworkPlatform.png)
+
+
+A nivel de frontend:
+
+![](/images/LastMonthFront.png)
+
+![](/images/NetworkFrontend.png)
+
+
+
+
+
+
+
+
+
+
 
 <br><br>
 
