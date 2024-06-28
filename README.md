@@ -1,9 +1,3 @@
-![image](https://github.com/SI729-2401-WS51-Grupo-1/Documentation/assets/133992963/d4151a40-604e-4817-98a4-6fb9a53bec6a)
-  <div align='center'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
-    </div>
-</tr>
-<center>
 
 # Universidad Peruana de Ciencias Aplicadas
 
