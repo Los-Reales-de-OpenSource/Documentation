@@ -2031,7 +2031,25 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/EUoMh3U4
 ## Conclusiones
 
 ### Conclusiones y recomendaciones.
-- ComPeru es una plataforma que busca revolucionar la manera en que los usuarios finales pueden comparar precios y encontrar los mejores productos ofrecidos por negocios pequeños y medianos en el mercado peruano. En este proyecto se hace uso de una metodología ágil en el que todos los miembros de este equipo cumplen un rol en el desarrollo del proyecto. Haciendo uso de conocimientos en ingeniería de software y nuevas tecnologías aprendidas en el curso como el framework Angular, buscamos explorar nuevas formas de diseñar y contruir una solución de software para una problemática real en nuestro país.
+ComPeru es una plataforma que busca revolucionar la manera en que los usuarios finales pueden comparar precios y encontrar los mejores productos ofrecidos por negocios pequeños y medianos en el mercado peruano. En este proyecto se hace uso de una metodología ágil en el que todos los miembros de este equipo cumplen un rol en el desarrollo del proyecto. Haciendo uso de conocimientos en ingeniería de software y nuevas tecnologías aprendidas en el curso como el framework Angular, buscamos explorar nuevas formas de diseñar y contruir una solución de software para una problemática real en nuestro país.
+
+#### Conclusiones:
+- **Metodología Ágil Beneficiosa**: Usamos métodos ágiles que nos permitieron adaptarnos rápidamente a cambios, trabajando juntos de manera eficiente.
+  
+- **Angular Impulsa la Plataforma**: Utilizamos Angular para construir una aplicación web sólida y escalable, ideal para usuarios peruanos.
+  
+- **Potencial de Cambio en el Mercado**: ComPeru puede cambiar cómo los peruanos comparan precios y productos de pequeñas y medianas empresas.
+
+- **Aprendizaje Valioso**: Aprendimos mucho sobre ingeniería de software y tecnologías modernas aplicándolas en un proyecto real.
+
+#### Recomendaciones:
+- **Seguir Mejorando**: Continuar mejorando la plataforma según el feedback de los usuarios y las tendencias del mercado.
+
+- **Expandir Catálogo y Funcionalidades**: Incluir más productos y funciones útiles para hacer la plataforma más atractiva y útil.
+
+- **Innovar Constantemente**: Integrar nuevas funciones innovadoras para mejorar la experiencia del usuario.
+
+- **Crear Alianzas Estratégicas**: Colaborar con otras empresas y entidades para ampliar la influencia y sostenibilidad de ComPeru.
 
 
 ### Video About-the-Team.
