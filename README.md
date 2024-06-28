@@ -1,4 +1,4 @@
-
+![image](https://github.com/SI729-2401-WS51-Grupo-1/Documentation/assets/133992963/d4151a40-604e-4817-98a4-6fb9a53bec6a)
   <div align='center'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
     </div>
@@ -1501,10 +1501,15 @@ Los siguientes commit corresponden al desarrollo del landing page y las primeras
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Debido a ser la primera entrega, y el poco conocimiento en general de este apartado, no se realizaron procesos de testing en nuestra aplicación o landing page.
+Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el repositorio Si729-2401-ws5x-grupo-1-TESTING:
+Link del repositorio: https://github.com/SI729-2401-WS51-Grupo-1/Si729-2401-ws5x-grupo-1-TESTING
+
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
+|Si729-2401-ws5x-grupo-1-TESTING|main|28d8907f6985be2834afc54d5742503390254862|Initial commit| |14/05/2024|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb1-CollantesMarco|fccea16aaba443d277a740e2e30a66f6e3d1c12e|feat: Testing for assigned features| |19/05/2024|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb1-CollantesMarco|ffe40a49f65b87a64775c9453e56858eef8f16a7|fix: updated in "then"| |19/05/2024|
 | | | | | | |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
@@ -1630,8 +1635,14 @@ Los siguientes commit corresponden al desarrollo de las primeras versiones del f
 
 ##### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-En esta entrega, por motivos de tiempo y falta de experiencia en el área, no se llegó a realizar un repositorio dedicado al testeo de la aplicación web. Se espera tener un avance más significativo para la próxima entrega.  
-
+Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el repositorio Si729-2401-ws5x-grupo-1-TESTING :
+Link del repositorio: https://github.com/SI729-2401-WS51-Grupo-1/Si729-2401-ws5x-grupo-1-TESTING
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|Si729-2401-ws5x-grupo-1-TESTING|main|28d8907f6985be2834afc54d5742503390254862|Initial commit| |14/05/2024|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|fccea16aaba443d277a740e2e30a66f6e3d1c12e|feat: Testing for assigned features| |19/05/2024|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|ffe40a49f65b87a64775c9453e56858eef8f16a7|fix: updated in "then"| |19/05/2024|
+| | | | | | |
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 
@@ -1972,10 +1983,14 @@ La siguiente sección está dedicada al registro de los commits de trabajo de es
 
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
-Presentamos en esta ocasión, los que serían los test implementados de nuestra aplicación a nivel de frontend y backend:
-
+Para hacer un mejor seguimiento de las pruebas del nuestro software, se creo el repositorio Si729-2401-ws5x-grupo-1-TESTING :
+Link del repositorio: https://github.com/SI729-2401-WS51-Grupo-1/Si729-2401-ws5x-grupo-1-TESTING
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
+|Si729-2401-ws5x-grupo-1-TESTING|main|28d8907f6985be2834afc54d5742503390254862|Initial commit| |14/05/2024|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|fccea16aaba443d277a740e2e30a66f6e3d1c12e|feat: Testing for assigned features| |19/05/2024|
+|Si729-2401-ws5x-grupo-1-TESTING|feature/tb2-CollantesMarco|ffe40a49f65b87a64775c9453e56858eef8f16a7|fix: updated in "then"| |19/05/2024|
+| | | | | | |
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 
