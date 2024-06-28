@@ -1880,7 +1880,7 @@ Así es como terminaron las contribuciones del equipo al final del desarrollo de
 
 A nivel de backend:
 
-![]()
+![](/images/LastMonthPlatform.png)
 
 ![](/images/NetworkPlatform.png)
 
@@ -1888,7 +1888,7 @@ Más detalles en: https://github.com/SI729-2401-WS51-Grupo-1/ComPeru-platform/gr
 
 A nivel de frontend:
 
-![]()
+![](/images/LastMonthFront.png)
 
 ![](/images/NetworkFrontend.png)
 
