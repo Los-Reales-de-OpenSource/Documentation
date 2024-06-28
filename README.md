@@ -334,7 +334,7 @@ Con el aporte de experiencia técnica y habilidades blandas por parte de cada un
 #### 1.2.2.1. Lean UX Problem Statements. 
 
 - **Problema 1:** ComPeru se dedica a presentar las diferentes ofertas que tienen diferentes productos ofrecidos por múltiples emprendimientos. Los usuarios podrían encontrar abrumadora la cantidad de información presentada sobre las ofertas de productos, esto los dificultaria al momento de su elección sobre uno de estos. Por ello, se implementará un sistema de filtrado y organización, así como un diferente algoritmo de recomendación sobre ciertos productos para dentro de una interfaz sencilla y minimalista para facilitarle la navegación al usuario y mejorar su experiencia con nuestro servicio.
-- **Problema 2:** En ComPeru, muchos emprendimientos y/o emprendedores empiezan a ofrecer diferentes productos en diferentes precios. Los usuarios tendrián un problema de desconfianza en la precisión o autenticidad de los precios y ofertas presentadas. Para solucionar este problema, se implementará una verificación de emprendedores y de pagos. Además se incluirá un sistema de calificaciones ehacia los emprendimietos, lo que los ayudará a ganar fama y buena reputación dentro de nuestro servicio.
+- **Problema 2:** En ComPeru, muchos emprendimientos y/o emprendedores empiezan a ofrecer diferentes productos en diferentes precios. Los usuarios tendrián un problema de desconfianza en la precisión o autenticidad de los precios y ofertas presentadas. Para solucionar este problema, se implementará una verificación de emprendedores y de pagos. Además se incluirá un sistema de calificaciones ehacia los emprendimietos, lo que los ayudará a ganar reputación dentro de nuestro servicio.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -757,173 +757,35 @@ tareas para los User Personas previamente definidos.
 
 ### 3.2. User Stories
 
-|User Story ID|US01|
-| :- | :-: |
-|Title |Búsqueda de productos|
-|Description |**Como** usuario **quiero** poder buscar productos **para** encontrar productos específicos |
-|Acceptance criteria|<p>**Escenario 01 : Registro de datos** </p><p></p><p>**Dado que** el usuario quiere ingresar una palabra en el campo de búsqueda</p><p>**Y** haga clic en buscar</p><p>**Cuando** la app muestra los resultados correspondientes a esa palabra clave   </p><p>**Entonces** se deberá estar ordenados por relevancia </p>|
+<br/>
 
-|User Story ID|US02|
-| :- | :-: |
-|Title |Filtrado de resultados por precios|
-|Description |**Como** usuario **quiero** poder filtrar los resultados de búsqueda por precio **para** encontrar productos que se ajusten a mi presupuesto|
-|Acceptance criteria|<p>**Escenario 01 : Registro de datos** </p><p></p><p>**Dado que** después de realizar una búsqueda apropiada a la necesidad del usuario </p><p>**Y** haga clic en buscar</p><p>**Cuando** la app muestra la selección de un rango de precios para filtrar los resultados </p><p>**Entonces** se mostrará en el rango estimado </p>|
+| Story ID | Título | Descripción | Criterios de Aceptación |
+|-|-|-|-|
+| US01 | Búsqueda de productos | **Como** usuario **quiero** poder buscar productos **para** encontrar productos específicos | <p>**Escenario 01 : Registro de datos** </p><p></p><p>**Dado que** el usuario ingresa una palabra en el campo de búsqueda de nuestra aplicación </p><p>**Y** haga clic en buscar</p><p>**Cuando** la app muestra los resultados correspondientes a esa palabra clave   </p><p>**Entonces** se deberá estar ordenados por relevancia </p> |
+| US02 | Filtrado de resultados por precios | **Como** usuario **quiero** poder filtrar los resultados de búsqueda por precio **para** encontrar productos que se ajusten a mi presupuesto| <p>**Escenario 01 : Registro de datos** </p><p></p><p>**Dado que** después de realizar una búsqueda apropiada a la necesidad del usuario </p><p>**Y** haga clic en buscar</p><p>**Cuando** la app muestra la selección de un rango de precios para filtrar los resultados </p><p>**Entonces** se mostrará en el rango estimado </p> |
+| US03 | Guardar productos en lista de deseos | **Como** usuario **quiero** poder guardar productos en una lista de deseos **para** volver a ellos | <p>**Escenario : Entrada de datos registrado**</p><p></p><p>**Dado que** el usuario agregar un producto a su lista de deseos </p><p>**Y** seleccionar en “Lista de deseos” </p><p>**Cuando** el producto pedido se guardará de manera automática </p><p>**Entonces** se mostrará en guardado el resultado que deseaba buscar </p><p></p><p>**Escenario : Salida de datos registrado**</p><p></p><p>**Dado que** el usuario quiera eliminar el producto después de su búsqueda </p><p>**Y** seleccionar en opción “Eliminar elemento”</p><p>**Cuando** el producto guardado se elimina instantáneamente de su lista de deseos</p><p>**Entonces** se mostrará el producto solo en la seccion de busqueda</p> |
+| US04 | Ordenamiento de resultados por clasificación | **Como** usuario **quiero** poder ordenar los resultados de búsqueda por clasificación para ver los productos más populares primeros | <p>**Escenario : Popularidad de registro** </p><p></p><p>**Dado que** el usuario quiera mostrar los resultados obtenidos se le mostrará la opción “Por  clasificación o por configuración”</p><p>` `**Y** el usuario deberá selecciona una de las dos opciones</p><p>**Cuando** después de seleccionar el sistema se configura automáticamente </p><p>**Entonces** cada que muestre los resultados también se agregaran las ofertas o descuentos del producto por su clasificación</p><p></p> |
+| US05 | Comparación de precios | **Como** usuario **quiero** poder comparar productos de diferentes tiendas para encontrar la mejor opción de compra | <p>**Escenario: Comparación de precios** </p><p></p><p>**Dado que** estoy en la pantalla de resultados </p><p>**Y** haga clic en buscar</p><p>**Cuando** haga click en comparación de precios  </p><p>**Entonces** se mostrará una lista de precios de cada tienda que venda el producto </p><p>**Y** podré hacer click en el producto para ver más detalles del producto y la tienda </p> |
+| US06 | Notificaciones de precios | **Como** usuario **quiero** recibir notificaciones cuando los productos que estoy buscando estén disponibles o en oferta | <p>**Escenario 1:Configuración de Notificaciones** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga click en el boton de configuracion de notificaciones</p><p>**Entonces** la app me permitirá seleccionar el tipo de notificación que quiero recibir(Disponibilidad o oferta) </p><p>**Y** puedo elegir cómo quiero recibir la notificación (notificación de la app)</p> |
+| US07 | Comentarios y reseñas de productos | **Como** usuario **quiero** poder leer comentarios y reseñas de otros usuarios sobre un producto para tomar una decisión de compra informada | <p>**Escenario 01: Ver comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me muestra una lista de todos los comentarios y reseñas sobre un producto </p><p>**Y** podré ver el nombre de usuario, la calificación y el comentario de cada usuario </p><p></p><p>**Escenario 02: Dejar comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me permite escribir un comentario o reseña sobre el producto </p><p>**Y** la app publica mi comentario o reseña </p><p></p> |
+| US08 | Opciones de pago | **Como** usuario **quiero** ver las opciones de pago disponibles en cada tienda para poder elegir la más conveniente | <p>**Escenario 01: Ver opciones de pago**</p><p></p><p>**Dado que** estoy en la pantalla de detalles de una tienda</p><p>**Cuando** haga clic en el botón de opciones de pago</p><p>**Entonces** la app me muestra una lista de todos las opciones de pago disponibles en la tienda </p><p>**Y** puedo hacer clic en la opcion de pago para ver mas detalles de pago </p><p></p> |
+| US09 | Carrito de compras | **Como** usuario **quiero** poder agregar productos a un carrito compras para pagar en conjunto mis productos | <p>**Escenario 01: Crear una lista de compras**</p><p></p><p>**Dado que** estoy en la pantalla principal de la app</p><p>**Cuando** haga clic en el carrito de compras y veo los productos agregados</p><p>**Entonces** la app me permite tener un carrito de compras </p><p>**Y** poder agregar productos a los mismos</p><p>**Y** puedo hacer clic en el carrito de compras para ver los productos que he agregado</p><p></p><p>**Escenario 02: Agregar los productos seleccionado a la lista de compra** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de agregar al carrito</p><p>**Entonces** la app muestra que el producto se agrego exitosamente </p> |
+| US010 | Ofertas destacadas | **Como** usuario **quiero** poder ver las ofertas más destacadas de la semana para aprovechar los mejores precios | <p>**Escenario 01: Ver ofertas destacadas**</p><p></p><p>**Dado que** estoy en la pantalla de la app </p><p>**Cuando** desplazó hacia abajo en la pantalla </p><p>**Entonces** la app me muestra una sección de ofertas destacadas </p><p>**Y** puedo ver los productos en oferta y la cantidad de descuento</p><p>**Y** puedo hacer clic en un producto para ver los detalles y comprarlo </p><p></p> |
+| US011 | Contacto con la Startup | **Como** usuario, **quiero** poder contactar al equipo de soporte de la empresa a través de la página de contacto para realizar consultas | <p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** el usuario está en la página de contacto </p><p>**Cuando** el usuario ingresa su consulta y hace clic en enviar </p><p>**Entonces** la consulta será enviada al equipo de soporte y el usuario recibirá una confirmación de envío. </p> |
+| US012 | Autenticacion de Usuario | **Como** usuario **quiero** que la aplicación me permita registrarse y iniciar sesion en mi cuenta | <p>**Escenario : Registrar mi cuenta** </p><p></p><p>**Dado que** deseo registrarme </p><p>**Cuando** recien haya ingresado a la app </p><p>**Y** quiero registrarme  </p><p>**Entonces** colocare mi correo, usuario y contraseña para poder registrarme exitosamente.  </p><p>**Escenario : Ingresar a mi cuenta** </p><p></p><p>**Dado que** estoy en inicio y quiero ingresar a mi cuenta podre hacerlo desde el boton login </p><p>**Cuando** desee ingresar a mi cuenta en la app </p><p>¿**Entonces** solo colocare mi correo y mi contraseña para ingresar exitosamente</p> |
+| US013 | Gestión de productos | **Como** emprendedor, **quiero** tener acceso a una interfaz intuitiva en la que pueda agregar, editar y eliminar productos de mi tienda, incluyendo información detallada como nombre, descripción y precio, **para** mantener actualizado el catálogo de productos de mi tienda en la plataforma. | <p>**Escenario :  Gestión de productos** </p><p></p><p>**Dado que** el emprendedor está en la interfaz de gestión de productos </p><p> **Cuando** el emprendedor agrega, edita o elimina un producto </p><p>**Entonces** el catálogo de productos de la tienda se actualizará en la plataforma. </p> |
+| US014 | Gestión de pedidos | **Como** usuario emprendedor , **quiero** tener acceso a una interfaz intuitiva donde pueda revisar todos los pedidos que han realizado mis clientes, para poder realizar un seguimiento de las transacciones y gestionar el proceso de entrega de mis productos. | <p>**Escenario :  Gestión de pedidos** </p><p></p><p>**Dado que** el emprendedor está en la interfaz de gestión de pedidos </p><p> **Cuando** el emprendedor revisa los pedidos </p><p>**Entonces** podrá ver los detalles de cada pedido y su estado actual. </p> |
+| US015 | Editar Tienda | **Como** emprendedor, **quiero** tener acceso a una página de gestión de perfil donde pueda actualizar la información de mi tienda, incluyendo detalles de contacto y horarios de atención, para mantener actualizada y precisa la información que se muestra a los usuarios finales. | <p>**Escenario :  Editar tienda** </p><p></p><p>**Dado que** el emprendedor está en la página de gestión de perfil de la tienda </p><p> **Cuando** el emprendedor actualiza la información de su tienda </p><p>**Entonces** los cambios se reflejarán en la información que se muestra a los usuarios finales.</p> |
+| US016 | Creación de Ofertas | **Como** usuario emprendedor, **quiero** poder crear y administrar ofertas en mis productos, para atraer más clientes y aumentar las ventas en la plataforma. | <p>**Escenario :  Creación de ofertas** </p><p></p><p>**Dado que** el emprendedor está en la interfaz de gestión de ofertas </p><p> **Cuando** el emprendedor crea una nueva oferta </p><p>**Entonces** la oferta será visible para los usuarios finales y aplicada a los productos seleccionados.</p> |
+| US017 | Notificación de Stock Bajo | **Como** usuario emprendedor, **quiero** que el sistema me notifique cuando tenga el stock bajo de uno de mis productos, para poder abastecerme con antelación y no tener problemas con mis clientes. | <p>**Escenario :  Notificación de Stock Bajo** </p><p></p><p>**Dado que** el stock de un producto está por agotarse </p><p> **Cuando** el stock llegue a un nivel mínimo </p><p>**Entonces** el emprendedor recibirá una notificación para reabastecerse. </p> |
+| US018 | Plataforma Responsive | **Como** usuario **quiero** ingresar a la web en mi dispositivo móvil sin tener problema alguno. | <p>**Escenario : Uso en dispositivo móvil** </p><p></p><p>**Dado que** que el usuario está utilizando la plataforma en su dispositivo móvil </p><p> **Cuando** el usuario navega por la plataforma </p><p>**Entonces** la interfaz se ajusta a la pantalla del dispositivo sin problemas. </p> |
+| US019 | Botones de acción | **Como** usuario **quiero** que se implementen botones de acción claros para facilitarme el uso de la plataforma. | <p>**Escenario :  Uso de botones de acción** </p><p></p><p>**Dado que** que el usuario está navegando por la plataforma </p><p> **Cuando** el usuario ve los botones de acción </p><p>**Entonces** los botones son claros y fáciles de usar, mejorando la experiencia del usuario. </p> |
+| US020 | Detalle de un producto | **Como** usuario **quiero** tener acceso a la página de detalles del producto **para** ver las especificaciones y tomar la decisión de compra. | <p>**Escenario 1: Usuario accede a la página de detalles del producto desde la página principal**</p><p></p><p>**Given** que el usuario está en la página principal del sitio web </p><p>**When** hace clic en un producto específico </p><p>**Then** se redirige a la página de detalles de ese producto y se muestran las especificaciones completas.</p><p></p><p>**Escenario 2: Usuario accede a la página de detalles del producto desde la lista de búsqueda**</p><p></p><p>**Given** que el usuario ha realizado una búsqueda de productos </p><p>**When** selecciona un producto de los resultados de búsqueda </p><p>**Then** se redirige a la página de detalles de ese producto y se muestran las especificaciones completas.</p><p></p><p>**Escenario 3: Usuario accede a la página de detalles del producto desde una categoría específica**</p><p></p><p>**Given** que el usuario está navegando por una categoría específica de productos </p><p>**When** hace clic en un producto dentro de esa categoría </p><p>**Then** se redirige a la página de detalles de ese producto y se muestran las especificaciones completas.</p> |
+| US021 | Navegación intuitiva | **Como** desarollador, **quiero** implementar un RESTful API **para** el registro en línea donde pueda ingresar la información básica de la tienda, como nombre, dirección y categoría de productos, para poder crear una cuenta en la plataforma | <p>**Escenario :** </p><p></p><p>**Given**  </p><p> **When**  </p><p>**Then** . </p> |
+| US022 | RESTFul API de Productos | **Como** desarrollador **quiero** implementar un RESTful API de los productos, **para** tener acceso a los datos de los productos y realizar operaciones de gestión de inventario. | <p>**Escenario 1: Crear un nuevo producto mediante la API**</p><p></p><p>**Given** que el desarrollador tiene acceso al endpoint de creación de productos </p><p>**When** envía una solicitud POST con los datos del nuevo producto </p><p>**Then** el producto se crea en la base de datos y se devuelve un código de estado 201 (Creado).</p><p></p><p>**Escenario 2: Actualizar un producto existente mediante la API**</p><p></p><p>**Given** que el desarrollador tiene acceso al endpoint de actualización de productos </p><p>**When** envía una solicitud PUT con los datos actualizados del producto </p><p>**Then** el producto se actualiza en la base de datos y se devuelve un código de estado 200 (OK).</p><p></p><p>**Escenario 3: Eliminar un producto mediante la API**</p><p></p><p>**Given** que el desarrollador tiene acceso al endpoint de eliminación de productos </p><p>**When** envía una solicitud DELETE con el ID del producto a eliminar </p><p>**Then** el producto se elimina de la base de datos y se devuelve un código de estado 204 (Sin Contenido).</p> |
+|  |  |  |  |
 
-|User Story ID|US03|
-| :- | :-: |
-|Title |Guardar productos en lista de deseos|
-|Description |**Como** usuario **quiero** poder guardar productos en una lista de deseos **para** volver a ellos|
-|Acceptance criteria|<p>**Escenario : Entrada de datos registrado**</p><p></p><p>**Dado que** el usuario agregar un producto a su lista de deseos </p><p>**Y** seleccionar en “Lista de deseos” </p><p>**Cuando** el producto pedido se guardará de manera automática </p><p>**Entonces** se mostrará en guardado el resultado que deseaba buscar </p><p></p><p>**Escenario : Salida de datos registrado**</p><p></p><p>**Dado que** el usuario quiera eliminar el producto después de su búsqueda </p><p>**Y** seleccionar en opción “Eliminar elemento”</p><p>**Cuando** el producto guardado se elimina instantáneamente de su lista de deseos</p><p>**Entonces** se mostrará el producto solo en la seccion de busqueda</p>|
-
-|User Story ID|US04|
-| :- | :-: |
-|Title |Ordenamiento de resultados por clasificación|
-|Description |**Como** usuario **quiero** poder ordenar los resultados de búsqueda por clasificación para ver los productos más populares primeros |
-|Acceptance criteria|<p>**Escenario : Popularidad de registro** </p><p></p><p>**Dado que** el usuario quiera mostrar los resultados obtenidos se le mostrará la opción “Por  clasificación o por configuración”</p><p>` `**Y** el usuario deberá selecciona una de las dos opciones</p><p>**Cuando** después de seleccionar el sistema se configura automáticamente </p><p>**Entonces** cada que muestre los resultados también se agregaran las ofertas o descuentos del producto por su clasificación</p><p></p>|
-
-|User Story ID|US05|
-| :- | :-: |
-|Title |Comparación de precios|
-|Description |**Como** usuario **quiero** poder comparar productos de diferentes tiendas para encontrar la mejor opción de compra |
-|Acceptance criteria|<p>**Escenario: Comparación de precios** </p><p></p><p>**Dado que** estoy en la pantalla de resultados </p><p>**Y** haga clic en buscar</p><p>**Cuando** haga click en comparación de precios  </p><p>**Entonces** se mostrará una lista de precios de cada tienda que venda el producto </p><p>**Y** podré hacer click en el producto para ver más detalles del producto y la tienda </p>|
-
-|User Story ID|US06|
-| :- | :-: |
-|Title |Notificaciones de precios |
-|Description |**Como** usuario **quiero** recibir notificaciones cuando los productos que estoy buscando estén disponibles o en oferta |
-|Acceptance criteria|<p>**Escenario 1:Configuración de Notificaciones** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga click en el boton de configuracion de notificaciones</p><p>**Entonces** la app me permitirá seleccionar el tipo de notificación que quiero recibir(Disponibilidad o oferta) </p><p>**Y** puedo elegir cómo quiero recibir la notificación (notificación de la app)</p>|
-
-|User Story ID|US07|
-| :- | :-: |
-|Title |Comentarios y reseñas de productos |
-|Description |**Como** usuario **quiero** poder leer comentarios y reseñas de otros usuarios sobre un producto para tomar una decisión de compra informada |
-|Acceptance criteria|<p>**Escenario 01: Ver comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me muestra una lista de todos los comentarios y reseñas sobre un producto </p><p>**Y** podré ver el nombre de usuario, la calificación y el comentario de cada usuario </p><p></p><p>**Escenario 02: Dejar comentarios y reseñas** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de comentarios y reseñas </p><p>**Entonces** la app me permite escribir un comentario o reseña sobre el producto </p><p>**Y** la app publica mi comentario o reseña </p><p></p>|
-
-|User Story ID|US08|
-| :- | :-: |
-|Title |Opciones de pago|
-|Description |**Como** usuario **quiero** ver las opciones de pago disponibles en cada tienda para poder elegir la más conveniente|
-|Acceptance criteria|<p>**Escenario 01: Ver opciones de pago**</p><p></p><p>**Dado que** estoy en la pantalla de detalles de una tienda</p><p>**Cuando** haga clic en el botón de opciones de pago</p><p>**Entonces** la app me muestra una lista de todos las opciones de pago disponibles en la tienda </p><p>**Y** puedo hacer clic en la opcion de pago para ver mas detalles de pago </p><p></p>|
-
-|User Story ID|US09|
-| :- | :-: |
-|Title |Carrito de compras |
-|Description |**Como** usuario **quiero** poder agregar productos a un carrito compras para pagar en conjunto mis productos|
-|Acceptance criteria|<p>**Escenario 01: Crear una lista de compras**</p><p></p><p>**Dado que** estoy en la pantalla principal de la app</p><p>**Cuando** haga clic en el carrito de compras y veo los productos agregados</p><p>**Entonces** la app me permite tener un carrito de compras </p><p>**Y** poder agregar productos a los mismos</p><p>**Y** puedo hacer clic en el carrito de compras para ver los productos que he agregado</p><p></p><p>**Escenario 02: Agregar los productos seleccionado a la lista de compra** </p><p></p><p>**Dado que** estoy en la pantalla de detalles de un producto</p><p>**Cuando** haga clic en el botón de agregar al carrito</p><p>**Entonces** la app muestra que el producto se agrego exitosamente </p>|
-
-|User Story ID|US10|
-| :- | :-: |
-|Title |Ofertas destacadas |
-|Description |**Como** usuario **quiero** poder ver las ofertas más destacadas de la semana para aprovechar los mejores precios|
-|Acceptance criteria|<p>**Escenario 01: Ver ofertas destacadas**</p><p></p><p>**Dado que** estoy en la pantalla de la app </p><p>**Cuando** desplazó hacia abajo en la pantalla </p><p>**Entonces** la app me muestra una sección de ofertas destacadas </p><p>**Y** puedo ver los productos en oferta y la cantidad de descuento</p><p>**Y** puedo hacer clic en un producto para ver los detalles y comprarlo </p><p></p>|
-
-|User Story ID|US11|
-| :- | :-: |
-|Title |Contacto con la Startup |
-|Description |**Como** usuario, **quiero** poder contactar al equipo de soporte de la empresa a través de la página de contacto para realizar consultas .|
-|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** el usuario está en la página de contacto </p><p>**Cuando** el usuario ingresa su consulta y hace clic en enviar </p><p>**Entonces** la consulta será enviada al equipo de soporte y el usuario recibirá una confirmación de envío. </p>|
-
-|User Story ID|US12|
-| :- | :-: |
-|Title |Autenticacion de Usuario |
-|Description |**Como** usuario **quiero** que la aplicación me permita registrarse y iniciar sesion en mi cuenta.|
-|Acceptance criteria|<p>**Escenario : Registrar mi cuenta** </p><p></p><p>**Dado que** deseo registrarme </p><p>**Cuando** recien haya ingresado a la app </p><p>**Y** quiero registrarme  </p><p>**Entonces** colocare mi correo, usuario y contraseña para poder registrarme exitosamente.  </p><p>**Escenario : Ingresar a mi cuenta** </p><p></p><p>**Dado que** estoy en inicio y quiero ingresar a mi cuenta podre hacerlo desde el boton login </p><p>**Cuando** desee ingresar a mi cuenta en la app </p><p>¿**Entonces** solo colocare mi correo y mi contraseña para ingresar exitosamente  </p>|
-
-|User Story ID|US13|
-| :- | :-: |
-|Title |Cambio de contraseñas |
-|Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|
-|Acceptance criteria|<p>**Escenario : Cambiar contraseña** </p><p></p><p>**Dado que** deseo cambiar mi contraseña </p><p>**Cuando** yo lo desee </p><p>**Y** este en la pestaña de usuario </p><p>**Entonces** podre cambiar mi contraseña desde la pestaña de usuario. </p>|
-
-|User Story ID|US14|
-| :- | :-: |
-|Title |Registro de Tienda |
-|Description |**Como** usuario **quiero** que la aplicación me informe cada cierto tiempo a cambiar de contraseña para tener más seguridad.|
-|Acceptance criteria|<p>**Escenario : Registro de Tiendas** </p><p></p><p>**Dado que** el emprendedor está en la página de registro de tienda </p><p>**Cuando** el emprendedor ingresa la información requerida y hace clic en registrar </p><p>**Entonces** la tienda será creada en la plataforma y el emprendedor recibirá una confirmación de registro. </p>|
-
-
-|User Story ID|US15|
-| :- | :-: |
-|Title |Gestión de productos |
-|Description |**Como** emprendedor, **quiero** tener acceso a una interfaz intuitiva en la que pueda agregar, editar y eliminar productos de mi tienda, incluyendo información detallada como nombre, descripción y precio, **para** mantener actualizado el catálogo de productos de mi tienda en la plataforma.|
-|Acceptance criteria|<p>**Escenario :  Gestión de productos** </p><p></p><p>**Dado que** el emprendedor está en la interfaz de gestión de productos </p><p> **Cuando** el emprendedor agrega, edita o elimina un producto </p><p>**Entonces** el catálogo de productos de la tienda se actualizará en la plataforma. </p>|
-
-|User Story ID|US16|
-| :- | :-: |
-|Title |Notificación de pedidos |
-|Description |**Como** emprendedor, **quiero** recibir notificaciones en tiempo real sobre nuevos pedidos realizados por usuarios finales en mi tienda, incluyendo detalles como el producto pedido y la dirección de envío, para poder procesar los pedidos de manera eficiente.|
-|Acceptance criteria|<p>**Escenario :  Notificación de pedidos** </p><p></p><p>**Dado que** hay un nuevo pedido en la tienda del emprendedor </p><p> **Cuando** se realiza el pedido </p><p>**Entonces** el emprendedor recibirá una notificación con los detalles del pedido.  </p>|
-
-|User Story ID|US17|
-| :- | :-: |
-|Title |Gestión de pedidos |
-|Description |**Como** usuario emprendedor , **quiero** tener acceso a una interfaz intuitiva donde pueda revisar todos los pedidos que han realizado mis clientes, para poder realizar un seguimiento de las transacciones y gestionar el proceso de entrega de mis productos.|
-|Acceptance criteria|<p>**Escenario :  Gestión de pedidos** </p><p></p><p>**Dado que** el emprendedor está en la interfaz de gestión de pedidos </p><p> **Cuando** el emprendedor revisa los pedidos </p><p>**Entonces** podrá ver los detalles de cada pedido y su estado actual. </p>|
-
-|User Story ID|US18|
-| :- | :-: |
-|Title |Editar Tienda |
-|Description |**Como** emprendedor, **quiero** tener acceso a una página de gestión de perfil donde pueda actualizar la información de mi tienda, incluyendo detalles de contacto y horarios de atención, para mantener actualizada y precisa la información que se muestra a los usuarios finales.|
-|Acceptance criteria|<p>**Escenario :  Editar tienda** </p><p></p><p>**Dado que** el emprendedor está en la página de gestión de perfil de la tienda </p><p> **Cuando** el emprendedor actualiza la información de su tienda </p><p>**Entonces** los cambios se reflejarán en la información que se muestra a los usuarios finales. </p>|
-
-|User Story ID|US19|
-| :- | :-: |
-|Title |Creación de Ofertas |
-|Description |**Como** usuario emprendedor, **quiero** poder crear y administrar ofertas en mis productos, para atraer más clientes y aumentar las ventas en la plataforma.|
-|Acceptance criteria|<p>**Escenario :  Creación de ofertas** </p><p></p><p>**Dado que** el emprendedor está en la interfaz de gestión de ofertas </p><p> **Cuando** el emprendedor crea una nueva oferta </p><p>**Entonces** la oferta será visible para los usuarios finales y aplicada a los productos seleccionados.</p>|
-
-|User Story ID|US20|
-| :- | :-: |
-|Title |Notificación de Stock Bajo |
-|Description |**Como** usuario emprendedor, **quiero** que el sistema me notifique cuando tenga el stock bajo de uno de mis productos, para poder abastecerme con antelación y no tener problemas con mis clientes.|
-|Acceptance criteria|<p>**Escenario :  Notificación de Stock Bajo** </p><p></p><p>**Dado que** el stock de un producto está por agotarse </p><p> **Cuando** el stock llegue a un nivel mínimo </p><p>**Entonces** el emprendedor recibirá una notificación para reabastecerse. </p>|
-
-|User Story ID|US21|
-| :- | :-: |
-|Title |Plataforma Responsive |
-|Description| **Como** usuario **quiero** ingresar a la web en mi dispositivo móvil sin tener problema alguno.|
-|Acceptance criteria|<p>**Escenario : Uso en dispositivo móvil** </p><p></p><p>**Dado que** que el usuario está utilizando la plataforma en su dispositivo móvil </p><p> **Cuando** el usuario navega por la plataforma </p><p>**Entonces** la interfaz se ajusta a la pantalla del dispositivo sin problemas. </p>|
-
-|User Story ID|US22|
-| :- | :-: |
-|Title |Botones de acción |
-|Description |**Como** usuario **quiero** que se implementen botones de acción claros para facilitarme el uso de la plataforma.|
-|Acceptance criteria|<p>**Escenario :  Uso de botones de acción** </p><p></p><p>**Dado que** que el usuario está navegando por la plataforma </p><p> **Cuando** el usuario ve los botones de acción </p><p>**Entonces** los botones son claros y fáciles de usar, mejorando la experiencia del usuario. </p>|
-
-|User Story ID|US23|
-| :- | :-: |
-|Title |Navegación intuitiva |
-|Description |**Como** usuario **quiero** un menú inicial intuitivo **para** navegar de manera facil por la página.|
-|Acceptance criteria|<p>**Escenario :** </p><p></p><p>**Given**  </p><p> **When**  </p><p>**Then** . </p>|
-
-|User Story ID|US24|
-| :- | :-: |
-|Title |Detalle de un producto |
-|Description |**Como** usuario **quiero** tener acceso a la página de detalles del producto **para** ver las especificaciones y tomar la decisión de compra.|
-|Acceptance criteria|<p>**Escenario 1: Usuario accede a la página de detalles del producto desde la página principal**</p><p></p><p>**Given** que el usuario está en la página principal del sitio web </p><p>**When** hace clic en un producto específico </p><p>**Then** se redirige a la página de detalles de ese producto y se muestran las especificaciones completas.</p><p></p><p>**Escenario 2: Usuario accede a la página de detalles del producto desde la lista de búsqueda**</p><p></p><p>**Given** que el usuario ha realizado una búsqueda de productos </p><p>**When** selecciona un producto de los resultados de búsqueda </p><p>**Then** se redirige a la página de detalles de ese producto y se muestran las especificaciones completas.</p><p></p><p>**Escenario 3: Usuario accede a la página de detalles del producto desde una categoría específica**</p><p></p><p>**Given** que el usuario está navegando por una categoría específica de productos </p><p>**When** hace clic en un producto dentro de esa categoría </p><p>**Then** se redirige a la página de detalles de ese producto y se muestran las especificaciones completas.</p>|
-
-
-|User Story ID|US24|
-| :- | :-: |
-|Title |Navegación intuitiva |
-|Description |**Como** usuario **quiero** un menú inicial intuitivo **para** navegar de manera facil por la página.|
-|Acceptance criteria|<p>**Escenario :** </p><p></p><p>**Given**  </p><p> **When**  </p><p>**Then** . </p>|
-
-|User Story ID|US25|
-| :- | :-: |
-|Title |Navegación intuitiva |
-|Description |**Como** desarollador, **quiero** implementar un RESTful API **para** el registro en línea donde pueda ingresar la información básica de la tienda, como nombre, dirección y categoría de productos, para poder crear una cuenta en la plataforma|
-|Acceptance criteria|<p>**Escenario :** </p><p></p><p>**Given**  </p><p> **When**  </p><p>**Then** . </p>|
-
-
-|User Story ID|US26|
-| :- | :-: |
-|Title |RESTFul API de Productos |
-|Description |**Como** desarrollador **quiero** implementar un RESTful API de los productos, **para** tener acceso a los datos de los productos y realizar operaciones de gestión de inventario.|
-|Acceptance criteria|<p>**Escenario 1: Crear un nuevo producto mediante la API**</p><p></p><p>**Given** que el desarrollador tiene acceso al endpoint de creación de productos </p><p>**When** envía una solicitud POST con los datos del nuevo producto </p><p>**Then** el producto se crea en la base de datos y se devuelve un código de estado 201 (Creado).</p><p></p><p>**Escenario 2: Actualizar un producto existente mediante la API**</p><p></p><p>**Given** que el desarrollador tiene acceso al endpoint de actualización de productos </p><p>**When** envía una solicitud PUT con los datos actualizados del producto </p><p>**Then** el producto se actualiza en la base de datos y se devuelve un código de estado 200 (OK).</p><p></p><p>**Escenario 3: Eliminar un producto mediante la API**</p><p></p><p>**Given** que el desarrollador tiene acceso al endpoint de eliminación de productos </p><p>**When** envía una solicitud DELETE con el ID del producto a eliminar </p><p>**Then** el producto se elimina de la base de datos y se devuelve un código de estado 204 (Sin Contenido).</p>|
-
-
-
+<br/>
 
 ### 3.3. Impact Mapping.
 
